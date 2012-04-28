@@ -11,6 +11,11 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
+   about
+   schedule/index
+   cfp
+   sponsor
+
 Indices and tables
 ==================
 
