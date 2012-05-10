@@ -16,7 +16,7 @@ Contents:
    about
    program/index
    cfp
-   sponsor
+   sponsor/index
 
 
 .. include:: parts/staff.rst
