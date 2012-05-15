@@ -1,0 +1,84 @@
+
+{% macro _getName(str) -%}
+    {#                                                                                                                                   
+        _getName("")　        自分名前を返します
+        _getName("my")        自分名前を返します
+        _getName("pwd")       自分のいるディレクトリ名を返します
+        _getName("section")   自分のいるセクション名を返します    
+    #}
+
+    {%- set name = "" %}
+    {%- set nameslist = [] %}
+    {%- for i in pagename %}
+        
+        {%- if i != "/" %}
+    	    {%- set name = name + i %}
+        {%- else %}
+            {%- set nameslist = nameslist + [name] %}
+    	    {%- set name = "" %}
+        {%- endif %}
+        
+        {%- if loop.last %}
+            {%- set nameslist = nameslist + [name] %}
+            {%- if str == "my" %}{{ nameslist[-1] }}
+            {%- elif str == "pwd" and nameslist.count > 2 %}{{ nameslist[-2] }}
+            {%- elif str == "section" %}section-{{ nameslist[0] }}
+            {%- else %}{{ nameslist[-1] }}
+        {%- endif %}
+        
+        {%- endif %}
+    {%- endfor %}
+{%- endmacro %}
+
+{%- block doctype %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+   "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">{%- endblock doctype %}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title>{{ title }}</title>
+    <link rel="shortcut icon" href="{{ pathto('_static/image/favicon.ico', 1) }}" />
+    <link rel="stylesheet" href="{{ pathto('_static/cssreset-min.css', 1) }}" type="text/css" />
+    <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" media="all" />
+    <!--[if lt IE 8]>
+        <link rel="stylesheet" type="text/css" href="{{ pathto('_static/ie_fixed.css', 1) }}" />
+    <![endif]-->
+</head>
+
+
+
+<body id="{{ _getName('my') }}" class="{{ _getName('section') }}">
+<div id="container">
+    <div id="header">
+        <div id="pyconlogo"><a href="{{ pathto('index') }}">PyCon Japan 2012</a></div>
+        <div id="pyconinfo">
+            <dl>
+                <dt>日時</dt>
+                <dd>2012年9月15日(土)/16日(日)/17日（祝）</dd>
+                <dt>会場</dt>
+                <dd>東京都品川区東大井　産業技術大学院大学</dd>
+            </dl>
+        </div>
+    </div>
+
+    <div id="navi">
+        <ul id="pages">
+            <li><a href="{{ pathto('about') }}" class="about">●PyCon JP 2012 について</a></li>
+            <li><a href="{{ pathto('cfp') }}" class="cfp">●Call for Papers</a></li>
+            <li><a href="{{ pathto('sponsor') }}" class="sponsor">●スポンサーについて</a></li>
+        </ul>
+    </div>
+
+{%- block document %}
+    <div id="content">
+        {%- block body %}{%- endblock body %} 
+        <div id="sidebar">
+        </div>    
+    </div>
+{%- endblock document %} 
+
+    <div id="footer">
+        <p>Copyright© Pycon Japan 2012, Inc. All rights reserved.</p>
+    </div>
+</div>    
+</body>
+</html>
