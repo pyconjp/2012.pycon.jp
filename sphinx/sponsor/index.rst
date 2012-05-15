@@ -1,0 +1,198 @@
+============
+ スポンサー
+============
+
+スポンサー募集について(ベータ)
+==============================
+
+PyCon JP 2012 では以下のカテゴリでスポンサーを募集しています。
+「もっとこういうことできないの?」といった要望にもできるかぎり対応したいと思いますので、いつでも気軽にお問い合わせください。
+
+連絡先
+------
+- 名前: 鈴木 たかのり
+- メールアドレス: sponsor@pycon.jp
+
+スポンサーシップの詳細
+----------------------
+
+Platinum スポンサー — 500,000円(数に制限あり)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- PyCon JP プログラムガイドに1ページの広告掲載
+- PyCon JP プログラムガイドに1000文字程度の説明文を記載
+- トートバッグにノベルティ等を同梱(スポンサーより提供)
+- Platinum スポンサーリンクを PyCon JP Webサイトに掲載
+- プレスリリースにスポンサー名を含める
+- 最大3.6m × 0.6m のバナーを全カンファレンスルームに掲示(スポンサーより提供)
+- 最大1.2m × 2.4m のバナーを受付に掲示(スポンサーより提供)
+- プレスリリースにスポンサー名を含める
+- PyCon JP のリクルートページに求人情報を掲載
+- リクルーティングセッションへの参加
+- スポンサー招待枠 10
+
+.. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+Gold スポンサー — 300,000円
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- PyCon JP プログラムガイドに1/2ページの広告掲載
+- PyCon JP プログラムガイドに500文字程度の説明文を記載
+- トートバッグにノベルティ等を同梱(スポンサーより提供)
+- Gold スポンサーリンクを PyCon JP Webサイトに掲載
+- 最大3.6m × 0.6m のバナーを全カンファレンスルームに掲示(スポンサーより提供)
+- プレスリリースにスポンサー名を含める
+- PyCon JP のリクルートページに求人情報を掲載
+- リクルーティングセッションへの参加
+- スポンサー招待枠 5
+
+.. - Name included in press release and event mailings
+.. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+Silver スポンサー — 100,000 円
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- PyCon JP プログラムガイドに1/4ページの広告掲載
+- PyCon JP プログラムガイドに250文字程度の説明文を記載
+- トートバッグにノベルティ等を同梱(スポンサーより提供)
+- Silver スポンサーリンクを PyCon JP Webサイトに掲載
+- 最大3.6m × 0.6m のバナーをメインカンファレンスルームに掲示(スポンサーより提供)
+- プレスリリースにスポンサー名を含める
+- PyCon JP のリクルートページに求人情報を掲載
+- リクルーティングセッションへの参加
+- スポンサー招待枠 2
+
+.. - Name included in press release and event mailings
+.. - Small booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+PyCon JP パトロン — 25,000 円 (個人またはスタートアップ企業用)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- PyCon JP プログラムガイドに名前を掲載
+- パトロンリンクを PyCon JP Webサイトのスポンサーページに掲載
+- スポンサー招待枠 1
+
+Sprint スポンサー — 100,000 円
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- PyCon JP プログラムガイドにロゴを掲載
+- Python の開発イベントをサポート
+- PyCon JP WebサイトのSprintスポンサーリンクを掲載
+- スポンサー招待枠 3
+- 他の項目も追加可能
+
+名札スポンサー (100,000 円 + 名札のコスト)(1枠)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- PyCon JP Web サイトに掲載
+- ロゴと文字列を名札の紐に掲載
+- スポンサー招待枠 2
+- 他の項目も追加可能
+
+メディアスポンサー (お問い合わせください)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- PyCon JP Web サイトに掲載
+- スポンサー招待枠 1
+
+スポンサーに興味が有る方はメールください
+----------------------------------------
+
+まずは sponsor@pycon.jp にメールを下さい。
+
+Sponsorship Prospectus(beta)
+============================
+
+The available sponsorships are below. Don't see what you want? Contact us any time, we are flexible and willing to work with you to design the sponsorship package that will fulfill your business needs.
+
+Contact:
+--------
+- Name: Takanori Suzuki
+- Email: sponsor@pycon.jp
+
+Sponsorship Details:
+--------------------
+
+Platinum Level Sponsorship — 500,000 JPY(Limited)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 1 page ad in PyCon JP program guide
+- 200 word description in PyCon JP program guide
+- Tote bag insert (provided by sponsor)
+- Platinum sponsor link on PyCon JP website
+- Name included in press release
+- 12x2 banner (if provided) in all conference room
+- 4x8 banner (if provided) in convention entrance area
+- Job listing on the PyCon JP Jobs Fair page
+- Access to recruiting session
+- 10 free sponsor registrations
+
+.. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+Gold Level Sponsorship — 300,000 JPY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 1/2 page color ad in PyCon JP program guide
+- 100 word description in PyCon JP program guide
+- Tote bag insert (provided by sponsor)
+- Gold sponsor link on PyCon JP website
+- Name included in press release
+- 12x2 banner (if provided) in all conference room
+- Job listing on the PyCon JP Jobs Fair page
+- Access to recruiting session
+- 5 free sponsor registrations
+
+.. - Name included in press release and event mailings
+.. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+Silver Level Sponsorship — 100,000 JPY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- 1/4 page color ad in PyCon JP program guide
+- 50 word description in PyCon JP program guide
+- Tote bag insert (provided by sponsor)
+- Silver sponsor link on PyCon website
+- Name included in press release
+- Job listing on the PyCon JP Jobs Fair page
+- Access to recruiting session
+- 2 free sponsor registrations
+
+.. - Name included in press release and event mailings
+.. - Small booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+PyCon JP Patron — 25,000 JPY (For individuals and start-up businesses)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Listing in PyCon JP program guide
+- Patron link on Sponsors page
+- 1 free sponsor registration
+
+Sprint Sponsorship — 100,000 JPY
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Logo placement in PyCon JP program guide
+- Supports Python development
+- Sprint sponsor link on PyCon JP website
+- 3 free sponsor registrations
+- Can be added to other packages
+
+Lanyard sponsorship (100,000 JPY + cost of lanyard)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Provides wide recognition during PyCon JP
+- Logo and text on lanyard
+- 2 free sponsor registrations
+- Can be added to other packages
+
+Media sponsorship (Please contact us)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+- Recognition on PyCon JP site
+- One free sponsor registration
+
+Do you want to sponsor? Contact us!
+-----------------------------------
+
+Write an email to sponsor@pycon.jp to get more information about our sponsorhip deals.
+
+.. Small entity discount: Small entities (organizations with fewer than 25 employees) receive a 50% discount for gold and silver sponsorships and for all vendor/exhibitor levels.
