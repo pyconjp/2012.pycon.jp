@@ -2,8 +2,8 @@
  スポンサー
 ============
 
-スポンサー募集について(ベータ)
-==============================
+スポンサー募集について
+======================
 
 PyCon JP 2012 では以下のカテゴリでスポンサーを募集しています。
 「もっとこういうことできないの?」といった要望にもできるかぎり対応したいと思いますので、いつでも気軽にお問い合わせください。
@@ -100,8 +100,8 @@ Sprint スポンサー — 100,000 円
 
 まずは sponsor@pycon.jp にメールを下さい。
 
-Sponsorship Prospectus(beta)
-============================
+Sponsorship Prospectus
+======================
 
 The available sponsorships are below. Don't see what you want? Contact us any time, we are flexible and willing to work with you to design the sponsorship package that will fulfill your business needs.
 
