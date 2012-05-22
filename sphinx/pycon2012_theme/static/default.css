@@ -1,7 +1,7 @@
 /*  */
 body {
 	background-image: url(image/bg_s.gif);
-	background-position: center 110px;
+	background-position: center 130px;
 	background-repeat: no-repeat;	
 }
 
@@ -9,12 +9,13 @@ body {
 	margin: 0 auto;
 	width: 940px;
 	position: relative;
+	line-height: 1.5;
 }
 
 #header {
-	margin: 20px 0;
+	padding: 20px 0;
 	background-image:url(image/bg_s.gif);
-	background-position: right 110px;
+	background-position: right 130px;
 	background-repeat: no-repeat;
 }
 
@@ -33,10 +34,22 @@ body {
 	width: 330px;
 	height: 0;
 	position: absolute;
-	top: 30px;
+	top: 50px;
 	right: 0;
 	overflow: hidden;
 	background-image: url(image/pyconjp2012_info_s.gif);
+	background-repeat: no-repeat;	
+}
+
+.section-e #header #pyconinfo {
+    padding-top: 55px;
+	width: 330px;
+	height: 0;
+	position: absolute;
+	top: 50px;
+	right: 0;
+	overflow: hidden;
+	background-image: url(image/pyconjp2012_info_e_s.gif);
 	background-repeat: no-repeat;	
 }
 
@@ -49,6 +62,67 @@ body {
 #navi li{
 	margin: 10px;
 	display: inline;
+	list-style: none;
+}
+
+#navi li a{
+	padding-left: 20px;
+	background-image: url(image/list-disk.gif);
+	background-repeat: no-repeat;
+}
+
+#ej-selector{
+	position: absolute;
+	top: 0;
+	right: 0;
+	z-index: 50;
+	font-size: x-small;
+}
+#ej-selector ul{
+	margin: 0;
+}
+
+#ej-selector li{
+    margin: 0;
+	padding: 0.2em 0.5em;
+	border-left: 1px solid #d6003a;
+	border-right: 1px solid #d6003a;
+	border-bottom: 1px solid #d6003a;
+	list-style: none;
+	float: left;
+}
+
+#ej-selector li a{
+	color: #d6003a;
+}
+
+#ej-selector li#japanese {
+	background-color: #d6003a;
+	border-bottom-left-radius: 5px;
+}
+
+#ej-selector li#japanese a{
+	color: #ffffff;
+}
+
+#ej-selector li#english {
+    border-bottom-right-radius: 5px;
+}
+
+.section-e #ej-selector li#japanese {
+	background-color: #ffffff;
+}
+
+.section-e #ej-selector li#japanese a{
+	color: #d6003a;
+}
+
+.section-e #ej-selector li#english {
+	background-color: #d6003a;
+}
+
+.section-e #ej-selector li#english a{
+	color: #ffffff;
 }
 
 #content {
@@ -146,24 +220,28 @@ a:hover {
 #cfp a.cfp,
 #sponsor a.sponsor {
 	color: #d6003a;
+	background-image: url(image/list-disk_a.gif);
 }
 
 /* index ページのスタイル */
 
-#index.section-index {
+#index.section-index,
+#index.section-e {
 	background-image: url(image/bg.gif);
 	background-position: center 312px;
 	background-repeat: no-repeat;
 }
 
-#index.section-index #header{
+#index.section-index #header,
+#index.section-e #header{
 	margin: 0;
 	position: absolute;
 	top: 170px;
 	right: 0;	
 }
 
-#index.section-index #header #pyconlogo{
+#index.section-index #header #pyconlogo,
+#index.section-e #header #pyconlogo{
     display: none;
 }
 
@@ -176,19 +254,31 @@ a:hover {
 	background-repeat: no-repeat;
 }
 
-#index.section-index #navi{
+#index.section-e #header #pyconinfo{
+	padding-top: 80px;
+	width: 460px;
+	height: 0;
+	overflow: hidden;
+	background-image: url(image/pyconjp2012_info_e.gif);
+	background-repeat: no-repeat;
+}
+
+#index.section-index #navi,
+#index.section-e #navi{
 	position: absolute;
 	top: 400px;
 }
 
 
-#index.section-index #content {
+#index.section-index #content,
+#index.section-e #content{
 	padding-top: 100px;
 	background-image:url(image/bg.gif);
 	background-position: right 312px;
 	background-repeat: no-repeat;
 }
-#index.section-index h1 {
+#index.section-index h1,
+#index.section-e h1{
 	padding-top: 225px;
 	margin-bottom: 300px;
 	height: 0;
@@ -200,7 +290,8 @@ a:hover {
 	background-color: #ffffff;
 }
 
-#index.section-index div.toctree-wrapper {
+#index.section-index div.toctree-wrapper,
+#index.section-e div.toctree-wrapper{
 	display: none;
 }
 

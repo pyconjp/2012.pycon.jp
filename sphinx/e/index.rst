@@ -3,17 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 ===========================================
-PyCon JP 2012 開催します！ 
+PyCon JP 2012
 ===========================================
 
-.. toctree::
-   :maxdepth: 2
 
-   about
-   program/index
-   cfp
-   sponsor/index
-   e/index
-   e/about
-   e/cfp
-   e/sponsor/index
