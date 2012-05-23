@@ -4,10 +4,12 @@
 
 What is PyCon JP
 ================
-PyCon is the largest annual gathering for the community using and developing the open-source Python programming language.
+PyCon is the largest annual gathering for the community using and developing the open-source Python programming language in Japan.
 PyCon JP is organized by the Python community for the community.
 We try to keep registration far cheaper than most comparable technology conferences, to keep PyCon JP accessible to the widest group possible.
-PyCon JP is a diverse conference dedicated to providing an enjoyable experience to everyone. Help us do this by following our code of conduct.
+PyCon JP is a diverse conference dedicated to providing an enjoyable experience to everyone.
+
+.. Help us do this by following our code of conduct.
 
 Overview
 ========
