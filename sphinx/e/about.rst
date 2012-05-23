@@ -9,6 +9,8 @@ PyCon JP is organized by the Python community for the community.
 We try to keep registration far cheaper than most comparable technology conferences, to keep PyCon JP accessible to the widest group possible.
 PyCon JP is a diverse conference dedicated to providing an enjoyable experience to everyone.
 
+Like last year, there will be a track of English talks.
+
 .. Help us do this by following our code of conduct.
 
 Overview
