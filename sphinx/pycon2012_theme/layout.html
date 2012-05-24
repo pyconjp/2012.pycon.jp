@@ -62,15 +62,15 @@
 
     <div id="navi">
         <ul id="pages">
-    {%- if _getName('section') == 'section-e' %}
-            <li><a href="{{ pathto('e/about') }}" class="about">About</a></li>
-            <li><a href="{{ pathto('e/cfp') }}" class="cfp">Call for Papers</a></li>
-            <li><a href="{{ pathto('e/sponsor') }}" class="sponsor">Sponsorship</a></li>
-            <li><a href="{{ pathto('e/venue') }}" class="venue">Venue</a></li>
+    {%- if _getName('section') == 'section-en' %}
+            <li><a href="{{ pathto('en/about') }}" class="about">About</a></li>
+            <li><a href="{{ pathto('en/cfp') }}" class="cfp">Call for Papers</a></li>
+            <li><a href="{{ pathto('en/sponsor') }}" class="sponsor">Sponsorship</a></li>
+            <li><a href="{{ pathto('en/venue') }}" class="venue">Venue</a></li>
     {%- else %}
             <li><a href="{{ pathto('about') }}" class="about">PyCon JP 2012 について</a></li>
             <li><a href="{{ pathto('cfp') }}" class="cfp">Call for Papers</a></li>
-            <li><a href="{{ pathto('sponsor/index') }}" class="sponsor">スポンサーについて</a></li>
+            <li><a href="{{ pathto('sponsor') }}" class="sponsor">スポンサーについて</a></li>
             <li><a href="{{ pathto('venue') }}" class="venue">開催場所情報</a></li>
     {%- endif %}
         </ul>
@@ -79,7 +79,7 @@
     <div id="ej-selector">
         <ul>
             <li id="japanese"><a href="{{ pathto('index') }}">日本語</a></li>
-            <li id="english"><a href="{{ pathto('e/index') }}">English</a></li>
+            <li id="english"><a href="{{ pathto('en/index') }}">English</a></li>
         </ul>
     </div>
 

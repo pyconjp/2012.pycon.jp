@@ -12,10 +12,10 @@ PyCon JP 2012 開催します！
    about
    program/index
    cfp
-   sponsor/index
+   sponsor
    venue
-   e/index
-   e/about
-   e/cfp
-   e/sponsor/index
-   e/venue
+   en/index
+   en/about
+   en/cfp
+   en/sponsor
+   en/venue

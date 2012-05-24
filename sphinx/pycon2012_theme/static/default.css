@@ -41,7 +41,7 @@ body {
 	background-repeat: no-repeat;	
 }
 
-.section-e #header #pyconinfo {
+.section-en #header #pyconinfo {
     padding-top: 55px;
 	width: 330px;
 	height: 0;
@@ -109,19 +109,19 @@ body {
     border-bottom-right-radius: 5px;
 }
 
-.section-e #ej-selector li#japanese {
+.section-en #ej-selector li#japanese {
 	background-color: #ffffff;
 }
 
-.section-e #ej-selector li#japanese a{
+.section-en #ej-selector li#japanese a{
 	color: #d6003a;
 }
 
-.section-e #ej-selector li#english {
+.section-en #ej-selector li#english {
 	background-color: #d6003a;
 }
 
-.section-e #ej-selector li#english a{
+.section-en #ej-selector li#english a{
 	color: #ffffff;
 }
 
@@ -223,17 +223,26 @@ a:hover {
 	background-image: url(image/list-disk_a.gif);
 }
 
+iframe {
+	margin-left: 100px;
+}
+
+small {
+	margin-left: 100px;
+}
+
+
 /* index ページのスタイル */
 
 #index.section-index,
-#index.section-e {
+#index.section-en {
 	background-image: url(image/bg.gif);
 	background-position: center 312px;
 	background-repeat: no-repeat;
 }
 
 #index.section-index #header,
-#index.section-e #header{
+#index.section-en #header{
 	margin: 0;
 	position: absolute;
 	top: 170px;
@@ -241,7 +250,7 @@ a:hover {
 }
 
 #index.section-index #header #pyconlogo,
-#index.section-e #header #pyconlogo{
+#index.section-en #header #pyconlogo{
     display: none;
 }
 
@@ -254,7 +263,7 @@ a:hover {
 	background-repeat: no-repeat;
 }
 
-#index.section-e #header #pyconinfo{
+#index.section-en #header #pyconinfo{
 	padding-top: 80px;
 	width: 460px;
 	height: 0;
@@ -264,21 +273,21 @@ a:hover {
 }
 
 #index.section-index #navi,
-#index.section-e #navi{
+#index.section-en #navi{
 	position: absolute;
 	top: 400px;
 }
 
 
 #index.section-index #content,
-#index.section-e #content{
+#index.section-en #content{
 	padding-top: 100px;
 	background-image:url(image/bg.gif);
 	background-position: right 312px;
 	background-repeat: no-repeat;
 }
 #index.section-index h1,
-#index.section-e h1{
+#index.section-en h1{
 	padding-top: 225px;
 	margin-bottom: 300px;
 	height: 0;
@@ -291,7 +300,7 @@ a:hover {
 }
 
 #index.section-index div.toctree-wrapper,
-#index.section-e div.toctree-wrapper{
+#index.section-en div.toctree-wrapper{
 	display: none;
 }
 
