@@ -142,6 +142,53 @@ body {
 	right: 0;
 }
 
+#index #content #sidebar {
+    display: none;
+}
+
+#content #sidebar #media-sponsor {
+    margin-top: 80px;
+}
+
+#content #sidebar h3 {
+    margin-left: 30px;
+    margin-bottom: 25px;
+}
+
+#content #sidebar ul {
+    margin-left: 30px;
+}
+
+#content #sidebar li {
+    list-style: none;
+}
+
+#content #sidebar li a {
+    margin-bottom: 25px;
+    width: 250px;
+    display: block;
+    overflow: hidden;
+}
+#content #sidebar li a#codezine {
+    padding-top: 40px;
+    height: 0;
+    background-image: url(image/cz_logo.gif);
+    background-repeat: no-repeat;
+    background-position: center left;
+}
+#content #sidebar li a#gihyo {
+    padding-top: 50px;
+    height: 0;
+    background-image: url(image/gihyo_logo.gif);
+    background-repeat: no-repeat;
+}
+#content #sidebar li a#oreilly {
+    padding-top: 90px;
+    height: 0;
+    background-image: url(image/oraj_logo.gif);
+    background-repeat: no-repeat;
+}
+
 #footer {
 	margin-top: 100px;
 	color: #666666;
