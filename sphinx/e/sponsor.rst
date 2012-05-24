@@ -4,6 +4,24 @@
 
 The available sponsorships are below. Don't see what you want? Contact us any time, we are flexible and willing to work with you to design the sponsorship package that will fulfill your business needs.
 
+Last year's performance
+=======================
+Performance of `PyCon JP 2011 <http://2011.pycon.jp>`_ is as follows:
+
+.. list-table::
+   :widths: 30 70
+
+   * - Conferene
+     - | August 27, 2011
+       | 3 tracks(including the English track) 20 sessions
+   * - Sprint
+     - August 28, 2011
+   * - Participants
+     - | 250 people(including staff)
+       | PyCon JP 2012 target is 400 people
+
+`Click here for PyCon JP 2011 archives(Japanese) <http://2011.pycon.jp/reports>`_.
+
 Contact:
 ========
 - Name: Takanori Suzuki
