@@ -16,7 +16,7 @@ Like last year, there will be a track of English talks.
 Overview
 ========
 .. list-table:: 
-   :widths: 30 70
+   :widths: 50 70
 
    * - Conference Day
      - 2012 September 15(Sat)-16(Sun)
@@ -24,6 +24,8 @@ Overview
      - 2012 September 17(Mon)
    * - Venue
      - `Advanced Institute of Industrial Technology (AIIT) <http://aiit.ac.jp/english/>`_
+   * - Number of Participants (planned)
+     - 400
    * - Fee
      - TBD
    * - Operation
