@@ -25,7 +25,7 @@ import sys, os
 
 # Add any Sphinx extension module names here, as strings. They can be extensions
 # coming with Sphinx (named 'sphinx.ext.*') or your custom ones.
-extensions = []
+extensions = ['sphinxfeed']
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -257,3 +257,6 @@ epub_copyright = u'2012, pycon-organizers-jp'
 
 # Allow duplicate toc entries.
 #epub_tocdup = True
+
+feed_base_url = 'http://2012.pycon.jp/'
+feed_author = 'PyCon JP Committee'
