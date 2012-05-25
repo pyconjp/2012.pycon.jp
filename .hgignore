@@ -1,3 +1,10 @@
 _build
 .*~
 #.*
+.*\.orig
+\.installed\.cfg
+sphinx/bin
+sphinx/bootstrap.py
+sphinx/develop-eggs
+sphinx/parts
+.*\.pyc
