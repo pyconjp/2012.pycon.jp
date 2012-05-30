@@ -1,33 +1,26 @@
-=================
- Call for Papers
-=================
+====================
+ Call for Proposals
+====================
 
-(機械翻訳したものを仮で貼り付けています)
+The call for talk proposals for PyCon JP 2012 is now open! Is there a talk you want to give on a topic that interests you? Do you want to introduce the community to a library or useful piece of Python software?
 
-We welcome the person who made ​​the session will be a cornerstone of the event as a Call for Papers this year. In matters related to Python, etc. If you have a case and know-how of information you want to share with the Python user, I would like to introduce, please apply all means.
+Talks proposals may be submitted in English or Japanese. Please specify the language of your presentation when submitting your talk proposal. We have increased the number of available slots for English presentations so we are especially looking for talks in English. Don’t hesitate to apply!
 
-Although the number of tracks has increased from last year, if the applicant exceeds the number of appointments will be screening at the Steering Committee PyCon JP. We've got the results of the screening will be by July 24.
+25 minute and 45 minute time slots are available. 25 minute time slots are limited so we encourage you to submit 45 minute talk proposals. As there are more 45 minute time slots, 45 minute talks are more likely to be accepted.
 
-The language is English or Japanese, please. Since last year had fewer applicants English session, and we welcome applicants especially in English.
+PyCon JP is a community conference. We are not able to compensate speakers and we ask that speakers purchase a regular conference ticket. However, we have arranged for for some SWAG and goods for conference speakers.
 
-Time is 25 minutes and two 45-minute, 25 minute sessions are a limited number. I think if it becomes easier as more screening sessions of 45 minutes is possible, and enjoy the application in 45 minutes.
+Announcement of the conference theme column is for reference only. There is no disadvantage to submitting talk topics outside of the conference theme. Feel free to submit talk proposals about any topic that interests you!
 
-The person who made ​​the session special offers of goods PyCon JP2012. Please the purchase of a ticket fee will be free is not free.
+Although the number of tracks has increased, if the number of applications exceeds the number of available slots, applications will be screened by the PyCon JP Program Committee. We will notify applications of the results by July 24. We have limited time slots so we ask for your cooperation and understanding.
 
-Announcement of the theme column is for reference only. There is no advantage or if any subject to selection. So you are also welcome at the session of what content, please feel free!
+We encourage talks to be video recorded so that community members who couldn’t attend the conference can learn from your talk. Whether you allow recording of your talk or not will not affect the selection process, but we encourage recording of talks.
 
-.. 今年も Call for Papers としてイベントの要となるセッションを行っていただける方を募集します。Pythonに関連する事柄で、Pythonユーザーと共有したい情報、紹介したい事例やノウハウなどをお持ちでしたら、ぜひご応募ください。
+We look forward to your talk!
 
-   昨年よりトラック数は増えていますが、応募が予定数を超えた場合はPyCon JP運営委員会で選考させて頂きます。選考の結果は7月24日までにお伝えします。
-
-   言語は英語もしくは日本語でお願いします。昨年は英語セッションの応募が少なかったので、英語での応募を特に歓迎します。
-
-   時間は25分と45分の2通りですが、25分のセッションは数が限られています。45分のセッションが可能な方は、45分で応募して頂けると選考になった場合に通りやすくなると思います。
-
-   セッションを行って頂ける方にはPyCon JP2012特製のグッズを用意しております。ただ参加費は無料になりませんのでチケットの購入をお願いします。
-
-   発表テーマの欄は目安です。どんなテーマなら選考に有利とかはありません。どのような内容のセッションでも歓迎しますので、どうぞお気軽に！
+Call for Proposal entry form
+============================
 
 .. raw:: html
 
-   <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEtsa3NNS1JnQjFiZ3ViakdzU25sMGc6MQ" width="480" height="3043" frameborder="0" marginheight="0" marginwidth="0">Reading...</iframe>
+   <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEpTSFdsQTNod0Z1cmtmZHVoZG5abmc6MA" width="760" height="2800" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
