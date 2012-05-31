@@ -30,4 +30,4 @@ Call for Proposal entry form
 
 .. raw:: html
 
-   <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEpTSFdsQTNod0Z1cmtmZHVoZG5abmc6MA" width="760" height="2900" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
+   <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dEpTSFdsQTNod0Z1cmtmZHVoZG5abmc6MA" width="530" height="2900" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
