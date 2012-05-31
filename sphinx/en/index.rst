@@ -7,3 +7,22 @@ PyCon JP 2012
 ===========================================
 
 
+Information
+===========
+
+CFP Open!
+---------
+
+The call for talk proposals for PyCon JP 2012 is now open!
+
+We look forward to your proposals!
+
+Click :doc:`here <cfp>` for details.
+
+
+Sponsors Wanted
+---------------
+
+We are looking for sponsor of PyCon JP.
+
+Goto :doc:`sponsorship <sponsor>` page for details.
