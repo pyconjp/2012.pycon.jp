@@ -2,11 +2,36 @@
  サイトについて
 ================
 
+このリポジトリについて
+======================
+このリポジトリは http://2012.pycon.jp/ のサイトの内容を管理しています。
+default ブランチに変更を push すると、1時間ごとにサイトに反映されます。
+
+編集権限が欲しい場合は、管理者の
+`shomah4a <https://bitbucket.org/shomah4a>`_
+に連絡をしてください。
+
+ファイル構成
+============
+以下のようなファイル構成となっています。
+
+日本語のページは基本的に sphinx ディレクトリ直下に作成します。ディレクトリをさらに作成してもよいですが、テーマの関係で **index.rst** というファイル名はトップページ以外では使用しないでください。
+
+また、基本的に英語ページは日本語ページと同じファイル名のものを **en** ディレクトリの下に作成するようにしてください。
+
+- sphinx
+   - index.rst: トップページ
+   - _static: favicon 等の画像を配置
+   - en: 英語ページ
+   - pycon2012_theme: テーマ関連のファイル
+
 ビルド方法
 ==========
 
 サイトのビルド時に Sphinx 拡張である sphinxcontrib.feed を使っています。
 しかし、こいつは PyPI に上がっていないので sphinx/externals/feed にソースをまるっと突っ込んでいます。
+
+なお、try/except で分岐しているので、 sphinxcontrib.feed が存在しない場合も make html の実行は可能です。
 
 buildout を使う
 ---------------
@@ -20,20 +45,19 @@ buildout を使うと何も考えずにビルドできるので楽です。
    $ buildout
    $ bin/make-docs
 
+.. 自力でがんばる
+   --------------
 
-自力でがんばる
---------------
+   buildout しなくても sphinx/externals/feed を PYTHONPATH に追加するだけなのでそれほど面倒ではありません。
+   その場合でも sphinx は既にインストールされている必要があります。
+   また、 sphinx のバージョンが古いとエラーになるかもしれません。
 
-buildout しなくても sphinx/externals/feed を PYTHONPATH に追加するだけなのでそれほど面倒ではありません。
-その場合でも sphinx は既にインストールされている必要があります。
-また、 sphinx のバージョンが古いとエラーになるかもしれません。
+   ::
 
-::
-
-   $ # リポジトリのルートにいるとして
-   $ cd sphinx
-   $ export PYTHONPATH=`pwd`/externals/feed
-   $ make html
+      $ # リポジトリのルートにいるとして
+      $ cd sphinx
+      $ export PYTHONPATH=`pwd`/externals/feed
+      $ make html
 
 
 
