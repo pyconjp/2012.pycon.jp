@@ -155,12 +155,12 @@ body {
 
 #content #sidebar h3 {
     margin-left: 30px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
 }
 
 #content #sidebar .sponsor ul {
     margin-left: 30px;
-    margin-bottom: 40px;
+    margin-bottom: 15px;
 }
 
 #content #sidebar .sponsor li {
@@ -352,7 +352,7 @@ small {
 #index.section-index h1,
 #index.section-en h1{
 	padding-top: 225px;
-	margin-bottom: 170px;
+	margin-bottom: 300px;
 	height: 0;
 	width: 390px;
 	overflow: hidden;
