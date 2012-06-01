@@ -20,27 +20,12 @@
         _getName("section")   自分のいるセクション名を返します    
     #}
 
-    {%- set name = "" %}
-    {%- set nameslist = [] %}
-    {%- for i in pagename %}
-        
-        {%- if i != "/" %}
-    	    {%- set name = name + i %}
-        {%- else %}
-            {%- set nameslist = nameslist + [name] %}
-    	    {%- set name = "" %}
-        {%- endif %}
-        
-        {%- if loop.last %}
-            {%- set nameslist = nameslist + [name] %}
-            {%- if str == "my" %}{{ nameslist[-1] }}
-            {%- elif str == "pwd" and nameslist.count > 2 %}{{ nameslist[-2] }}
-            {%- elif str == "section" %}section-{{ nameslist[0] }}
-            {%- else %}{{ nameslist[-1] }}
-        {%- endif %}
-        
-        {%- endif %}
-    {%- endfor %}
+    {%- set nameslist = pagename.split('/') %}
+    {%- if str == "my" %}{{ nameslist[-1] }}
+    {%- elif str == "pwd" and nameslist.count > 2 %}{{ nameslist[-2] }}
+    {%- elif str == "section" %}section-{{ nameslist[0] }}
+    {%- else %}{{ nameslist[-1] }}
+    {%- endif %}
 {%- endmacro %}
 
 {%- block doctype %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
