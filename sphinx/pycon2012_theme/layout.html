@@ -19,13 +19,15 @@
         _getName("")　        自分名前を返します
         _getName("my")        自分名前を返します
         _getName("pwd")       自分のいるディレクトリ名を返します
-        _getName("section")   自分のいるセクション名を返します    
+        _getName("section")   自分のいるページセクション名を返します
+        _getName("lang")      自分のいる言語を返します
     #}
 
     {%- set nameslist = pagename.split('/') %}
-    {%- if str == "my" %}{{ nameslist[-1] }}
+    {%- if str == "my" %}{{ '-'.join(nameslist) }}
     {%- elif str == "pwd" and nameslist.count > 2 %}{{ nameslist[-2] }}
-    {%- elif str == "section" %}section-{{ nameslist[0] }}
+    {%- elif str == "section" %}section-{{ '-'.join(nameslist) }}
+    {%- elif str == "lang" %}{%- if nameslist[0] == "en" %}lang-en{% else %}lang-ja{% endif %}
     {%- else %}{{ nameslist[-1] }}
     {%- endif %}
 {%- endmacro %}
@@ -49,13 +51,13 @@
 
 
 
-<body id="{{ _getName('my') }}" class="{{ _getName('section') }}">
+<body id="{{ _getName('my') }}" class="{{ _getName('lang') }}">
 <div id="container">
     <div id="header">
         <div id="pyconlogo"><a href="{{ pathto('index') }}">PyCon Japan 2012</a></div>
         <div id="pyconinfo">
             <dl>
-    {%- if _getName('section') == 'section-en' %}
+    {%- if _getName('lang') == 'lang-en' %}
                 <dt>Date</dt>
                 <dd>2012 September 15(Sat),16(Sun),17(Mon)</dd>
                 <dt>Venue</dt>
@@ -72,7 +74,7 @@
 
     <div id="navi">
         <ul id="pages">
-    {%- if _getName('section') == 'section-en' %}
+    {%- if _getName('lang') == 'lang-en' %}
             <li><a href="{{ pathto('en/about') }}" class="about">About</a></li>
             <li><a href="{{ pathto('en/cfp') }}" class="cfp">Call for Proposals</a></li>
             <li><a href="{{ pathto('en/sponsor') }}" class="sponsor">Sponsorship</a></li>

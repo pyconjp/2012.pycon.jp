@@ -42,7 +42,7 @@ body {
 	background-repeat: no-repeat;	
 }
 
-.section-en #header #pyconinfo {
+.lang-en #header #pyconinfo {
     padding-top: 55px;
 	width: 330px;
 	height: 0;
@@ -111,19 +111,19 @@ body {
     border-bottom-right-radius: 5px;
 }
 
-.section-en #ej-selector li#japanese {
+.lang-en #ej-selector li#japanese {
 	background-color: #ffffff;
 }
 
-.section-en #ej-selector li#japanese a{
+.lang-en #ej-selector li#japanese a{
 	color: #d6003a;
 }
 
-.section-en #ej-selector li#english {
+.lang-en #ej-selector li#english {
 	background-color: #d6003a;
 }
 
-.section-en #ej-selector li#english a{
+.lang-en #ej-selector li#english a{
 	color: #ffffff;
 }
 
@@ -297,27 +297,27 @@ small {
 
 /* index ページのスタイル */
 
-#index.section-index,
-#index.section-en {
+#index.lang-ja,
+#index.lang-en {
 	background-image: url(image/bg.gif);
 	background-position: center 312px;
 	background-repeat: no-repeat;
 }
 
-#index.section-index #header,
-#index.section-en #header{
+#index.lang-ja #header,
+#index.lang-en #header{
 	margin: 0;
 	position: absolute;
 	top: 170px;
 	right: 0;	
 }
 
-#index.section-index #header #pyconlogo,
-#index.section-en #header #pyconlogo{
+#index.lang-ja #header #pyconlogo,
+#index.lang-en #header #pyconlogo{
     display: none;
 }
 
-#index.section-index #header #pyconinfo{
+#index.lang-ja #header #pyconinfo{
 	padding-top: 80px;
 	width: 460px;
 	height: 0;
@@ -326,7 +326,7 @@ small {
 	background-repeat: no-repeat;
 }
 
-#index.section-en #header #pyconinfo{
+#index.lang-en #header #pyconinfo{
 	padding-top: 80px;
 	width: 460px;
 	height: 0;
@@ -335,22 +335,22 @@ small {
 	background-repeat: no-repeat;
 }
 
-#index.section-index #navi,
-#index.section-en #navi{
+#index.lang-ja #navi,
+#index.lang-en #navi{
 	position: absolute;
 	top: 400px;
 }
 
 
-#index.section-index #content,
-#index.section-en #content{
+#index.lang-ja #content,
+#index.lang-en #content{
 	padding-top: 100px;
 	background-image:url(image/bg.gif);
 	background-position: right 312px;
 	background-repeat: no-repeat;
 }
-#index.section-index h1,
-#index.section-en h1{
+#index.lang-ja h1,
+#index.lang-en h1{
 	padding-top: 225px;
 	margin-bottom: 170px;
 	height: 0;
@@ -362,8 +362,8 @@ small {
 	background-color: #ffffff;
 }
 
-#index.section-index div.toctree-wrapper,
-#index.section-en div.toctree-wrapper{
+#index.lang-ja div.toctree-wrapper,
+#index.lang-en div.toctree-wrapper{
 	display: none;
 }
 
