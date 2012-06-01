@@ -1,3 +1,4 @@
+{% set site_url = 'http://2012.pycon.jp' %}
 
 {% macro _getName(str) -%}
     {#                                                                                                                                   
@@ -37,6 +38,7 @@
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     {{ metatags }}
     <title>{{ title }}</title>
+    <link rel="canonical" href="{{ site_url }}/{{ pagename }}.html">
     <link rel="shortcut icon" href="{{ pathto('_static/favicon.png', 1) }}" />
     <link rel="stylesheet" href="{{ pathto('_static/cssreset-min.css', 1) }}" type="text/css" />
     <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" media="all" />
