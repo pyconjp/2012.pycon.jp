@@ -55,10 +55,17 @@
         <div id="pyconlogo"><a href="{{ pathto('index') }}">PyCon Japan 2012</a></div>
         <div id="pyconinfo">
             <dl>
+    {%- if _getName('section') == 'section-en' %}
+                <dt>Date</dt>
+                <dd>2012 September 15(Sat),16(Sun),17(Mon)</dd>
+                <dt>Venue</dt>
+                <dd>Advanced Institute of Industrial Technology (AIIT), Higashi-Ooi Shinagawa-ku Tokyo Japan</dd>
+    {%- else %}
                 <dt>日時</dt>
                 <dd>2012年9月15日(土)/16日(日)/17日（祝）</dd>
                 <dt>会場</dt>
                 <dd>東京都品川区東大井　産業技術大学院大学</dd>
+    {%- endif %}
             </dl>
         </div>
     </div>
