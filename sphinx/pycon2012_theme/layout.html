@@ -1,5 +1,17 @@
 {% set site_url = 'http://2012.pycon.jp' %}
 
+{% macro _lstrip(name, str) -%}
+    {#
+        _getBaseName('index', 'en')         'index' を返します
+        _getBaseName('en/index', 'en')      'index' を返します
+        _getBaseName('en/foo/index', 'en')  'foo/index' を返します
+    #}
+    {%- set namelist = name.split('/') %}
+    {%- if namelist[0] == str %}{{'/'.join(namelist[1:])}}
+    {%- else %}{{'/'.join(namelist)}}
+    {%- endif %}
+{%- endmacro %}
+
 {% macro _getName(str) -%}
     {#                                                                                                                                   
         _getName("")　        自分名前を返します
@@ -82,8 +94,8 @@
     
     <div id="ej-selector">
         <ul>
-            <li id="japanese"><a href="{{ pathto('index') }}">日本語</a></li>
-            <li id="english"><a href="{{ pathto('en/index') }}">English</a></li>
+            <li id="japanese"><a href="{{ pathto(_lstrip(pagename, 'en')) }}">日本語</a></li>
+            <li id="english"><a href="{{ pathto('/en/'+_lstrip(pagename, 'en')) }}">English</a></li>
         </ul>
     </div>
 
