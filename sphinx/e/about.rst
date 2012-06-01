@@ -1,3 +1,8 @@
+:orphan:
+
+.. meta::
+   :http-equiv=refresh: 2;URL=../en/about.html
+
 =====================
  About PyCon JP 2012
 =====================

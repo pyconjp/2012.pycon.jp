@@ -1,3 +1,8 @@
+:orphan:
+
+.. meta::
+   :http-equiv=refresh: 2;URL=../en/venue.html
+
 =======
  Venue
 =======
