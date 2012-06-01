@@ -36,7 +36,19 @@ CFP 受け付け開始!
 スポンサー募集中です
 --------------------
 
-PyCon JP では現在スポンサーを募集中です。
+PyCon JP 2012 では現在スポンサーを募集中です。
 
 詳細は :doc:`スポンサーページ <sponsor>` へ
+
+
+スタッフ募集中です
+------------------
+
+PyCon JP 実行委員会では、PyCon JP 2012のイベント運営スタッフを募集中です。
+イベント運営の経験などは必要ありません。必要なのはやる気だけ！
+あなたの参加をお待ちしております。
+
+興味のある方は Google Groups の `pycon-organizers-jp <http://groups.google.com/group/pycon-organizers-jp>`_ に参加していただき、運営協力の旨をメールにてお送りください。
+
+実行委員会について詳しくは `PyCon JP 実行委員会について <http://www.pycon.jp/committee.html>`_ をご覧ください。
 
