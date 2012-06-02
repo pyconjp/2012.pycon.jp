@@ -176,6 +176,10 @@ body {
     background-position: center left;
     background-repeat: no-repeat;
 }
+#content #sidebar .sponsor li a#_10gen {
+    padding-top: 50px;
+    background-image: url(image/10gen_logo.png);
+}
 #content #sidebar .sponsor li a#fairydevices {
     padding-top: 69px;
     background-image: url(image/fairydevices_logo.gif);
@@ -191,6 +195,10 @@ body {
 #content #sidebar .sponsor li a#bizmobile {
     padding-top: 122px;
     background-image: url(image/bizmobile_logo.gif);
+}
+#content #sidebar .sponsor li a#nexedi {
+    padding-top: 64px;
+    background-image: url(image/nexedi_logo.png);
 }
 #content #sidebar .sponsor li a#codezine {
     padding-top: 40px;
