@@ -19,7 +19,7 @@ PyCon JP 2012 開催します！
    en/cfp
    en/sponsor
    en/venue
-
+   en/program/keynote
 
 お知らせ
 ========
