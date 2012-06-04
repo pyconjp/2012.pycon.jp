@@ -15,7 +15,7 @@ Like last year, there will be a track of English talks.
 
 Overview
 ========
-.. list-table:: 
+.. list-table::
    :widths: 30 70
 
    * - Conference Day
@@ -23,7 +23,7 @@ Overview
    * - Sprint Day
      - 2012 September 17(Mon)
    * - Venue
-     - `Advanced Institute of Industrial Technology (AIIT) <http://aiit.ac.jp/english/>`_
+     - `Advanced Institute of Industrial Technology (AIIT) <http://2012.pycon.jp/en/venue.html>`_
    * - Participants
      - 400 people
    * - Fee

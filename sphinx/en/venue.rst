@@ -2,7 +2,7 @@
  Venue
 =======
 
-`The Advanced Institute of Industrial Technology <http://aiit.ac.jp/>`_
+`The Advanced Institute of Industrial Technology <http://aiit.ac.jp/english>`_
 
 Access guide
 ============
