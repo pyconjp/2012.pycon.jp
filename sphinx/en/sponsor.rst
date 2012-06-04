@@ -6,7 +6,7 @@ The available sponsorships are below. Don't see what you want? Contact us any ti
 
 Last year's performance
 =======================
-Performance of `PyCon JP 2011 <http://2011.pycon.jp>`_ is as follows:
+Performance of `PyCon JP 2011 <http://2011.pycon.jp/english-information>`_ is as follows:
 
 .. list-table::
    :widths: 30 70
