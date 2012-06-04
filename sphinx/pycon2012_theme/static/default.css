@@ -200,6 +200,10 @@ body {
     padding-top: 64px;
     background-image: url(image/nexedi_logo.png);
 }
+#content #sidebar .sponsor li a#google {
+    padding-top: 122px;
+    background-image: url(image/appengine_logo.png);
+}
 #content #sidebar .sponsor li a#codezine {
     padding-top: 40px;
     background-image: url(image/cz_logo.gif);
