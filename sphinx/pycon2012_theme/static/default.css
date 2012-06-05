@@ -204,6 +204,10 @@ body {
     padding-top: 56px;
     background-image: url(image/GoogleDevelopers_logo.png);
 }
+#content #sidebar .sponsor li a#cb21 {
+    padding-top: 33px;
+    background-image: url(image/cb21_logo.png);
+}
 #content #sidebar .sponsor li a#codezine {
     padding-top: 40px;
     background-image: url(image/cz_logo.gif);
