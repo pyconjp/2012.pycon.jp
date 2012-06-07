@@ -208,6 +208,10 @@ body {
     padding-top: 33px;
     background-image: url(image/cb21_logo.png);
 }
+#content #sidebar .sponsor li a#sourceforge {
+    padding-top: 18px;
+    background-image: url(image/sourceForge_logo.png);
+}
 #content #sidebar .sponsor li a#codezine {
     padding-top: 40px;
     background-image: url(image/cz_logo.gif);
@@ -219,6 +223,10 @@ body {
 #content #sidebar .sponsor li a#oreilly {
     padding-top: 90px;
     background-image: url(image/oraj_logo.gif);
+}
+#content #sidebar .sponsor li a#slashdot {
+    padding-top: 33px;
+    background-image: url(image/slashdot_logo.png);
 }
 
 #footer {
