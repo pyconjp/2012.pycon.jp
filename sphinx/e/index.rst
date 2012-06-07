@@ -1,7 +1,7 @@
 :orphan:
 
 .. meta::
-   :http-equiv=refresh: 2;URL=../en/index.html
+   :http-equiv=refresh: 0;URL=../en/index.html
 
 .. PyCon JP 2012 documentation master file, created by
    sphinx-quickstart on Thu Apr  5 20:23:08 2012.
@@ -11,4 +11,5 @@
 PyCon JP 2012
 ===========================================
 
+redirect to :doc:`../en/index`
 
