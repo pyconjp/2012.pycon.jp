@@ -352,7 +352,8 @@ small {
 #index.lang-ja #content #sidebar,
 #en-index.lang-en #content #sidebar  {
 	width: 940px;
-	position: relative;
+	float: none;
+	clear: both;
 }
 
 
