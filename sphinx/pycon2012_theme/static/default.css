@@ -189,14 +189,6 @@ h1 {
 	font-size: xx-large;
 }
 
-h1 a,
-h2 a,
-h3 a,
-h4 a,
-h5 a{
-	display: none;
-}
-
 h2 {
 	margin: 2em 0 1em;
 	font-weight: bold;
@@ -206,6 +198,15 @@ h3,
 h4 {
 	margin: 0 0 0.3em 100px;
 	font-weight: bold;
+}
+
+
+h1 a,
+h2 a,
+h3 a,
+h4 a,
+h5 a{
+	display: none;
 }
 
 p {
@@ -318,7 +319,7 @@ small {
 #index.lang-ja h1,
 #en-index.lang-en h1{
 	padding-top: 225px;
-	margin-bottom: 170px;
+	margin-bottom: 150px;
 	height: 0;
 	width: 390px;
 	overflow: hidden;
@@ -327,6 +328,21 @@ small {
 	background-position: left;
 	background-color: #ffffff;
 }
+
+#index.lang-ja h2,
+#en-index.lang-en h2 {
+	margin: 0 0 1em 0;
+	font-size: xx-large;
+	font-weight: normal;
+}
+
+#index.lang-ja h3,
+#en-index.lang-en h3 {
+	margin: 2em 0 1em;
+	font-weight: bold;
+}
+
+
 
 #index.lang-ja div.toctree-wrapper,
 #en-index.lang-en div.toctree-wrapper{
