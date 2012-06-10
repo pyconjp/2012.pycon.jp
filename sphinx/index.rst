@@ -17,14 +17,19 @@ PyCon JP 2012 開催します！
    venue
    en/index
    en/about
+   en/program/index
    en/cfp
    en/sponsor
    en/venue
-   en/program/keynote
 
 お知らせ
 ========
-   
+
+キーノートスピーカー - Armin Ronacher
+-------------------------------------
+:doc:`/program/keynote` が `Flask <http://flask.pocoo.org/>`_ 等の開発者である
+Armin Ronacher(`@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_)に決定しました。
+
 CFP 受け付け開始!
 -----------------
 
@@ -40,7 +45,6 @@ CFP 受け付け開始!
 PyCon JP 2012 では現在スポンサーを募集中です。
 
 詳細は :doc:`スポンサーページ <sponsor>` へ
-
 
 スタッフ募集中です
 ------------------

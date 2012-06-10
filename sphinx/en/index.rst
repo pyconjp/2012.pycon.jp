@@ -11,6 +11,10 @@ PyCon JP 2012
 Information
 ===========
 
+Keynote Speaker - Armin Ronacher
+--------------------------------
+Armin Ronacher(`@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_) will come to Japan as the :doc:`/en/program/keynote` for PyCon JP.
+
 CFP Open!
 ---------
 
