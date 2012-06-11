@@ -15,7 +15,7 @@
 {% set pagename2 = get_pagename_without_lang() %}
 
 {% macro _getName(str) -%}
-    {#                                                                                                                                   
+    {#
         _getName("")　        自分名前を返します
         _getName("my")        自分名前を返します
         _getName("pwd")       自分のいるディレクトリ名を返します
@@ -82,15 +82,15 @@
             <li><a href="{{ pathto('en/venue') }}" class="venue">Venue</a></li>
     {%- else %}
             <li><a href="{{ pathto('about') }}" class="about">PyCon JP 2012 について</a></li>
-            <li><a href="{{ pathto('cfp') }}" class="cfp">Call for Proposals</a></li>
+            <li><a href="{{ pathto('cfp') }}" class="cfp">演題募集</a></li>
             <li><a href="{{ pathto('program/index') }}" class="program">プログラム</a></li>
             <li><a href="{{ pathto('sponsor') }}" class="sponsor">スポンサー</a></li>
-            <li><a href="{{ pathto('venue') }}" class="venue">開催場所情報</a></li>
+            <li><a href="{{ pathto('venue') }}" class="venue">開催場所</a></li>
             <li><a href="http://pyconjp.blogspot.jp/" class="venue">Blog</a></li>
     {%- endif %}
         </ul>
     </div>
-    
+
     <div id="ej-selector">
         <ul>
             <li id="japanese"><a href="{{ pathto(pagename2) }}">日本語</a></li>
@@ -100,7 +100,7 @@
 
 {%- block document %}
     <div id="content">
-        {%- block body %}{%- endblock body %} 
+        {%- block body %}{%- endblock body %}
         <div id="sidebar">
             <div  id="gold-sponsor" class="sponsor">
                 <h3>Gold Sponsor</h3>
@@ -184,11 +184,11 @@
             </div>
         </div>
     </div>
-{%- endblock document %} 
+{%- endblock document %}
     <div class="clear"></div>
     <div id="footer">
         <p>Copyright© Pycon Japan 2012, Inc. All rights reserved.</p>
     </div>
-</div>    
+</div>
 </body>
 </html>
