@@ -200,7 +200,6 @@ h4 {
 	font-weight: bold;
 }
 
-
 h1 a,
 h2 a,
 h3 a,
@@ -265,31 +264,30 @@ small {
 	margin-left: 100px;
 }
 
-
 /* index ページのスタイル */
 
-#index.lang-ja,
-#en-index.lang-en {
+#index,
+#en-index {
 	background-image: url(image/bg.gif);
 	background-position: center 262px;
 	background-repeat: no-repeat;
 }
 
-#index.lang-ja #header,
-#en-index.lang-en #header{
+#index #header,
+#en-index #header{
 	margin: 0;
 	position: absolute;
 	top: 70px;
 	right: 0;	
 }
 
-#index.lang-ja #header #pyconlogo,
-#en-index.lang-en #header #pyconlogo{
+#index #header #pyconlogo,
+#en-index #header #pyconlogo{
     display: none;
 }
 
-#index.lang-ja #header #pyconinfo,
-#en-index.lang-en #header #pyconinfo{
+#index #header #pyconinfo,
+#en-index #header #pyconinfo{
 	padding-top: 80px;
 	width: 460px;
 	height: 0;
@@ -298,26 +296,25 @@ small {
 	background-repeat: no-repeat;
 }
 
-#en-index.lang-en #header #pyconinfo{
+#en-index #header #pyconinfo{
 	background-image: url(image/pyconjp2012_info_e.gif);
 }
 
-#index.lang-ja #navi,
-#en-index.lang-en #navi{
+#index #navi,
+#en-index #navi{
 	position: absolute;
 	top: 350px;
 }
 
-
-#index.lang-ja #content,
-#en-index.lang-en #content{
+#index #content,
+#en-index #content{
 	padding-top: 50px;
 	background-image:url(image/bg.gif);
 	background-position: right 262px;
 	background-repeat: no-repeat;
 }
-#index.lang-ja h1,
-#en-index.lang-en h1{
+#index h1,
+#en-index h1{
 	padding-top: 225px;
 	margin-bottom: 150px;
 	height: 0;
@@ -329,58 +326,55 @@ small {
 	background-color: #ffffff;
 }
 
-#index.lang-ja h2,
-#en-index.lang-en h2 {
+#index h2,
+#en-index h2 {
 	margin: 0 0 1em 0;
 	font-size: xx-large;
 	font-weight: normal;
 }
 
-#index.lang-ja h3,
-#en-index.lang-en h3 {
+#index h3,
+#en-index h3 {
 	margin: 2em 0 1em;
 	font-weight: bold;
 }
 
-
-
-#index.lang-ja div.toctree-wrapper,
-#en-index.lang-en div.toctree-wrapper{
+#index div.toctree-wrapper,
+#en-index div.toctree-wrapper{
 	display: none;
 }
 
-#index.lang-ja #content #sidebar,
-#en-index.lang-en #content #sidebar  {
+#index #content #sidebar,
+#en-index #content #sidebar  {
 	width: 940px;
 	float: none;
 	clear: both;
 }
 
+/* sposer のbottom 表示 */
 
-/* sposer bottom表示 */
-
-#index.lang-ja #content #sidebar h3,
-#en-index.lang-en #content #sidebar h3{
+#index #content #sidebar h3,
+#en-index #content #sidebar h3{
 	margin-left: 0;
 }
 
-#index.lang-ja #content #sidebar ul,
-#en-index.lang-en #content #sidebar ul{
+#index #content #sidebar ul,
+#en-index #content #sidebar ul{
 	margin-left: 0;
 }
 
-#index.lang-ja #content #sidebar li,
-#en-index.lang-en #content #sidebar li{
+#index #content #sidebar li,
+#en-index #content #sidebar li{
 	margin-left: 15px;
 	display: inline;
 }
 
-#index.lang-ja #content #sidebar li a,
-#en-index.lang-en #content #sidebar li a{
+#index #content #sidebar li a,
+#en-index #content #sidebar li a{
 	display: inline;
 }
 
-#index.lang-ja #content #sidebar li a img,
-#en-index.lang-en #content #sidebar li a img{
+#index #content #sidebar li a img,
+#en-index #content #sidebar li a img{
 	vertical-align: middle;
 }
