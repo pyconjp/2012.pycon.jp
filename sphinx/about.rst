@@ -32,6 +32,25 @@ PyCon JP 2012 では **つながるPython** をスローガンに、前回 2011 
    * - 参加費
      - 決まり次第お知らせします
    * - 運営
-     - `PyCon JP 実行委員会 <http://www.pycon.jp/committee.html>`_ PyCon JP 2012 運営チーム
+     - `PyCon JP 実行委員会`_ PyCon JP 2012 運営チーム
    * - 連絡先
      - 2012@pycon.jp
+
+
+●運営情報
+==========
+
+PyCon JP 2012 は `PyCon JP 実行委員会`_ PyCon JP 2012 運営チームによって運営されています。
+
+.. list-table::
+
+   * - 座長
+     - 寺田 学
+   * - 副座長
+     - 清水川 貴之・清水 琢
+   * - 連絡先
+     - 2012@pycon.jp
+
+
+.. _`PyCon JP 実行委員会`: http://www.pycon.jp/committee.html
+

@@ -29,6 +29,26 @@ Overview
    * - Fee
      - TBD
    * - Operation
-     - PyCon JP Committee
+     - `PyCon JP Committee`_
    * - Contact
      - 2012@pycon.jp
+
+
+Operational Information
+=======================
+
+PyCon JP 2012 is operated by PyCon JP 2012 Management Team, `PyCon JP Committee`_.
+
+.. list-table::
+
+   * - Chair
+     - Manabu Terada
+   * - Vice Chair
+     - Takayuki Shimizukawa, Taku Shimizu
+   * - Contact
+     - 2012@pycon.jp
+
+
+.. _`PyCon JP Committee`: http://www.pycon.jp/committee.html
+
+
