@@ -21,7 +21,7 @@ Overview
    * - Conference Day
      - 2012 September 15(Sat)-16(Sun)
    * - Sprint Day
-     - 2012 September 17(Mon)
+     - 2012 September 17(Mon, National holiday)
    * - Venue
      - `Advanced Institute of Industrial Technology (AIIT) <http://2012.pycon.jp/en/venue.html>`_
    * - Participants
