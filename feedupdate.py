@@ -79,6 +79,12 @@ def main():
 
         with open(fname) as fp:
 
+            line = fp.readline()
+
+            # ignore が入っていたら無視しとく
+            if 'ignore' in line:
+                continue
+
             replace = [':Author: pycon-organizers-jp\n',
                        ':Date: ' + timestr + '\n']
             replace.extend(list(fp))

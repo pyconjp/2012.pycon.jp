@@ -133,7 +133,7 @@ def cache_article_dates(env):
     for docname, doc_metadata in env.metadata.iteritems():
         doc_metadata = env.metadata.get(docname, {})
         if 'date' not in doc_metadata:
-            continue #don't index dateless articles
+            continue #don't index dateless article
         try:
             pub_date = parse_date(doc_metadata['date'])
             feed_pub_dates[docname] = pub_date
@@ -161,6 +161,7 @@ def create_feed_item(app, docname, templatename, ctx, doctree):
     pub_date = get_date_for_article(env, docname)
     if not pub_date:
         return
+
     # RSS item attributes, w/defaults:
     #     title, link, description, author_email=None,
     #     author_name=None, author_link=None, pubdate=None, comments=None,
@@ -189,6 +190,7 @@ def remove_dead_feed_item(app, env, docname):
     purge unwanted crap
     """
     global feed_entries
+    
     munged_name = ''.join([MAGIC_SEPARATOR,quote_plus(docname)])
     for name in feed_entries:
         if name.endswith(munged_name):
@@ -197,6 +199,9 @@ def remove_dead_feed_item(app, env, docname):
 def emit_feed(app, exc):
     global feed_entries
     import os.path
+
+    for key in feed_entries.keys():
+        v = feed_entries[key]
     
     title = app.config.feed_title
     if not title:
