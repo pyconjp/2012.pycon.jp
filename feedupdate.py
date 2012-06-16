@@ -85,6 +85,8 @@ def main():
             if 'ignore' in line:
                 continue
 
+        with open(fname) as fp:
+            
             replace = [':Author: pycon-organizers-jp\n',
                        ':Date: ' + timestr + '\n']
             replace.extend(list(fp))
