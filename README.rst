@@ -76,8 +76,8 @@ RSS は sphinxcontrib.feed を使っています。
 
 ::
 
-    .. ignore
+    :ignore:
 
-とコメントを付けておいて下さい。
+とかメタデータを付けておいて下さい。
     
 
