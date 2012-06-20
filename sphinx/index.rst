@@ -15,6 +15,7 @@ PyCon JP 2012 開催します！
    cfp
    sponsor
    venue
+   media
    en/index
    en/about
    en/program/index
