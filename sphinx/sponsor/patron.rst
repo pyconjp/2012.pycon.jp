@@ -25,4 +25,4 @@ PyCon JP パトロン登録フォーム
 
 .. raw:: html
 
-   <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHdPRklWYVVTMXNMRzF5MVQ1MS1aSkE6MQ" width="760" height="950" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
+   <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dHdPRklWYVVTMXNMRzF5MVQ1MS1aSkE6MQ" width="530" height="1150" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
