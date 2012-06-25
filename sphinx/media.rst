@@ -10,9 +10,11 @@
 `gihyo.jp`_
         - `スローガンは「つながるPython」今年も開催！ PyCon JP 2012 <http://gihyo.jp/news/info/2012/05/2101>`_
         - `PyCon JP 2012 CFP 募集中 <http://gihyo.jp/news/info/2012/06/2001>`_
+        - `「PyCon Taiwan」参加レポート <http://gihyo.jp/news/report/01/pycon-taiwan2012/0000>`_
 
 `オライリー・ジャパン`_
         - `「PyCon JP 2012」2012年9月15日より、2日間で開催 <http://www.oreilly.co.jp/editors/archives/2012/05/pycon-jp-201220.html>`_
+        - `PyCon JP 2012 CFP 募集中 - 締切は今月末まで <http://www.oreilly.co.jp/editors/archives/2012/06/ann-pycon-jp-2012-call-for-proposals.html>`_
 
 
 .. _CodeZine: http://codezine.jp/
