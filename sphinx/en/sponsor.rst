@@ -30,6 +30,8 @@ Contact:
 Sponsorship Details:
 ====================
 
+.. _en-platinum:
+
 Platinum Level Sponsorship — 500,000 JPY(Limited)
 --------------------------------------------------
 
@@ -45,6 +47,8 @@ Platinum Level Sponsorship — 500,000 JPY(Limited)
 - 10 free sponsor registrations
 
 .. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+.. _en-gold:
 
 Gold Level Sponsorship — 300,000 JPY
 -------------------------------------
@@ -62,6 +66,8 @@ Gold Level Sponsorship — 300,000 JPY
 .. - Name included in press release and event mailings
 .. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
 
+.. _en-silver:
+
 Silver Level Sponsorship — 100,000 JPY
 ---------------------------------------
 
@@ -77,12 +83,16 @@ Silver Level Sponsorship — 100,000 JPY
 .. - Name included in press release and event mailings
 .. - Small booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
 
+.. _en-patron:
+
 PyCon JP Patron — 25,000 JPY (For individuals and start-up businesses)
 -----------------------------------------------------------------------
 
 - Listing in PyCon JP program guide
 - Patron link on Sponsors page
 - 1 free sponsor registration
+
+.. _en-sprint:
 
 Sprint Sponsorship — 100,000 JPY
 ---------------------------------
@@ -93,6 +103,8 @@ Sprint Sponsorship — 100,000 JPY
 - 3 free sponsor registrations
 - Can be added to other packages
 
+.. _en-lanyard:
+
 Lanyard sponsorship (100,000 JPY + cost of lanyard)
 ---------------------------------------------------
 
@@ -100,6 +112,8 @@ Lanyard sponsorship (100,000 JPY + cost of lanyard)
 - Logo and text on lanyard
 - 2 free sponsor registrations
 - Can be added to other packages
+
+.. _en-media:
 
 Media sponsorship (Please contact us)
 -------------------------------------

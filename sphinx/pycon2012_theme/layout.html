@@ -111,6 +111,12 @@
 		<h3>&gt;&gt;スポンサーになるには</h3></a>
             {%- endif %}
                 <h3>Gold Sponsor</h3>
+    {%- if _getName('lang') == 'lang-en' %}
+                <h3><a href="{{ pathto('en/sponsor.html#en-gold', 1) }}">Gold Sponsor</a></h3>
+    {%- else %}
+                <h3><a href="{{ pathto('sponsor.html#ja-gold', 1) }}">Gold Sponsor</a></h3>
+    {%- endif %}
+
                 <ul>
                     <li>
                         <a href="http://www.mongodb.org/" id="_10gen" target="_blank">
@@ -120,7 +126,11 @@
                 </ul>
             </div>
             <div  id="silver-sponsor" class="sponsor">
-                <h3>Silver Sponsor</h3>
+    {%- if _getName('lang') == 'lang-en' %}
+                <h3><a href="{{ pathto('en/sponsor.html#en-silver', 1) }}">Silver Sponsor</a></h3>
+    {%- else %}
+                <h3><a href="{{ pathto('sponsor.html#ja-silver', 1) }}">Silver Sponsor</a></h3>
+    {%- endif %}
                 <ul>
                     <li>
                         <a href="http://www.fairydevices.jp/" id="fairydevices" target="_blank">
@@ -175,7 +185,11 @@
                 </ul>
             </div>
             <div  id="media-sponsor" class="sponsor">
-                <h3>Media Sponsor</h3>
+    {%- if _getName('lang') == 'lang-en' %}
+                <h3><a href="{{ pathto('en/sponsor.html#en-media', 1) }}">Media Sponsor</a></h3>
+    {%- else %}
+                <h3><a href="{{ pathto('sponsor.html#ja-media', 1) }}">Media Sponsor</a></h3>
+    {%- endif %}
                 <ul>
                     <li>
                         <a href="http://codezine.jp/" id="codezine" target="_blank">

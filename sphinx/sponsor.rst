@@ -78,6 +78,8 @@ PyCon JP パトロンへの申し込みは「 :doc:`/sponsor/patron/` 」のペ�
 スポンサーシップの詳細
 ======================
 
+.. _ja-platinum:
+
 Platinum スポンサー — 500,000円(数に制限あり)
 ----------------------------------------------
 
@@ -95,6 +97,8 @@ Platinum スポンサー — 500,000円(数に制限あり)
 
 .. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
 
+.. _ja-gold:
+
 Gold スポンサー — 300,000円
 ----------------------------
 
@@ -110,6 +114,8 @@ Gold スポンサー — 300,000円
 
 .. - Name included in press release and event mailings
 .. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+
+.. _ja-silver:
 
 Silver スポンサー — 100,000 円
 -------------------------------
@@ -127,6 +133,8 @@ Silver スポンサー — 100,000 円
 .. - Name included in press release and event mailings
 .. - Small booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
 
+.. _ja-patron:
+
 PyCon JP パトロン — 25,000 円 (個人またはスタートアップ企業用)
 ---------------------------------------------------------------
 
@@ -134,7 +142,7 @@ PyCon JP パトロン — 25,000 円 (個人またはスタートアップ企業
 - パトロンリンクを PyCon JP Webサイトのスポンサーページに掲載
 - スポンサー招待枠 1
 
-PyCon JP パトロンへの申し込みは「 :doc:`/sponsor/patron/` 」のページからお願いします。
+.. _ja-sprint:
 
 Sprint スポンサー — 100,000 円
 -------------------------------
@@ -145,6 +153,8 @@ Sprint スポンサー — 100,000 円
 - スポンサー招待枠 3
 - 他 Silver スポンサーと同様の内容を追加可能
 
+.. _ja-lanyard:
+
 名札スポンサー (100,000 円 + 名札のコスト)(1枠)
 -----------------------------------------------
 
@@ -152,6 +162,8 @@ Sprint スポンサー — 100,000 円
 - ロゴと文字列を名札の紐に掲載
 - スポンサー招待枠 2
 - 他 Silver スポンサーと同様の内容を追加可能
+
+.. _ja-media:
 
 メディアスポンサー (お問い合わせください)
 -----------------------------------------
