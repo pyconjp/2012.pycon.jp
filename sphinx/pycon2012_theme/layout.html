@@ -54,7 +54,13 @@
 <body id="{{ _getName('my') }}" class="{{ _getName('lang') }}">
 <div id="container">
     <div id="header">
-        <div id="pyconlogo"><a href="{{ pathto('index') }}">PyCon Japan 2012</a></div>
+        <div id="pyconlogo">
+	  {%- if _getName('lang') == 'lang-en' %}
+	  <a href="{{ pathto('en/index') }}">PyCon Japan 2012</a>
+	  {%- else %}
+	  <a href="{{ pathto('index') }}">PyCon Japan 2012</a>
+	  {%- endif %}
+	</div>
         <div id="pyconinfo">
             <dl>
     {%- if _getName('lang') == 'lang-en' %}
