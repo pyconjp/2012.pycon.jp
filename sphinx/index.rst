@@ -8,12 +8,14 @@ PyCon JP 2012 開催します！
 ===========================================
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
    about
+   about/staff
    program/index
    cfp
    sponsor
+   sponsor/patron
    venue
    media
    en/index

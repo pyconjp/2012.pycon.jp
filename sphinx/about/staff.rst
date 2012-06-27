@@ -1,8 +1,9 @@
-:ignore:
+==========================
+ PyCon JP 2012 運営チーム
+==========================
 
-============================
- PyCon JP 2012 運営スタッフ
-============================
+運営スタッフ
+============
 
 .. list-table::
 
@@ -47,7 +48,7 @@
      - `@kiyotaman <http://twitter.com/kiyotaman>`_
      - 
    * - 事務局
-     - 松崎
+     - 松崎 けんじ
      - `@xga <http://twitter.com/xga>`_
      - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
    * - 渉外
