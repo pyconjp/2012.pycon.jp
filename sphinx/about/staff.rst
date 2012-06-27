@@ -1,3 +1,5 @@
+:ignore:
+
 ============================
  PyCon JP 2012 運営スタッフ
 ============================
@@ -22,7 +24,7 @@
      - `taku.shimizu <http://www.facebook.com/taku.shimizu>`_
    * - 会計
      - Iqbal Abdullah
-     -
+     - `@iqbalabd <http://twitter.com/iqbalabd>`_
      - `iqbal.b.abdullah <http://www.facebook.com/iqbal.b.abdullah>`_
    * - 広報
      - 保坂 翔馬
@@ -55,7 +57,7 @@
    * - 会場
      - ナツ
      - `@natsu_bm <https://twitter.com/natsu_bm>`_
-     - `Natsu Bm <http://www.facebook.com/natsu.bm>`_
+     - 
    * - 
      - 小坂 健二郎
      - `@inoshiro <https://twitter.com/inoshiro>`_
