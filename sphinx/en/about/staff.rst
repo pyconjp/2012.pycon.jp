@@ -1,0 +1,81 @@
+===============================
+ PyCon JP 2012 Management team
+===============================
+
+Staff
+=====
+
+.. list-table::
+
+   * - 
+     - Name
+     - Twitter
+     - Facebook
+   * - Chairman
+     - Manabu Terada
+     - `@terapyon <http://twitter.com/terapyon>`_
+     - `terapyon <http://www.facebook.com/terapyon>`_
+   * - Vice-Chainman
+     - Takayuki Shimizukawa
+     - `@shimizukawa <http://twitter.com/shimizukawa>`_
+     - `shimizukawa <http://www.facebook.com/shimizukawa>`_
+   * -
+     - Taku Shimizu
+     - `@takuan_osho <http://twitter.com/takuan_osho>`_
+     - 
+   * - Account
+     - Iqbal Abdullah
+     - `@iqbalabd <http://twitter.com/iqbalabd>`_
+     - `iqbal.b.abdullah <http://www.facebook.com/iqbal.b.abdullah>`_
+   * - Publicity
+     - Shoma Hosaka
+     - `@shomah4a <http://twitter.com/shomah4a>`_
+     - 
+   * - 
+     - Yosuke Tomita
+     - `@you_tomita <http://twitter.com/you_tomita>`_
+     - `you.tomita <http://www.facebook.com/you.tomita>`_
+   * - Program
+     - Hirotaka Hata
+     - `@flag_boy <http://twitter.com/flag_boy>`_
+     - `hata.hirotaka <http://www.facebook.com/hata.hirotaka>`_
+   * - Sponsorship
+     - Takanori Suzuki
+     - `@takanory <http://twitter.com/takanory>`_
+     - `takanory.net <http://www.facebook.com/takanory.net>`_
+   * -
+     - Fumikazu Kiyota
+     - `@kiyotaman <http://twitter.com/kiyotaman>`_
+     - 
+   * - Secretariat
+     - Kenji Matsuzaki
+     - `@xga <http://twitter.com/xga>`_
+     - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
+   * - Liaison
+     - Ian Lewis
+     - `@IanMLewis <http://twitter.com/ianmlewis>`_
+     - `Ian Lewis <http://www.facebook.com/ianmlewis?ref=ts>`_
+   * - Site
+     - Natsu
+     - `@natsu_bm <https://twitter.com/natsu_bm>`_
+     - 
+   * - 
+     - Kenjiro Kosaka
+     - `@inoshiro <https://twitter.com/inoshiro>`_
+     - `kenjiro.kosaka <http://www.facebook.com/kenjiro.kosaka>`_
+   * - Design
+     - Fumichika Kinoshita
+     - `@kinofumi <https://twitter.com/kinofumi>`_
+     - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
+   * - Travel support
+     - Hiroto Taketani
+     -
+     - `h.taketani <http://www.facebook.com/h.taketani>`_
+   * - Other
+     - Kohe Yoshida
+     - `@yosida95 <https://twitter.com/yosida95>`_
+     - `yosida95 <http://www.facebook.com/yosida95>`_
+   * -
+     - Yi Li
+     -
+     -
