@@ -48,6 +48,7 @@ PyCon JP 2012 is operated by PyCon JP 2012 Management Team, `PyCon JP Committee`
    * - Contact
      - 2012@pycon.jp
 
+Please refere to :doc:`/en/about/staff`
 
 .. _`PyCon JP Committee`: http://www.pycon.jp/committee.html
 
