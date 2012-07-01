@@ -11,6 +11,16 @@ PyCon JP 2012
 Information
 ===========
 
+Call for Proposals ended
+========================
+
+PyCon JP call for proposals is ended on July 1, 2012.
+
+Thanks for many proposals.
+
+The result of the screening will be further notice
+
+
 Keynote Speaker - Armin Ronacher
 --------------------------------
 Armin Ronacher(`@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_) will come to Japan as the :doc:`/en/program/keynote` for PyCon JP.
