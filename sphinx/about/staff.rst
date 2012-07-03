@@ -63,6 +63,10 @@
      - 小坂 健二郎
      - `@inoshiro <https://twitter.com/inoshiro>`_
      - `kenjiro.kosaka <http://www.facebook.com/kenjiro.kosaka>`_
+   * -
+     - 土屋 陽介
+     -
+     -
    * - デザイン
      - 木下 文史
      - `@kinofumi <https://twitter.com/kinofumi>`_

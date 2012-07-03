@@ -63,6 +63,10 @@ Staff
      - Kenjiro Kosaka
      - `@inoshiro <https://twitter.com/inoshiro>`_
      - `kenjiro.kosaka <http://www.facebook.com/kenjiro.kosaka>`_
+   * -
+     - Yosuke Tsuchiya 
+     -
+     -
    * - Design
      - Fumichika Kinoshita
      - `@kinofumi <https://twitter.com/kinofumi>`_
