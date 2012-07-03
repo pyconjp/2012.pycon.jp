@@ -71,6 +71,10 @@ Staff
      - Hiroto Taketani
      -
      - `h.taketani <http://www.facebook.com/h.taketani>`_
+   * - Sprint
+     - Rico Imazu
+     - `@RicoImazu <https://twitter.com/RicoImazu>`_
+     - `rico.imazu <http://www.facebook.com/rico.imazu>`_
    * - Other
      - Kohe Yoshida
      - `@yosida95 <https://twitter.com/yosida95>`_

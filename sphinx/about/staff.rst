@@ -71,6 +71,10 @@
      - 竹谷 浩人
      -
      - `h.taketani <http://www.facebook.com/h.taketani>`_
+   * - Sprint
+     - 今津 りこ
+     - `@RicoImazu <https://twitter.com/RicoImazu>`_
+     - `rico.imazu <http://www.facebook.com/rico.imazu>`_
    * - その他スタッフ
      - 吉田 昂平
      - `@yosida95 <https://twitter.com/yosida95>`_
