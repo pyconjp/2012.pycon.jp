@@ -105,3 +105,4 @@ PyCon JP 2012 の運営スタッフミーティングの議事録です。
 - 2012/05/14 `PyCon JP 2012 mtg#5 議事録 <https://docs.google.com/document/d/1WC_ebruxKh26iXI1ZWUCsmFKRTzIHvKsx3MZeMvQseA/edit>`_
 - 2012/05/23 `PyCon JP 2012 mtg#6 議事録 <https://docs.google.com/document/d/1QdBPHPVQxjpVypVHzaKAxqrgLzcU3Y9FXjH9bm327iQ/edit>`_
 - 2012/06/15 `PyCon JP 2012 mtg#7 議事録 <https://docs.google.com/document/d/1Nti6H3rn1WSjZOPIaT073XwGWZDhRixkcQM343p6PUU/edit>`_
+- 2012/07/02 `PyCon JP 2012 mtg#8 議事録 <https://docs.google.com/document/d/14_aKh_TDuPCrXBPMlKA0ufA-XOx5UADK53BwshMGD50/edit>`_
