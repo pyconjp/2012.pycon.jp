@@ -25,6 +25,8 @@ PyCon JP 2012 では「 **つながるPython** 」をスローガンに、前回
      - 2012-09-15(土)-16(日)
    * - Sprint
      - 2012-09-17(月・祝)
+   * - テーマ
+     - つながるPython/Python Connect
    * - 会場
      - `産業技術大学院大学 <http://2012.pycon.jp/venue.html>`_
    * - 参加者数(予定)
