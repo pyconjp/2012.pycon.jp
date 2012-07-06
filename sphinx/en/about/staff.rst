@@ -66,7 +66,7 @@ Staff
    * -
      - Yosuke Tsuchiya 
      -
-     -
+     - `yosuke.tsuchiya <http://www.facebook.com/yosuke.tsuchiya>`_
    * - Design
      - Fumichika Kinoshita
      - `@kinofumi <https://twitter.com/kinofumi>`_

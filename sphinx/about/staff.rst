@@ -66,7 +66,7 @@
    * -
      - 土屋 陽介
      -
-     -
+     - `yosuke.tsuchiya <http://www.facebook.com/yosuke.tsuchiya>`_
    * - デザイン
      - 木下 文史
      - `@kinofumi <https://twitter.com/kinofumi>`_
