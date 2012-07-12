@@ -190,6 +190,23 @@
                     </li>
                 </ul>
             </div>
+            <div  id="patron" class="sponsor">
+    {%- if _getName('lang') == 'lang-en' %}
+                <h3><a href="{{ pathto('sponsor/patron.html', 1) }}">PyCon JP Patron</a></h3>
+    {%- else %}
+                <h3><a href="{{ pathto('sponsor/patron.html', 1) }}">PyCon JP Patron</a></h3>
+    {%- endif %}
+                <ul>
+                    <li>
+                        <a href="http://nakagami.blog.so-net.ne.jp/" id="nakagami" target="_blank">
+                        <img src="{{ pathto('_static/image/logo_nakagami.png', 1) }}" alt="Hajime Nakagami" /></a>
+                        <a href="http://www.marici.co.jp/" id="marici" target="_blank">
+                        <img src="{{ pathto('_static/image/logo_marici.png', 1) }}" alt="Marici, Inc." /></a>
+                        <a href="http://www.ark-pc.co.jp/" id="ark" target="_blank">
+                        <img src="{{ pathto('_static/image/logo_ark.png', 1) }}" alt="PCSHOP ARK" /></a>
+                    </li>
+                </ul>
+            </div>
             <div  id="media-sponsor" class="sponsor">
     {%- if _getName('lang') == 'lang-en' %}
                 <h3><a href="{{ pathto('en/sponsor.html#en-media', 1) }}">Media Sponsor</a></h3>
@@ -200,9 +217,9 @@
                     <li>
                         <a href="http://codezine.jp/" id="codezine" target="_blank">
                         <img src="{{ pathto('_static/image/logo_cordzine.gif', 1) }}" alt="翔泳社" /></a>
+                        <a href="http://gihyo.jp/" id="gihyo" target="_blank">
                     </li>
                     <li>
-                        <a href="http://gihyo.jp/" id="gihyo" target="_blank">
                         <img src="{{ pathto('_static/image/logo_gihyo.gif', 1) }}" alt="技術評論社" /></a>
                     </li>
                     <li>
