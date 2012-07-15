@@ -255,7 +255,13 @@
 {%- endblock document %}
     <div class="clear"></div>
     <div id="footer">
-        <p>Copyright© Pycon Japan 2012, Inc. All rights reserved.</p>
+        <p>Copyright© 2012
+	  {%- if _getName('lang') == 'lang-en' %}
+	  <a href="{{ pathto('en/about/staff') }}">PyCon JP 2012 management team</a>,
+	  {%- else %}
+	  <a href="{{ pathto('about/staff') }}">PyCon JP 2012 management team</a>,
+	  {%- endif %}
+	  All rights reserved.</p>
     </div>
 </div>
 </body>
