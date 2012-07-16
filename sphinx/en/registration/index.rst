@@ -18,6 +18,9 @@ PyCon JP registration fee is "3,000 JPY".
 
 The ticket includes all talks, lunch, coffee break and etc.
 
+In addition, we prepared for a system to support the travel cost of the participant.
+Please refer to :doc:`support` .
+
 .. なお、今回は遠方の参加者の旅費を支援する制度があります。
    詳細は :doc:`support` を参照して申し込みを行なってください。
 
