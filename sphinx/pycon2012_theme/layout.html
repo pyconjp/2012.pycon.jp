@@ -32,6 +32,73 @@
     {%- endif %}
 {%- endmacro %}
 
+{# スポンサー情報を出力するためのmacro #}
+{% macro sponsor(data) -%}
+  <li>
+    {%- if _getName('lang') == 'lang-en' %}
+      {% set alt = data[3] %}
+    {%- else %}
+      {% set alt = data[2] %}
+    {%- endif %}
+    <a href="{{ data[1] }}" id="{{ data[0] }}" target="_blank">
+    <img src="{{ pathto('_static/image/logo_%s.png' % data[0], 1) }}" alt="{{ alt }}" /></a>
+  </li>
+{%- endmacro %}
+
+{% macro sponsor2(data) -%}
+    {%- if _getName('lang') == 'lang-en' %}
+      {% set alt = data[3] %}
+    {%- else %}
+      {% set alt = data[2] %}
+    {%- endif %}
+    <a href="{{ data[1] }}" id="{{ data[0] }}" target="_blank">
+    <img src="{{ pathto('_static/image/logo_%s.png' % data[0], 1) }}" alt="{{ alt }}" /></a>
+{%- endmacro %}
+
+{# 各スポンサーの情報をキーワード、URL、日本語、英語で設定 #}
+{% set gold = [
+  ('10gen', 'http://www.mongodb.org/', '10gen/MongoDB', '10gen/MongoDB'),
+  ('gumi', 'http://gu3.co.jp/', 'gumi', 'gumi'),
+  ('ms', 'http://windowsazure.com', '日本マイクロソフト', 'Microsoft Japan'),
+] %}
+
+{% set silver = [
+  ('fairydevices', 'http://www.fairydevices.jp/', 'フェアリーデバイセズ', 'Fairy Devices'),
+  ('beproud', 'http://www.beproud.jp/', 'ビープラウド', 'BeProud'),
+  ('snapdish', 'http://snapdi.sh/ja/', 'SnapDish', 'SnapDish'),
+  ('bizmobile', 'http://bizmobile.co.jp/', 'BizMobile', 'BizMobile'),
+  ('nexedi', 'http://www.nexedi.co.jp/', 'Nexedi', 'Nexedi'),
+  ('google', 'https://developers.google.com/', 'Google', 'Google'),
+  ('cb21', 'http://www.cb21.co.jp/', 'キャッチボール・トゥエンティワン', 'Catchball 21'),
+  ('sourceforge', 'http://sourceforge.jp/', 'SourceForge.JP', 'SourceForge.JP'),
+  ('triax', 'http://triax.jp/', 'TriAx', 'TriAx'),
+  ('zerostart', 'http://zero-start.jp/', 'ゼロスタート', 'Zero Start'),
+  ('codeiq', 'https://codeiq.jp/', 'CodeIQ', 'CodeIQ'),
+  ('ariel', 'http://www.ariel-networks.com/', 'アリエル・ネットワーク', 'Ariel Networks'),
+] %}
+
+{% set patron = [
+  ('nakagami', 'http://nakagami.blog.so-net.ne.jp/', '中神肇', 'Hajime Nakagami'),
+  ('marici', 'http://www.marici.co.jp/', 'マリーチ', 'Marici, Inc.'),
+  ('ark', 'http://www.ark-pc.co.jp/', 'パソコンSHOPアーク', 'PCSHOP ARK'),
+  ('ike', 'http://rokujyouhitoma.jp/', '池 徹', 'Ike Tohru'),
+] %}
+
+{% set media = [
+  ('codezine', 'http://codezine.jp/', '翔泳社', 'CodeZine'),
+  ('gihyo', 'http://gihyo.jp/', '技術評論社', 'gihyo.jp'),
+  ('oreilly', 'http://www.oreilly.co.jp/', 'オライリー・ジャパン', "O'Reilly Japan"),
+  ('slashdot', 'http://slashdot.jp/', 'Slashdot Japan', 'Slashdot Japan'),
+] %}
+
+{% set organizer = [
+  ('aiit', 'http://aiit.ac.jp/', '産業技術大学院大学', 'Advanced Institute of Industrial Technology'),
+] %}
+
+{% set support = [
+  ('mozilla', 'http://www.mozilla.jp/', 'Mozilla Firefox', 'Mozilla Firefox'),
+] %}
+
 {%- block doctype %}<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">{%- endblock doctype %}
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -48,8 +115,6 @@
         <link rel="stylesheet" type="text/css" href="{{ pathto('_static/ie_fixed.css', 1) }}" />
     <![endif]-->
 </head>
-
-
 
 <body id="{{ _getName('my') }}" class="{{ _getName('lang') }}">
 <div id="container">
@@ -125,18 +190,9 @@
     {%- endif %}
 
                 <ul>
-                    <li>
-                        <a href="http://www.mongodb.org/" id="_10gen" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_10gen.png', 1) }}" alt="10gen/MongoDB" /></a>
-                    </li>
-                    <li>
-                        <a href="http://gu3.co.jp/" id="gumi" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_gumi.png', 1) }}" alt="gumi" /></a>
-                    </li>
-                    <li>
-                        <a href="http://windowsazure.com" id="microsoft" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_ms.png', 1) }}" alt="日本マイクロソフト" /></a>
-                    </li>
+		  {% for data in gold %}
+                    {{ sponsor(data) }}
+		  {% endfor %}
                 </ul>
             </div>
             <div  id="silver-sponsor" class="sponsor">
@@ -146,54 +202,9 @@
                 <h3><a href="{{ pathto('sponsor.html#ja-silver', 1) }}">Silver Sponsor</a></h3>
     {%- endif %}
                 <ul>
-                    <li>
-                        <a href="http://www.fairydevices.jp/" id="fairydevices" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_fairydevices.gif', 1) }}" alt="フェアリーデバイセズ" /></a>
-                    </li>
-                    <li>
-                        <a href="http://www.beproud.jp/" id="beproud" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_beproud.gif', 1) }}" alt="BeProud" /></a>
-                    </li>
-                    <li>
-                        <a href="http://snapdi.sh/" id="snapdish" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_snapdish.png', 1) }}" alt="SnapDish" /></a>
-                    </li>
-                    <li>
-                        <a href="http://bizmobile.co.jp/" id="bizmobile" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_bizmobile.gif', 1) }}" alt="BizMobile" /></a>
-                    </li>
-                    <li>
-                        <a href="http://www.nexedi.co.jp/" id="nexedi" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_nexedi.png', 1) }}" alt="Nexedi" /></a>
-                    </li>
-                    <li>
-                        <a href="https://developers.google.com/" id="google" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_googledevelopers.png', 1) }}" alt="Google" /></a>
-                    </li>
-                    <li>
-                        <a href="http://www.cb21.co.jp" id="cb21" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_cb21.png', 1) }}" alt="キャッチボール・トゥエンティワン" /></a>
-                    </li>
-                    <li>
-                        <a href="http://sourceforge.jp/" id="sourceforge" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_sourceforge.png', 1) }}" alt="SourceForge.JP" /></a>
-                    </li>
-                    <li>
-                        <a href="http://triax.jp/" id="triax" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_triax.png', 1) }}" alt="TriAx" /></a>
-                    </li>
-                    <li>
-                        <a href="http://zero-start.jp/" id="zerostart" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_zerostart.png', 1) }}" alt="ゼロスタート" /></a>
-                    </li>
-                    <li>
-                        <a href="https://codeiq.jp/" id="codeiq" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_codeiq.png', 1) }}" alt="CodeIQ" /></a>
-                    </li>
-                    <li>
-                        <a href="http://www.ariel-networks.com/" id="ariel" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_ariel.png', 1) }}" alt="アリエル・ネットワーク" /></a>
-                    </li>
+		  {% for data in silver %}
+                    {{ sponsor(data) }}
+		  {% endfor %}
                 </ul>
             </div>
             <div  id="patron" class="sponsor">
@@ -203,16 +214,9 @@
                 <h3><a href="{{ pathto('sponsor/patron.html', 1) }}">PyCon JP Patron</a></h3>
     {%- endif %}
                 <ul>
-                    <li>
-                        <a href="http://nakagami.blog.so-net.ne.jp/" id="nakagami" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_nakagami.png', 1) }}" alt="Hajime Nakagami" /></a>
-                        <a href="http://www.marici.co.jp/" id="marici" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_marici.png', 1) }}" alt="Marici, Inc." /></a>
-                        <a href="http://www.ark-pc.co.jp/" id="ark" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_ark.png', 1) }}" alt="PCSHOP ARK" /></a>
-                        <a href="http://rokujyouhitoma.jp/" id="ike" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_ike.png', 1) }}" alt="Ike Tohru" /></a>
-                    </li>
+		  {% for data in patron %}
+                    {{ sponsor2(data) }}
+		  {% endfor %}
                 </ul>
             </div>
             <div  id="media-sponsor" class="sponsor">
@@ -222,40 +226,25 @@
                 <h3><a href="{{ pathto('sponsor.html#ja-media', 1) }}">Media Sponsor</a></h3>
     {%- endif %}
                 <ul>
-                    <li>
-                        <a href="http://codezine.jp/" id="codezine" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_cordzine.gif', 1) }}" alt="翔泳社" /></a>
-                        <a href="http://gihyo.jp/" id="gihyo" target="_blank">
-                    </li>
-                    <li>
-                        <img src="{{ pathto('_static/image/logo_gihyo.gif', 1) }}" alt="技術評論社" /></a>
-                    </li>
-                    <li>
-                        <a href="http://www.oreilly.co.jp/" id="oreilly" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_oreilly.gif', 1) }}" alt="オライリー・ジャパン" /></a>
-                    </li>
-                    <li>
-                        <a href="http://slashdot.jp/" id="slashdot" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_slashdot.png', 1) }}" alt="Slashdot Japan" /></a>
-                    </li>
+		  {% for data in media %}
+                    {{ sponsor(data) }}
+		  {% endfor %}
                 </ul>
             </div>
             <div  id="support" class="sponsor">
                 <h3>Co-organizer</h3>
                 <ul>
-                    <li>
-                        <a href="http://aiit.ac.jp/" id="aiit" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_aiit.png', 1) }}" alt="Advanced Institute of Industrial Technology" /></a>
-                    </li>
+		  {% for data in organizer %}
+                    {{ sponsor(data) }}
+		  {% endfor %}
                 </ul>
             </div>
             <div  id="support" class="sponsor">
                 <h3>Support</h3>
                 <ul>
-                    <li>
-                        <a href="http://www.mozilla.jp/" id="mozilla" target="_blank">
-                        <img src="{{ pathto('_static/image/logo_mozilla.png', 1) }}" alt="Mozilla Firefox" /></a>
-                    </li>
+		  {% for data in support %}
+                    {{ sponsor(data) }}
+		  {% endfor %}
                 </ul>
             </div>
         </div>
