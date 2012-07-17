@@ -30,7 +30,7 @@ Overview
    * - Participants
      - 400 people
    * - Fee
-     - TBD
+     - 3,000 JPY
    * - Operation
      - `PyCon JP Committee`_
    * - Contact

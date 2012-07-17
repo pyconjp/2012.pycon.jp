@@ -11,8 +11,16 @@ PyCon JP 2012
 Information
 ===========
 
+PyCon JP 2012 registration started
+----------------------------------
+
+PyCon JP 2012 participants registration started.
+
+To :doc:`participants registration <registration/index>` page for details.
+
+
 Call for Proposals ended
-========================
+------------------------
 
 PyCon JP call for proposals is ended on July 1, 2012.
 
