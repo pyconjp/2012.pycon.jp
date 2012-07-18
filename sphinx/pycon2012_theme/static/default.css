@@ -395,7 +395,8 @@ small {
 	vertical-align: middle;
 }
 
-#program-index #content .section {
+#program-index #content .section,
+#en-program-index #content .section {
 	width: auto;
 }
 
