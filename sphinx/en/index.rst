@@ -19,32 +19,29 @@ PyCon JP 2012 participants registration started.
 To :doc:`participants registration <registration/index>` page for details.
 
 
-..
+.. Call for Proposals ended
+.. ------------------------
 
-  Call for Proposals ended
-  ------------------------
+.. PyCon JP call for proposals is ended on July 1, 2012.
 
-  PyCon JP call for proposals is ended on July 1, 2012.
+.. Thanks for many proposals.
 
-  Thanks for many proposals.
-
-  The result of the screening will be further notice
+.. The result of the screening will be further notice
 
 
 Keynote Speaker - Armin Ronacher
 --------------------------------
 Armin Ronacher(`@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_) will come to Japan as the :doc:`/en/program/keynote` for PyCon JP.
 
-..
 
-  CFP Open!
-  ---------
+.. CFP Open!
+.. ---------
 
-  The call for talk proposals for PyCon JP 2012 is now open!
+.. The call for talk proposals for PyCon JP 2012 is now open!
 
-  We look forward to your proposals!
+.. We look forward to your proposals!
 
-  Click :doc:`here <cfp>` for details.
+.. Click :doc:`here <cfp>` for details.
 
 
 Sponsors Wanted
