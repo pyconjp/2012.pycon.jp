@@ -236,8 +236,12 @@ table tr.row-odd {
 	background-color: #eeeeee;
 }
 
+table th {
+	border: 1px solid black;
+	background-color: #AAA;
+}
 table td {
-	border: 0px;
+	border: 1px solid black;
 }
 
 a {
@@ -344,6 +348,8 @@ small {
 	display: none;
 }
 
+#program-index #content #sidebar,
+#en-program-index #content #sidebar,
 #index #content #sidebar,
 #en-index #content #sidebar  {
 	width: 940px;
@@ -353,28 +359,43 @@ small {
 
 /* sposer のbottom 表示 */
 
+#program-index #content #sidebar h3,
+#en-program-index #content #sidebar h3,
 #index #content #sidebar h3,
 #en-index #content #sidebar h3{
 	margin-left: 0;
 }
 
+#program-index #content #sidebar ul,
+#en-program-index #content #sidebar ul,
 #index #content #sidebar ul,
 #en-index #content #sidebar ul{
 	margin-left: 0;
 }
 
+#program-index #content #sidebar li,
+#en-program-index #content #sidebar li,
 #index #content #sidebar li,
 #en-index #content #sidebar li{
 	margin-left: 10px;
 	display: inline;
 }
 
+#program-index #content #sidebar li a,
+#en-program-index #content #sidebar li a,
 #index #content #sidebar li a,
 #en-index #content #sidebar li a{
 	display: inline;
 }
 
+#program-index #content #sidebar li a img,
+#en-program-index #content #sidebar li a img,
 #index #content #sidebar li a img,
 #en-index #content #sidebar li a img{
 	vertical-align: middle;
 }
+
+#program-index #content .section {
+	width: auto;
+}
+
