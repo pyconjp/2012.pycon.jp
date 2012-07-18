@@ -236,11 +236,17 @@ table tr.row-odd {
 	background-color: #eeeeee;
 }
 
-table th {
+table td {
+	border: 0px;
+}
+
+#program-index table th,
+#en-program-index table th {
 	border: 1px solid black;
 	background-color: #AAA;
 }
-table td {
+#program-index table td,
+#en-program-index table td {
 	border: 1px solid black;
 }
 
