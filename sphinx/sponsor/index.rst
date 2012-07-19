@@ -1,11 +1,18 @@
+:ignore:
+
 =============================
  PyCon JP スポンサーについて
 =============================
 
-Gold Sponsor
-============
+PLATINUM
+========
+
+GOLD
+====
 
 10Gen/MongoDB
+-------------
+
   |10gen|
 
   http://www.mongodb.org/
@@ -14,14 +21,27 @@ Gold Sponsor
    :target: http://www.mongodb.org/
    :alt: 10gen/MongoDB
 
-Silver Sponsor
-==============
+株式会社gumi
+------------
+
+|gumi|
+
+.. |gumi| image:: /pycon2012_theme/static/image/logo_gumi.png
+   :target: http://gu3.co.jp/
+   :alt: 株式会社gumi
+
+gumi さんの文章
+
+SILVER
+======
+
+フェアリーデバイセズ株式会社
 
 |fairydevices|
-   フェアリーデバイセズ株式会社
-   http://www.fairydevices.jp/
 
-.. |fairydevices| image:: /pycon2012_theme/static/image/logo_fairydevices.gif
+http://www.fairydevices.jp/
+
+.. |fairydevices| image:: /pycon2012_theme/static/image/logo_fairydevices.png
    :target: http://www.fairydevices.jp/
    :alt: フェアリーデバイセズ
 
@@ -29,7 +49,7 @@ Silver Sponsor
    BeProud
    http://www.beproud.jp/
 
-.. |beproud| image:: /pycon2012_theme/static/image/logo_beproud.gif
+.. |beproud| image:: /pycon2012_theme/static/image/logo_beproud.png
    :target: http://www.beproud.jp/
    :alt: BeProud
 
@@ -47,7 +67,7 @@ Silver Sponsor
    BizMobile株式会社
    http://bizmobile.co.jp/
 
-.. |bizmobile| image:: /pycon2012_theme/static/image/logo_bizmobile.gif
+.. |bizmobile| image:: /pycon2012_theme/static/image/logo_bizmobile.png
    :target: http://bizmobile.co.jp/
    :alt: BizMobile
 
