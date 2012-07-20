@@ -143,7 +143,7 @@ Day2 : 2012/9/16 (Sun)
 .. list-table::
    :header-rows: 2
 
-   - - 時刻
+   - - Room
      - hall
      - Room-180
      - Room-100
@@ -151,7 +151,7 @@ Day2 : 2012/9/16 (Sun)
      - Room-60
      - Room-40
 
-   - -
+   - - Time
      -
      - Japanese track 1
      - English track
