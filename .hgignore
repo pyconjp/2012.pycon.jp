@@ -7,4 +7,6 @@ sphinx/bin
 sphinx/bootstrap.py
 sphinx/develop-eggs
 sphinx/parts
+sphinx/eggs
+.*\.egg-info
 .*\.pyc
