@@ -110,7 +110,7 @@ Google は、世界中の情報を整理し、世界中の人々がアクセス�
 
 .. |cb21| image:: /pycon2012_theme/static/image/logo_cb21.png
    :target: http://www.cb21.co.jp/
-   :alt: キャッチボール・トゥエンティワン・インターネット・コンサルティング
+   :alt: キャッチボール・トゥエンティワン
 
 |sf|
 ====
