@@ -92,6 +92,8 @@ PyCon JP Patron — 25,000 JPY (For individuals and start-up businesses)
 - Patron link on Sponsors page
 - 1 free sponsor registration
 
+For more information, please refer to ":doc:`/en/sponsor/patron`".
+
 .. _en-sprint:
 
 Sprint Sponsorship — 100,000 JPY
