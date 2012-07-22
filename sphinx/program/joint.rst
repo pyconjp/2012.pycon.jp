@@ -29,9 +29,14 @@ Django & Pyramid Con JP 2012
 
 SphinxCon JP 2012
 =================
+|sphinxconjp|
+
 - サイト: `SphinxCon JP 2012 <http://sphinx-users.jp/event/20120916_sphinxconjp/index.html>`_
 - 日程: 2012-09-16(日)
 - 主催: `Sphinx-Users.jp <http://sphinx-users.jp/>`_
+
+.. |sphinxconjp| image:: /_static/joint/SphinxConJP2012-logo.png
+   :alt: SphinxCon JP
 
 NVDA Workshop in Japan
 ======================
