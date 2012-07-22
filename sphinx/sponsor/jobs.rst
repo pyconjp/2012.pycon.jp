@@ -93,7 +93,7 @@ Silver Sponsor
 
 東京勤務の Google App Engine のサポートエンジニアを募集しています。 Job Description はこちらです: http://goo.gl/y6yzt
 
-.. |google| image:: /_static/sponsor/logo_googledevelopers.png
+.. |google| image:: /_static/sponsor/logo_google.png
    :target: https://developers.google.com/
    :alt: Google
 

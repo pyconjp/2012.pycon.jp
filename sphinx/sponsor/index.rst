@@ -99,7 +99,7 @@ BizMobileは、低コストで安心、安全なモバイルビジネス環境�
 
 Google は、世界中の情報を整理し、世界中の人々がアクセスできて使えるようにするために様々なサービスを提供しています。また、Google は Google App Engine、Android SDK やその他多くの API など、開発者の皆さんがアプリケーションやサービスをつくるための様々なツールを提供しています。 https://developers.google.com/
 
-.. |google| image:: /_static/sponsor/logo_googledevelopers.png
+.. |google| image:: /_static/sponsor/logo_google.png
    :target: https://developers.google.com/
    :alt: Google
 

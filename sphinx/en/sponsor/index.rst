@@ -95,7 +95,7 @@ SnapDish, an SNS making cooking fun and delicious, has many downloads from users
 
 Google is a global technology leader focused on improving the ways people connect with information. Google also provides various tools for developers to create applications and services, such as Google App Engine, Android SDK, and various Google APIs. For more information, visit https://developers.google.com/
 
-.. |google| image:: /_static/sponsor/logo_googledevelopers.png
+.. |google| image:: /_static/sponsor/logo_google.png
    :target: https://developers.google.com/
    :alt: Google
 

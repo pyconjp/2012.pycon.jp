@@ -93,7 +93,7 @@ Silver Sponsor
 
 Google's Cloud Platform team is hiring Solutions Architect to be based in Mountain View (USA). Solutions Architects helps to shape and deliver strategies to build mindshare and broad use of Google Cloud infrastructure (e.g. Google App Engine, Cloud Storage and BigQuery). See this URL for details: http://goo.gl/u7zTv 
 
-.. |google| image:: /_static/sponsor/logo_googledevelopers.png
+.. |google| image:: /_static/sponsor/logo_google.png
    :target: https://developers.google.com/
    :alt: Google
 
