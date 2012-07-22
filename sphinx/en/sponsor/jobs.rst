@@ -15,7 +15,7 @@ This is offered as a service for both sponsors (to advertise their) and for atte
 .. - 10Gen/MongoDB
 .. - http://www.mongodb.org/
 
-.. .. |10gen| image:: /pycon2012_theme/static/image/logo_10gen.png
+.. .. |10gen| image:: /_static/sponsor/logo_10gen.png
 ..    :target: http://www.mongodb.org/
 ..    :alt: 10gen/MongoDB
 
@@ -24,7 +24,7 @@ This is offered as a service for both sponsors (to advertise their) and for atte
 .. - gumi
 .. - http://gu3.co.jp/
 
-.. .. |gumi| image:: /pycon2012_theme/static/image/logo_gumi.png
+.. .. |gumi| image:: /_static/sponsor/logo_gumi.png
 ..    :target: http://gu3.co.jp/
 ..    :alt: gumi
 
@@ -33,7 +33,7 @@ This is offered as a service for both sponsors (to advertise their) and for atte
 .. - 日本マイクロソフト
 .. - http://windowsazure.com
 
-.. .. |microsoft| image:: /pycon2012_theme/static/image/logo_ms.png
+.. .. |microsoft| image:: /_static/sponsor/logo_ms.png
 ..    :target: http://gu3.co.jp/
 ..    :alt: 日本マイクロソフト
 
@@ -45,7 +45,7 @@ Silver Sponsor
 .. - フェアリーデバイセズ
 .. - http://www.fairydevices.jp/
 
-.. .. |fairydevices| image:: /pycon2012_theme/static/image/logo_fairydevices.png
+.. .. |fairydevices| image:: /_static/sponsor/logo_fairydevices.png
 ..    :target: http://www.fairydevices.jp/
 ..    :alt: フェアリーデバイセズ
 
@@ -54,7 +54,7 @@ Silver Sponsor
 .. - ビープラウド
 .. - http://www.beproud.jp/
 
-.. .. |beproud| image:: /pycon2012_theme/static/image/logo_beproud.png
+.. .. |beproud| image:: /_static/sponsor/logo_beproud.png
 ..    :target: http://www.beproud.jp/
 ..    :alt: BeProud
 
@@ -63,7 +63,7 @@ Silver Sponsor
 .. - SnapDish
 .. - http://snapdi.sh/
 
-.. .. |snapdish| image:: /pycon2012_theme/static/image/logo_snapdish.png
+.. .. |snapdish| image:: /_static/sponsor/logo_snapdish.png
 ..    :target: http://snapdi.sh/
 ..    :alt: SnapDish
 
@@ -72,7 +72,7 @@ Silver Sponsor
 .. - BizMobile
 .. - http://bizmobile.co.jp/
 
-.. .. |bizmobile| image:: /pycon2012_theme/static/image/logo_bizmobile.png
+.. .. |bizmobile| image:: /_static/sponsor/logo_bizmobile.png
 ..    :target: http://bizmobile.co.jp/
 ..    :alt: BizMobile
 
@@ -82,7 +82,7 @@ Silver Sponsor
 .. - Nexedi
 .. - http://www.nexedi.co.jp/
 
-.. .. |nexedi| image:: /pycon2012_theme/static/image/logo_nexedi.png
+.. .. |nexedi| image:: /_static/sponsor/logo_nexedi.png
 ..    :target: http://www.nexedi.co.jp/
 ..    :alt: Nexedi
 
@@ -93,7 +93,7 @@ Silver Sponsor
 
 Google's Cloud Platform team is hiring Solutions Architect to be based in Mountain View (USA). Solutions Architects helps to shape and deliver strategies to build mindshare and broad use of Google Cloud infrastructure (e.g. Google App Engine, Cloud Storage and BigQuery). See this URL for details: http://goo.gl/u7zTv 
 
-.. |google| image:: /pycon2012_theme/static/image/logo_googledevelopers.png
+.. |google| image:: /_static/sponsor/logo_googledevelopers.png
    :target: https://developers.google.com/
    :alt: Google
 
@@ -102,7 +102,7 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 .. - キャッチボール・トゥエンティワン
 .. - http://www.cb21.co.jp/
 
-.. .. |cb21| image:: /pycon2012_theme/static/image/logo_cb21.png
+.. .. |cb21| image:: /_static/sponsor/logo_cb21.png
 ..    :target: http://www.cb21.co.jp/
 ..    :alt: キャッチボール・トゥエンティワン
 
@@ -111,7 +111,7 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 .. - SourceForge.JP
 .. - http://sourceforge.jp/
 
-.. .. |sf| image:: /pycon2012_theme/static/image/logo_sourceforge.png
+.. .. |sf| image:: /_static/sponsor/logo_sourceforge.png
 ..    :target: http://sourceforge.jp/
 ..    :alt: SourceForge.JP
 
@@ -120,7 +120,7 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 .. - TriAx
 .. - http://triax.jp/
 
-.. .. |triax| image:: /pycon2012_theme/static/image/logo_triax.png
+.. .. |triax| image:: /_static/sponsor/logo_triax.png
 ..    :target: http://triax.jp/
 ..    :alt: TriAx
 
@@ -129,7 +129,7 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 .. - ゼロスタート
 .. - http://zero-start.jp/
 
-.. .. |zerostart| image:: /pycon2012_theme/static/image/logo_zerostart.png
+.. .. |zerostart| image:: /_static/sponsor/logo_zerostart.png
 ..    :target: http://zero-start.jp/
 ..    :alt: ゼロスタート
 
@@ -140,7 +140,7 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 
 .. CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニア向けサービスです。
 
-.. .. |codeiq| image:: /pycon2012_theme/static/image/logo_codeiq.png
+.. .. |codeiq| image:: /_static/sponsor/logo_codeiq.png
 ..    :target: https://codeiq.jp/
 ..    :alt: CodeIQ
 
@@ -149,7 +149,7 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 .. - アリエル・ネットワーク
 .. - http://www.ariel-networks.com/
 
-.. .. |ariel| image:: /pycon2012_theme/static/image/logo_ariel.png
+.. .. |ariel| image:: /_static/sponsor/logo_ariel.png
 ..    :target: http://www.ariel-networks.com/
 ..    :alt: アリエル・ネットワーク
 
@@ -159,7 +159,7 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 .. - ゴーガ
 .. - http://www.goga.co.jp/
 
-.. .. |goga| image:: /pycon2012_theme/static/image/logo_goga.png
+.. .. |goga| image:: /_static/sponsor/logo_goga.png
 ..    :target: http://www.goga.co.jp/
 ..    :alt: ゴーガ
 

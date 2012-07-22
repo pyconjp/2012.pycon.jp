@@ -4,8 +4,8 @@
  PyCon JP スポンサーについて
 =============================
 
-Platinum Sponsor
-================
+.. Platinum Sponsor
+   ================
 
 Gold Sponsor
 ============
@@ -15,7 +15,7 @@ Gold Sponsor
 - 10Gen/MongoDB
 - http://www.mongodb.org/
 
-.. |10gen| image:: /pycon2012_theme/static/image/logo_10gen.png
+.. |10gen| image:: /_static/sponsor/logo_10gen.png
    :target: http://www.mongodb.org/
    :alt: 10gen/MongoDB
 
@@ -24,7 +24,7 @@ Gold Sponsor
 - gumi
 - http://gu3.co.jp/
 
-.. |gumi| image:: /pycon2012_theme/static/image/logo_gumi.png
+.. |gumi| image:: /_static/sponsor/logo_gumi.png
    :target: http://gu3.co.jp/
    :alt: gumi
 
@@ -33,7 +33,7 @@ Gold Sponsor
 - 日本マイクロソフト
 - http://windowsazure.com
 
-.. |microsoft| image:: /pycon2012_theme/static/image/logo_ms.png
+.. |microsoft| image:: /_static/sponsor/logo_ms.png
    :target: http://gu3.co.jp/
    :alt: 日本マイクロソフト
 
@@ -45,7 +45,7 @@ Silver Sponsor
 - フェアリーデバイセズ
 - http://www.fairydevices.jp/
 
-.. |fairydevices| image:: /pycon2012_theme/static/image/logo_fairydevices.png
+.. |fairydevices| image:: /_static/sponsor/logo_fairydevices.png
    :target: http://www.fairydevices.jp/
    :alt: フェアリーデバイセズ
 
@@ -54,7 +54,7 @@ Silver Sponsor
 - ビープラウド
 - http://www.beproud.jp/
 
-.. |beproud| image:: /pycon2012_theme/static/image/logo_beproud.png
+.. |beproud| image:: /_static/sponsor/logo_beproud.png
    :target: http://www.beproud.jp/
    :alt: BeProud
 
@@ -65,7 +65,7 @@ Silver Sponsor
 
 SnapDish は、料理が楽しくて、おいしくなる料理SNSです。現在、世界中で沢山の料理好きの人にダウンロードにされています。Google Play / AppStore にて無料ダウンロード公開中です。今後、世界の料理写真プラットフォームを目指して、API を公開する予定です。SnapDish は、 Python によって支えられています。私たちは、これからも Python の日本での発展を応援しています。
 
-.. |snapdish| image:: /pycon2012_theme/static/image/logo_snapdish.png
+.. |snapdish| image:: /_static/sponsor/logo_snapdish.png
    :target: http://snapdi.sh/
    :alt: SnapDish
 
@@ -78,7 +78,7 @@ SnapDish は、料理が楽しくて、おいしくなる料理SNSです。現�
 
 BizMobileは、低コストで安心、安全なモバイルビジネス環境を提供したいと考え、クラウド型のMDMを採用。このシステムは、Amazonのクラウド上に、すべてPythonのオープンソース・ソリューションを使って構築しています。おかげさまで多くの企業様からのご支持をいただき、iOS端末への導入台数は10万台を突破しています。
 
-.. |bizmobile| image:: /pycon2012_theme/static/image/logo_bizmobile.png
+.. |bizmobile| image:: /_static/sponsor/logo_bizmobile.png
    :target: http://bizmobile.co.jp/
    :alt: BizMobile
 
@@ -88,7 +88,7 @@ BizMobileは、低コストで安心、安全なモバイルビジネス環境�
 - Nexedi
 - http://www.nexedi.co.jp/
 
-.. |nexedi| image:: /pycon2012_theme/static/image/logo_nexedi.png
+.. |nexedi| image:: /_static/sponsor/logo_nexedi.png
    :target: http://www.nexedi.co.jp/
    :alt: Nexedi
 
@@ -99,7 +99,7 @@ BizMobileは、低コストで安心、安全なモバイルビジネス環境�
 
 Google は、世界中の情報を整理し、世界中の人々がアクセスできて使えるようにするために様々なサービスを提供しています。また、Google は Google App Engine、Android SDK やその他多くの API など、開発者の皆さんがアプリケーションやサービスをつくるための様々なツールを提供しています。 https://developers.google.com/
 
-.. |google| image:: /pycon2012_theme/static/image/logo_googledevelopers.png
+.. |google| image:: /_static/sponsor/logo_googledevelopers.png
    :target: https://developers.google.com/
    :alt: Google
 
@@ -108,7 +108,7 @@ Google は、世界中の情報を整理し、世界中の人々がアクセス�
 - キャッチボール・トゥエンティワン
 - http://www.cb21.co.jp/
 
-.. |cb21| image:: /pycon2012_theme/static/image/logo_cb21.png
+.. |cb21| image:: /_static/sponsor/logo_cb21.png
    :target: http://www.cb21.co.jp/
    :alt: キャッチボール・トゥエンティワン
 
@@ -117,7 +117,7 @@ Google は、世界中の情報を整理し、世界中の人々がアクセス�
 - SourceForge.JP
 - http://sourceforge.jp/
 
-.. |sf| image:: /pycon2012_theme/static/image/logo_sourceforge.png
+.. |sf| image:: /_static/sponsor/logo_sourceforge.png
    :target: http://sourceforge.jp/
    :alt: SourceForge.JP
 
@@ -126,7 +126,7 @@ Google は、世界中の情報を整理し、世界中の人々がアクセス�
 - TriAx
 - http://triax.jp/
 
-.. |triax| image:: /pycon2012_theme/static/image/logo_triax.png
+.. |triax| image:: /_static/sponsor/logo_triax.png
    :target: http://triax.jp/
    :alt: TriAx
 
@@ -135,7 +135,7 @@ Google は、世界中の情報を整理し、世界中の人々がアクセス�
 - ゼロスタート
 - http://zero-start.jp/
 
-.. |zerostart| image:: /pycon2012_theme/static/image/logo_zerostart.png
+.. |zerostart| image:: /_static/sponsor/logo_zerostart.png
    :target: http://zero-start.jp/
    :alt: ゼロスタート
 
@@ -148,7 +148,7 @@ CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニ�
 
 企業の第一線で働くITエンジニアからの出題に解答し、評価フィードバックを受けることで、自身のスキルがその企業から見て「どの程度のものか」「必要とされるか」を測定できます。また、出題者をうならせた解答者には、そのITエンジニアとのMeetupの機会が提供されます。フツーの市場価値じゃない、その企業におけるリアルな評価。気になるあなたは、ぜひトライしてみてください！
 
-.. |codeiq| image:: /pycon2012_theme/static/image/logo_codeiq.png
+.. |codeiq| image:: /_static/sponsor/logo_codeiq.png
    :target: https://codeiq.jp/
    :alt: CodeIQ
 
@@ -159,7 +159,7 @@ CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニ�
 
 世界に通用する技術力と、会社の成長戦略を支えお客様の信頼に応える各分野のスペシャリスト達の存在です。『“空気のように意識せず使えるネットワーク・コンピューティング”を、より多くの企業において実現する』　―　これが、アリエルが掲げるビジョンです。世界に通じる技術者と、その技術者が創り上げる製品によって次世代の情報活用シーンをリードし、ビジネスの加速化を支援します。
 
-.. |ariel| image:: /pycon2012_theme/static/image/logo_ariel.png
+.. |ariel| image:: /_static/sponsor/logo_ariel.png
    :target: http://www.ariel-networks.com/
    :alt: アリエル・ネットワーク
 
@@ -170,7 +170,7 @@ CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニ�
 
 株式会社ゴーガでは、ウェブシステム開発の大半をGoogle App Engine Pythonにて実施しています。GAE Pythonで世界を変えてみたいエンジニアの皆さんと一緒に歩んでいきます。
 
-.. |goga| image:: /pycon2012_theme/static/image/logo_goga.png
+.. |goga| image:: /_static/sponsor/logo_goga.png
    :target: http://www.goga.co.jp/
    :alt: ゴーガ
 
