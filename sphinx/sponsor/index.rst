@@ -174,3 +174,12 @@ CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニ�
    :target: http://www.goga.co.jp/
    :alt: ゴーガ
 
+|smapo|
+=======
+- スポットライト
+- http://www.smapo.co.jp/
+
+.. |smapo| image:: /_static/sponsor/logo_smapo.png
+   :target: http://www.smapo.co.jp/
+   :alt: スポットライト
+

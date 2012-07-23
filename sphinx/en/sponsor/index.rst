@@ -162,3 +162,12 @@ Google is a global technology leader focused on improving the ways people connec
    :target: http://www.goga.co.jp/
    :alt: Goga
 
+|smapo|
+=======
+- Spotlight
+- http://www.smapo.co.jp/
+
+.. |smapo| image:: /_static/sponsor/logo_smapo.png
+   :target: http://www.smapo.co.jp/
+   :alt: Spotlight
+
