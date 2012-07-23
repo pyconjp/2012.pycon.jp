@@ -13,7 +13,7 @@ Armin Ronacher は Pocoo_ チームの創立メンバーの一人で、
 Pocoo チームは
 Sphinx_ ドキュメント作成支援ツールや
 Jinja2_ テンプレートエンジンなどを作成している Python の熱狂的な開発者グループです。
-最近の開発実績には Flask_ マイクルフレームワークがあります。
+最近の開発実績には Flask_ マイクロフレームワークがあります。
 現在、 Fireteam_ というロンドンのゲームサービス企業で働いています。
 
 - Twitter: `@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_
