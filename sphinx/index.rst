@@ -34,13 +34,19 @@ PyCon JP 2012 開催します！
 お知らせ
 ========
 
+
+キーノートスピーカー - 小飼弾
+-----------------------------
+
+二人目の :doc:`キーノートスピーカー </program/keynote>` が `小飼弾のアルファギークに逢ってきた <http://gihyo.jp/book/2008/978-4-7741-3452-9>`_ などの著書や Perl Monger として有名な `小飼弾 <http://twitter.com/dankogai>`_ に決定しました。
+
+
 PyCon JP 2012 参加登録開始
 --------------------------
 
 PyCon JP 2012 の参加登録を開始しました。
 
 詳細は :doc:`参加登録ページ <registration/index>` へ
-
 
 
 .. Call for Proposals 受け付け終了
@@ -60,8 +66,8 @@ PyCon JP 2012 の参加登録を開始しました。
 
 詳細は :doc:`パトロン応募ページ <sponsor/patron>` をご覧ください。
 
-キーノートスピーカー - Armin Ronacher
--------------------------------------
+キーノートスピーカー - Armin Ronacher氏
+---------------------------------------
 :doc:`/program/keynote` が `Flask <http://flask.pocoo.org/>`_ 等の開発者である
 Armin Ronacher(`@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_)に決定しました。
 
