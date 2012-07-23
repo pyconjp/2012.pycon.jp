@@ -56,6 +56,10 @@
 {%- endmacro %}
 
 {# 各スポンサーの情報をキーワード、URL、日本語、英語で設定 #}
+{% set platinum = [
+  ('nifty', 'http://c4sa.nifty.com/', 'ニフティ', 'Nifty'),
+] %}
+
 {% set gold = [
   ('10gen', 'http://www.mongodb.org/', '10gen/MongoDB', '10gen/MongoDB'),
   ('gumi', 'http://gu3.co.jp/', 'gumi', 'gumi'),
@@ -187,6 +191,20 @@
                 <a href="{{ pathto('sponsor') }}">
 		<h3>&gt;&gt;スポンサーになるには</h3></a>
             {%- endif %}
+            </div>
+            <div id="platinum-sponsor" class="sponsor">
+    {%- if _getName('lang') == 'lang-en' %}
+                <h3><a href="{{ pathto('en/sponsor.html#en-platinum', 1) }}">Platinum Sponsor</a></h3>
+    {%- else %}
+                <h3><a href="{{ pathto('sponsor.html#ja-platinum', 1) }}">Platinum Sponsor</a></h3>
+    {%- endif %}
+                <ul>
+		  {% for data in platinum %}
+                    {{ sponsor(data) }}
+		  {% endfor %}
+                </ul>
+            </div>
+            <div  id="gold-sponsor" class="sponsor">
     {%- if _getName('lang') == 'lang-en' %}
                 <h3><a href="{{ pathto('en/sponsor.html#en-gold', 1) }}">Gold Sponsor</a></h3>
     {%- else %}
