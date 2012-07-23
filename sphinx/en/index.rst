@@ -28,8 +28,8 @@ See the :doc:`participants registration <registration/index>` page for details.
 
 .. We will announce the results once we have finished reviewing all of the submissions.
 
-Pattron Sponsor Registration
--------------------------------
+Patron Sponsor Registration
+---------------------------
 
 We have begun accepting applications for patron sponsors from individuals and
 startups.
