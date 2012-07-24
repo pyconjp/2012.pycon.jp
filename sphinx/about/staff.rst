@@ -51,6 +51,10 @@
      - 松崎 けんじ
      - `@xga <http://twitter.com/xga>`_
      - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
+   * -
+     - いながき たけし
+     -
+     -
    * - 渉外
      - Ian Lewis
      - `@IanMLewis <http://twitter.com/ianmlewis>`_
@@ -67,6 +71,14 @@
      - 土屋 陽介
      -
      - `yosuke.tsuchiya <http://www.facebook.com/yosuke.tsuchiya>`_
+   * -
+     - 池 徹
+     -
+     - 
+   * -
+     - 薄井 敏臣
+     -
+     - 
    * - デザイン
      - 木下 文史
      - `@kinofumi <https://twitter.com/kinofumi>`_
@@ -79,11 +91,11 @@
      - 今津 りこ
      - `@RicoImazu <https://twitter.com/RicoImazu>`_
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
-   * - その他スタッフ
+   * - 受付
      - 吉田 昂平
      - `@yosida95 <https://twitter.com/yosida95>`_
      - `yosida95 <http://www.facebook.com/yosida95>`_
-   * -
+   * - その他スタッフ
      - 一 李
      -
      -
