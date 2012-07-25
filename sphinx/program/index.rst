@@ -11,9 +11,8 @@
 
 .. day1
    day2
-   sprint
-
-
+   sprints
+   openspaces
 
 タイムテーブル予定
 ========================
