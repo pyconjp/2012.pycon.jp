@@ -18,8 +18,15 @@ PyCon JP 2012 では各 Python 関連コミュニティによるイベントを�
 
 App Engine Conference 2012
 ==========================
+|appengine|
+
+- サイト: `App Engine Conference 2012 <https://sites.google.com/site/appengineconference2012/>`_
 - 日程: 2012-09-15(土)
 - 主催: `Google-App-Engine-Japan <http://groups.google.co.jp/group/google-app-engine-japan/>`_
+
+.. |appengine| image:: /_static/joint/logo_appengine.png
+   :alt: App Engine Conference 2012
+   :target: https://sites.google.com/site/appengineconference2012/
 
 Django & Pyramid Con JP 2012
 ============================
@@ -36,10 +43,17 @@ SphinxCon JP 2012
 - 主催: `Sphinx-Users.jp <http://sphinx-users.jp/>`_
 
 .. |sphinxconjp| image:: /_static/joint/SphinxConJP2012-logo.png
-   :alt: SphinxCon JP
+   :alt: SphinxCon JP 2012
+   :target: http://sphinx-users.jp/event/20120916_sphinxconjp/index.html
 
 NVDA Workshop in Japan
 ======================
+|nvda|
+
 - サイト: `NVDA Workshop in Japan <http://workshop.nvda.jp/>`_
 - 日程: 2012-09-16(日)
 - 主催: `NVDA Japanese Team <http://en.sourceforge.jp/projects/nvdajp>`_
+
+.. |nvda| image:: /_static/joint/logo_nvda.png
+   :alt: NVDA Workshop in Japan
+   :target: http://workshop.nvda.jp/
