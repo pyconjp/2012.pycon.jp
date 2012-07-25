@@ -1,131 +1,196 @@
-========================
- Sponsorship Prospectus
-========================
+=========================
+ About PyCon JP Sponsors
+=========================
 
-The available sponsorships are below. Don't see what you want? Contact us any time, we are flexible and willing to work with you to design the sponsorship package that will fulfill your business needs.
+.. toctree::
+   :maxdepth: 1
 
-Last year's performance
-=======================
-Performance of `PyCon JP 2011 <http://2011.pycon.jp/english-information>`_ is as follows:
+   sponsor/prospectus
+   sponsor/patron
+   sponsor/jobs
 
-.. list-table::
-   :widths: 30 70
+Platinum Sponsor
+================
 
-   * - Conferene
-     - | August 27, 2011
-       | 3 tracks(including the English track) 20 sessions
-   * - Sprint
-     - August 28, 2011
-   * - Participants
-     - | 250 people(including staff)
-       | PyCon JP 2012 target is 400 people
+|nifty|
+=======
+- Nifty
+- http://c4sa.nifty.com/
 
-`Click here for PyCon JP 2011 archives(Japanese) <http://2011.pycon.jp/reports>`_.
+.. |nifty| image:: /_static/sponsor/logo_nifty.png
+   :target: http://c4sa.nifty.com/
+   :alt: Nifty
 
-Contact:
+Gold Sponsor
+============
+
+|10gen|
+=======
+- 10Gen/MongoDB
+- http://www.mongodb.org/
+
+.. |10gen| image:: /_static/sponsor/logo_10gen.png
+   :target: http://www.mongodb.org/
+   :alt: 10gen/MongoDB
+
+|gumi|
+======
+- gumi
+- http://gu3.co.jp/
+
+.. |gumi| image:: /_static/sponsor/logo_gumi.png
+   :target: http://gu3.co.jp/
+   :alt: gumi
+
+|microsoft|
+===========
+- Microsoft Japan
+- http://windowsazure.com
+
+.. |microsoft| image:: /_static/sponsor/logo_ms.png
+   :target: http://gu3.co.jp/
+   :alt: Microsoft Japan
+
+|scubism|
+=========
+- S-cubism
+- http://www.s-cubism.jp/
+
+.. |scubism| image:: /_static/sponsor/logo_scubism.png
+   :target: http://www.s-cubism.jp/
+   :alt: S-cubism
+
+Silver Sponsor
+==============
+
+|fairydevices|
+==============
+- Fairy Devices
+- http://www.fairydevices.jp/
+
+.. |fairydevices| image:: /_static/sponsor/logo_fairydevices.png
+   :target: http://www.fairydevices.jp/
+   :alt: Fairy Devices
+
+|beproud|
+=========
+- BeProud
+- http://www.beproud.jp/
+
+.. |beproud| image:: /_static/sponsor/logo_beproud.png
+   :target: http://www.beproud.jp/
+   :alt: BeProud
+
+|snapdish|
+==========
+- SnapDish
+- http://snapdi.sh/
+
+SnapDish, an SNS making cooking fun and delicious, has many downloads from users around the world. It’s available for free on Google Play and AppStore. SnapDish built on Python will release an API aiming to be a food photo platform of the world. SnapDish supports the growth of Python in Japan.
+
+.. |snapdish| image:: /_static/sponsor/logo_snapdish.png
+   :target: http://snapdi.sh/
+   :alt: SnapDish
+
+|bizmobile|
+===========
+- BizMobile
+- http://bizmobile.co.jp/
+
+.. |bizmobile| image:: /_static/sponsor/logo_bizmobile.png
+   :target: http://bizmobile.co.jp/
+   :alt: BizMobile
+
+
+|nexedi|
 ========
-- Name: Takanori Suzuki
-- Email: sponsor@pycon.jp
+- Nexedi
+- http://www.nexedi.co.jp/
 
-Sponsorship Details:
-====================
+.. |nexedi| image:: /_static/sponsor/logo_nexedi.png
+   :target: http://www.nexedi.co.jp/
+   :alt: Nexedi
 
-.. _en-platinum:
+|google|
+========
+- Google
+- https://developers.google.com/
 
-Platinum Level Sponsorship — 500,000 JPY(Limited)
---------------------------------------------------
+Google is a global technology leader focused on improving the ways people connect with information. Google also provides various tools for developers to create applications and services, such as Google App Engine, Android SDK, and various Google APIs. For more information, visit https://developers.google.com/
 
-- 1 page ad in PyCon JP program guide
-- 200 word description in PyCon JP program guide
-- Tote bag insert (provided by sponsor)
-- Platinum sponsor link on PyCon JP website
-- Name included in press release
-- 12x2 banner (if provided) in all conference room
-- 4x8 banner (if provided) in convention entrance area
-- Job listing on the PyCon JP Jobs Fair page
-- Access to recruiting session
-- 10 free sponsor registrations
+.. |google| image:: /_static/sponsor/logo_google.png
+   :target: https://developers.google.com/
+   :alt: Google
 
-.. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+|cb21|
+======
+- Catchball 21
+- http://www.cb21.co.jp/
 
-.. _en-gold:
+.. |cb21| image:: /_static/sponsor/logo_cb21.png
+   :target: http://www.cb21.co.jp/
+   :alt: Catchball 21
 
-Gold Level Sponsorship — 300,000 JPY
--------------------------------------
+|sf|
+====
+- SourceForge.JP
+- http://sourceforge.jp/
 
-- 1/2 page color ad in PyCon JP program guide
-- 100 word description in PyCon JP program guide
-- Tote bag insert (provided by sponsor)
-- Gold sponsor link on PyCon JP website
-- Name included in press release
-- 12x2 banner (if provided) in all conference room
-- Job listing on the PyCon JP Jobs Fair page
-- Access to recruiting session
-- 5 free sponsor registrations
+.. |sf| image:: /_static/sponsor/logo_sourceforge.png
+   :target: http://sourceforge.jp/
+   :alt: SourceForge.JP
 
-.. - Name included in press release and event mailings
-.. - Large booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+|triax|
+=======
+- TriAx
+- http://triax.jp/
 
-.. _en-silver:
+.. |triax| image:: /_static/sponsor/logo_triax.png
+   :target: http://triax.jp/
+   :alt: TriAx
 
-Silver Level Sponsorship — 100,000 JPY
----------------------------------------
+|zerostart|
+===========
+- Zero Start
+- http://zero-start.jp/
 
-- 1/4 page color ad in PyCon JP program guide
-- 50 word description in PyCon JP program guide
-- Tote bag insert (provided by sponsor)
-- Silver sponsor link on PyCon website
-- Name included in press release
-- Job listing on the PyCon JP Jobs Fair page
-- Access to recruiting session
-- 2 free sponsor registrations
+.. |zerostart| image:: /_static/sponsor/logo_zerostart.png
+   :target: http://zero-start.jp/
+   :alt: Zero Start
 
-.. - Name included in press release and event mailings
-.. - Small booth space in Expo Hall - Currently all expo hall space is taken. This benefit can be traded for additional registrations or tutorial passes.
+|codeiq|
+========
+- CodeIQ
+- https://codeiq.jp/
 
-.. _en-patron:
+.. |codeiq| image:: /_static/sponsor/logo_codeiq.png
+   :target: https://codeiq.jp/
+   :alt: CodeIQ
 
-PyCon JP Patron — 25,000 JPY (For individuals and start-up businesses)
------------------------------------------------------------------------
+|ariel|
+=======
+- Ariel Networks
+- http://www.ariel-networks.com/
 
-- Listing in PyCon JP program guide
-- Patron link on Sponsors page
-- 1 free sponsor registration
+.. |ariel| image:: /_static/sponsor/logo_ariel.png
+   :target: http://www.ariel-networks.com/
+   :alt: Ariel Networks
 
-For more information, please refer to ":doc:`/en/sponsor/patron`".
+|goga|
+=======
+- Goga
+- http://www.goga.co.jp/
 
-.. _en-sprint:
+.. |goga| image:: /_static/sponsor/logo_goga.png
+   :target: http://www.goga.co.jp/
+   :alt: Goga
 
-Sprint Sponsorship — 100,000 JPY
----------------------------------
+|smapo|
+=======
+- Spotlight
+- http://www.smapo.co.jp/
 
-- Logo placement in PyCon JP program guide
-- Supports Python development
-- Sprint sponsor link on PyCon JP website
-- 3 free sponsor registrations
-- Can be added to other packages
+.. |smapo| image:: /_static/sponsor/logo_smapo.png
+   :target: http://www.smapo.co.jp/
+   :alt: Spotlight
 
-.. _en-lanyard:
-
-Lanyard sponsorship (100,000 JPY + cost of lanyard)
----------------------------------------------------
-
-- Provides wide recognition during PyCon JP
-- Logo and text on lanyard
-- 2 free sponsor registrations
-- Can be added to other packages
-
-.. _en-media:
-
-Media sponsorship (Please contact us)
--------------------------------------
-
-- Recognition on PyCon JP site
-- One free sponsor registration
-
-Do you want to sponsor? Contact us!
-===================================
-
-Write an email to sponsor@pycon.jp to get more information about our sponsorhip deals.
-
-.. Small entity discount: Small entities (organizations with fewer than 25 employees) receive a 50% discount for gold and silver sponsorships and for all vendor/exhibitor levels.
