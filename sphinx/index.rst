@@ -22,7 +22,7 @@ PyCon JP 2012 開催します！
    en/index
    en/about
    en/about/staff
-g   en/program/index
+   en/program/index
    en/cfp
    en/sponsor
    en/registration/index
@@ -47,16 +47,6 @@ PyCon JP 2012 の参加登録を開始しました。
 詳細は :doc:`参加登録ページ <registration/index>` へ
 
 
-.. Call for Proposals 受け付け終了
-.. -------------------------------
-
-.. PyCon JP の演題募集は 2012年7月1日をもって終了しました。
-
-.. 沢山のご応募ありがとうございました。
-
-.. 選考結果は追ってお知らせします。
-
-
 パトロン申し込み受け付け開始
 ----------------------------
 
@@ -68,16 +58,6 @@ PyCon JP 2012 の参加登録を開始しました。
 ---------------------------------------
 :doc:`/program/keynote` が `Flask <http://flask.pocoo.org/>`_ 等の開発者である
 Armin Ronacher(`@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_) 氏に決定しました。
-
-.. CFP 受け付け開始!
-.. -----------------
-
-.. 5/31 日より CFP(Call for Proposals) の受け付けを開始しました!
-
-.. 我こそは! という演目を持っている方は :doc:`CFP 応募フォーム <cfp>` からご応募ください。
-
-.. 皆様の応募をお待ちしております。
-
 
 スポンサー募集中です
 --------------------
