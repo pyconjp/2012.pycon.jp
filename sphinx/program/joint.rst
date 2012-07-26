@@ -1,5 +1,3 @@
-:ignore:
-
 ==============
  併設イベント
 ==============
@@ -51,6 +49,7 @@ NVDA Workshop in Japan
 |nvda|
 
 - サイト: `NVDA Workshop in Japan <http://workshop.nvda.jp/>`_
+- 日本語ページ: `NVDA Workshop in Japan 開催のお知らせ <http://team.nvda.jp/nvda-workshop-in-japan-%E9%96%8B%E5%82%AC%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/>`_
 - 日程: 2012-09-16(日)
 - 主催: `NVDA Japanese Team <http://en.sourceforge.jp/projects/nvdajp>`_
 

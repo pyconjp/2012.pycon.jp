@@ -8,6 +8,7 @@
    :maxdepth: 1
 
    keynote
+   joint
 
 .. day1
    day2
