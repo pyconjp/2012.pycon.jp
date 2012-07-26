@@ -28,6 +28,7 @@ App Engine Conference 2012
 
 Django & Pyramid Con JP 2012
 ============================
+- サイト: `Django & Pyramid Con JP 2012  <http://djangoproject.jp/weblog/2012/07/26/django_pyramid_con_jp/>`_
 - 日程: 2012-09-15(土)-16(日)
 - 主催: `djangoproject.jp <http://djangoproject.jp/>`_ 、
   `Pylons Project JP <http://www.pylonsproject.jp/>`_
