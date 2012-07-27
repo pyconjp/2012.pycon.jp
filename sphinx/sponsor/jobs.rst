@@ -56,14 +56,24 @@ Silver Sponsor
 ..    :target: http://www.beproud.jp/
 ..    :alt: BeProud
 
-.. |snapdish|
-.. ==========
-.. - SnapDish
-.. - http://snapdi.sh/
+|snapdish|
+==========
+- SnapDish
+- http://snapdi.sh/
 
-.. .. |snapdish| image:: /_static/sponsor/logo_snapdish.png
-..    :target: http://snapdi.sh/
-..    :alt: SnapDish
+料理や食べ物好きなエンジニア募集中。
+
+- アプリプグラマ: Android / iPhone のどれかでの開発経験あり。
+- WEBプログラマ: Python (Django, Flask, Tornado など）での開発経験あり。
+- インフラ: AWSでの運用経験ありで、Apache, nginx, MySQL, MongoDB, Memcached, Redis のどどれかでの運用経験あり。
+
+- 連絡先: SnapDish@vuzz.com
+- 担当: 清田 (Twitter `@kiyotaman <http://twitter.com/kiyotaman>`_)
+- 場所: 吉祥寺 - http://4sq.com/xm1OmK
+
+.. |snapdish| image:: /_static/sponsor/logo_snapdish.png
+   :target: http://snapdi.sh/
+   :alt: SnapDish
 
 .. |bizmobile|
 .. ===========
