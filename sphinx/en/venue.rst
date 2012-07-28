@@ -21,3 +21,14 @@ Party venue
 The venue will be announced as soon as the decision.
 
 
+Staying guide
+=============
+
+There is Expedia http://www.expedia.com/ or Google :)
+
+Efficient keywords:
+
+- Shinagawa
+- Shinagawa sea side
+- Aomono yokocho
+- Ooimachi
