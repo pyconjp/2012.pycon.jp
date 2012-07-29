@@ -32,3 +32,8 @@ Efficient keywords:
 - Shinagawa sea side
 - Aomono yokocho
 - Ooimachi
+- Akihabara (bit far from PyConJP but you love it maybe)
+- Asakusa (famous for sight seeing. some guest houses are around there)
+
+Note that we actually don't have much information about foreigner staying.
+Any comments, suggestions are welcome.
