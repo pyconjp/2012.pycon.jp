@@ -10,7 +10,7 @@ Details
 =======
 - The total amount of travel cost to assume 50,000 JPY(about 600 USD) the upper limit
 - Head-count: 3 - 5 people
-- Deadline: July 31
+- Deadline: August 7(Extended)
 - Exclude: The hotel charges, PyCon JP ticket fee, Party ticket fee and etc.
 
 .. - 上限を超える場合は各自でご負担いただきます
