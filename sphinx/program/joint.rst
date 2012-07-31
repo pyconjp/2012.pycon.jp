@@ -18,7 +18,7 @@ App Engine Conference 2012
 ==========================
 |appengine|
 
-- サイト: `App Engine Conference 2012 <https://sites.google.com/site/appengineconference2012/>`_
+- イベントサイト: `App Engine Conference 2012 <https://sites.google.com/site/appengineconference2012/>`_
 - 日程: 2012-09-15(土)
 - 主催: `Google-App-Engine-Japan <http://groups.google.co.jp/group/google-app-engine-japan/>`_
 
@@ -28,7 +28,8 @@ App Engine Conference 2012
 
 Django & Pyramid Con JP 2012
 ============================
-- サイト: `Django & Pyramid Con JP 2012  <http://djangoproject.jp/weblog/2012/07/26/django_pyramid_con_jp/>`_
+- djangoproject.jp イベントページ: `Django & Pyramid Con JP 2012 <http://djangoproject.jp/weblog/2012/07/26/django_pyramid_con_jp/>`_
+- Pylons Project JP イベントページ: `Django & Pyramid Con JP 2012 <http://www.pylonsproject.jp/news/djangopyramidconjp2012kaicuinoozhirase>`_
 - 日程: 2012-09-15(土)-16(日)
 - 主催: `djangoproject.jp <http://djangoproject.jp/>`_ 、
   `Pylons Project JP <http://www.pylonsproject.jp/>`_
@@ -37,7 +38,7 @@ SphinxCon JP 2012
 =================
 |sphinxconjp|
 
-- サイト: `SphinxCon JP 2012 <http://sphinx-users.jp/event/20120916_sphinxconjp/index.html>`_
+- イベントページ: `SphinxCon JP 2012 <http://sphinx-users.jp/event/20120916_sphinxconjp/index.html>`_
 - 日程: 2012-09-16(日)
 - 主催: `Sphinx-Users.jp <http://sphinx-users.jp/>`_
 
