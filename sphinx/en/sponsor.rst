@@ -17,6 +17,8 @@ Platinum Sponsor
 - Nifty
 - http://c4sa.nifty.com/
 
+NIFTY Cloud C4SA is a Platform as a Service that enables you to develop and release web services like social application software as soon as you have a flash of insight. Not only are various languages such as Python, PHP, Ruby and Perl, a lot of frameworks ready.  Start C4SA and start your business right now.
+
 .. |nifty| image:: /_static/sponsor/logo_nifty.png
    :target: http://c4sa.nifty.com/
    :alt: Nifty
