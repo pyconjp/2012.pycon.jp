@@ -123,14 +123,20 @@ Silver Sponsor
 ..    :target: http://sourceforge.jp/
 ..    :alt: SourceForge.JP
 
-.. |triax|
-.. =======
-.. - TriAx
-.. - http://triax.jp/
+|triax|
+=======
+- TriAx
+- http://triax.jp/
 
-.. .. |triax| image:: /_static/sponsor/logo_triax.png
-..    :target: http://triax.jp/
-..    :alt: TriAx
+- 職種: エンジニア
+- 業種: ソフトウェア開発
+- 内容: WEBサイト・コンテンツ制作・自社CMSの開発等
+- 勤務地: 渋谷区代々木
+- 条件: 300万～　裁量労働制
+
+.. |triax| image:: /_static/sponsor/logo_triax.png
+   :target: http://triax.jp/
+   :alt: TriAx
 
 .. |zerostart|
 .. ===========
