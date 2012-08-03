@@ -2,6 +2,8 @@
  キーノートスピーカー
 ======================
 
+.. _session-15-0945-Room230:
+
 Armin Ronacher
 ==============
 .. |armin| image:: /_static/mitsuhiko.jpg
@@ -24,6 +26,10 @@ Jinja2_ テンプレートエンジンなどを作成している Python の熱�
 .. _Jinja2:  http://jinja.pocoo.org/
 .. _flask: http://flask.pocoo.org/
 .. _Fireteam: http://fireteam.net/
+
+
+
+.. _session-16-1400-Room433:
 
 小飼 弾
 =======

@@ -4,12 +4,32 @@
 
 ..
     - - Webフレームワークパネルセッション
-      -
     - - Lightning Talks
-      -
-    - - 教育事例 / Education Best Practices
-      - 土屋先生
 
+.. 15 17:30, LT               session-15-1730-Room230
+.. 16 10:00, エスキュービズム session-16-1000-Room433
+.. 16 15:15, リクルーティング session-16-1515-Room433
+.. 16 16:45, Microsoft        session-16-1645-Room433
+.. 16 17:10, gumi             session-16-1710-Room433
+
+
+.. _session-15-1100-Room230:
+
+.. 教育事例 / Education Best Practices
+.. =======================================
+.. 
+.. ------
+.. 発表者
+.. ------
+.. 土屋先生 / yosida95
+.. 
+.. --------
+.. 発表言語
+.. --------
+.. 日本語
+
+
+.. _session-15-1100-Room433:
 
 ナウなヤングな17歳によるおうちVPS構築記
 =======================================
@@ -26,6 +46,8 @@ Pythonで製作したコントロールパネルによって、仮想マシン�
 日本語
 
 
+.. _session-15-1300-Room230:
+
 Pythonを取り巻く開発環境
 ========================
 Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する
@@ -41,6 +63,8 @@ Yamaguchi Yoshifumi / ymotongpoo
 日本語
 
 
+.. _session-15-1300-Room433:
+
 Pythonは本当にBlenderの役に立っているか?
 ========================================
 3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。
@@ -55,6 +79,7 @@ Pythonは本当にBlenderの役に立っているか?
 --------
 日本語
 
+.. _session-15-1400-Room230:
 
 分散バージョン管理システムの組織化
 ==================================
@@ -70,6 +95,7 @@ Pythonは本当にBlenderの役に立っているか?
 --------
 日本語
 
+.. _session-15-1400-Room433:
 
 Beginning Python
 ================
@@ -86,6 +112,8 @@ Beginning Python
 日本語
 
 
+.. _session-15-1425-Room230:
+
 SQLAlchemyと僕
 ==============
 SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。
@@ -100,6 +128,7 @@ Kida Teruhiko / tell-k
 --------
 日本語
 
+.. _session-15-1425-Room433:
 
 Python入門者のコードをリファクタリングしてみた
 ==============================================
@@ -116,6 +145,7 @@ Shimizukawa Takayuki / しみずかわ
 --------
 日本語
 
+.. _session-15-1530-Room230:
 
 写真共有サービスSnapDish の事例
 ===============================
@@ -132,6 +162,8 @@ Kiyota Fumikazu / kiyota
 日本語
 
 
+.. _session-15-1530-Room433:
+
 unittest嫌いがunittestをtesting
 ===============================
 unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう
@@ -146,6 +178,8 @@ Aizu Tsuyoshi / Ido
 --------
 日本語
 
+
+.. _session-15-1630-Room433:
 
 Python 製ビルドツールのススメ
 =============================
@@ -162,6 +196,8 @@ Web API の開発者。たまに翻訳など。
 日本語
 
 
+.. _session-16-1000-Room357:
+
 Pythonおじさんのweb2py挑戦記
 ============================
 45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。
@@ -177,6 +213,8 @@ Pythonおじさんのweb2py挑戦記
 日本語
 
 
+.. _session-16-1025-Room357:
+
 Sublime Text 2 を使おう
 =======================
 注目エディタ Sublime Text 2 の紹介と、Python で機能拡張する方法について
@@ -191,6 +229,7 @@ Sublime Text 2 を使おう
 --------
 日本語
 
+.. _session-16-1025-Room433:
 
 シンプルなシステム構成フレームワーク alnair
 ===========================================
@@ -211,6 +250,8 @@ Sublime Text 2 を使おう
 日本語
 
 
+.. _session-16-1100-Room357:
+
 gevent
 ======
 gevent の紹介
@@ -225,6 +266,8 @@ INADA Naoki / methane
 --------
 日本語
 
+
+.. _session-16-1100-Room433:
 
 Pythonistaの働き方
 ==================
@@ -247,6 +290,7 @@ Pythonは残業を減らす唯一の方法です（嘘）
 --------
 日本語
 
+.. _session-16-1515-Room357:
 
 Python3でここまでできるWebプログラミング
 ========================================
@@ -262,6 +306,8 @@ Odagiri Atsushi / aodag
 --------
 日本語
 
+
+.. _session-16-1645-Room357:
 
 自社開発していなかった会社がpython を選んだ理由
 ===============================================
@@ -280,6 +326,7 @@ Daisuke Komatsu / vkgtaro
 
 株式会社キャッチボール21 開発グループマネージャ
 
+.. _session-16-1710-Room357:
 
 Pythonコミュニティが私に与えてくれたもの
 ========================================
@@ -295,6 +342,8 @@ KURIGENO Tomomi / tmmkr
 --------
 日本語
 
+
+.. _session-16-1745-Room357:
 
 Fantastic DSL in Python - PythonでつくるDSLのテクニック -
 =========================================================
@@ -316,6 +365,7 @@ Makoto Kuwata
 --------
 日本語
 
+.. _session-16-1810-Room357:
 
 Python Gateway Programming
 ==========================
@@ -333,6 +383,8 @@ Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウ
 日本語
 
 
+.. _session-15-1630-Room230:
+
 国産 PaaS、NIFTY Cloud C4SA の中身
 ==================================
 国産 PaaS である NIFTY Cloud C4SA は、コア部分が Python で作られています。本講演では、基本的な C4SA の構成の解説から、なんで大人気の rails じゃなくて Python で作ることにしたのかなどの経緯などをお話させていただきます。もちろん、C4SA は Python が動く PaaS です。
@@ -349,6 +401,7 @@ Nifty
 --------
 日本語
 
+.. _session-15-1300-Room351a:
 
 MongoDB with Python
 ===================
@@ -366,6 +419,7 @@ Mathias Stearn / @mathias_mongo
 --------
 英語
 
+.. _session-15-1100-Room351a:
 
 Python Type and Object
 ==================================
@@ -392,6 +446,9 @@ Hsin-Yi Chen / hychen
 --------
 英語
 
+
+.. _session-15-1400-Room351a:
+
 Gunicorn What's nect? The new eb challenge
 ==========================================
 Gunicorn was designed in view of easing the deployment of your python web application on the web hand have some success to do it. With the new challenges of the web (SPDY, Websockets, Green computing...), it's time to improve its design. This talk will cover the current design of Gunicorn, what need to be fixed and the new features that will be introduced in the future major release.
@@ -407,6 +464,8 @@ Benoit Chesneau / benoitc
 英語
 
 
+.. _session-15-1530-Room351a:
+
 Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program
 ===========================================================================
 Clime provides an intuitive approach to convert your module contains functions into a multi-command CLI program. This talk will introduce the Clime and take a deeper look into the inner of Clime.
@@ -421,6 +480,7 @@ Mosky Liu / Mosky
 --------
 英語
 
+.. _session-15-1630-Room351a:
 
 Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
 ===============================================================
@@ -437,6 +497,8 @@ Brian Dorsey / Brian
 英語
 
 
+.. _session-16-1000-Room351a:
+
 Fundamental technologies used in PyPy JIT compiler
 ==================================================
 Introduction about technologies of JIT compiler used in PyPy such as what we call "production of JIT compiler" , how "hinting mechanism" works, and so forth  for beginner. In other words, brief introduction to JIT compiler used in PyPy.
@@ -451,6 +513,7 @@ Ryotaro Ileda
 --------
 英語
 
+.. _session-16-1100-Room351a:
 
 Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python
 ======================================================================================
@@ -466,6 +529,7 @@ Yung-Yu Chen / yungyuc
 --------
 英語
 
+.. _session-16-1515-Room351a:
 
 Trying Continuous Delivery
 ==========================
@@ -482,6 +546,8 @@ Toru Furukawa
 英語
 
 
+.. _session-16-1645-Room351a:
+
 Python in gait biomechanics research
 ====================================
 This talk will describe various Python tools for human and animal locomotion data analysis and dynamic simulations. It will also describe three related Python packages concurrently under development.
@@ -496,6 +562,8 @@ Todd Pataky / tpataky00
 --------
 英語
 
+
+.. _session-16-1745-Room351a:
 
 Learning Algorithms and Data Structures in Python
 =================================================

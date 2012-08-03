@@ -33,6 +33,8 @@ App Engine Conference 2012
    :alt: App Engine Conference 2012
    :target: https://sites.google.com/site/appengineconference2012/
 
+.. _session-15-1100-Room357:
+
 App Engine Updates - 2012
 -------------------------
 Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。
@@ -42,12 +44,17 @@ Python2.7 Runtime の活用方法や、App Engine の新機能についてお話
 
 .. _`Takashi Matsuo`: https://plus.google.com/u/0/110554344789668969711/about
 
+.. _session-15-1300-Room357:
+
 Full Text Search の概要と使い方
 -------------------------------
 試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。
 
 - 発表者: Tetsuya Mukai
 - 発表言語: 日本語
+
+
+.. _session-15-1400-Room357:
 
 Python NDB APIの紹介
 --------------------
@@ -58,6 +65,8 @@ AppEngine Python用の新しいデータストアAPIであるNDBの機能や使�
 
 .. _najeira: https://plus.google.com/u/0/116967938787828299147/about
 
+.. _session-15-1530-Room357:
+
 パネルディスカッション的な何か(仮)
 ----------------------------------
 本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。
@@ -66,6 +75,8 @@ AppEngine Python用の新しいデータストアAPIであるNDBの機能や使�
 - パネラー: `Takashi Matsuo`_, `najeira`_,
   `Shinichi Ogawa <http://www.google.com/profiles/shin1ogawa>`_,
   `Kenji ISHII <https://plus.google.com/101708433210077606327/about>`_
+
+.. _session-15-1630-Room357:
 
 App Engine Lightning Talks
 --------------------------
@@ -80,6 +91,8 @@ Django & Pyramid Con JP 2012
 - 主催: `djangoproject.jp <http://djangoproject.jp/>`_ 、
   `Pylons Project JP <http://www.pylonsproject.jp/>`_
 
+.. _session-15-1100-Room452:
+
 使える Django 1.4
 -----------------
 Django の紹介と、Django1.0 以降の新しいこと
@@ -88,6 +101,8 @@ Django の紹介と、Django1.0 以降の新しいこと
 - app template (django-skel)
 - 発表者: 清原 ひろき / @hirokiky
 - 言語: 日本語
+
+.. _session-15-1300-Room452:
 
 What Makes Pyramid
 ------------------
@@ -99,11 +114,15 @@ Pyramidについて
 - 発表者: Odagiri Atsushi / @aodag
 - 言語: 日本語
 
+.. _session-15-1400-Room452:
+
 Djangoを活用したM2Mクラウドプラットフォーム
 -------------------------------------------
 Djangoを利用したM2Mサーバの実例について紹介
 
 - 発表者: 松村竜之介 (株式会社コア)
+
+.. _session-15-1530-Room452:
 
 Pylons ショートセッション
 -------------------------
@@ -112,12 +131,27 @@ Pylons ショートセッション
 
 - 発表者: 村岡 ゆうすけ / @jbking, @podhmo
 
+.. _session-15-1630-Room452:
+
 Django-Celeryで非同期処理
 -------------------------
 Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も
 
 - 発表者: @hdknr
 - 言語: 日本語
+
+
+.. _session-16-1000-Room452:
+
+Pylons ユーザのための Pyramid 移行ガイド
+-------------------------------------------
+これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
+
+- 発表者: @knzm2011
+- 言語: 日本語
+
+
+.. _session-16-1100-Room452:
 
 Django Lessons Learned @BeProud
 -------------------------------
@@ -140,6 +174,8 @@ SphinxCon JP 2012
    :alt: SphinxCon JP 2012
    :target: http://sphinx-users.jp/event/20120916_sphinxconjp/index.html
 
+.. _session-16-1515-Room452:
+
 Sphinx ではじめるドキュメント生活 2012
 --------------------------------------
 すぐれたドキュメントツールである Sphinx を使って、あなたのドキュメントを書いてみませんか。
@@ -150,6 +186,8 @@ Sphinx は多くの OSS のマニュアル、リファレンスで採用され�
 - 言語: 日本語
 
 
+.. _session-16-1540-Room452:
+
 sphinx拡張 探訪
 --------------------------------------
 Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。
@@ -157,6 +195,8 @@ Sphinxの魅力の一つに多種多様な拡張があります。多くの人�
 - 発表者: しろう @r_rudi
 - 言語: 日本語
 
+
+.. _session-16-1645-Room452:
 
 Sphinx HTML theme 事始め
 ----------------------------------------
@@ -166,12 +206,16 @@ Sphinx には組み込みで複数のHTMLテーマが付属しており、defaul
 - 発表者: @shkumagai
 - 言語: 日本語
 
+.. _session-16-1710-Room452:
+
 Sphinxを使って本を書こう（仮）
 ------------------------------
 私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。
 
 - 発表者: 清水川 貴之 / @shimizukawa
 - 言語: 日本語
+
+.. _session-16-1745-Room452:
 
 Sphinxの平凡な使い方 ～業務での利用事例～
 -----------------------------------------
@@ -180,12 +224,17 @@ Sphinxの平凡な使い方 ～業務での利用事例～
 - 発表者: @usaturn
 - 言語: 日本語
 
+
+.. _session-16-1800-Room452:
+
 社内でのSphinx、reSTの広め方
 ----------------------------
 自分以外誰も Sphinx, reStructuredText を使ったことがない状況で、8名ほどのチームメンバーが全員が普通に使用するようになるまでの物語。
 
 - 発表者: 鈴木たかのり
 - 言語: 日本語
+
+.. _session-16-1815-Room452:
 
 Sphinxにおけるdocutilsの役割
 ----------------------------
@@ -211,6 +260,8 @@ NVDA Workshop in Japan
    :alt: NVDA Workshop in Japan
    :target: http://workshop.nvda.jp/
 
+.. _session-16-1515-Room358:
+
 NVDA: Open Source Screen Reader Written in Python
 -------------------------------------------------
 This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is a free and open source screen reader for the Microsoft Windows operating system.
@@ -220,6 +271,8 @@ The speaker will explain what are the difficulties in programming screen reader,
 - 発表者: Mr. Michael Curran
 - 言語: 英語
 
+.. _session-16-1645-Room358:
+
 The Development and Promotion of NVDA in Taiwan
 -----------------------------------------------
 Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
@@ -228,6 +281,8 @@ This talk overviews how NVDA is used in Taiwan.
 - 発表者: Dr. Jerry Wang
 - 言語: 英語
 
+.. _session-16-1710-Room358:
+
 The Localization of NVDA for Japanese Language Users
 ----------------------------------------------------
 In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
@@ -235,6 +290,8 @@ This talk overviews the features necessary for Japanese screen reader, and the d
 
 - 発表者: Dr. Takuya Nishimoto
 - 言語: 英語
+
+.. _session-16-1745-Room358:
 
 Development of Global Open Standard for Developing Countries
 ------------------------------------------------------------
