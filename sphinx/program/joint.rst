@@ -44,7 +44,7 @@ Python2.7 Runtime の活用方法や、App Engine の新機能についてお話
 
 .. _`Takashi Matsuo`: https://plus.google.com/u/0/110554344789668969711/about
 
-.. _session-15-1300-Room357:
+.. _session-15-1330-Room357:
 
 Full Text Search の概要と使い方
 -------------------------------
@@ -54,7 +54,7 @@ Full Text Search の概要と使い方
 - 発表言語: 日本語
 
 
-.. _session-15-1400-Room357:
+.. _session-15-1430-Room357:
 
 Python NDB APIの紹介
 --------------------
@@ -102,7 +102,7 @@ Django の紹介と、Django1.0 以降の新しいこと
 - 発表者: 清原 ひろき / @hirokiky
 - 言語: 日本語
 
-.. _session-15-1300-Room452:
+.. _session-15-1330-Room452:
 
 What Makes Pyramid
 ------------------
@@ -114,7 +114,7 @@ Pyramidについて
 - 発表者: Odagiri Atsushi / @aodag
 - 言語: 日本語
 
-.. _session-15-1400-Room452:
+.. _session-15-1430-Room452:
 
 Djangoを活用したM2Mクラウドプラットフォーム
 -------------------------------------------
