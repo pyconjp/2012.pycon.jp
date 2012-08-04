@@ -2,7 +2,7 @@
  Program
 =========
 
-Details of the program is not yet decided.
+Some details of the program have not yet been decided.
 
 .. toctree::
    :maxdepth: 1
@@ -14,7 +14,7 @@ Details of the program is not yet decided.
 Timetable plan
 ================
 
-Timetable is undetermined, it may be open to change in the future.
+The timetable is not definite. It may change in the future.
 
 
 Day1 : 2012/9/15 (Sat)
@@ -135,7 +135,7 @@ Day1 : 2012/9/15 (Sat)
      -
      -
 
-We are from 7 pm Day1, perform the Party in a different venue. For more information, click here for participation in the Party!! => :doc:`../registration/index`
+Starting at 7pm on Day1 (Sept. 15th), the After-Party will begin at a different venue. For more information and to register, check out the registration page !! => :doc:`../registration/index`
 
 Day2 : 2012/9/16 (Sun)
 -------------------------------
@@ -243,6 +243,6 @@ Day2 : 2012/9/16 (Sun)
 Day3 : 2012/9/17 (Mon, National Holiday)
 --------------------------------------------
 
-Door open at 10:00.
+Doors open at 10:00 AM.
 
-Sprint is the event that the developer gathering in every theme, and develop freely. You can participate in Sprint without having to participate in the Day1 and Day2. Sprint's participation fee is free, but lunch and tea are not provided. We will tell more at a later for Sprint.
+The PyConJP Sprint is the event where developers gather, and develop freely on whatever Python project they choose. You can participate in Sprint without having to participate in day 1 or Day 2 of the main PyConJP event. Participation is completely free, but lunch and tea are not provided. We will provide more information about the sprint at a later time.
