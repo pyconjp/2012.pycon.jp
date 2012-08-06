@@ -178,3 +178,15 @@ Silver Sponsor
    :target: http://www.goga.co.jp/
    :alt: ゴーガ
 
+|vtj|
+=====
+- 日本仮想化技術
+- http://virtualtech.jp/
+
+- 職種: プログラマー
+
+OpenStackのカスタマイズおよび新規機能開発。Pythonの他、C言語、Javaなどでも開発できる方歓迎。新オフィスは渋谷駅徒歩5分でゆったりしたデスクと全員アーロンチェアを使用。条件はフレキシブルに対応できます。
+
+.. |vtj| image:: /_static/sponsor/logo_vtj.png
+   :target: http://virtualtech.jp/
+   :alt: 日本仮想化技術
