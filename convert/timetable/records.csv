@@ -1,7 +1,7 @@
-講演タイトル / Talk title,英語タイトル,タイトルSphinx埋込,種別,日付,開始時刻,終了時刻,場所,トラック,選考コメント,講演者名 / Username,掲載名 (英語の実氏名),名前 / Firstname,苗字 / Lastname,メールアドレス / E-mail address,URL,略歴 / Short biography,プロフィール画像URL / Profile photo URL,講演内容 / Abstract,概要 / Outline,講演テーマ / Topic,講演時間 / Timeslot,対象者 / Intended audience,講演言語 / Language of talk,ビデオ撮影 / Video recording,備考 / Notes
-開場,Open,開場 / Open,Key,9/15,9/15/2012 9:00:00,9/15/2012 9:30:00,,Key Event; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-オープニング,Opening,オープニング / Opening,Key,9/15,9/15/2012 9:30:00,9/15/2012 9:45:00,Room 230,Key Event; Room 230,,,,,,,,,,,,,,,,,
-基調講演,Keynote,`Keynote: Armin Ronacher <keynote.html#session-15-0945-room230>`_,Key,9/15,9/15/2012 9:45:00,9/15/2012 10:45:00,Room 230,Key Event; Room 230,,@mitsuhiko,Armin Ronacher,Armin,Ronacher,,,"Armin Ronacher は Pocoo チームの創立メンバーの一人で、 Pocoo チームは Sphinx ドキュメント作成支援ツールや Jinja2 テンプレートエンジンなどを作成している Python の熱狂的な開発者グループです。 最近の開発実績には Flask マイクロフレームワークがあります。 現在、 Fireteam というロンドンのゲームサービス企業で働いています。
+講演タイトル / Talk title,英語タイトル,タイトルSphinx埋込,タイトルSphinx埋込(英語),種別,日付,開始時刻,終了時刻,場所,トラック,選考コメント,講演者名 / Username,掲載名 (英語の実氏名),名前 / Firstname,苗字 / Lastname,メールアドレス / E-mail address,URL,略歴 / Short biography,プロフィール画像URL / Profile photo URL,講演内容 / Abstract,概要 / Outline,講演テーマ / Topic,講演時間 / Timeslot,対象者 / Intended audience,講演言語 / Language of talk,ビデオ撮影 / Video recording,備考 / Notes
+開場,Open,開場,Open,Key,9/15,9/15/2012 9:00:00,9/15/2012 9:30:00,,Key Event; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+オープニング,Opening,オープニング,Opening,Key,9/15,9/15/2012 9:30:00,9/15/2012 9:45:00,Room 230,Key Event; Room 230,,,,,,,,,,,,,,,,,
+基調講演,Keynote,`基調講演: Armin Ronacher <keynote.html#session-15-0945-room230-ja>`_,`Keynote: Armin Ronacher <keynote.html#session-15-0945-room230-en>`_,Key,9/15,9/15/2012 9:45:00,9/15/2012 10:45:00,Room 230,Key Event; Room 230,,@mitsuhiko,Armin Ronacher,Armin,Ronacher,,,"Armin Ronacher は Pocoo チームの創立メンバーの一人で、 Pocoo チームは Sphinx ドキュメント作成支援ツールや Jinja2 テンプレートエンジンなどを作成している Python の熱狂的な開発者グループです。 最近の開発実績には Flask マイクロフレームワークがあります。 現在、 Fireteam というロンドンのゲームサービス企業で働いています。
 
 * Twitter: @mitsuhiko
 * Facebook: the.mitsuhiko
@@ -19,12 +19,12 @@ error.
 
 It discusses why experimentation, ignorance and dissatisfaction with
 existing solutions leads to stellar code and happiness.",,,,,,,
-休憩,Break,休憩 / Break,,9/15,9/15/2012 10:45:00,9/15/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-使える Django 1.4,Django 1.4,,併設; Django & Pylons,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@hirokiky,@hirokiky,,,,,,,"Djangoについて
+休憩,Break,休憩,Break,,9/15,9/15/2012 10:45:00,9/15/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+使える Django 1.4,Django 1.4,,,併設; Django & Pylons,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@hirokiky,@hirokiky,,,,,,,"Djangoについて
 * 1.0 以降の新しいこと
   * クラスベース汎用ビュー
   * app template (django-skel)",,Django,,,日本語 / Japanese,,
-ナウでヤングな17歳によるおうちVPS構築記,Young guy built home VPS,,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 433,Japanese; Room 433,ナウなヤング,yosida95,yosida95,昂平,吉田,kohei@yosida95.com,http://yosida95.com/,高校2年生。小学6年生の時に同級生からウェブサイト制作を依頼されたことをきっかけにプログラミングの世界に足を踏み入れる。Python歴は中学3年生の時に初めて書いて以来3年目になる。PyConJP 2012スタッフを務める。,http://yosida95.com/static/icon/portrait.png,Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。,"-おまえだれよ(含: 過去に製作したプロダクト紹介)
+ナウでヤングな17歳によるおうちVPS構築記,Young guy built home VPS,,,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 433,Japanese; Room 433,ナウなヤング,yosida95,yosida95,昂平,吉田,kohei@yosida95.com,http://yosida95.com/,高校2年生。小学6年生の時に同級生からウェブサイト制作を依頼されたことをきっかけにプログラミングの世界に足を踏み入れる。Python歴は中学3年生の時に初めて書いて以来3年目になる。PyConJP 2012スタッフを務める。,http://yosida95.com/static/icon/portrait.png,Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。,"-おまえだれよ(含: 過去に製作したプロダクト紹介)
 -コントロールパネル製作を思い立ったきっかけ
 -構成の話(ホストOS, KVM, ストレージ, WAF, etc...)
 -先にコントロールパネルだけを製作した話
@@ -33,9 +33,9 @@ existing solutions leads to stellar code and happiness.",,,,,,,
 -これからの展望(あれば)
 -実演デモ
 (順序未決定, 追加, 削除あり)",Webシステム / Web-based Systems,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",日本語 / Japanese,可 / Video recording OK,
-Pythonプログラミングハンズオン(初心者向け),Hands on: Python Programming,,ハンズオン,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 358,Hands on; Room 358,,@tokibito,@tokibito,,,,,,,,,,,,,,
-App Engine Updates - 2012       ,App Engine Updates - 2012       ,,併設; App Engine,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 357,App Engine; Room 357,,Takashi Matsuo,Takashi Matsuo,,,,https://plus.google.com/u/0/110554344789668969711/about,,,Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
-Python Type and Object,Python Type and Object,,英語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 351a,English; Room 351a,「（寺田）スタッフのIanを落として海外のhychenを入れたい。」-> 反対意見がないため確定,hychen,hychen,Hsin-Yi,Chen,ossug.hychen@gmail.com,http://www.wuweig.org,"I am a
+Pythonプログラミングハンズオン(初心者向け),Hands on: Python Programming,,,ハンズオン,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 358,Hands on; Room 358,,@tokibito,@tokibito,,,,,,,,,,,,,,
+App Engine Updates - 2012       ,App Engine Updates - 2012       ,,,併設; App Engine,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 357,App Engine; Room 357,,Takashi Matsuo,Takashi Matsuo,,,,https://plus.google.com/u/0/110554344789668969711/about,,,Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
+Python Type and Object,Python Type and Object,,,英語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 351a,English; Room 351a,「（寺田）スタッフのIanを落として海外のhychenを入れたい。」-> 反対意見がないため確定,hychen,hychen,Hsin-Yi,Chen,ossug.hychen@gmail.com,http://www.wuweig.org,"I am a
 
 * Debian Maintainer
 * Software Engineer in Canonical Ltd
@@ -72,26 +72,26 @@ you""(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiw
 if I have more time, I will also roughly talk about the same and difference between Python meta class and javascript prototype.
 
 basically talk about python2 new style class"
-土屋先生,tsuchiya,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,,,,,土屋,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,,日本語 / Japanese,,
-昼休み,Lunch,昼休み,,9/15,9/15/2012 11:45:00,9/15/2012 13:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-What Makes Pyramid Unique!,What Makes Pyramid Unique!,,併設; Django & Pylons,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 452,Django & Pylons; Room 452,,@aodag,@aodag,,,,,,,"Pyramidについて
+土屋先生,tsuchiya,Session,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,,,,,土屋,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,,日本語 / Japanese,,
+昼休み,Lunch,昼休み,Lunch,,9/15,9/15/2012 11:45:00,9/15/2012 13:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+What Makes Pyramid Unique!,What Makes Pyramid Unique!,,,併設; Django & Pylons,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 452,Django & Pylons; Room 452,,@aodag,@aodag,,,,,,,"Pyramidについて
 Pyramidの特徴
 PyramidのためのPythonの知識",,Pylons,,,日本語 / Japanese,,
-Pythonは本当にBlenderの役に立っているか?,Python is very useful to Blender that really?,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 433,Japanese; Room 433,遠方、元併設イベント,三津田 哲雄,三津田 哲雄,哲雄,三津田,lab1092@gmail.com,http://blog.livedoor.jp/lab1092/,IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BLUG.ｊｐ(Blender User Group Japan)メンバー。,,3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。,"オープンソースの3DCG統合環境であるBlenderおよび、Blenderの拡張""Add-on""を中心に、「BlenderというソフトにおけるPythonの使われ方」について事例を紹介できたらと思います。
+Pythonは本当にBlenderの役に立っているか?,Python is very useful to Blender that really?,,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 433,Japanese; Room 433,遠方、元併設イベント,三津田 哲雄,三津田 哲雄,哲雄,三津田,lab1092@gmail.com,http://blog.livedoor.jp/lab1092/,IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BLUG.ｊｐ(Blender User Group Japan)メンバー。,,3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。,"オープンソースの3DCG統合環境であるBlenderおよび、Blenderの拡張""Add-on""を中心に、「BlenderというソフトにおけるPythonの使われ方」について事例を紹介できたらと思います。
 
 1. Blenderとは？
 2. PythonによるBlenderの拡張、""Add-on""について
 3. ""Blender Python API"" について
 4. Add-on以外でPythonの利用について
 ",オープンソースのPythonプロジェクト / Open Source Python projects,ふつう / Standard(45 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
-Pythonプログラミングハンズオン(初心者向け),Hands on: Python Programming,,ハンズオン,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 358,Hands on; Room 358,,@tokibito,@tokibito,,,,,,,,,,,,,,
-Full Text Search の概要と使い方,Full Text Seach overview,,併設; App Engine,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 357,App Engine; Room 357,,Tetsuya Mukai,Tetsuya Mukai,,,,,,,試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
-MongoDB with Python,MongoDB with Python,,英語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 351a,English; Room 351a,Goldスポンサー,@mathias_mongo,@mathias_mongo,Mathias,Stearn,mathias@10gen.com,,"Mathias Stearn is a Software Engineer at 10gen, the MongoDB company. He works on the core MongoDB server and maintains the C++ language driver. Previously, he worked at FactSet where he used MongoDB in a log analysis application. He has a degree in Computer Science from the University of Maryland.",http://www.google.com/url?source=imglanding&ct=img&q=http://2011.berlinbuzzwords.de/sites/2011.berlinbuzzwords.de/files/photos/mathias_small.jpg?1301900453&sa=X&ei=PQvuT4acEe-F0QGHnsTyDQ&ved=0CAkQ8wc4GA&usg=AFQjCNFp92R2hne525iiRjCzj0tu6YSoTQ,"Learn about working with leading NoSQL database MongoDB. This talk will cover the basics of pymongo, the MongoDB Python driver and using specialized MongoDB features like aggregation and geospatial indexing. ","MongoDB -- from ""humongous"" -- is an open source, NoSQL, document-oriented database. Trading off a few traditional features of databases (notably joins and transactions) in order to achieve much better performance, MongoDB is fast, scalable, and designed for web development. The goal of the MongoDB project is to bridge the gap between key-value stores (which are fast and highly scalable) and traditional RDBMS systems (which provide rich queries and deep functionality). In this talk, we'll provide a brief introduction to working with MongoDB and Python. This talk will cover the basics from installing the pymongo Python driver for MongoDB (includes python 3 support) and connecting to mongod to creating, inserting, querying for, and updating documents. We will also touch on aggregation, geospatial indexes, GridFS and running database commands.","Python 3k, データベース / Databases",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer, 上級者 / advanced programmer",英語 / English,可 / Video recording OK,
-Pythonを取り巻く開発環境,Python Development Environment,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 230,Japanese; Room 230,開発環境,ymotongpoo,ymotongpoo,Yoshifumi,Yamaguchi,ymotongpoo@gmail.com,http://d.hatena.ne.jp/ymotongpoo/,sphinx-users.jp平メンバー,https://lh5.googleusercontent.com/-SKIq_gOROJc/Tj3pcSZfHqI/AAAAAAAABB0/iyTGBBUoIDU/s400/beeploud%233_400x400.png,Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する,今日のソフトウェア開発においては、テスト、ドキュメント、規約のチェック等、数多くのステップが求められています。本講演ではPythonによるソフトウェア開発においてツール／環境を用いてこれらの作業を実現する手法を取り上げたいと考えています。特に講演者自身のみの経験ではなく、識者へのインタビューに基づいた調査結果を共有するような内容にしたいと考えています。,"Python 3k, ライブラリや拡張 / Python libraries and extensions, ドキュメント / Documentation, パッケージング / Packaging Issues, ツール / Programming Tools",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,"基本的には次のエントリの内容を発展させたものにしたいと考えています。
+Pythonプログラミングハンズオン(初心者向け),Hands on: Python Programming,,,ハンズオン,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 358,Hands on; Room 358,,@tokibito,@tokibito,,,,,,,,,,,,,,
+Full Text Search の概要と使い方,Full Text Seach overview,,,併設; App Engine,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 357,App Engine; Room 357,,Tetsuya Mukai,Tetsuya Mukai,,,,,,,試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
+MongoDB with Python,MongoDB with Python,,,英語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 351a,English; Room 351a,Goldスポンサー,@mathias_mongo,@mathias_mongo,Mathias,Stearn,mathias@10gen.com,,"Mathias Stearn is a Software Engineer at 10gen, the MongoDB company. He works on the core MongoDB server and maintains the C++ language driver. Previously, he worked at FactSet where he used MongoDB in a log analysis application. He has a degree in Computer Science from the University of Maryland.",http://www.google.com/url?source=imglanding&ct=img&q=http://2011.berlinbuzzwords.de/sites/2011.berlinbuzzwords.de/files/photos/mathias_small.jpg?1301900453&sa=X&ei=PQvuT4acEe-F0QGHnsTyDQ&ved=0CAkQ8wc4GA&usg=AFQjCNFp92R2hne525iiRjCzj0tu6YSoTQ,"Learn about working with leading NoSQL database MongoDB. This talk will cover the basics of pymongo, the MongoDB Python driver and using specialized MongoDB features like aggregation and geospatial indexing. ","MongoDB -- from ""humongous"" -- is an open source, NoSQL, document-oriented database. Trading off a few traditional features of databases (notably joins and transactions) in order to achieve much better performance, MongoDB is fast, scalable, and designed for web development. The goal of the MongoDB project is to bridge the gap between key-value stores (which are fast and highly scalable) and traditional RDBMS systems (which provide rich queries and deep functionality). In this talk, we'll provide a brief introduction to working with MongoDB and Python. This talk will cover the basics from installing the pymongo Python driver for MongoDB (includes python 3 support) and connecting to mongod to creating, inserting, querying for, and updating documents. We will also touch on aggregation, geospatial indexes, GridFS and running database commands.","Python 3k, データベース / Databases",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer, 上級者 / advanced programmer",英語 / English,可 / Video recording OK,
+Pythonを取り巻く開発環境,Python Development Environment,,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 230,Japanese; Room 230,開発環境,ymotongpoo,ymotongpoo,Yoshifumi,Yamaguchi,ymotongpoo@gmail.com,http://d.hatena.ne.jp/ymotongpoo/,sphinx-users.jp平メンバー,https://lh5.googleusercontent.com/-SKIq_gOROJc/Tj3pcSZfHqI/AAAAAAAABB0/iyTGBBUoIDU/s400/beeploud%233_400x400.png,Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する,今日のソフトウェア開発においては、テスト、ドキュメント、規約のチェック等、数多くのステップが求められています。本講演ではPythonによるソフトウェア開発においてツール／環境を用いてこれらの作業を実現する手法を取り上げたいと考えています。特に講演者自身のみの経験ではなく、識者へのインタビューに基づいた調査結果を共有するような内容にしたいと考えています。,"Python 3k, ライブラリや拡張 / Python libraries and extensions, ドキュメント / Documentation, パッケージング / Packaging Issues, ツール / Programming Tools",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,"基本的には次のエントリの内容を発展させたものにしたいと考えています。
 http://d.hatena.ne.jp/ymotongpoo/20120516/1337123564"
-休憩,Break,休憩 / Break,,9/15,9/15/2012 14:15:00,9/15/2012 14:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Djangoを活用したM2Mクラウドプラットフォーム,M2M Cloud Platform by Django,,併設; Django & Pylons,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 452,Django & Pylons; Room 452,,松村竜之介 （株式会社コア）,松村竜之介 （株式会社コア）,,,,,,,Djangoを利用したM2Mサーバの実例について紹介,,Django,,,日本語 / Japanese,,
-Beginning Python,Beginning Python,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 433,Japanese; Room 433,内輪ネタが多すぎる。内輪ネタ部分を削除して、学習した書籍の話を掘り下げられるなら初学者発表として再検討してもよい。寺田コメント待ち,佐藤 健,佐藤 健,Ken,Sato,ken.sato.2501@gmail.com,,産業技術大学院大学 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。,,2011年11月にPythonをはじめた新参者が10ヶ月を振り返る。,"Python経験1年未満、スクリプト言語自体も10年触れていない私がギークにm9プギャーされそうな10ヶ月を赤裸々に語る。
+休憩,Break,休憩,Break,,9/15,9/15/2012 14:15:00,9/15/2012 14:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Djangoを活用したM2Mクラウドプラットフォーム,M2M Cloud Platform by Django,,,併設; Django & Pylons,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 452,Django & Pylons; Room 452,,松村竜之介 （株式会社コア）,松村竜之介 （株式会社コア）,,,,,,,Djangoを利用したM2Mサーバの実例について紹介,,Django,,,日本語 / Japanese,,
+Beginning Python,Beginning Python,,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 433,Japanese; Room 433,内輪ネタが多すぎる。内輪ネタ部分を削除して、学習した書籍の話を掘り下げられるなら初学者発表として再検討してもよい。寺田コメント待ち,佐藤 健,佐藤 健,Ken,Sato,ken.sato.2501@gmail.com,,産業技術大学院大学 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。,,2011年11月にPythonをはじめた新参者が10ヶ月を振り返る。,"Python経験1年未満、スクリプト言語自体も10年触れていない私がギークにm9プギャーされそうな10ヶ月を赤裸々に語る。
 
 2011年11月。PCに移植したいカードゲームがあったため、何らかの汎用言語の勉強をしたくなる。身近にPythonのギークがいたのでPythonをはじめた。別に誰でもよかった。ついカッとなって勉強した。しかしその先には、数々の方針変更や棘の道が待っていたのだった……。
 
@@ -136,9 +136,9 @@ Beginning Python,Beginning Python,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 1
 ・ckwmod → 見やすい
 ・Pygame（OpenGLパッケージ）→ 初心者にお勧め。Basicの感動が蘇る。
 ",Pythonの基本的なこと / Python Fundamentals,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
-ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,ハンズオン,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 358,Hands on; Room 358,,@ransui,@ransui,,,,,,,,,,,,,,
-Python NDB APIの紹介,Introduction of Python NDV API,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,najeira,,,,https://plus.google.com/u/0/116967938787828299147/about,,, AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
-Gunicorn what's next? The new eb challenge,Gunicorn what's next? The new eb challenge,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,benoitc,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
+ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,,ハンズオン,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 358,Hands on; Room 358,,@ransui,@ransui,,,,,,,,,,,,,,
+Python NDB APIの紹介,Introduction of Python NDV API,,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,najeira,,,,https://plus.google.com/u/0/116967938787828299147/about,,, AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
+Gunicorn what's next? The new eb challenge,Gunicorn what's next? The new eb challenge,,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,benoitc,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
 years of experience in building small and big-scale database backend
 website. He founded Enki Multimedia a company building innovative web
 services and open-source applications. Benoît Chesneau is an Apache
@@ -151,7 +151,7 @@ CouchDB committer and Gunicorn author.",,"Gunicorn was designed in view of easin
 - Improvments in the arbiter to use more of the machine capacities
 
 It will end by a demo of the new gunicorn that will be commited sometimes in july.","ライブラリや拡張 / Python libraries and extensions, ネットワークプログラム / Network Programming, Webシステム / Web-based Systems",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
-分散バージョン管理システムの組織化,Sistemized Distributed Version Controll System,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 230,Japanese; Room 230,元併設イベント,troter,troter,卓見,飯野,trot.thunder@gmail.com,,"株式会社タイムインターメディア所属
+分散バージョン管理システムの組織化,Sistemized Distributed Version Controll System,,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 230,Japanese; Room 230,元併設イベント,troter,troter,卓見,飯野,trot.thunder@gmail.com,,"株式会社タイムインターメディア所属
 ",https://secure.gravatar.com/avatar/6da366428575cc9527bd98dfc387cfe0,分散バージョン管理システム(主にMercurial)をより良く使いこなすために、より効果的な構成管理を行うために必要なブランチ戦略とリポジトリの組織化の方法について、実例を交えて紹介します。,"- 分散バージョン管理とは
 - ブランチ戦略とブランチ戦術の違い
 -- トピックブランチとフューチャーブランチ
@@ -171,7 +171,7 @@ It will end by a demo of the new gunicorn that will be commited sometimes in jul
 -- Web、業務システム向けパターン
 -- カナリアリリースのためのパターン
 - まとめ",ツール / Programming Tools,短め / Short(25 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
-Python入門者のコードをリファクタリングしてみた,Refactaring Python Beginner's Code,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:15:00,Room 433,Japanese; Room 433,初心者用短め,清水川 貴之 (@shimizukawa),清水川 貴之 (@shimizukawa),Takayuki,Shimizukawa,shimizukawa@gmail.com,http://清水川.jp/,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://secure.gravatar.com/avatar/0cae2878acf9f67e7cc6c06c55877ffd?size=420,"C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽくないコードができあがります。
+Python入門者のコードをリファクタリングしてみた,Refactaring Python Beginner's Code,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:15:00,Room 433,Japanese; Room 433,初心者用短め,清水川 貴之 (@shimizukawa),清水川 貴之 (@shimizukawa),Takayuki,Shimizukawa,shimizukawa@gmail.com,http://清水川.jp/,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://secure.gravatar.com/avatar/0cae2878acf9f67e7cc6c06c55877ffd?size=420,"C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽくないコードができあがります。
 そのコード、Pythonっぽく書き換えませんか？
 ","Java(仮)のコードをPythonに移植して、段階的にPythonらしいコードに書き換えていきます。
 Pythonicな書き方でコードがどのように変わっていくのか、なぜそのように変更するのかを紹介しながら、コードをリファクタリングする課程を追っていきましょう。
@@ -183,7 +183,7 @@ Pythonicな書き方でコードがどのように変わっていくのか、な
 * doctest
 * def suite()
 ",Pythonプログラム入門,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
-SQLAlchemyと僕,SQLAlchemy and I,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:15:00,Room 230,Japanese; Room 230,SQLAlchemy,tell-k,tell-k,Teruhiko,Kida,ffk2005@gmail.com,http://tell-k.hatenablog.com/,情弱プログラマー,https://twimg0-a.akamaihd.net/profile_images/81313711/tell-k_normal.PNG,SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。,"アウトライン
+SQLAlchemyと僕,SQLAlchemy and I,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:15:00,Room 230,Japanese; Room 230,SQLAlchemy,tell-k,tell-k,Teruhiko,Kida,ffk2005@gmail.com,http://tell-k.hatenablog.com/,情弱プログラマー,https://twimg0-a.akamaihd.net/profile_images/81313711/tell-k_normal.PNG,SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。,"アウトライン
 ----------------------------
 
 * SQLAlchemy の概要
@@ -193,10 +193,10 @@ SQLAlchemyと僕,SQLAlchemy and I,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 1
 * ハマった点、苦労した点
 
 ",データベース / Databases,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
-休憩,Break,休憩,,9/15,9/15/2012 15:15:00,9/15/2012 15:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Pylons ショートセッション,Pylons short session,,併設; Django & Pylons,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 452,Django & Pylons; Room 452,,@jbking @podhmo,@jbking @podhmo,,,,,,,"* Pyramidセキュリティ
+休憩,Break,休憩,Break,,9/15,9/15/2012 15:15:00,9/15/2012 15:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Pylons ショートセッション,Pylons short session,,,併設; Django & Pylons,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 452,Django & Pylons; Room 452,,@jbking @podhmo,@jbking @podhmo,,,,,,,"* Pyramidセキュリティ
 * 実際の開発",,Pylons,,,日本語 / Japanese,,
-unittest嫌いがunittestをtesting,Testing Unittest,,日本語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 433,Japanese; Room 433,test,Ido,Ido,Tsuyoshi,Aizu,aizu@bascule-go.com,,"●所属
+unittest嫌いがunittestをtesting,Testing Unittest,,,日本語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 433,Japanese; Room 433,test,Ido,Ido,Tsuyoshi,Aizu,aizu@bascule-go.com,,"●所属
 株式会社バスキュール号
 http://www.bascule-go.com/
 
@@ -214,8 +214,8 @@ http://www.pelo.jp/
 ・担当
 プロジェクトの途中からバックエンド開発に参加し、現在は運用とメンテナンスを担当。バックエンドはGoogle App  Engine
 ",http://www.gravatar.com/avatar/fd17bf1a7a6e0c71941b3bb84a5b3180.png,unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう,テスト駆動開発に憧れつつも、業務でunittest書くの面倒でしょうがない私が数あるunittestツールやそのツールを使ったtestフローを試行錯誤しながらテストすることで、私が思うunittestのベストプレクティスを披露できればと思っています。,"ツール / Programming Tools, プロジェクト事例 / Project Best Practices",ふつう / Standard(45 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,今現在、講演内容に関する資料は0です。PyconのCall for Proposalsに申し込むことで自分自身を追い込んで、unittest関連に本気で取り組もうと思います
-ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,ハンズオン,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 358,Hands on; Room 358,,@ransui,@ransui,,,,,,,,,,,,,,
-パネルディスカッション的な何か（仮）,panel discussion,,併設; App Engine,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 357,App Engine; Room 357,,"モデレーター Akira Kusumoto /
+ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,,ハンズオン,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 358,Hands on; Room 358,,@ransui,@ransui,,,,,,,,,,,,,,
+パネルディスカッション的な何か（仮）,panel discussion,,,併設; App Engine,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 357,App Engine; Room 357,,"モデレーター Akira Kusumoto /
 パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII","モデレーター Akira Kusumoto /
 パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII",,,,,,,本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。,"モデレーター: Akira Kusumoto
 パネラー:
@@ -223,7 +223,7 @@ http://www.pelo.jp/
 ・ najeira
 ・ Shinichi Ogawa
 ・ Kenji ISHII",Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
-"Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program","Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program",,英語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 351a,English; Room 351a,台湾,Mosky,Mosky,Mosky,Liu,mosky.tw@gmail.com,http://www.facebook.com/mosky.liu/,"I have joined the open source communities in Taiwan and written Python about 4 years. I interest in the Python web topics and has made some websites use Python. And I had written system tools in Python, too.
+"Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program","Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program",,,英語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 351a,English; Room 351a,台湾,Mosky,Mosky,Mosky,Liu,mosky.tw@gmail.com,http://www.facebook.com/mosky.liu/,"I have joined the open source communities in Taiwan and written Python about 4 years. I interest in the Python web topics and has made some websites use Python. And I had written system tools in Python, too.
 
 Active Projects:
 
@@ -271,7 +271,7 @@ I will prepare demos for the features I referred in this talk.
 Actually, Clime has a full documentation at http://docs.mosky.tw/clime/. This talk will cover the all of things in this documentation.",ライブラリや拡張 / Python libraries and extensions,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,"I just want to share the project I recently made. It is not very important to Python or audiences. You can shorten my talk to 25 mins if you received too many big talks. :P
 
 The preparation of a conference is really hard. Thanks for your effort."
-写真共有サービス SnapDish の事例,SnapDish: Photo sharing service,,日本語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 230,Japanese; Room 230,"事例かつスタッフだけど毛色違って面白そう
+写真共有サービス SnapDish の事例,SnapDish: Photo sharing service,,,日本語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 230,Japanese; Room 230,"事例かつスタッフだけど毛色違って面白そう
 
 寺田コメント: 確かに面白そう",kiyota,kiyota,Fumikazu,Kiyota,fumikazu.kiyota@vuzz.com,http://snapdi.sh,"Livedoorでエンジニア職務を経て、現在、Vuzz Inc. CTOとして SnapDish（Android以外）フロントエンドからバックエンドを全て担当。
 
@@ -302,9 +302,9 @@ aws／boto／コスト
 ７、今後の展望と戦略と課題
 海外戦略／コミュニティーづくり／ビジネスモデル／中国展開",プロジェクト事例 / Project Best Practices,ふつう / Standard(45 min),情報関連サービス開発・運用に興味がある人 / People are interested in the development and operation of information-related services,日本語 / Japanese,可 / Video recording OK,"Python の話しの割合が少ないです。
 後、他に良いCfPがあれば優先させてください。"
-休憩,Break,休憩 / Break,,9/15,9/15/2012 16:15:00,9/15/2012 16:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Django-Celeryで非同期処理,Asynchronous processing by Django-Celery,,併設; Django & Pylons,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 452,Django & Pylons; Room 452,,@hdknr,@hdknr,,,,,,,Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も,,Django,,,日本語 / Japanese,,
-Python 製ビルドツールのススメ,Python build tool,,日本語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 433,Japanese; Room 433,ビルドツール,kshigeru,kshigeru,茂,北崎,skitazaki@gmail.com,http://kshigeru.blogspot.jp/,Web API の開発者。たまに翻訳など。,,"Python で記述されたビルドツールを利用することで、シンプルな記述で移植性を向上させ、一貫性を保ちつつ柔軟性のある手順を実現します。
+休憩,Break,休憩,Break,,9/15,9/15/2012 16:15:00,9/15/2012 16:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Django-Celeryで非同期処理,Asynchronous processing by Django-Celery,,,併設; Django & Pylons,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 452,Django & Pylons; Room 452,,@hdknr,@hdknr,,,,,,,Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も,,Django,,,日本語 / Japanese,,
+Python 製ビルドツールのススメ,Python build tool,,,日本語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 433,Japanese; Room 433,ビルドツール,kshigeru,kshigeru,茂,北崎,skitazaki@gmail.com,http://kshigeru.blogspot.jp/,Web API の開発者。たまに翻訳など。,,"Python で記述されたビルドツールを利用することで、シンプルな記述で移植性を向上させ、一貫性を保ちつつ柔軟性のある手順を実現します。
 zc.buildout、Scons、waf を例に取り上げます。
 
 ---
@@ -321,9 +321,9 @@ Introducing build tool written by Python, we accomplish effective development cy
 Example tools are zc.buildout, Scons, and waf.
 You may imagine that build tool works only for compiler language. We, however, can use it to check syntax with pep8 or pyflakes in Python project, and to minify JavaScript and CSS scripts in Web application project. In other words, build tool means automation tool.
 I would like to share these practices that build tool supports us to process incremental development style.","ツール / Programming Tools, プロジェクト事例 / Project Best Practices",ふつう / Standard(45 min),"中級者 / intermediate programmer, 上級者 / advanced programmer",日本語 / Japanese,可 / Video recording OK,
-ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,ハンズオン,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 358,Hands on; Room 358,,@ransui,@ransui,,,,,,,,,,,,,,
-App Engine Lightning Talk,App Engine Lightning Talk,,併設; App Engine,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 357,App Engine; Room 357,,Talkers,Talkers,,,,,,,,,,ふつう / Standard(45 min),,日本語 / Japanese,,
-"Gathering and visualizing metrics with ZeroMQ, Redis & Graphite","Gathering and visualizing metrics with ZeroMQ, Redis & Graphite",,英語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 351a,English; Room 351a,英語の依頼をする,ブライアン / Brian,ブライアン / Brian,ブライアン / Brian,ドルシー / Dorsey,brian@dorseys.org,http://briandorsey.info,"Brian Dorsey is a database and Python developer with over 10 years of experience using Python professionaly. He currently works full time, developing command line tools, simple web applications, Windows services, HTTP/JSON APIs and the occasional iPhone prototype. He is excited about information, databases, user experience, testing and glue code. Brian is a co-organizer of the Seattle Python Interest Group (www.seapig.org) and has given several talks and tutorials at conferences, user groups and taught Python at the University of Washington, in Seattle. He taught English in Shizuoka-ken from 1997 to 1999. He lives in Seattle, WA, USA",http://briandorsey.info/Brian_Dorsey_Bio_Photo.jpg,"I will present a small system to collect, summarize and graph detailed application metrics. The system is simple, reliable and easy to extend. In this talk, I'll walk through the tools, configuration and Python code which glues everything together.","Problem statement & constraints
+ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,,ハンズオン,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 358,Hands on; Room 358,,@ransui,@ransui,,,,,,,,,,,,,,
+App Engine Lightning Talk,App Engine Lightning Talk,,,併設; App Engine,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 357,App Engine; Room 357,,Talkers,Talkers,,,,,,,,,,ふつう / Standard(45 min),,日本語 / Japanese,,
+"Gathering and visualizing metrics with ZeroMQ, Redis & Graphite","Gathering and visualizing metrics with ZeroMQ, Redis & Graphite",,,英語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 351a,English; Room 351a,英語の依頼をする,ブライアン / Brian,ブライアン / Brian,ブライアン / Brian,ドルシー / Dorsey,brian@dorseys.org,http://briandorsey.info,"Brian Dorsey is a database and Python developer with over 10 years of experience using Python professionaly. He currently works full time, developing command line tools, simple web applications, Windows services, HTTP/JSON APIs and the occasional iPhone prototype. He is excited about information, databases, user experience, testing and glue code. Brian is a co-organizer of the Seattle Python Interest Group (www.seapig.org) and has given several talks and tutorials at conferences, user groups and taught Python at the University of Washington, in Seattle. He taught English in Shizuoka-ken from 1997 to 1999. He lives in Seattle, WA, USA",http://briandorsey.info/Brian_Dorsey_Bio_Photo.jpg,"I will present a small system to collect, summarize and graph detailed application metrics. The system is simple, reliable and easy to extend. In this talk, I'll walk through the tools, configuration and Python code which glues everything together.","Problem statement & constraints
 ZeroMQ
     What is ZeroMQ?
     ZeroMQ pub/sub demo
@@ -361,7 +361,7 @@ I would love to give the talk in Japanese, but my spoken Japanese is only OK, no
 
 Take care,
 -Brian"
-国産 PaaS、NIFTY Cloud C4SA の中身,Inside of NIFTY Cloud C4SA,,日本語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 230,Japanese; Room 230,Platinum(予定)スポンサー,大畑貴弘,大畑貴弘,貴弘,大畑,oohata@realglobe.jp,http://realglobe.jp,"1980年8月4日生まれ 山口県出身
+国産 PaaS、NIFTY Cloud C4SA の中身,Inside of NIFTY Cloud C4SA,,,日本語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 230,Japanese; Room 230,Platinum(予定)スポンサー,大畑貴弘,大畑貴弘,貴弘,大畑,oohata@realglobe.jp,http://realglobe.jp,"1980年8月4日生まれ 山口県出身
 
 1996年 - 1年間アメリカに留学、米国での単位が認められず、高校1年生を2回やった。
 2000年 - 東大を舐めていたら、落ちた。
@@ -380,10 +380,10 @@ Take care,
 5、NIFTY Cloud C4SA における、Python の活躍 - お世話になっているオープンソース
 6、（NIFTY Cloud C4SA の副産物）
 7、NIFTY Cloud C4SA の今後の展開","ネットワークプログラム / Network Programming, プロジェクト事例 / Project Best Practices, Webシステム / Web-based Systems",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",日本語 / Japanese,可 / Video recording OK,
-休憩,Break,休憩 / Break,,9/15,9/15/2012 17:15:00,9/15/2012 17:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Lightning Talks,Lightning Talks,Lightning Talks,Key,9/15,9/15/2012 17:30:00,9/15/2012 18:30:00,Room 230,Key Event; Room 230,,,,,,,,,,,,,,,,,
-closing,closing,closing,Key,9/15,9/15/2012 18:30:00,9/15/2012 18:45:00,Room 230,Key Event; Room 230,,,,,,,,,,,,,,,,,
-Party,Party,Party,,9/15,9/15/2012 19:00:00,9/15/2012 21:30:00,REGINA,Key Event,,,,,,,,,,"住所: 東京都品川区東品川4-13-27
+休憩,Break,休憩,Break,,9/15,9/15/2012 17:15:00,9/15/2012 17:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Lightning Talks,Lightning Talks,Lightning Talks,Lightning Talks,Key,9/15,9/15/2012 17:30:00,9/15/2012 18:30:00,Room 230,Key Event; Room 230,,,,,,,,,,,,,,,,,
+closing,closing,closing,closing,Key,9/15,9/15/2012 18:30:00,9/15/2012 18:45:00,Room 230,Key Event; Room 230,,,,,,,,,,,,,,,,,
+Party,Party,Party,Party,,9/15,9/15/2012 19:00:00,9/15/2012 21:30:00,REGINA,Key Event,,,,,,,,,,"住所: 東京都品川区東品川4-13-27
 
 今年のPartyは1日目の夜に会場徒歩5分のハートンホテル内のレストランREGINAで行います。
 スタンディングでの飲み放題、シェフ特製の料理を用意しています。
@@ -397,11 +397,11 @@ This year, we will be holding an after-party on the first day of PyCon JP at the
 
 
 Our two keynote speakers as well as a large number of our attendees will be attending, so it should be a lot of fun interacting and hanging out with fellow Pythonistas!",,,,,,,
-開場,Open,開場 / Open,Key,9/16,9/16/2012 9:00:00,9/16/2012 10:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Pylons ユーザのための Pyramid 移行ガイド,Pyramid migration guide for Pylons users,,併設; Django & Pylons,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 452,Django & Pylons; Room 452,,@knzm2011,@knzm2011,,,,,,,これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介,,Pylons,,,日本語 / Japanese,,
-Tornadoで分散KVSフレームワーク,KVS distributed framework made by Tornado,,日本語,9/16,9/16/2012 10:00:00,9/16/2012 10:25:00,Room 433,Japanese; Room 433,スポンサー,岸本 康二,岸本 康二,Koji,Kishimoto,kishimoto@s-cubism.jp,http://s-cubism.jp/,十数年前の大学の研究室時代にPythonに出合って以来、そのバランスの良さとエレガントさに魅せられてずっとPythonを使ってきました。会社では科学計算やCMS、ECなどの用途向けに開発などを行い、現在は先進的な分散KVSとその応用にPythonと共に取り組んでいます。,http://s-cubism.jp/careers/staff/img/cfng_snd_leftmenu_icon03.gif,クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
-はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,ハンズオン,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,@atsuoishimoto,,,,,,,,,,,,,,
-Pythonおじさんのweb2py挑戦記,Challange web2py,,日本語,9/16,9/16/2012 10:00:00,9/16/2012 10:25:00,Room 357,Japanese; Room 357,遠方、web2pyに絞って25分の依頼をする,中村 良幸 / nakayoshix,中村 良幸 / nakayoshix,Yoshiyuki,Nakamura,nakayoshix@gmail.com,https://twitter.com/nakayoshix,"所属(職場):
+開場,Open,開場,Open,Key,9/16,9/16/2012 9:00:00,9/16/2012 10:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Pylons ユーザのための Pyramid 移行ガイド,Pyramid migration guide for Pylons users,,,併設; Django & Pylons,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 452,Django & Pylons; Room 452,,@knzm2011,@knzm2011,,,,,,,これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介,,Pylons,,,日本語 / Japanese,,
+Tornadoで分散KVSフレームワーク,KVS distributed framework made by Tornado,,,日本語; スポンサー,9/16,9/16/2012 10:00:00,9/16/2012 10:25:00,Room 433,Japanese; Room 433,スポンサー,岸本 康二,岸本 康二,Koji,Kishimoto,kishimoto@s-cubism.jp,http://s-cubism.jp/,十数年前の大学の研究室時代にPythonに出合って以来、そのバランスの良さとエレガントさに魅せられてずっとPythonを使ってきました。会社では科学計算やCMS、ECなどの用途向けに開発などを行い、現在は先進的な分散KVSとその応用にPythonと共に取り組んでいます。,http://s-cubism.jp/careers/staff/img/cfng_snd_leftmenu_icon03.gif,クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
+はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,@atsuoishimoto,,,,,,,,,,,,,,
+Pythonおじさんのweb2py挑戦記,Challange web2py,,,日本語,9/16,9/16/2012 10:00:00,9/16/2012 10:25:00,Room 357,Japanese; Room 357,遠方、web2pyに絞って25分の依頼をする,中村 良幸 / nakayoshix,中村 良幸 / nakayoshix,Yoshiyuki,Nakamura,nakayoshix@gmail.com,https://twitter.com/nakayoshix,"所属(職場):
     クロストラスト株式会社 / Software Engineer
         https://crosstrust.co.jp/
 
@@ -420,7 +420,7 @@ Pythonおじさんのweb2py挑戦記,Challange web2py,,日本語,9/16,9/16/2012 
 付録.プログラミング歴(社会人以降):
     プログラミング言語歴は、Fortran/6年, C++/0.5年, Java/1年, C#/5年, VB(A)/2年, PHP/1年を経てPython/2年。他にRを少々。
     エディタはEmacs歴24年。自称・Emacsおじさん。",https://si0.twimg.com/profile_images/1707378386/399030_2809864443.jpg,45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。,"通常のimportを使わずにexecfile、その結果としてのグローバル環境汚染(?)等から、あたかもPythonをPHP化するものだと言わんばかりに、古参Pythonistaからはとかくdisられることの多いweb2pyではありますが、もちろんweb2pyにも良い点があります。およそ一年半にわたり、実際に業務用Webシステム開発にweb2pyを用いた経験から、その特徴と利点および欠点を赤裸々に語ります。それに加えて、帳票出力用にPyUNOを用いたOpenOffice.org連携、REST APIを用いたJIRA, kintoneおよびZoho CRM連携、更にはSSL証明書ベースによるSOAP等を用いた外部システム連携についてもその概略を説明します。最後に、より洗練されたドメインモデルにリファクタリングする上での今後の戦略について現時点での想定をお話し、質疑応答の時間を使って皆さんのご意見やアドバイスを伺いたいと考えています。","プロジェクト事例 / Project Best Practices, Webシステム / Web-based Systems",ふつう / Standard(45 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,初学者・初心者枠でのエントリーを想定しています。なお、札幌在住であること、また弊社(クロストラスト)内の特殊事情、更に最終的には最大の関門とも言えるYAuthが必要であるため、現時点ではPyCon JPへの参加は決定しておりませんが、もし万が一採択された際には万難を排して参加する所存です。どうぞよろしくお願いいたします。
-Fundamental technologies used in PyPy JIT compiler,Fundamental technologies used in PyPy JIT compiler,,英語,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 351a,English; Room 351a,PyPy、45分の依頼をする,Ryo,Ryo,Ryotaro,Ikeda,ryotaro.exe@gmail.com,http://www.longsleeper.com/,"Graduated master course of Tokyo Institute of Technology recently, and currently under training for new graduates. When I was a student, I studies about JIT compiler. Also, I had studied about JIT compiler which PyPy have introduced.",https://lh6.googleusercontent.com/-3AmcKVDDZC4/AAAAAAAAAAI/AAAAAAAAAAA/4nwMHDvjS90/s96-c/photo.jpg,"Introduction about technologies of JIT compiler used in PyPy such as what we call ""production of JIT compiler"" , how ""hinting mechanism"" works, and so forth  for beginner. In other words, brief introduction to JIT compiler used in PyPy.","[ currently only brief and draft ]
+Fundamental technologies used in PyPy JIT compiler,Fundamental technologies used in PyPy JIT compiler,,,英語,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 351a,English; Room 351a,PyPy、45分の依頼をする,Ryo,Ryo,Ryotaro,Ikeda,ryotaro.exe@gmail.com,http://www.longsleeper.com/,"Graduated master course of Tokyo Institute of Technology recently, and currently under training for new graduates. When I was a student, I studies about JIT compiler. Also, I had studied about JIT compiler which PyPy have introduced.",https://lh6.googleusercontent.com/-3AmcKVDDZC4/AAAAAAAAAAI/AAAAAAAAAAA/4nwMHDvjS90/s96-c/photo.jpg,"Introduction about technologies of JIT compiler used in PyPy such as what we call ""production of JIT compiler"" , how ""hinting mechanism"" works, and so forth  for beginner. In other words, brief introduction to JIT compiler used in PyPy.","[ currently only brief and draft ]
 * Introduction about PyPy (what actually PyPy is)
 * The reason why PyPy is faster than CPython?
 * What JIT compiler is
@@ -430,14 +430,14 @@ Fundamental technologies used in PyPy JIT compiler,Fundamental technologies used
 * How it works efficiently ? ","他のPython実装 / Other implementations(Jython, IronPython, PyPy..)",短め / Short(25 min),初心者 / beginning programmer,英語 / English,可 / Video recording OK,"The motivation made me submitting the CFP are below two:
  * To have a lot of Pythonista to know PyPy technology even for beginner.
  * To try to explain about internal of PyPy for non-Japanese participants."
-シンプルなシステム構成フレームワーク alnair,alnair: Simple System Configration framework,,日本語,9/16,9/16/2012 10:25:00,9/16/2012 10:50:00,Room 433,Japanese; Room 433,ツールの紹介は相当面白そうでないと採用し辛いが、枠が余ったので地方枠として採用の可能性あり,naoina,naoina,尚也,稲田,naoina@kuune.org,,kyoto.py主催,https://si0.twimg.com/profile_images/2294518204/8qkn54ybjy751grl57wo.png,"新しいWEBサービスを立ち上げるときなどに必要なのがサーバー構築です。
+シンプルなシステム構成フレームワーク alnair,alnair: Simple System Configration framework,,,日本語,9/16,9/16/2012 10:25:00,9/16/2012 10:50:00,Room 433,Japanese; Room 433,ツールの紹介は相当面白そうでないと採用し辛いが、枠が余ったので地方枠として採用の可能性あり,naoina,naoina,尚也,稲田,naoina@kuune.org,,kyoto.py主催,https://si0.twimg.com/profile_images/2294518204/8qkn54ybjy751grl57wo.png,"新しいWEBサービスを立ち上げるときなどに必要なのがサーバー構築です。
 そのサーバー構築の為のツールとしてChefやPuppetなどがありますが、
 よりシンプルなツールとしてPythonで開発されたalnairを紹介します。","alnairとは何か？
 Chef、Puppet、Kokkiではダメなのか？
 alnairの基本的な使用方法紹介
 仮想マシンを使ったサーバー構築デモ
 現状の制限と今後の予定","ライブラリや拡張 / Python libraries and extensions, ツール / Programming Tools",短め / Short(25 min),"中級者 / intermediate programmer, 上級者 / advanced programmer",日本語 / Japanese,可 / Video recording OK,
-Sublime Text 2 を使おう,Try Sublime Text 2,,日本語,9/16,9/16/2012 10:25:00,9/16/2012 10:50:00,Room 357,Japanese; Room 357,"25分の依頼をする
+Sublime Text 2 を使おう,Try Sublime Text 2,,,日本語,9/16,9/16/2012 10:25:00,9/16/2012 10:50:00,Room 357,Japanese; Room 357,"25分の依頼をする
 25分なら面白そう",@kawanoshinobu,@kawanoshinobu,忍,川野,kawanoshinobu@gmail.com,http://kawanoshinobu.com,"株式会社アリエルネットワーク 開発部所属。 Sencha Touch を使って、ArielAirOne Enterprise というグループウェアのモバイル機能を開発しています。 Sencha 大好き。
 
 ",http://a0.twimg.com/profile_images/2171939095/kawanoshinobu3.jpg,"注目エディタ Sublime Text 2 の紹介と、Python で機能拡張する方法について
@@ -447,11 +447,11 @@ Sublime Text 2 を使おう,Try Sublime Text 2,,日本語,9/16,9/16/2012 10:25:0
 - Python で拡張を書く
 ",ツール / Programming Tools,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",日本語 / Japanese,可 / Video recording OK,"@shoma4a に脅されて応募しました。
 "
-休憩,Break,休憩 / Break,,9/16,9/16/2012 10:45:00,9/16/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,@IanMLewis,,,,,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
-リクルーティングセッション,Recruiting session,リクルーティングセッション,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,,
-はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,@atsuoishimoto,,,,,,,,,,,,,,
-gevent,gevent,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,methane,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
+休憩,Break,休憩,Break,,9/16,9/16/2012 10:45:00,9/16/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,@IanMLewis,,,,,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
+リクルーティングセッション,Recruiting session,リクルーティングセッション,Recruiting session,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,日本語 / Japanese,可 / Video recording OK,
+はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,@atsuoishimoto,,,,,,,,,,,,,,
+gevent,gevent,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,methane,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
 MessagePack-Python
 ",,gevent の紹介,"* 並行処理について
   * スレッド・プロセス・イベントドリブン・マイクロスレッドの利点欠点
@@ -460,27 +460,27 @@ MessagePack-Python
   * greenlet について
   * gevent について
   * gevent で効率的なプログラムを書く方法","ライブラリや拡張 / Python libraries and extensions, ネットワークプログラム / Network Programming",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
-Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python,Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python,,英語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 351a,English; Room 351a,台湾,yungyuc,yungyuc,Yung-Yu,Chen,yyc@solvcon.net,http://solvcon.net/yyc/,"Yung-Yu is a numerical analyst, a high-performance computing (HPC) application developer, and a Python programmer.  He is currently working on SOLVCON, a software framework designed for solving conservation laws with parallel computing.",https://en.gravatar.com/userimage/6057572/d3e46054fbb9c9126b925d3e9d6e9b04.jpg?size=200,"Aided by its powerful gluing capability, Python can be used to build simulation software that demands high performance.  As performance hotspots being replaced by C, the software can be organized by using Python for a clear structure.  The resulting software provides high flexibility along with high performance.  In this talk, SOLVCON, a Python-based software framework for solving conservation laws, is used to demonstrate the approach.","I would like to report the application of Python to develop first-principle simulators based on solving conservation laws, which are formulated as linear or non-linear, hyperbolic partial differential equations (PDEs), and the lessons learned in the emerging efforts.  The specific category of applications calls for highly-optimized and massively-parallelized code.  SOLVCON (http://solvcon.net/), a project that the speaker is working on, will be used as an example in this talk.
+Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python,Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python,,,英語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 351a,English; Room 351a,台湾,yungyuc,yungyuc,Yung-Yu,Chen,yyc@solvcon.net,http://solvcon.net/yyc/,"Yung-Yu is a numerical analyst, a high-performance computing (HPC) application developer, and a Python programmer.  He is currently working on SOLVCON, a software framework designed for solving conservation laws with parallel computing.",https://en.gravatar.com/userimage/6057572/d3e46054fbb9c9126b925d3e9d6e9b04.jpg?size=200,"Aided by its powerful gluing capability, Python can be used to build simulation software that demands high performance.  As performance hotspots being replaced by C, the software can be organized by using Python for a clear structure.  The resulting software provides high flexibility along with high performance.  In this talk, SOLVCON, a Python-based software framework for solving conservation laws, is used to demonstrate the approach.","I would like to report the application of Python to develop first-principle simulators based on solving conservation laws, which are formulated as linear or non-linear, hyperbolic partial differential equations (PDEs), and the lessons learned in the emerging efforts.  The specific category of applications calls for highly-optimized and massively-parallelized code.  SOLVCON (http://solvcon.net/), a project that the speaker is working on, will be used as an example in this talk.
 
 By using Python, we can quickly make a prototype, which takes parallelism into account, to learn how the system should look like in an early stage.  Performance hotspot needs to be regularly checked in the course of development.  Low-level languages must be used to implement the hotspot to deliver the performance in demand.  A hybrid architecture that uses Python and a low-level language like C is the key.  The fundamental two-loop structure in hyperbolic PDE solvers is exploited to organize the software.
 
 The hybrid approach paves the road to a new style of developing PDE solvers.  First-principle simulators can be built with fewer resources, provide a clearer structure, and make the system more flexible.  The high-level layers in the resulted software can host various supportive functionalities, including I/O, pre-processing, and post-processing.  The layered structure can be used to easily implement advanced technologies such as GPGPU computing and in situ visualization.
 
 The layered structure facilitate collaboration of larger teams and potentially better optimization of the code.  The speaker also solicits collaboration on SOLVCON from people who are similar interests.",科学や数学 / Science and Math,ふつう / Standard(45 min),中級者 / intermediate programmer,英語 / English,可 / Video recording OK,This is the second of the two proposal that I submit to PyConJP 2012.
-昼休み & オープンスペース,Lunch & Open Spaces,昼休み & OpenSpace,Key,9/16,9/16/2012 11:45:00,9/16/2012 14:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-基調講演,Keynote,`Keynote: Dan Kogai <keynote.html#session-16-1400-room433>`_,Key,9/16,9/16/2012 14:00:00,9/16/2012 15:00:00,Room 433,Key Event; Room 433,,@dankogai,@dankogai,dan,kogai,,,"TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー。ディーエイエヌ有限会社代表。1999〜2001年、オン・ザ・エッヂ(現ライブドア)取締役最高技術責任者(CTO)。プログラミング言語PerlではEncode担当。
+昼休み & オープンスペース,Lunch & Open Spaces,昼休み & OpenSpace,Lunch & OpenSpace,Key,9/16,9/16/2012 11:45:00,9/16/2012 14:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+基調講演,Keynote,`基調講演: Dan Kogai <keynote.html#session-16-1400-room433-ja>`_,`Keynote: Dan Kogai <keynote.html#session-16-1400-room433-en>`_,Key,9/16,9/16/2012 14:00:00,9/16/2012 15:00:00,Room 433,Key Event; Room 433,,@dankogai,@dankogai,dan,kogai,,,"TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー。ディーエイエヌ有限会社代表。1999〜2001年、オン・ザ・エッヂ(現ライブドア)取締役最高技術責任者(CTO)。プログラミング言語PerlではEncode担当。
 
 著書に『小飼弾のアルファギークに逢ってきた』(技術評論社)、『弾言』『決弾』(いずれも共著、アスペクト)、『空気を読むな、本を読め』(イースト・プレス)、『新書がベスト』(KKベストセラーズ)など。
 
 * Twitter: @dankogai",,,,,,,,,
-休憩,Break,休憩 / Break,,9/16,9/16/2012 15:00:00,9/16/2012 15:15:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Sphinx ではじめるドキュメント生活 2012,Documentation life with Sphinx,,併設; Sphinx,9/16,9/16/2012 15:15:00,9/16/2012 15:40:00,Room 452,Sphinx; Room 452,,小宮 健 (@tk0miya),小宮 健 (@tk0miya),,,,,"(株)タイムインターメディア所属
+休憩,Break,休憩,Break,,9/16,9/16/2012 15:00:00,9/16/2012 15:15:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Sphinx ではじめるドキュメント生活 2012,Documentation life with Sphinx,,,併設; Sphinx,9/16,9/16/2012 15:15:00,9/16/2012 15:40:00,Room 452,Sphinx; Room 452,,小宮 健 (@tk0miya),小宮 健 (@tk0miya),,,,,"(株)タイムインターメディア所属
 blockdiag、Sphinx などといったドキュメンテーションツールに興味を持ち、
 ツール、拡張モジュールの開発やコミュニティ活動を行なっている。",,"すぐれたドキュメントツールである Sphinx を使って、あなたのドキュメントを書いてみませんか。
 Sphinx は多くの OSS のマニュアル、リファレンスで採用されている他、
 IT企業でも利用されはじめています。
 ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。",,Sphinx,25,,,可 / Video recording OK,
-Pythonistaの働き方,Way of working of Pythonista,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 433,Japanese; Room 433,pythonista,北神Noise,北神Noise,北神,雄太,hokusin02@gmail.com,www.kitagami.org,高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。,https://si0.twimg.com/profile_images/1646321977/____________.png,"今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
+Pythonistaの働き方,Way of working of Pythonista,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 433,Japanese; Room 433,pythonista,北神Noise,北神Noise,北神,雄太,hokusin02@gmail.com,www.kitagami.org,高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。,https://si0.twimg.com/profile_images/1646321977/____________.png,"今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
 しかし、真のPythonistaは使う場面を特に意識しない。
 例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
 例え、クライアント向け業務用ソフトを開発していようとも、Pythonを使う機会を見つける事も出来る。
@@ -497,14 +497,14 @@ Pythonは残業を減らす唯一の方法です（嘘）
 ・Pythonをもっと気取らず楽しく扱う方法
 
 ・その他、今後の自分の活動についてなど","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, 教育事例 / Education Best Practices, 組み込み / Embedding and Extending",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,よろしくお願いいたします。
-NVDA: Open Source Screen Reader Written in Python,NVDA: Open Source Screen Reader Written in Python,,併設; NVDA,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 358,NVDA; Room 358,,Mr. Michael Curran,Mr. Michael Curran,,,,,"NV Access Limited, creater and lead developer of NVDA",http://workshop.nvda.jp/images/mr.-michael-curran,"This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is a free and open source screen reader for the Microsoft Windows operating system.
+NVDA: Open Source Screen Reader Written in Python,NVDA: Open Source Screen Reader Written in Python,,,併設; NVDA,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 358,NVDA; Room 358,,Mr. Michael Curran,Mr. Michael Curran,,,,,"NV Access Limited, creater and lead developer of NVDA",http://workshop.nvda.jp/images/mr.-michael-curran,"This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is a free and open source screen reader for the Microsoft Windows operating system.
 NVDA is written primarily in the Python programming language. 
 The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.",,NVDA,45,,,,
-Python3でここまでできるWebプログラミング,Web Programming with Python 3,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 357,Japanese; Room 357,python 3,aodag,aodag,Atsushi,Odagiri,aodagx@gmail.com,http://aodag.posterous.com,"BeProud所属
+Python3でここまでできるWebプログラミング,Web Programming with Python 3,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 357,Japanese; Room 357,python 3,aodag,aodag,Atsushi,Odagiri,aodagx@gmail.com,http://aodag.posterous.com,"BeProud所属
 Pylonsproject.jp 代表
 2011 Pythonアドベントカレンダー(Python3) まとめ役",,Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。,"まだまだライブラリが充実しているとはいいがたいPython3ですが、Webアプリケーションについて言えば、通常のWeb+DBアプリケーションを作るのに十分なものがそろっています。
 ライブラリ以外でもツールやデプロイ方法など、Python3に関連する考慮点なども交えて、Python3でWebアプリケーション開発はすでに可能である話をします。",Python 3k,ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
-Trying Continuous Delivery,Trying Continuous Delivery,,英語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 351a,English; Room 351a,"日本人枠
+Trying Continuous Delivery,Trying Continuous Delivery,,,英語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 351a,English; Room 351a,"日本人枠
 他と毛色が違う",Toru Furukawa,Toru Furukawa,Toru,Furukawa,torufurukawa@gmail.com,,"Toru Furukawa (@torufurukawa) is a technical architect at Bascule Inc.
 
 He started his software developer career when he was 35.  After few yeas of experience, his current interest is to improve productivity and predictability of development, include continuous delivery.",https://si0.twimg.com/profile_images/1544728882/torufurukawa.jpg,"This talk will share why we tried continuous development and delivery process, what have been done, what succeeded and -- probably more importantly -- what failed through location-based social networking service development using Python on Google App Engine.","Continuous delivery is a development process that emphasizes automation and releasable product from the beginning to the end of development.  In order to develop and operate the server-side app for a location-based social networking service on Google App Engine by very few engineers, I started practicing continuous delivery.
@@ -519,48 +519,48 @@ I will cover the following topics but not limited to;
 - What branching strategy we use (similar to git-flow)
 - How to execute zero-downtime release when data schema changed (App Engine practice)
 - What software architecture is suitable for continuous delivery","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, Webシステム / Web-based Systems, Development Process",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
-sphinx拡張 探訪,Explore Sphinx Extensions,,併設; Sphinx,9/16,9/16/2012 15:40:00,9/16/2012 16:05:00,Room 452,Sphinx; Room 452,,しろう @r_rudi,しろう @r_rudi,,,,,"sphinx-jp, blockdiagなど",,Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。,,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-Tea Break,Tea Break,Tea Break,,9/16,9/16/2012 16:00:00,9/16/2012 16:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Sphinx HTML theme 事始め,First step of Sphinx HTML theme,,併設; Sphinx,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 452,Sphinx; Room 452,,@shkumagai,@shkumagai,,,,,"某A社, テストエンジニア",http://www.gravatar.com/avatar/0ba1ea1c1809ff38c7d76a478a88553d.png,"Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
+sphinx拡張 探訪,Explore Sphinx Extensions,,,併設; Sphinx,9/16,9/16/2012 15:40:00,9/16/2012 16:05:00,Room 452,Sphinx; Room 452,,しろう @r_rudi,しろう @r_rudi,,,,,"sphinx-jp, blockdiagなど",,Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。,,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
+Tea Break,Tea Break,Tea Break,Tea Break,,9/16,9/16/2012 16:00:00,9/16/2012 16:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Sphinx HTML theme 事始め,First step of Sphinx HTML theme,,,併設; Sphinx,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 452,Sphinx; Room 452,,@shkumagai,@shkumagai,,,,,"某A社, テストエンジニア",http://www.gravatar.com/avatar/0ba1ea1c1809ff38c7d76a478a88553d.png,"Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
 今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。",,Sphinx,15,,,可 / Video recording OK,
-Microsoft,Microsoft,Session,日本語; スポンサー,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 433,Japanese; Room 433,Gold,,,,,MS,,,,多分azureでpythonを使う話,,プロジェクト事例,25min?,,日本語 / Japanese,,
-The Development and Promotion of NVDA in Taiwan,The Development and Promotion of NVDA in Taiwan,,併設; NVDA,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 358,NVDA; Room 358,,Dr. Jerry Wang,Dr. Jerry Wang,,,,,Taiwan Digital Talking Books Association,http://workshop.nvda.jp/images/dr.-jerry-wang,"Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
+Microsoft,Microsoft,Session,Session,日本語; スポンサー,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 433,Japanese; Room 433,Gold,,,,,MS,,,,多分azureでpythonを使う話,,プロジェクト事例,25min?,,日本語 / Japanese,,
+The Development and Promotion of NVDA in Taiwan,The Development and Promotion of NVDA in Taiwan,,,併設; NVDA,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 358,NVDA; Room 358,,Dr. Jerry Wang,Dr. Jerry Wang,,,,,Taiwan Digital Talking Books Association,http://workshop.nvda.jp/images/dr.-jerry-wang,"Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
 This talk overviews how NVDA is used in Taiwan.",,NVDA,25,,,,
-自社開発していなかった会社が python を選んだ理由,Why we choose Python,,日本語,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 357,Japanese; Room 357,初心者用短め,vkgtaro,vkgtaro,Komatsu,Daisuke,komatsu@cb21.co.jp,http://www.cb21.co.jp,株式会社キャッチボール21 開発グループマネージャ,http://vkgtaro.jp/images/vkgtaro.jpg,"今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
+自社開発していなかった会社が python を選んだ理由,Why we choose Python,,,日本語,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 357,Japanese; Room 357,初心者用短め,vkgtaro,vkgtaro,Komatsu,Daisuke,komatsu@cb21.co.jp,http://www.cb21.co.jp,株式会社キャッチボール21 開発グループマネージャ,http://vkgtaro.jp/images/vkgtaro.jpg,"今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
 仕事でも自分の好きなことがやりたい人に向けて、どうやって仕事を作るかの参考になればと思います。","* 以前いた会社では perl でプログラミングしてた事
 * 転職を機にマネージメント側になった事（そもそも、社内に開発体制がなかった ）
 * 外部委託よりは社内に開発体制を作りたいということで動いていった事
 * なぜ、自分が得意としている言語ではなく python を選んだのか
 * python を選んで今、どうなったのか
 ",プロジェクト事例 / Project Best Practices,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,当日までにアウトラインを変えてしまうかもしれませんが、よろしくお願いします！
-Python in gait biomechanics research,Python in gait biomechanics research,,英語,9/16,9/16/2012 16:45:00,9/16/2012 17:30:00,Room 351a,English; Room 351a,信州大学,tpataky00,tpataky00,Todd,Pataky,tpataky@shinshu-u.ac.jp,,"Shinshu University, Young Researcher's Empowerment Project, Department of Bioengineering, Assistant Professor",,This talk will describe various Python tools for human and animal locomotion data analysis and dynamic simulations. It will also describe three related Python packages concurrently under development.,"Experimentation and numerical simulation of human and animal walking and running (‘gait’) can generate large volumes of data, and these data can have very different physical characteristics. For example: 1D force trajectories, 2D pressure distributions, and 3D bone and soft tissue strain and stress fields are physically distinct, but they often needed to be analyzed simultaneously. Such analyses require well-integrated computational tools to handle diverse datasets in an efficient manner. This talk will summarize how Python is being used at Shinshu University for experimental gait analysis and gait-related simulations, including standard scientific packages like NumPy, SciPy and Matplotlib. Three related custom packages currently under development will also be described:  (1) PyFEBio: a wrapper to biologically-focussed open source finite element analysis software, (2) SPMnD: a package for the topological statistical analysis of physically arbitrary gait data, and (3) OPP: a pressure distribution data management and analysis package. Some specific scientific applications using Python will also be highlighted, including: analysis of 3.8 million fossilized footprints, large mammal gait analysis, biometric gait identification, and energy harvesting.","オープンソースのPythonプロジェクト / Open Source Python projects, 科学や数学 / Science and Math",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
-Sphinxを使って本を書こう（仮）,Write a book using Sphinx,,併設; Sphinx,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 452,Sphinx; Room 452,,清水川 貴之 (@shimizukawa),清水川 貴之 (@shimizukawa),,,,,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://dragon-user-images.s3.amazonaws.com/profile/866145,私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。,"* Sphinxで本を書き始める(ファイル構造の例)
+Python in gait biomechanics research,Python in gait biomechanics research,,,英語,9/16,9/16/2012 16:45:00,9/16/2012 17:30:00,Room 351a,English; Room 351a,信州大学,tpataky00,tpataky00,Todd,Pataky,tpataky@shinshu-u.ac.jp,,"Shinshu University, Young Researcher's Empowerment Project, Department of Bioengineering, Assistant Professor",,This talk will describe various Python tools for human and animal locomotion data analysis and dynamic simulations. It will also describe three related Python packages concurrently under development.,"Experimentation and numerical simulation of human and animal walking and running (‘gait’) can generate large volumes of data, and these data can have very different physical characteristics. For example: 1D force trajectories, 2D pressure distributions, and 3D bone and soft tissue strain and stress fields are physically distinct, but they often needed to be analyzed simultaneously. Such analyses require well-integrated computational tools to handle diverse datasets in an efficient manner. This talk will summarize how Python is being used at Shinshu University for experimental gait analysis and gait-related simulations, including standard scientific packages like NumPy, SciPy and Matplotlib. Three related custom packages currently under development will also be described:  (1) PyFEBio: a wrapper to biologically-focussed open source finite element analysis software, (2) SPMnD: a package for the topological statistical analysis of physically arbitrary gait data, and (3) OPP: a pressure distribution data management and analysis package. Some specific scientific applications using Python will also be highlighted, including: analysis of 3.8 million fossilized footprints, large mammal gait analysis, biometric gait identification, and energy harvesting.","オープンソースのPythonプロジェクト / Open Source Python projects, 科学や数学 / Science and Math",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
+Sphinxを使って本を書こう（仮）,Write a book using Sphinx,,,併設; Sphinx,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 452,Sphinx; Room 452,,清水川 貴之 (@shimizukawa),清水川 貴之 (@shimizukawa),,,,,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://dragon-user-images.s3.amazonaws.com/profile/866145,私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。,"* Sphinxで本を書き始める(ファイル構造の例)
 * JenkinsでHTMLとPDFの自動ビルド
 * Jenkinsでtodo数を表示
 * レビューにtodoディレクティブ
 * 出版社さん向けのbuilderの作成",Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-ソーシャルゲームとメッセージキュー,Social Game and Message Queue,,日本語; スポンサー,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 433,Japanese; Room 433,,幾田　雅仁（ikuta masahito),幾田　雅仁（ikuta masahito),Masahito,Ikuta,masahito.ikuta@gu3.co.jp,http://gu3.co.jp,大手ポータルサイトや決済代行を経て、2012年6月から gumi 在籍,,前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
-The Localization of NVDA for Japanese Language Users,The Localization of NVDA for Japanese Language Users,,併設; NVDA,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 358,NVDA; Room 358,,Dr. Takuya Nishimoto,Dr. Takuya Nishimoto,,,,,"Director of NVDA Japanese Team
+ソーシャルゲームとメッセージキュー,Social Game and Message Queue,,,日本語; スポンサー,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 433,Japanese; Room 433,,幾田　雅仁（ikuta masahito),幾田　雅仁（ikuta masahito),Masahito,Ikuta,masahito.ikuta@gu3.co.jp,http://gu3.co.jp,大手ポータルサイトや決済代行を経て、2012年6月から gumi 在籍,,前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
+The Localization of NVDA for Japanese Language Users,The Localization of NVDA for Japanese Language Users,,,併設; NVDA,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 358,NVDA; Room 358,,Dr. Takuya Nishimoto,Dr. Takuya Nishimoto,,,,,"Director of NVDA Japanese Team
 ",http://workshop.nvda.jp/images/takuya-nishimoto,"In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
 This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.",,NVDA,25,,,,
-Pythonコミュニティが私に与えてくれたもの,What Python community has given to me,,日本語,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 357,Japanese; Room 357,コミュニティ,tmmkr,tmmkr,Tomomi,KURIGENO,tomomik84@gmail.com,,Java Engineer,,昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。,"・PyCon2011に参加前のこと
+Pythonコミュニティが私に与えてくれたもの,What Python community has given to me,,,日本語,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 357,Japanese; Room 357,コミュニティ,tmmkr,tmmkr,Tomomi,KURIGENO,tomomik84@gmail.com,,Java Engineer,,昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。,"・PyCon2011に参加前のこと
 ・PyCon2011に参加してはじめたこと
 ・変化したこと
 ・コミュニティへの参加の仕方
 ",コミュニティ,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,不可 / Don't record my talk,"・拡張モジュールやプログラムそのものの話ではないですが、昨年のPyConJPに参加した事をきっかけにいちエンジニアとしての過ごし方やモチベーションががらりと変化する事ができましたので、コミュニティとしてのお話ができるかと思い、登録しました。
 ・また初日は別カンファレンスのスタッフのため、参加できません。
 ・所属については、所属社名を公表できない事情のため、掲載しておりません。"
-休憩,Break,休憩 / Break,,9/16,9/16/2012 17:30:00,9/16/2012 17:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Sphinxの平凡な使い方 ～業務での利用事例～,How to use Sphinx,,併設; Sphinx,9/16,9/16/2012 17:45:00,9/16/2012 18:00:00,Room 452,Sphinx; Room 452,,@usaturn,@usaturn,,,,,所属: ネットサポート株式会社,https://twimg0-a.akamaihd.net/profile_images/1365715199/md_bigger.png,ターゲットは、Sphinxに興味はあるけど、まだ使ったことが無い人です。,"* 使い始めたきっかけ
+休憩,Break,休憩,Break,,9/16,9/16/2012 17:30:00,9/16/2012 17:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Sphinxの平凡な使い方 ～業務での利用事例～,How to use Sphinx,,,併設; Sphinx,9/16,9/16/2012 17:45:00,9/16/2012 18:00:00,Room 452,Sphinx; Room 452,,@usaturn,@usaturn,,,,,所属: ネットサポート株式会社,https://twimg0-a.akamaihd.net/profile_images/1365715199/md_bigger.png,ターゲットは、Sphinxに興味はあるけど、まだ使ったことが無い人です。,"* 使い始めたきっかけ
 * 利用事例
 * 使っていく上で感じたSphinxのメリット、デメリット
 * その他",Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-Webフレームワークパネル,Web framework Panel Discussion,Webフレームワークパネル,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,,
-Development of Global Open Standard for Developing Countries,Development of Global Open Standard for Developing Countries,,併設; NVDA,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 358,NVDA; Room 358,,Mr. Hiroshi Kawamura,Mr. Hiroshi Kawamura,,,,,"Board (Past President), DAISY Consortium
+Webフレームワークパネル,Web framework Panel Discussion,Webフレームワークパネル,Web framework Panel Discussion,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,,
+Development of Global Open Standard for Developing Countries,Development of Global Open Standard for Developing Countries,,,併設; NVDA,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 358,NVDA; Room 358,,Mr. Hiroshi Kawamura,Mr. Hiroshi Kawamura,,,,,"Board (Past President), DAISY Consortium
 Vice President, Assistive Technology Development Organization",http://workshop.nvda.jp/images/mr.-hiroshi-kawamura,"Digital Accessible Information SYstem (DAISY) assists people who have challenges using regular printed media.
 DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
 This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.",,NVDA,45,,,,
-Fantastic DSL in Python - PythonでつくるDSLのテクニック -,Fantastic DSL in Python,,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:10:00,Room 357,Japanese; Room 357,45分は長い。25分なら採用の可能性あり,Makoto Kuwata,Makoto Kuwata,Makoto,Kuwata,kwa@kuwata-lab.com,http://www.kuwata-lab.com/,"Programmer.
+Fantastic DSL in Python - PythonでつくるDSLのテクニック -,Fantastic DSL in Python,,,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:10:00,Room 357,Japanese; Room 357,45分は長い。25分なら採用の可能性あり,Makoto Kuwata,Makoto Kuwata,Makoto,Kuwata,kwa@kuwata-lab.com,http://www.kuwata-lab.com/,"Programmer.
 
 2011 Pycon mini JP:
 How to Create a High-Speed Template Engine in Python
@@ -597,7 +597,7 @@ In this session, I'll show you problems and solutions about DSL design in Python
 * Case Study
   - CSS Generator
 ",Programming Tips / DSL,ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,事務局のみなさま、いつもお疲れさまです。上記の通り応募させていただきますのでご査収ください。よろしくお願いします。
-Learning Algorithms and Data Structures in Python,Learning Algorithms and Data Structures in Python,,英語,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 351a,English; Room 351a,教育,htvu,htvu,TienVu,Ho,ho0001vu@gmail.com,,"TienVu is a Web Application Engineer at Lucasfilm Singapore where he works on various python frameworks. In his spared time, TienVu enjoys participating in online programming contests.
+Learning Algorithms and Data Structures in Python,Learning Algorithms and Data Structures in Python,,,英語,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 351a,English; Room 351a,教育,htvu,htvu,TienVu,Ho,ho0001vu@gmail.com,,"TienVu is a Web Application Engineer at Lucasfilm Singapore where he works on various python frameworks. In his spared time, TienVu enjoys participating in online programming contests.
 ",,"Programming languages, data structures and algorithms are the fundamentals of computer science. There are a lot of materials that cover these subjects but often do not link well with each other. This talk will explain how to use Python to learn these topics in a fast and efficient manner"," A) Introduction to programming in Python
         - Demonstrate how fast and easy it is to get started to code in Python(types, variables, operation, loop, condition) compared to Java/C++
         - Python is made for beginners, the interpreter makes it very easy to explore APIs and such
@@ -618,16 +618,16 @@ Learning Algorithms and Data Structures in Python,Learning Algorithms and Data S
         - Python is fast and easy to get started
         - You will learn many things with Python, not just algorithm-specific or language-specific",教育事例 / Education Best Practices,ふつう / Standard(45 min),初心者 / beginning programmer,英語 / English,可 / Video recording OK,
 "社内でのSphinx、reSTの広め方
-",How to disperse Sphinx and reST,,併設; Sphinx,9/16,9/16/2012 18:00:00,9/16/2012 18:15:00,Room 452,Sphinx; Room 452,,鈴木たかのり       ,鈴木たかのり       ,,,,,"PyCon JP 2011, 2012 スタッフ
+",How to disperse Sphinx and reST,,,併設; Sphinx,9/16,9/16/2012 18:00:00,9/16/2012 18:15:00,Room 452,Sphinx; Room 452,,鈴木たかのり       ,鈴木たかのり       ,,,,,"PyCon JP 2011, 2012 スタッフ
 Plone 研究会
 Python mini Hack-a-thon の主催の一人",http://sphinx-users.jp/_images/takanory1.jpg,"自分以外誰も Sphinx, reStructuredText を使ったことがない状況で、8名ほどのチームメンバーが全員が普通に使用するようになるまでの物語。","- メールの平文で reStructuredText
 - 議事録を reStructuredText → Plone
 - 日報を reStructuredText で
 - 設計書を Sphinx で
 - 設計書を Sphinx + blockdiag, seqdiag で",Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
-Python Gateway Programming,Python Gateway Programming,,日本語,9/16,9/16/2012 18:10:00,9/16/2012 18:35:00,Room 357,Japanese; Room 357,,南里　剛,南里　剛,南里 / Nanri,剛 / Tsuyoshi,南里,,,,Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。,,"その他, プロジェクト事例",25min,初心者 / beginning programmer,日本語 / Japanese,,
-Sphinxにおけるdocutilsの役割,docutils in sphinx,,併設; Sphinx,9/16,9/16/2012 18:15:00,9/16/2012 18:30:00,Room 452,Sphinx; Room 452,,@hekyou       ,@hekyou       ,,,,,"blockdiag, bookathon",http://a0.twimg.com/profile_images/1194202128/hekyo_reasonably_small.jpg,"docutilsがreStructuredTextを処理する流れについて
+Python Gateway Programming,Python Gateway Programming,,,日本語,9/16,9/16/2012 18:10:00,9/16/2012 18:35:00,Room 357,Japanese; Room 357,,南里　剛,南里　剛,南里 / Nanri,剛 / Tsuyoshi,南里,,,,Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。,,"その他, プロジェクト事例",25min,初心者 / beginning programmer,日本語 / Japanese,,
+Sphinxにおけるdocutilsの役割,docutils in sphinx,,,併設; Sphinx,9/16,9/16/2012 18:15:00,9/16/2012 18:30:00,Room 452,Sphinx; Room 452,,@hekyou       ,@hekyou       ,,,,,"blockdiag, bookathon",http://a0.twimg.com/profile_images/1194202128/hekyo_reasonably_small.jpg,"docutilsがreStructuredTextを処理する流れについて
 docutilsの使い方の概要",,Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
-休憩,Break,休憩 / Break,,9/16,9/16/2012 18:30:00,9/16/2012 18:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
-Closing,Closing,Closing,Key,9/16,9/16/2012 18:45:00,9/16/2012 19:00:00,Room 433,Key Event; Room 433,,,,,,,,,,,,,,,,,
-スプリント,Spints,Sprint,Key,9/17,9/17/2012 10:00:00,9/17/2012 18:00:00,,Key Event,,,,,,,,,,,,,,,,,
+休憩,Break,休憩,Break,,9/16,9/16/2012 18:30:00,9/16/2012 18:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,
+Closing,Closing,Closing,Closing,Key,9/16,9/16/2012 18:45:00,9/16/2012 19:00:00,Room 433,Key Event; Room 433,,,,,,,,,,,,,,,,,
+スプリント,Spints,Sprint,Sprint,Key,9/17,9/17/2012 10:00:00,9/17/2012 18:00:00,,Key Event,,,,,,,,,,,,,,,,,

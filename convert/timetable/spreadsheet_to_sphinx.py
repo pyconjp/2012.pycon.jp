@@ -74,7 +74,8 @@ class TimeTableRows(object):
         'room': "場所",
         'title_ja': "講演タイトル / Talk title",
         'title_en': "英語タイトル",
-        'title_sphinx': "タイトルSphinx埋込",
+        'title_sphinx_ja': "タイトルSphinx埋込",
+        'title_sphinx_en': "タイトルSphinx埋込(英語)",
         'lang': "講演言語 / Language of talk",
         'speaker': '掲載名 (英語の実氏名)',
         'abstract': '講演内容 / Abstract',
@@ -164,8 +165,8 @@ def make_timetables(rows, timetable1_filename, timetable2_filename, lang='ja'):
         if (data):
             data += '\n\n{0:%H:%M} '.format(row.start)
 
-        if row.title_sphinx:
-            data += row.title_sphinx
+        if getattr(row, 'title_sphinx_' + lang):
+            data += getattr(row, 'title_sphinx_' + lang)
         else:
             data += ':ref:`{0}-{1}`'.format(create_reference_id(row), lang)
         if row.end > term['end']:
