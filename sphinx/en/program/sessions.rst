@@ -2,16 +2,14 @@
 Sessions
 ================
 
+* `English sessions <#english-sessions-en>`_
+* `Japanese sessions <#japanese-sessions-en>`_
 
-###################
-English sessions
-###################
 
+.. _english-sessions-en:
 .. include:: sessions-global-en.in
 
-###################
-Japanese sessions
-###################
 
+.. _japanese-sessions-en:
 .. include:: sessions-local-en.in
 

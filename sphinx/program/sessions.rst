@@ -2,18 +2,14 @@
  セッション一覧
 ================
 
-
-###################
-日本語セッション
-###################
+* `日本語セッション <#japanese-sessions-ja>`_
+* `英語セッション <#english-sessions-ja>`_
 
 
+.. _japanese-sessions-ja:
 .. include:: sessions-local.in
 
 
-###################
-英語セッション
-###################
-
+.. _english-sessions-ja:
 .. include:: sessions-global.in
 
