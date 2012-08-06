@@ -1,0 +1,338 @@
+
+.. _session-15-1100-Room452-en:
+
+Django 1.4
+==========
+Djangoについて
+* 1.0 以降の新しいこと
+  * クラスベース汎用ビュー
+  * app template (django-skel)
+
+:Speaker: @hirokiky
+:Audience: 
+:Language: Japanese
+:When: 09/15 11:00 - 11:45
+:Room: Room 452
+
+
+
+.. _session-15-1100-Room357-en:
+
+App Engine Updates - 2012       
+================================
+Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。
+
+:Speaker: Takashi Matsuo
+:Audience: 
+:Language: Japanese
+:When: 09/15 11:00 - 11:45
+:Room: Room 357
+
+
+
+.. _session-15-1330-Room452-en:
+
+What Makes Pyramid Unique!
+==========================
+Pyramidについて
+Pyramidの特徴
+PyramidのためのPythonの知識
+
+:Speaker: @aodag
+:Audience: 
+:Language: Japanese
+:When: 09/15 13:30 - 14:15
+:Room: Room 452
+
+
+
+.. _session-15-1330-Room357-en:
+
+Full Text Seach overview
+========================
+試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。
+
+:Speaker: Tetsuya Mukai
+:Audience: 
+:Language: Japanese
+:When: 09/15 13:30 - 14:15
+:Room: Room 357
+
+
+
+.. _session-15-1430-Room452-en:
+
+M2M Cloud Platform by Django
+============================
+Djangoを利用したM2Mサーバの実例について紹介
+
+:Speaker: 松村竜之介 （株式会社コア）
+:Audience: 
+:Language: Japanese
+:When: 09/15 14:30 - 15:15
+:Room: Room 452
+
+
+
+.. _session-15-1430-Room357-en:
+
+Introduction of Python NDV API
+==============================
+ AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について
+
+:Speaker: najeira
+:Audience: 
+:Language: Japanese
+:When: 09/15 14:30 - 15:15
+:Room: Room 357
+
+
+
+.. _session-15-1530-Room452-en:
+
+Pylons short session
+====================
+* Pyramidセキュリティ
+* 実際の開発
+
+:Speaker: @jbking @podhmo
+:Audience: 
+:Language: Japanese
+:When: 09/15 15:30 - 16:15
+:Room: Room 452
+
+
+
+.. _session-15-1530-Room357-en:
+
+panel discussion
+================
+本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。
+
+:Speaker: モデレーター Akira Kusumoto /
+パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII
+:Audience: 
+:Language: Japanese
+:When: 09/15 15:30 - 16:15
+:Room: Room 357
+
+
+
+.. _session-15-1630-Room452-en:
+
+Asynchronous processing by Django-Celery
+========================================
+Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も
+
+:Speaker: @hdknr
+:Audience: 
+:Language: Japanese
+:When: 09/15 16:30 - 17:15
+:Room: Room 452
+
+
+
+.. _session-15-1630-Room357-en:
+
+App Engine Lightning Talk
+=========================
+
+
+:Speaker: Talkers
+:Audience: 
+:Language: Japanese
+:When: 09/15 16:30 - 17:15
+:Room: Room 357
+
+
+
+.. _session-16-1000-Room452-en:
+
+Pyramid migration guide for Pylons users
+========================================
+これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
+
+:Speaker: @knzm2011
+:Audience: 
+:Language: Japanese
+:When: 09/16 10:00 - 10:45
+:Room: Room 452
+
+
+
+.. _session-16-1100-Room452-en:
+
+Django Lessons Learned @BeProud
+===============================
+3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有
+
+:Speaker: @IanMLewis
+:Audience: 
+:Language: Japanese
+:When: 09/16 11:00 - 11:45
+:Room: Room 452
+
+
+
+.. _session-16-1515-Room452-en:
+
+Documentation life with Sphinx
+==============================
+すぐれたドキュメントツールである Sphinx を使って、あなたのドキュメントを書いてみませんか。
+Sphinx は多くの OSS のマニュアル、リファレンスで採用されている他、
+IT企業でも利用されはじめています。
+ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。
+
+:Speaker: 小宮 健 (@tk0miya)
+:Audience: 
+:Language: 
+:When: 09/16 15:15 - 15:40
+:Room: Room 452
+
+
+
+.. _session-16-1515-Room358-en:
+
+NVDA: Open Source Screen Reader Written in Python
+=================================================
+This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is a free and open source screen reader for the Microsoft Windows operating system.
+NVDA is written primarily in the Python programming language. 
+The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.
+
+:Speaker: Mr. Michael Curran
+:Audience: 
+:Language: 
+:When: 09/16 15:15 - 16:00
+:Room: Room 358
+
+
+
+.. _session-16-1540-Room452-en:
+
+Explore Sphinx Extensions
+=========================
+Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。
+
+:Speaker: しろう @r_rudi
+:Audience: 
+:Language: Japanese
+:When: 09/16 15:40 - 16:05
+:Room: Room 452
+
+
+
+.. _session-16-1645-Room452-en:
+
+First step of Sphinx HTML theme
+===============================
+Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
+今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。
+
+:Speaker: @shkumagai
+:Audience: 
+:Language: 
+:When: 09/16 16:45 - 17:10
+:Room: Room 452
+
+
+
+.. _session-16-1645-Room358-en:
+
+The Development and Promotion of NVDA in Taiwan
+===============================================
+Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
+This talk overviews how NVDA is used in Taiwan.
+
+:Speaker: Dr. Jerry Wang
+:Audience: 
+:Language: 
+:When: 09/16 16:45 - 17:10
+:Room: Room 358
+
+
+
+.. _session-16-1710-Room452-en:
+
+Write a book using Sphinx
+=========================
+私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。
+
+:Speaker: 清水川 貴之 (@shimizukawa)
+:Audience: 
+:Language: Japanese
+:When: 09/16 17:10 - 17:35
+:Room: Room 452
+
+
+
+.. _session-16-1710-Room358-en:
+
+The Localization of NVDA for Japanese Language Users
+====================================================
+In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
+This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.
+
+:Speaker: Dr. Takuya Nishimoto
+:Audience: 
+:Language: 
+:When: 09/16 17:10 - 17:35
+:Room: Room 358
+
+
+
+.. _session-16-1745-Room452-en:
+
+How to use Sphinx
+=================
+ターゲットは、Sphinxに興味はあるけど、まだ使ったことが無い人です。
+
+:Speaker: @usaturn
+:Audience: 
+:Language: Japanese
+:When: 09/16 17:45 - 18:00
+:Room: Room 452
+
+
+
+.. _session-16-1745-Room358-en:
+
+Development of Global Open Standard for Developing Countries
+============================================================
+Digital Accessible Information SYstem (DAISY) assists people who have challenges using regular printed media.
+DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
+This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.
+
+:Speaker: Mr. Hiroshi Kawamura
+:Audience: 
+:Language: 
+:When: 09/16 17:45 - 18:30
+:Room: Room 358
+
+
+
+.. _session-16-1800-Room452-en:
+
+How to disperse Sphinx and reST
+===============================
+自分以外誰も Sphinx, reStructuredText を使ったことがない状況で、8名ほどのチームメンバーが全員が普通に使用するようになるまでの物語。
+
+:Speaker: 鈴木たかのり       
+:Audience: 
+:Language: Japanese
+:When: 09/16 18:00 - 18:15
+:Room: Room 452
+
+
+
+.. _session-16-1815-Room452-en:
+
+docutils in sphinx
+==================
+docutilsがreStructuredTextを処理する流れについて
+docutilsの使い方の概要
+
+:Speaker: @hekyou       
+:Audience: 
+:Language: Japanese
+:When: 09/16 18:15 - 18:30
+:Room: Room 452
