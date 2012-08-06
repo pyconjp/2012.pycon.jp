@@ -227,3 +227,13 @@ CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニ�
    :target: http://www.smapo.co.jp/
    :alt: スポットライト
 
+|vtj|
+=====
+- 日本仮想化技術
+- http://virtualtech.jp/
+
+日本仮想化技術は、クラウドインフラソリューションを提供する、仮想化技術専業会社です。2006年の設立以来、ハイパーバイザーからネットワーク、ストレージまで、クラウド構築に必要な技術をワンストップで提供してきました。日本仮想化技術では、OpenStackを活用したソリューション展開を開始しました。OpenStackはPythonで開発されているクラウド構築・管理のためのオープンソースソフトウェア群です。日本でのPython開発者の増加と、OpenStack普及との相乗効果を期待しています。
+
+.. |vtj| image:: /_static/sponsor/logo_vtj.png
+   :target: http://virtualtech.jp/
+   :alt: 日本仮想化技術
