@@ -61,30 +61,6 @@ def main(input_filename, timetable1_filename, timetable2_filename):
     for k, v in in_col_idx_keys.iteritems():
         in_col_idx_map[k] = in_header.index(v)
 
-    time_table = {}
-    for row in rows[1:]:
-        start = row[in_col_idx_map['start']]
-        start = str2datetime(start)
-        tr = time_table[start] = time_table.get(start, {})
-        tr[row[in_col_idx_map['room']]] = row
-
-    # rename keys; data[start] -> data[start, end]
-    time_table_keys = sorted(time_table)
-    for start, end in zip(time_table_keys, time_table_keys[1:]+time_table_keys[:1]):
-        if start.day != end.day:
-            end = time_table[start].values()[0][in_col_idx_map['end']]
-            end = str2datetime(end)
-        time_table[start, end] = time_table.pop(start)
-
-    # debug print
-    #for t in sorted(time_table):
-    #    rooms = time_table[t]
-    #    room_names = sorted(room_idx_map, key=lambda k: room_idx_map[k])
-    #    print(
-    #        '{0[0]:%m/%d %H:%M} - {0[1]:%H:%M} {1}'.format(
-    #            t, ' '.join([(x if x in rooms else (' ' * len(x))) for x in room_names])
-    #        )
-    #    )
 
     writers = {
         datetime.date(2012,9,15): csv.writer(open(timetable1_filename, 'wb')),
@@ -94,7 +70,10 @@ def main(input_filename, timetable1_filename, timetable2_filename):
     time_index = 0
     cols = [''] * 7
     results = {}
-    for start, end in sorted(time_table):
+    for row in rows[1:]:
+        start = str2datetime(row[in_col_idx_map['start']])
+        end = str2datetime(row[in_col_idx_map['end']])
+        room = row[in_col_idx_map['room']]
         term = session_terms[time_index]
         if term['end'] <= start:
             results[term['start']] = cols
@@ -106,35 +85,28 @@ def main(input_filename, timetable1_filename, timetable2_filename):
         if end <= term['start']:
             continue
 
-        time_row = time_table[start, end]
         cols[0] = '{0[start]:%H:%M} - {0[end]:%H:%M}'.format(term)
 
-        for room in time_row:
-            if room and room not in room_idx_map:
-                pass
-            else:
-                row = time_row[room]
-                data = cols[room_idx_map.get(room, 1)]
-                if (data):
-                    data += '\n\n{0:%H:%M} '.format(start)
+        data = cols[room_idx_map.get(room, 1)]
+        if (data):
+            data += '\n\n{0:%H:%M} '.format(start)
 
-                if row[in_col_idx_map['title_sphinx']]:
-                    data += row[in_col_idx_map['title_sphinx']]
-                else:
-                    data += ':ref:`session-{0:%d-%H%M}-{1}`'.format(
-                        str2datetime(row[in_col_idx_map['start']]),
-                        room.replace(' ', '')
-                    )
-                session_end = str2datetime(row[in_col_idx_map['end']])
-                if session_end > term['end']:
-                    #休憩時間に食い込むセッション
-                    data += ' (till {0:%H:%M})'.format(session_end)
-                if room:
-                    cols[room_idx_map[room]] = data
-                else:
-                    cols[1:] = [data] * 6
-                    if start.day == 16:
-                        cols[room_idx_map['Room 230']] = ''
+        if row[in_col_idx_map['title_sphinx']]:
+            data += row[in_col_idx_map['title_sphinx']]
+        else:
+            data += ':ref:`session-{0:%d-%H%M}-{1}`'.format(
+                str2datetime(row[in_col_idx_map['start']]),
+                room.replace(' ', '')
+            )
+        if end > term['end']:
+            #休憩時間に食い込むセッション
+            data += ' (till {0:%H:%M})'.format(end)
+        if room:
+            cols[room_idx_map[room]] = data
+        else:
+            cols[1:] = [data] * 6
+            if start.day == 16:
+                cols[room_idx_map['Room 230']] = ''
 
     for t in sorted(results):
         writers[t.date()].writerow(results[t])
