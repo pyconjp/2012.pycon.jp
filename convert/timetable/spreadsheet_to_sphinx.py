@@ -4,15 +4,40 @@ import csv
 import time
 import datetime
 
+
+ROOM_IDX_MAP = {
+    'Room 230': 1,
+    'Room 433': 2,
+    'Room 351a': 3,
+    'Room 357': 4,
+    'Room 452': 5,
+    'Room 358': 6
+}
+
+
 def str2datetime(s):
     "convert %m/%d/%Y HH:MM:SS -> datetime object"
     return datetime.datetime(*time.strptime(s, '%m/%d/%Y %H:%M:%S')[:6])
 
 
-def main(input_filename, timetable1_filename, timetable2_filename):
-    reader = csv.reader(open(input_filename, 'rb'))
-    rows = list(reader)
-    in_col_idx_keys = {
+class attrmapper(object):
+
+    def __init__(self, target_object, keyvalues, filters={}):
+        self._target_object = target_object
+        self._keyvalues = keyvalues
+        self._filters = filters
+
+    def __getattr__(self, name):
+        if name in self._keyvalues:
+            value = self._target_object[self._keyvalues[name]]
+            filter = self._filters.get(name, str)
+            return filter(value)
+        return super(attrmapper, self).__getattr__(name)
+
+
+class TimeTableRows(object):
+
+    COL_IDX_KEYS = {
         'start': "開始時刻",
         'end': "終了時刻",
         'track': "トラック",
@@ -22,15 +47,29 @@ def main(input_filename, timetable1_filename, timetable2_filename):
         'title_sphinx': "タイトルSphinx埋込",
         'lang': "講演言語 / Language of talk",
     }
-    in_col_idx_map = {}
-    room_idx_map = {
-        'Room 230': 1,
-        'Room 433': 2,
-        'Room 351a': 3,
-        'Room 357': 4,
-        'Room 452': 5,
-        'Room 358': 6
+
+    FILTERS = {
+        'start': str2datetime,
+        'end': str2datetime,
     }
+
+
+    def __init__(self, rows):
+        self._rows = list(rows)
+        self.header = self._rows[0]
+        self.col_idx_map = {}
+
+        # 入力データの列名とindex値の対応付け
+        for k, v in self.COL_IDX_KEYS.iteritems():
+            self.col_idx_map[k] = self.header.index(v)
+
+    def __iter__(self):
+        return (attrmapper(x, self.col_idx_map, self.FILTERS) for x in self._rows[1:])
+
+
+def main(input_filename, timetable1_filename, timetable2_filename):
+    reader = csv.reader(open(input_filename, 'rb'))
+    rows = TimeTableRows(reader)
     session_terms = [
         {'start': datetime.datetime(2012, 9, 15,  9, 00), 'end': datetime.datetime(2012, 9, 15,  9, 30), 'end2': datetime.datetime(2012, 9, 15,  9, 30)},
         {'start': datetime.datetime(2012, 9, 15,  9, 30), 'end': datetime.datetime(2012, 9, 15,  9, 45), 'end2': datetime.datetime(2012, 9, 15,  9, 45)},
@@ -56,12 +95,6 @@ def main(input_filename, timetable1_filename, timetable2_filename):
         {'start': datetime.datetime(2012, 9, 16, 18, 45), 'end': datetime.datetime(2012, 9, 16, 19, 00), 'end2': datetime.datetime(2012, 9, 16, 19, 00)},
     ]
 
-    # 入力データの列名とindex値の対応付け
-    in_header = rows[0]
-    for k, v in in_col_idx_keys.iteritems():
-        in_col_idx_map[k] = in_header.index(v)
-
-
     writers = {
         datetime.date(2012,9,15): csv.writer(open(timetable1_filename, 'wb')),
         datetime.date(2012,9,16): csv.writer(open(timetable2_filename, 'wb')),
@@ -70,43 +103,40 @@ def main(input_filename, timetable1_filename, timetable2_filename):
     time_index = 0
     cols = [''] * 7
     results = {}
-    for row in rows[1:]:
-        start = str2datetime(row[in_col_idx_map['start']])
-        end = str2datetime(row[in_col_idx_map['end']])
-        room = row[in_col_idx_map['room']]
+    for row in rows:
         term = session_terms[time_index]
-        if term['end'] <= start:
+        if term['end'] <= row.start:
             results[term['start']] = cols
             cols = [''] * 7
             time_index += 1
             if len(session_terms) <= time_index:
                 break
             term = session_terms[time_index]
-        if end <= term['start']:
+        if row.end <= term['start']:
             continue
 
         cols[0] = '{0[start]:%H:%M} - {0[end]:%H:%M}'.format(term)
 
-        data = cols[room_idx_map.get(room, 1)]
+        data = cols[ROOM_IDX_MAP.get(row.room, 1)]
         if (data):
-            data += '\n\n{0:%H:%M} '.format(start)
+            data += '\n\n{0:%H:%M} '.format(row.start)
 
-        if row[in_col_idx_map['title_sphinx']]:
-            data += row[in_col_idx_map['title_sphinx']]
+        if row.title_sphinx:
+            data += row.title_sphinx
         else:
             data += ':ref:`session-{0:%d-%H%M}-{1}`'.format(
-                str2datetime(row[in_col_idx_map['start']]),
-                room.replace(' ', '')
+                row.start,
+                row.room.replace(' ', '')
             )
-        if end > term['end']:
+        if row.end > term['end']:
             #休憩時間に食い込むセッション
-            data += ' (till {0:%H:%M})'.format(end)
-        if room:
-            cols[room_idx_map[room]] = data
+            data += ' (till {0:%H:%M})'.format(row.end)
+        if row.room:
+            cols[ROOM_IDX_MAP[row.room]] = data
         else:
             cols[1:] = [data] * 6
-            if start.day == 16:
-                cols[room_idx_map['Room 230']] = ''
+            if row.start.day == 16:
+                cols[ROOM_IDX_MAP['Room 230']] = ''
 
     for t in sorted(results):
         writers[t.date()].writerow(results[t])
