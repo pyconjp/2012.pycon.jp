@@ -17,6 +17,34 @@ ROOM_IDX_MAP = {
 }
 
 
+SESSION_TEMPLATE_JA = """
+.. _{reference_id}:
+
+{title_with_underline}
+{abstract}
+
+:発表者: {speaker}
+:対象: {audience}
+:言語: {language}
+:日時: {datetime}
+:場所: {room}
+"""
+
+
+SESSION_TEMPLATE_EN = """
+.. _{reference_id}:
+
+{title_with_underline}
+{abstract}
+
+:Speaker: {speaker}
+:Audience: {audience}
+:Language: {language}
+:When: {datetime}
+:Room: {room}
+"""
+
+
 def str2datetime(s):
     "convert %m/%d/%Y HH:MM:SS -> datetime object"
     return datetime.datetime(*time.strptime(s, '%m/%d/%Y %H:%M:%S')[:6])
@@ -160,18 +188,6 @@ def make_sphinx_heading(text, marker='='):
     t += '\n' + (marker * t_width)
     return t.encode('utf-8')
 
-SESSION_TEMPLATE_JA = """
-.. _{reference_id}:
-
-{title_with_underline}
-{abstract}
-
-:発表者: {speaker}
-:対象: {audience}
-:言語: {language}
-:日時: {datetime}
-:場所: {room}
-"""
 
 def make_session(rows, template, type_=(), override_filters={}):
     sessions = []
@@ -194,7 +210,12 @@ def make_session(rows, template, type_=(), override_filters={}):
 
         for k in params:
             if k in override_filters:
-                params[k] = override_filters[k](row)
+                try:
+                    params[k] = override_filters[k](row)
+                except KeyError:
+                    pass
+                except IndexError:
+                    pass
 
         text = template.format(**params)
         sessions.append(text)
@@ -203,30 +224,53 @@ def make_session(rows, template, type_=(), override_filters={}):
 
 
 
-def make_sessions(rows, sessions_local_filename, sessions_global_filename):
+def make_main_sessions(rows, sessions_local_filename, sessions_global_filename, lang):
 
-    japanese_filters = {
-        'language': lambda r: r.language.split('/')[0].strip(),
-        'audience': lambda r: ' / '.join([x.split('/')[0].strip() for x in r.audience.split(',')]),
-        'reference_id': lambda r: create_reference_id(r) + '-ja',
-    }
+    templates = {'ja': SESSION_TEMPLATE_JA, 'en': SESSION_TEMPLATE_EN}
+    lang_idx = {'ja': 0, 'en': 1}
+    filters = {
+        'language': lambda r: r.language.split('/')[lang_idx[lang]].strip(),
+        'audience': lambda r: ' / '.join([x.split('/')[lang_idx[lang]].strip() for x in r.audience.split(',')]),
+        'reference_id': lambda r: create_reference_id(r) + '-' + lang,
+        'title_with_underline': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
+        }
+
     # 日本語 セッション(出力言語ではなく)
     with open(sessions_local_filename, 'wb') as f:
-        sessions = make_session(rows, SESSION_TEMPLATE_JA, ('日本語',), japanese_filters)
+        sessions = make_session(rows, templates[lang], ('日本語',), filters)
         f.write('\n\n'.join(sessions))
 
     # 英語 セッション(出力言語ではなく)
     with open(sessions_global_filename, 'wb') as f:
-        sessions = make_session(rows, SESSION_TEMPLATE_JA, ('英語',), japanese_filters)
+        sessions = make_session(rows, templates[lang], ('英語',), filters)
         f.write('\n\n'.join(sessions))
 
 
-def main(input_filename, timetable1_filename, timetable2_filename, sessions_local_filename, sessions_global_filename):
+def make_joint_sessions(rows, sessions_filename, lang):
+
+    templates = {'ja': SESSION_TEMPLATE_JA, 'en': SESSION_TEMPLATE_EN}
+    lang_idx = {'ja': 0, 'en': 1}
+    filters = {
+        'language': lambda r: r.language.split('/')[lang_idx[lang]].strip(),
+        'audience': lambda r: ' / '.join([x.split('/')[lang_idx[lang]].strip() for x in r.audience.split(',')]),
+        'reference_id': lambda r: create_reference_id(r) + '-' + lang,
+        'title_with_underline': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
+    }
+
+    with open(sessions_filename, 'wb') as f:
+        sessions = make_session(rows, templates[lang], ('併設',), filters)
+        f.write('\n\n'.join(sessions))
+
+
+def main(input_filename, timetable1_filename, timetable2_filename, timetable1_en_filename, timetable2_en_filename, sessions_local_filename, sessions_global_filename, sessions_local_en_filename, sessions_global_en_filename, sessions_joint_en_filename):
     reader = csv.reader(open(input_filename, 'rb'))
     rows = TimeTableRows(reader)
     make_timetables(rows, timetable1_filename, timetable2_filename, 'ja')
-    make_sessions(rows, sessions_local_filename, sessions_global_filename)
+    make_timetables(rows, timetable1_en_filename, timetable2_en_filename, 'en')
+    make_main_sessions(rows, sessions_local_filename, sessions_global_filename, 'ja')
+    make_main_sessions(rows, sessions_local_en_filename, sessions_global_en_filename, 'en')
+    make_joint_sessions(rows, sessions_joint_en_filename, 'en')
 
 
 if __name__ == '__main__':
-    main('records.csv', 'schedule1.csv', 'schedule2.csv', 'sessions-local.in', 'sessions-global.in')
+    main('records.csv', 'schedule1.csv', 'schedule2.csv', 'schedule1-en.csv', 'schedule2-en.csv', 'sessions-local.in', 'sessions-global.in', 'sessions-local-en.in', 'sessions-global-en.in', 'sessions-joint-en.in')
