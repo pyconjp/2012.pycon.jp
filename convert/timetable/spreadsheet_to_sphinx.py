@@ -3,6 +3,8 @@ from __future__ import print_function
 import csv
 import time
 import datetime
+import textwrap
+import unicodedata
 
 
 ROOM_IDX_MAP = {
@@ -46,6 +48,12 @@ class TimeTableRows(object):
         'title_en': "英語タイトル",
         'title_sphinx': "タイトルSphinx埋込",
         'lang': "講演言語 / Language of talk",
+        'speaker': '掲載名 (英語の実氏名)',
+        'abstract': '講演内容 / Abstract',
+        'outline': '概要 / Outline',
+        'language': '講演言語 / Language of talk',
+        'type': '種別',
+        'audience': '対象者 / Intended audience',
     }
 
     FILTERS = {
@@ -67,9 +75,7 @@ class TimeTableRows(object):
         return (attrmapper(x, self.col_idx_map, self.FILTERS) for x in self._rows[1:])
 
 
-def main(input_filename, timetable1_filename, timetable2_filename):
-    reader = csv.reader(open(input_filename, 'rb'))
-    rows = TimeTableRows(reader)
+def make_timetables(rows, timetable1_filename, timetable2_filename):
     session_terms = [
         {'start': datetime.datetime(2012, 9, 15,  9, 00), 'end': datetime.datetime(2012, 9, 15,  9, 30), 'end2': datetime.datetime(2012, 9, 15,  9, 30)},
         {'start': datetime.datetime(2012, 9, 15,  9, 30), 'end': datetime.datetime(2012, 9, 15,  9, 45), 'end2': datetime.datetime(2012, 9, 15,  9, 45)},
@@ -142,5 +148,75 @@ def main(input_filename, timetable1_filename, timetable2_filename):
         writers[t.date()].writerow(results[t])
 
 
+def make_sphinx_heading(text, marker='='):
+    t = text.decode('utf-8')  #TODO
+    t_width = sum(unicodedata.east_asian_width(x) in 'WFA' and 2 or 1 for x in t)
+    t += '\n' + (marker * t_width)
+    return t.encode('utf-8')
+
+SESSION_TEMPLATE_JA = """
+{title_with_underline}
+{abstract}
+
+:発表者: {speaker}
+:対象: {audience}
+:言語: {language}
+:日時: {datetime}
+:場所: {room}
+"""
+
+def make_session(rows, template, type_=(), override_filters={}):
+    sessions = []
+    for row in rows:
+        if not row.speaker:
+            continue
+        if row.type not in type_:
+            continue
+
+        params = dict(
+            title_with_underline = make_sphinx_heading(row.title_ja),
+            abstract = row.abstract,
+            speaker = row.speaker,
+            language = row.language,
+            datetime = "{0.start:%m/%d %H:%M} - {0.end:%H:%M}".format(row),
+            room = row.room,
+            audience = row.audience,
+        )
+
+        for k in params:
+            if k in override_filters:
+                params[k] = override_filters[k](row)
+
+        text = template.format(**params)
+        sessions.append(text)
+
+    return sessions
+
+
+
+def make_sessions(rows, sessions_local_filename, sessions_global_filename):
+
+    japanese_filters = {
+        'language': lambda r: r.language.split('/')[0].strip(),
+        'audience': lambda r: ' / '.join([x.split('/')[0].strip() for x in r.audience.split(',')]),
+    }
+    # 日本語 セッション(出力言語ではなく)
+    with open(sessions_local_filename, 'wb') as f:
+        sessions = make_session(rows, SESSION_TEMPLATE_JA, ('日本語',), japanese_filters)
+        f.write('\n\n'.join(sessions))
+
+    # 英語 セッション(出力言語ではなく)
+    with open(sessions_global_filename, 'wb') as f:
+        sessions = make_session(rows, SESSION_TEMPLATE_JA, ('英語',), japanese_filters)
+        f.write('\n\n'.join(sessions))
+
+
+def main(input_filename, timetable1_filename, timetable2_filename, sessions_local_filename, sessions_global_filename):
+    reader = csv.reader(open(input_filename, 'rb'))
+    rows = TimeTableRows(reader)
+    make_timetables(rows, timetable1_filename, timetable2_filename)
+    make_sessions(rows, sessions_local_filename, sessions_global_filename)
+
+
 if __name__ == '__main__':
-    main('records.csv', 'schedule1.csv', 'schedule2.csv')
+    main('records.csv', 'schedule1.csv', 'schedule2.csv', 'sessions-local.in', 'sessions-global.in')
