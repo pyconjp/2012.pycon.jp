@@ -75,7 +75,16 @@ class TimeTableRows(object):
         return (attrmapper(x, self.col_idx_map, self.FILTERS) for x in self._rows[1:])
 
 
-def make_timetables(rows, timetable1_filename, timetable2_filename):
+def create_reference_id(row):
+    ref_id = 'session-{0:%d-%H%M}-{1}'.format(
+        row.start,
+        row.room.replace(' ', '')
+    )
+
+    return ref_id
+
+
+def make_timetables(rows, timetable1_filename, timetable2_filename, lang='ja'):
     session_terms = [
         {'start': datetime.datetime(2012, 9, 15,  9, 00), 'end': datetime.datetime(2012, 9, 15,  9, 30), 'end2': datetime.datetime(2012, 9, 15,  9, 30)},
         {'start': datetime.datetime(2012, 9, 15,  9, 30), 'end': datetime.datetime(2012, 9, 15,  9, 45), 'end2': datetime.datetime(2012, 9, 15,  9, 45)},
@@ -130,10 +139,7 @@ def make_timetables(rows, timetable1_filename, timetable2_filename):
         if row.title_sphinx:
             data += row.title_sphinx
         else:
-            data += ':ref:`session-{0:%d-%H%M}-{1}`'.format(
-                row.start,
-                row.room.replace(' ', '')
-            )
+            data += ':ref:`{0}-{1}`'.format(create_reference_id(row), lang)
         if row.end > term['end']:
             #休憩時間に食い込むセッション
             data += ' (till {0:%H:%M})'.format(row.end)
@@ -155,6 +161,8 @@ def make_sphinx_heading(text, marker='='):
     return t.encode('utf-8')
 
 SESSION_TEMPLATE_JA = """
+.. _{reference_id}:
+
 {title_with_underline}
 {abstract}
 
@@ -170,7 +178,7 @@ def make_session(rows, template, type_=(), override_filters={}):
     for row in rows:
         if not row.speaker:
             continue
-        if row.type not in type_:
+        if not(set([x.strip() for x in row.type.split(';')]) & set(type_)):
             continue
 
         params = dict(
@@ -181,6 +189,7 @@ def make_session(rows, template, type_=(), override_filters={}):
             datetime = "{0.start:%m/%d %H:%M} - {0.end:%H:%M}".format(row),
             room = row.room,
             audience = row.audience,
+            reference_id = create_reference_id(row),
         )
 
         for k in params:
@@ -199,6 +208,7 @@ def make_sessions(rows, sessions_local_filename, sessions_global_filename):
     japanese_filters = {
         'language': lambda r: r.language.split('/')[0].strip(),
         'audience': lambda r: ' / '.join([x.split('/')[0].strip() for x in r.audience.split(',')]),
+        'reference_id': lambda r: create_reference_id(r) + '-ja',
     }
     # 日本語 セッション(出力言語ではなく)
     with open(sessions_local_filename, 'wb') as f:
@@ -214,7 +224,7 @@ def make_sessions(rows, sessions_local_filename, sessions_global_filename):
 def main(input_filename, timetable1_filename, timetable2_filename, sessions_local_filename, sessions_global_filename):
     reader = csv.reader(open(input_filename, 'rb'))
     rows = TimeTableRows(reader)
-    make_timetables(rows, timetable1_filename, timetable2_filename)
+    make_timetables(rows, timetable1_filename, timetable2_filename, 'ja')
     make_sessions(rows, sessions_local_filename, sessions_global_filename)
 
 
