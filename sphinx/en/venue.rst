@@ -64,8 +64,8 @@ Any comments, suggestions are welcome.
 
 Shinagawa Seaside station
 -------------------------
-- `Hearton Hotel Higashi Shinagawa`_ 7,800 JPY(Web rate): Party venue
-- `Hotel Sunroute Shinagawa Seaside <http://www.sunroutehotel.jp/shinagawaseaside/hsss-eng/>`_ 9,860 JPY(Web rate)
+- `Hearton Hotel Higashi Shinagawa`_ 7,800 JPY(Party venue)
+- `Hotel Sunroute Shinagawa Seaside <http://www.sunroutehotel.jp/shinagawaseaside/hsss-eng/>`_ 9,860 JPY
 - `Super Hotel Shinagawa Aomonoyokocho <http://www.superhoteljapan.com/en/s-hotels/aomonoyokocho.html>`_ 6,980 JPY
 - `Toyoko Inn Tokyo Shinagawa Aomono-yokocho-eki <http://www.toyoko-inn.com/e_hotel/00049/index.html>`_ 6,480 JPY
 

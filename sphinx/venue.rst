@@ -45,7 +45,29 @@ Party への参加登録は
 
 PyCon JP 2012 会場(`産業技術大学院大学`_)から徒歩5分
 
+宿泊情報
+========
+会場の最寄駅は品川シーサイドまたは青物横丁です。
 
+周辺の駅ではJR山手線大崎駅(りんかい線で一本)または品川駅等が便利です。
 
+品川シーサイド駅
+----------------
+- `ハートンホテル東品川 <http://www.hearton.co.jp/higashishinagawa/>`_
+  7,800円(Party 会場)
+- `ホテルサンルート品川シーサイド <http://www.sunroutehotel.jp/shinagawaseaside/>`_
+  9,860円
+- `スーパーホテル品川・青物横丁 <http://www.superhotel.co.jp/s_hotels/aomonoyokocho/aomonoyokocho.html>`_
+  6,980円
+- `東横イン 品川青物横丁駅 <http://www.toyoko-inn.com/hotel/00049/index.html>`_
+  6,480円
 
+大崎駅、品川駅
+--------------
+- `ニューオータニイン東京 <http://www.newotani.co.jp/inntokyo/index.html?GRP>`_
+  13,000円
+- `品川プリンスホテル <http://www.princehotels.co.jp/shinagawa/>`_
+  12,900円
+- `第一ホテル東京シーフォート <http://www.hankyu-hotel.com/hotel/dhtseafort/>`_
+  16,500円
 
