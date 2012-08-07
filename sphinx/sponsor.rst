@@ -237,3 +237,12 @@ CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニ�
 .. |vtj| image:: /_static/sponsor/logo_vtj.png
    :target: http://virtualtech.jp/
    :alt: 日本仮想化技術
+
+|accense|
+=========
+- アクセンス・テクノロジー
+- http://accense.com/
+
+.. |accense| image:: /_static/sponsor/logo_accense.png
+   :target: http://accense.com/
+   :alt: アクセンス・テクノロジー

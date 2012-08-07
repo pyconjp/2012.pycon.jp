@@ -196,3 +196,21 @@ Google is a global technology leader focused on improving the ways people connec
    :target: http://www.smapo.co.jp/
    :alt: Spotlight
 
+|vtj|
+=====
+- VirtualTech Japan
+- http://virtualtech.jp/
+
+.. |vtj| image:: /_static/sponsor/logo_vtj.png
+   :target: http://virtualtech.jp/
+   :alt: VirtualTech Japan
+
+|accense|
+=========
+- Accense Technology
+- http://accense.com/
+
+.. |accense| image:: /_static/sponsor/logo_accense.png
+   :target: http://accense.com/
+   :alt: Accense Technology
+
