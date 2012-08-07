@@ -194,7 +194,10 @@ h2 {
 	font-weight: bold;
 }
 
-h3,
+h3 {
+	margin: 0 0 0.3em 80px;
+	font-weight: bold;
+}
 h4 {
 	margin: 0 0 0.3em 100px;
 	font-weight: bold;
@@ -215,15 +218,16 @@ p {
 
 ul {
 	margin-left: 100px;	
+	margin-bottom: 0.5em;
 }
 
 li {
 	margin-left: 1em;
-	list-style: inside disc;
+	list-style: outside disc;
 }
 
 table {
-	margin-left: 100px;
+	margin-left: 110px;
 	margin-bottom: 1em;
 	border: 0px;
 }
@@ -232,6 +236,7 @@ table caption {
 	font-weight: bold;
 }
 
+table tr.field-odd,
 table tr.row-odd {
 	background-color: #eeeeee;
 }
@@ -241,6 +246,13 @@ table td {
 	border: 0px;
 	padding: 2px;
 	vertical-align: top;
+}
+
+table tr.field-odd th.field-name {
+	background-color: #dddddd;
+}
+table tr.field-even th.field-name {
+	background-color: #eeeeee;
 }
 
 table p {
