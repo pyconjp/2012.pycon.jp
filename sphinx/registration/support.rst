@@ -1,5 +1,9 @@
 :ignore:
 
+.. note::
+
+   申し込み受付は 2012/8/7 までで終了いたしました。
+
 ======================
  遠方参加者の支援制度
 ======================
@@ -44,6 +48,10 @@
 支援制度の申し込みフォーム
 ==========================
 
-.. raw:: html
+.. note::
+
+   申し込み受付は 2012/8/7 までで終了いたしました。
+
+.. .. raw:: html
 
    <iframe src="https://docs.google.com/spreadsheet/embeddedform?formkey=dFA3b0QyeW12Mm5uU0tUU0lxUXlpLVE6MQ" width="530" height="1300" frameborder="0" marginheight="0" marginwidth="0">読み込み中...</iframe>
