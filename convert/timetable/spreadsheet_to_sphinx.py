@@ -274,4 +274,4 @@ def main(input_filename, timetable1_filename, timetable2_filename, timetable1_en
 
 
 if __name__ == '__main__':
-    main('records.csv', 'schedule1.csv', 'schedule2.csv', 'schedule1-en.csv', 'schedule2-en.csv', 'sessions-local.in', 'sessions-global.in', 'sessions-local-en.in', 'sessions-global-en.in', 'sessions-joint-en.in')
+    main('records.csv', 'schedule1-ja.csv', 'schedule2-ja.csv', 'schedule1-en.csv', 'schedule2-en.csv', 'sessions-local-ja.in', 'sessions-global-ja.in', 'sessions-local-en.in', 'sessions-global-en.in', 'sessions-joint-en.in')

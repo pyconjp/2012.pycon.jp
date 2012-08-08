@@ -7,9 +7,9 @@
 
 
 .. _japanese-sessions-ja:
-.. include:: sessions-local.in
+.. include:: sessions-local-ja.in
 
 
 .. _english-sessions-ja:
-.. include:: sessions-global.in
+.. include:: sessions-global-ja.in
 

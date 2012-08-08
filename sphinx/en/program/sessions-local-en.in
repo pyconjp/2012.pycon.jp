@@ -47,7 +47,7 @@ Beginning Python
 ================
 2011年11月にPythonをはじめた新参者が10ヶ月を振り返る。
 
-:Speaker: 佐藤 健
+:Speaker: Ken Sato
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/15 14:30 - 14:55
@@ -77,7 +77,7 @@ C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽ�
 そのコード、Pythonっぽく書き換えませんか？
 
 
-:Speaker: 清水川 貴之 (@shimizukawa)
+:Speaker: Takayuki Shimizukawa
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/15 14:55 - 15:15
@@ -119,7 +119,7 @@ SnapDish: Photo sharing service
 ===============================
 SnapDishの設計・開発・運用・戦略までPython以外の話しも交えて紹介します。何か新しくサービスを始める人たちのヒントになればよいと考えています。
 
-:Speaker: kiyota
+:Speaker: Fumikazu Kiyota
 :Audience: People are interested in the development and operation of information-related services
 :Language: Japanese
 :When: 09/15 15:30 - 16:15
@@ -152,7 +152,7 @@ Inside of NIFTY Cloud C4SA
 ==========================
 国産 PaaS である NIFTY Cloud C4SA は、コア部分が Python で作られています。本講演では、基本的な C4SA の構成の解説から、なんで大人気の rails じゃなくて Python で作ることにしたのかなどの経緯などをお話させていただきます。もちろん、C4SA は Python が動く PaaS です。
 
-:Speaker: 大畑貴弘
+:Speaker: Takahiro Oohata
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :When: 09/15 16:30 - 17:15
@@ -166,7 +166,7 @@ KVS distributed framework made by Tornado
 =========================================
 クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。
 
-:Speaker: 岸本 康二
+:Speaker: Koji Kishimoto
 :Audience: intermediate programmer
 :Language: Japanese
 :When: 09/16 10:00 - 10:25
@@ -180,7 +180,7 @@ Challange web2py
 ================
 45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。
 
-:Speaker: 中村 良幸 / nakayoshix
+:Speaker: Yoshiyuki Nakamura
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/16 10:00 - 10:25
@@ -225,7 +225,7 @@ gevent
 ======
 gevent の紹介
 
-:Speaker: methane
+:Speaker: Naoki Inada
 :Audience: intermediate programmer
 :Language: Japanese
 :When: 09/16 11:00 - 11:45
@@ -248,7 +248,7 @@ Pythonは残業を減らす唯一の方法です（嘘）
 
 
 
-:Speaker: 北神Noise
+:Speaker: Yuta Kitagami
 :Audience: intermediate programmer
 :Language: Japanese
 :When: 09/16 15:15 - 16:00
@@ -262,11 +262,26 @@ Web Programming with Python 3
 =============================
 Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。
 
-:Speaker: aodag
+:Speaker: Atsushi Odagiri
 :Audience: intermediate programmer
 :Language: Japanese
 :When: 09/16 15:15 - 16:00
 :Room: Room 357
+
+
+
+.. _session-16-1645-Room433-en:
+
+Python with Mini 4WD on Windows Azure
+=====================================
+マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
+本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。
+
+:Speaker: Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
+:Audience: intermediate programmer
+:Language: Japanese
+:When: 09/16 16:45 - 17:10
+:Room: Room 433
 
 
 
@@ -277,7 +292,7 @@ Why we choose Python
 今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
 仕事でも自分の好きなことがやりたい人に向けて、どうやって仕事を作るかの参考になればと思います。
 
-:Speaker: vkgtaro
+:Speaker: Komatsu Daisuke
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/16 16:45 - 17:10
@@ -291,7 +306,7 @@ Social Game and Message Queue
 =============================
 前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。
 
-:Speaker: 幾田　雅仁（ikuta masahito)
+:Speaker: Masahito Ikuta
 :Audience: intermediate programmer
 :Language: Japanese
 :When: 09/16 17:10 - 17:35
@@ -342,7 +357,7 @@ Python Gateway Programming
 ==========================
 Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。
 
-:Speaker: 南里　剛
+:Speaker: Tsuyoshi Nanri
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/16 18:10 - 18:35
