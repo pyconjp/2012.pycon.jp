@@ -8,7 +8,7 @@ Djangoについて
   * クラスベース汎用ビュー
   * app template (django-skel)
 
-:Speaker: @hirokiky
+:Speaker: Hiroki Kiyohara
 :Audience: 
 :Language: Japanese
 :When: 09/15 11:00 - 11:45
@@ -38,7 +38,7 @@ Pyramidについて
 Pyramidの特徴
 PyramidのためのPythonの知識
 
-:Speaker: @aodag
+:Speaker: Atsushi Odagiri
 :Audience: 
 :Language: Japanese
 :When: 09/15 13:30 - 14:15
@@ -66,7 +66,7 @@ M2M Cloud Platform by Django
 ============================
 Djangoを利用したM2Mサーバの実例について紹介
 
-:Speaker: 松村竜之介 （株式会社コア）
+:Speaker: Ryunosuke Matsumura
 :Audience: 
 :Language: Japanese
 :When: 09/15 14:30 - 15:15
@@ -95,7 +95,7 @@ Pylons short session
 * Pyramidセキュリティ
 * 実際の開発
 
-:Speaker: @jbking @podhmo
+:Speaker: Yusuke Muraoka, Naoyoshi Kobayashi
 :Audience: 
 :Language: Japanese
 :When: 09/15 15:30 - 16:15
@@ -109,8 +109,8 @@ panel discussion
 ================
 本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。
 
-:Speaker: モデレーター Akira Kusumoto /
-パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII
+:Speaker: Moderator: Akira Kusumoto /
+Panelist: Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII
 :Audience: 
 :Language: Japanese
 :When: 09/15 15:30 - 16:15
@@ -152,7 +152,7 @@ Pyramid migration guide for Pylons users
 ========================================
 これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
 
-:Speaker: @knzm2011
+:Speaker: Nozomu Kaneko
 :Audience: 
 :Language: Japanese
 :When: 09/16 10:00 - 10:45
@@ -166,7 +166,7 @@ Django Lessons Learned @BeProud
 ===============================
 3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有
 
-:Speaker: @IanMLewis
+:Speaker: Ian M Lewis
 :Audience: 
 :Language: Japanese
 :When: 09/16 11:00 - 11:45
@@ -199,7 +199,7 @@ This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is 
 NVDA is written primarily in the Python programming language. 
 The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.
 
-:Speaker: Mr. Michael Curran
+:Speaker: Michael Curran
 :Audience: 
 :Language: 
 :When: 09/16 15:15 - 16:00
@@ -213,7 +213,7 @@ Explore Sphinx Extensions
 =========================
 Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。
 
-:Speaker: しろう @r_rudi
+:Speaker: Shiro Wakayama
 :Audience: 
 :Language: Japanese
 :When: 09/16 15:40 - 16:05
@@ -228,7 +228,7 @@ First step of Sphinx HTML theme
 Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
 今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。
 
-:Speaker: @shkumagai
+:Speaker: Shoji Kumagai
 :Audience: 
 :Language: 
 :When: 09/16 16:45 - 17:10
@@ -286,7 +286,7 @@ How to use Sphinx
 =================
 ターゲットは、Sphinxに興味はあるけど、まだ使ったことが無い人です。
 
-:Speaker: @usaturn
+:Speaker: Goh Yamada
 :Audience: 
 :Language: Japanese
 :When: 09/16 17:45 - 18:00
@@ -302,7 +302,7 @@ Digital Accessible Information SYstem (DAISY) assists people who have challenges
 DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
 This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.
 
-:Speaker: Mr. Hiroshi Kawamura
+:Speaker: Hiroshi Kawamura
 :Audience: 
 :Language: 
 :When: 09/16 17:45 - 18:30

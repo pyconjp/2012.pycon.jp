@@ -18,7 +18,7 @@ you"(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiwa
 
 
 
-:発表者: hychen
+:発表者: Hsin-Yi Chen
 :対象: 中級者
 :言語: 英語
 :日時: 09/15 11:00 - 11:45
@@ -32,7 +32,7 @@ MongoDB with Python
 ===================
 Learn about working with leading NoSQL database MongoDB. This talk will cover the basics of pymongo, the MongoDB Python driver and using specialized MongoDB features like aggregation and geospatial indexing. 
 
-:発表者: @mathias_mongo
+:発表者: Mathias Stearn
 :対象: 初心者 / 中級者 / 上級者
 :言語: 英語
 :日時: 09/15 13:30 - 14:15
@@ -60,7 +60,7 @@ Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program
 ===========================================================================
 Clime provides an intuitive approach to convert your module contains functions into a multi-command CLI program. This talk will introduce the Clime and take a deeper look into the inner of Clime.
 
-:発表者: Mosky
+:発表者: Mosky Liu
 :対象: 初心者 / 中級者
 :言語: 英語
 :日時: 09/15 15:30 - 16:15
@@ -76,7 +76,7 @@ I will present a small system to collect, summarize and graph detailed applicati
 
 :発表者: Brian Dorsey
 :対象: 中級者
-:言語: 日本語
+:言語: 英語
 :日時: 09/15 16:30 - 17:15
 :場所: Room 351a
 
@@ -144,7 +144,7 @@ Learning Algorithms and Data Structures in Python
 =================================================
 Programming languages, data structures and algorithms are the fundamentals of computer science. There are a lot of materials that cover these subjects but often do not link well with each other. This talk will explain how to use Python to learn these topics in a fast and efficient manner
 
-:発表者: htvu
+:発表者: TienVu Ho
 :対象: 初心者
 :言語: 英語
 :日時: 09/16 17:45 - 18:30

@@ -5,11 +5,25 @@
 =======================================
 Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。
 
-:発表者: yosida95
+:発表者: Kohei Yoshida
 :対象: 初心者 / 中級者
 :言語: 日本語
 :日時: 09/15 11:00 - 11:45
 :場所: Room 433
+
+
+
+.. _session-15-1100-Room230-ja:
+
+土屋先生
+========
+python教育の話し
+
+:発表者: Yosuke Tsuchiya
+:対象: 
+:言語: 日本語
+:日時: 09/15 11:00 - 11:45
+:場所: Room 230
 
 
 
@@ -19,7 +33,7 @@ Pythonは本当にBlenderの役に立っているか?
 ========================================
 3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。
 
-:発表者: 三津田 哲雄
+:発表者: Tetsuo Mitsuda
 :対象: 初心者
 :言語: 日本語
 :日時: 09/15 13:30 - 14:15
@@ -33,7 +47,7 @@ Pythonを取り巻く開発環境
 ========================
 Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する
 
-:発表者: ymotongpoo
+:発表者: Yoshfumi Yamaguchi
 :対象: 中級者
 :言語: 日本語
 :日時: 09/15 13:30 - 14:15
@@ -61,7 +75,7 @@ Beginning Python
 ==================================
 分散バージョン管理システム(主にMercurial)をより良く使いこなすために、より効果的な構成管理を行うために必要なブランチ戦略とリポジトリの組織化の方法について、実例を交えて紹介します。
 
-:発表者: troter
+:発表者: Takumi Iino
 :対象: 中級者
 :言語: 日本語
 :日時: 09/15 14:30 - 14:55
@@ -91,7 +105,7 @@ SQLAlchemyと僕
 ==============
 SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。
 
-:発表者: tell-k
+:発表者: Teruhiko Kida
 :対象: 初心者
 :言語: 日本語
 :日時: 09/15 14:55 - 15:15
@@ -105,7 +119,7 @@ unittest嫌いがunittestをtesting
 ===============================
 unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう
 
-:発表者: Ido
+:発表者: Tsuyoshi Aizu
 :対象: 初心者
 :言語: 日本語
 :日時: 09/15 15:30 - 16:15
@@ -138,7 +152,7 @@ zc.buildout、Scons、waf を例に取り上げます。
 Introducing build tool written by Python, we accomplish effective development cycle with simple and portable configuration keeping consistent and flexible manner.
 Example tools are zc.buildout, Scons, and waf.
 
-:発表者: kshigeru
+:発表者: Shigeru Kitazaki
 :対象: 中級者 / 上級者
 :言語: 日本語
 :日時: 09/15 16:30 - 17:15
@@ -196,7 +210,7 @@ Pythonおじさんのweb2py挑戦記
 そのサーバー構築の為のツールとしてChefやPuppetなどがありますが、
 よりシンプルなツールとしてPythonで開発されたalnairを紹介します。
 
-:発表者: naoina
+:発表者: Inada Naoya
 :対象: 中級者 / 上級者
 :言語: 日本語
 :日時: 09/16 10:25 - 10:50
@@ -211,7 +225,7 @@ Sublime Text 2 を使おう
 注目エディタ Sublime Text 2 の紹介と、Python で機能拡張する方法について
 
 
-:発表者: @kawanoshinobu
+:発表者: Shinobu Kawano
 :対象: 初心者 / 中級者
 :言語: 日本語
 :日時: 09/16 10:25 - 10:50
@@ -320,7 +334,7 @@ Pythonコミュニティが私に与えてくれたもの
 ========================================
 昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。
 
-:発表者: tmmkr
+:発表者: Tomomi Kurigeno
 :対象: 初心者
 :言語: 日本語
 :日時: 09/16 17:10 - 17:35

@@ -5,11 +5,25 @@ Young guy built home VPS
 ========================
 Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。
 
-:Speaker: yosida95
+:Speaker: Kohei Yoshida
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :When: 09/15 11:00 - 11:45
 :Room: Room 433
+
+
+
+.. _session-15-1100-Room230-en:
+
+tsuchiya
+========
+python教育の話し
+
+:Speaker: Yosuke Tsuchiya
+:Audience: 
+:Language: Japanese
+:When: 09/15 11:00 - 11:45
+:Room: Room 230
 
 
 
@@ -19,7 +33,7 @@ Python is very useful to Blender that really?
 =============================================
 3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。
 
-:Speaker: 三津田 哲雄
+:Speaker: Tetsuo Mitsuda
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/15 13:30 - 14:15
@@ -33,7 +47,7 @@ Python Development Environment
 ==============================
 Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する
 
-:Speaker: ymotongpoo
+:Speaker: Yoshfumi Yamaguchi
 :Audience: intermediate programmer
 :Language: Japanese
 :When: 09/15 13:30 - 14:15
@@ -61,7 +75,7 @@ Sistemized Distributed Version Controll System
 ==============================================
 分散バージョン管理システム(主にMercurial)をより良く使いこなすために、より効果的な構成管理を行うために必要なブランチ戦略とリポジトリの組織化の方法について、実例を交えて紹介します。
 
-:Speaker: troter
+:Speaker: Takumi Iino
 :Audience: intermediate programmer
 :Language: Japanese
 :When: 09/15 14:30 - 14:55
@@ -91,7 +105,7 @@ SQLAlchemy and I
 ================
 SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。
 
-:Speaker: tell-k
+:Speaker: Teruhiko Kida
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/15 14:55 - 15:15
@@ -105,7 +119,7 @@ Testing Unittest
 ================
 unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう
 
-:Speaker: Ido
+:Speaker: Tsuyoshi Aizu
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/15 15:30 - 16:15
@@ -138,7 +152,7 @@ zc.buildout、Scons、waf を例に取り上げます。
 Introducing build tool written by Python, we accomplish effective development cycle with simple and portable configuration keeping consistent and flexible manner.
 Example tools are zc.buildout, Scons, and waf.
 
-:Speaker: kshigeru
+:Speaker: Shigeru Kitazaki
 :Audience: intermediate programmer / advanced programmer
 :Language: Japanese
 :When: 09/15 16:30 - 17:15
@@ -196,7 +210,7 @@ alnair: Simple System Configration framework
 そのサーバー構築の為のツールとしてChefやPuppetなどがありますが、
 よりシンプルなツールとしてPythonで開発されたalnairを紹介します。
 
-:Speaker: naoina
+:Speaker: Inada Naoya
 :Audience: intermediate programmer / advanced programmer
 :Language: Japanese
 :When: 09/16 10:25 - 10:50
@@ -211,7 +225,7 @@ Try Sublime Text 2
 注目エディタ Sublime Text 2 の紹介と、Python で機能拡張する方法について
 
 
-:Speaker: @kawanoshinobu
+:Speaker: Shinobu Kawano
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :When: 09/16 10:25 - 10:50
@@ -320,7 +334,7 @@ What Python community has given to me
 =====================================
 昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。
 
-:Speaker: tmmkr
+:Speaker: Tomomi Kurigeno
 :Audience: beginning programmer
 :Language: Japanese
 :When: 09/16 17:10 - 17:35
