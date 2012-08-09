@@ -17,14 +17,19 @@ PyCon JP ジョブ・ボードにはスポンサー企業の求人情報を掲�
 ..    :target: http://www.mongodb.org/
 ..    :alt: 10gen/MongoDB
 
-.. |gumi|
-.. ======
-.. - gumi
-.. - http://gu3.co.jp/
+|gumi|
+======
+- gumi
+- http://gu3.co.jp/
 
-.. .. |gumi| image:: /_static/sponsor/logo_gumi.png
-..    :target: http://gu3.co.jp/
-..    :alt: gumi
+gumiではソーシャルアプリ開発エンジニアを募集しています。
+特に大量アクセス・高トラフィックを処理したい方、大歓迎です！
+
+詳細は弊社求人情報をご参照ください。http://gu3.co.jp/recruit/
+
+.. |gumi| image:: /_static/sponsor/logo_gumi.png
+   :target: http://gu3.co.jp/
+   :alt: gumi
 
 .. |microsoft|
 .. ===========

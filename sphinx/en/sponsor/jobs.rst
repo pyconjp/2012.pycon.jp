@@ -17,14 +17,18 @@ This is offered as a service for both sponsors (to advertise their) and for atte
 ..    :target: http://www.mongodb.org/
 ..    :alt: 10gen/MongoDB
 
-.. |gumi|
-.. ======
-.. - gumi
-.. - http://gu3.co.jp/
+|gumi|
+======
+- gumi
+- http://gu3.co.jp/
 
-.. .. |gumi| image:: /_static/sponsor/logo_gumi.png
-..    :target: http://gu3.co.jp/
-..    :alt: gumi
+We are hiring Social Application. Let's work together!
+
+For more information, please see this URL: http://gu3.co.jp/recruit/
+
+.. |gumi| image:: /_static/sponsor/logo_gumi.png
+   :target: http://gu3.co.jp/
+   :alt: gumi
 
 .. |microsoft|
 .. ===========
