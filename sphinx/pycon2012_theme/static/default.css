@@ -318,6 +318,10 @@ small {
 	margin: 0.5em 1em;
 }
 
+div.figure {
+	margin-left: 100px;
+}
+
 /* index ページのスタイル */
 
 #index,
