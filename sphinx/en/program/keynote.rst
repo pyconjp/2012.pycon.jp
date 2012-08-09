@@ -37,9 +37,7 @@ Dan Kogai
 
 |dan|
 
-.. TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー。ディーエイエヌ有限会社代表。1999〜2001年、オン・ザ・エッヂ(現ライブドア)取締役最高技術責任者(CTO)。プログラミング言語PerlではEncode担当。
-.. 
-.. 著書に『小飼弾のアルファギークに逢ってきた』(技術評論社)、『弾言』『決弾』(いずれも共著、アスペクト)、『空気を読むな、本を読め』(イースト・プレス)、『新書がベスト』(KKベストセラーズ)など。
+Born in the same year as TCP/IP (1969), `Dan Kogai <http://twitter.com/dankogai>`_ is a well known `author <http://gihyo.jp/book/2008/978-4-7741-3452-9>`_, `blogger <http://blog.livedoor.jp/dankogai/>`_, and perlmonger in Japan. You can learn more about him at his `english homepage <http://www.dan.co.jp/~dankogai/>`_.
 
 - Twitter: `@dankogai <https://twitter.com/#!/dankogai>`_
 
