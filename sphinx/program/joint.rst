@@ -104,8 +104,8 @@ Django の紹介と、Django1.0 以降の新しいこと
 
 .. _session-15-1330-Room452-ja:
 
-What Makes Pyramid
-------------------
+What Makes Pyramid Unique!
+----------------------------
 Pyramidについて
 
 * Pyramidの特徴
