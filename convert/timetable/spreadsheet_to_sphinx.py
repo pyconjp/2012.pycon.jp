@@ -44,6 +44,12 @@ SESSION_TEMPLATE_EN = """
 :Room: {room}
 """
 
+IMAGE_TEMPLATE = """
+|{image}|
+
+.. |{image}| image:: /_static/speaker/{image}
+   :alt: {speaker}
+"""
 
 def str2datetime(s):
     "convert %m/%d/%Y HH:MM:SS -> datetime object"
@@ -83,6 +89,7 @@ class TimeTableRows(object):
         'language': '講演言語 / Language of talk',
         'type': '種別',
         'audience': '対象者 / Intended audience',
+        'image': '画像',
     }
 
     FILTERS = {
@@ -207,6 +214,7 @@ def make_session(rows, template, type_=(), override_filters={}):
             room = row.room,
             audience = row.audience,
             reference_id = create_reference_id(row),
+            image = row.image,
         )
 
         for k in params:
@@ -220,6 +228,8 @@ def make_session(rows, template, type_=(), override_filters={}):
 
         text = template.format(**params)
         sessions.append(text)
+        if row.image != "":
+            sessions.append(IMAGE_TEMPLATE.format(**params))
 
     return sessions
 
