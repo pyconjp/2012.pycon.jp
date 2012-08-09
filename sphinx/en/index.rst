@@ -11,6 +11,18 @@ PyCon JP 2012
 Information
 ===========
 
+.. キーノートスピーカー - 小飼弾氏
+.. -------------------------------
+.. 
+.. 二人目の :doc:`キーノートスピーカー </program/keynote>` が `小飼弾のアルファギークに逢ってきた `_ などの著書や Perl Monger として有名な `小飼弾 <http://twitter.com/dankogai>`_ 氏に決定しました。
+
+Keynote Speaker - Dan Kogai
+------------------------------------- 
+
+We are proud to announce that our second :doc:`keynote speaker <program/keynote>` is
+Dan Kogai (`@dankogai <http://twitter.com/dankogai>`_). Dan is a well known `author <http://gihyo.jp/book/2008/978-4-7741-3452-9>`_,
+`blogger <http://blog.livedoor.jp/dankogai/>`_, and perlmonger in Japan. You can learn more about him at his `english homepage <http://www.dan.co.jp/~dankogai/>`_.
+
 PyCon JP 2012 registration open
 ----------------------------------
 
