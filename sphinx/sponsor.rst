@@ -221,10 +221,10 @@ CodeIQ(コードアイキュー)は自分の実力を知りたいITエンジニ�
 |smapo|
 =======
 - スポットライト
-- http://www.smapo.co.jp/
+- http://www.smapo.jp/
 
 .. |smapo| image:: /_static/sponsor/logo_smapo.png
-   :target: http://www.smapo.co.jp/
+   :target: http://www.smapo.jp/
    :alt: スポットライト
 
 |vtj|

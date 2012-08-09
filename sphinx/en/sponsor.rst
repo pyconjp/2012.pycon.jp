@@ -190,10 +190,10 @@ Google is a global technology leader focused on improving the ways people connec
 |smapo|
 =======
 - Spotlight
-- http://www.smapo.co.jp/
+- http://www.smapo.jp/
 
 .. |smapo| image:: /_static/sponsor/logo_smapo.png
-   :target: http://www.smapo.co.jp/
+   :target: http://www.smapo.jp/
    :alt: Spotlight
 
 |vtj|
