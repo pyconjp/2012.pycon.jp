@@ -59,7 +59,7 @@ Gold Sponsor
 
 マイクロソフトは様々な技術領域で相互運用性の確保に力を入れています。具体的には、よりオープンなプラットフォーム提供をオープンソースコミュニティの皆様や各団体と世界規模で進めています。
 
-最新のクラウドプラットフォーム 「Windows Azure」では、オープンなプラットフォーム提供を強く推進しています。先日の「Spring Release」では、IaaS（Infrastructure as a Service）型のサービスでの Linux サポートや、WordPress などの OSS Web アプリケーションを新しい PaaS サービス「Windows Azure Web サイト」上に数クリックで構築といったことを実現しました。また、開発環境では、PHP、Node.js、Pyhon、Java 用の SDK をリリースし、Windows 環境だけではなく、Mac、Linux 向けの SDK が用意されています。Python については、マイクロソフトの開発ツール「Visual Studio」上での Django アプリケーション開発もサポートしています。
+最新のクラウドプラットフォーム 「Windows Azure」では、オープンなプラットフォーム提供を強く推進しています。先日の「Spring Release」では、IaaS（Infrastructure as a Service）型のサービスでの Linux サポートや、WordPress などの OSS Web アプリケーションを新しい PaaS サービス「Windows Azure Web サイト」上に数クリックで構築といったことを実現しました。また、開発環境では、PHP、Node.js、Python、Java 用の SDK をリリースし、Windows 環境だけではなく、Mac、Linux 向けの SDK が用意されています。Python については、マイクロソフトの開発ツール「Visual Studio」上での Django アプリケーション開発もサポートしています。
 
 "Microsoft has changed as a company. Now, Microsoft is Open to Open Source"。今後のマイクロソフトのオープンな取り組みにご期待ください。
 
