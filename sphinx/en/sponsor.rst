@@ -53,6 +53,12 @@ Gold Sponsor
    :target: http://gu3.co.jp/
    :alt: Microsoft Japan
 
+Microsoft is working diligently for securing the compatibility of technology in the various domains; more precisely, we offer open platform globally by collaborating with open source communities and organizations.
+
+Our public cloud platform "Windows Azure" supports open platform in many ways. With the "Spring Release", which is the latest update of Windows Azure, we announced the new IaaS (Infrastructure as a Service) service which supports Linux and the new PaaS service called "Windows Azure Web Sites", which OSS Web apps like WordPress could be installed easily and quickly. We provide Windows Azure SDKs not only for Windows but also for Mac and Linux.  The SDKs  for  .NET, Java, PHP, Node.js, Python are also available.   Regarding Python, Django application development on our development tool "Visual Studio" is also supported.
+
+"Microsoft has changed as a company. Now, Microsoft is Open to Open Source". Please keep your eye on us.
+
 |scubism|
 =========
 - S-cubism
