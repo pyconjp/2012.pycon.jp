@@ -22,7 +22,7 @@ This is offered as a service for both sponsors (to advertise their) and for atte
 - gumi
 - http://gu3.co.jp/
 
-We are hiring Social Application. Let's work together!
+We are hiring Social Application Engineer. Let's work together!
 
 For more information, please see this URL: http://gu3.co.jp/recruit/
 
