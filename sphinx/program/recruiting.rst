@@ -4,27 +4,29 @@
  リクルーティングセッション
 ============================
 
-Are you a professional looking for a job? Is your company looking for proficient programmers? EuroPython is your greatest opportunity to hire the best Python programmers!
+PyCon JP 2012 では初めて開催する「リクルーティングセッション」では、
+Python で仕事が出来る会社の紹介と、逆に参加者が Python での仕事を探すことができます。
 
-The special recruiting sessions allow you to get and offer a job in Python programming.
+仕事を探したい人はレジュメ(職務経歴書)のコピーを持ってきてください。
 
-Important firms in the international IT sector will find room to present their own career opportunities to very special candidates. As shown by the well known "Python Paradox", Python programmers are typically among the very best on the market!
+Python 関連の求人を行なっているスポンサー企業は、リクルーティングセッションで発表を行うことができます。
 
-If you are looking for a job, bring your resumé to EuroPython, at least ten printed copies (as much as we would like to live in a hundred-percent digital world, a printed copy will allow you to immediately discuss your resumé and capabilities with a recruiter, while a digital copy on a USB pendisk will probably be less useful in a crowded situation).
+また、今現在仕事を探していない場合でも、各企業でどのように Python が仕事で行われているかを知る機会ですので、ぜひ参加してみてください。
 
-If you are a company with open positions, have a look at the opportunities offered by EuroPython. Access to the recruiting sessions and all the other recruiting opportunities at EuroPython is in fact restricted to sponsors.
+:対象: 初心者 / 中級者
+:言語: 日本語
+:日時: 09/16 11:00 - 11:45
+:場所: Room 433
 
------
+リクルーティングセッションの進め方
+==================================
 
-The recruiting session will be given a prominent scheduling at EuroPython, to allow all the interested parties to attend without worrying about too many conflicts.
+各企業の代表者がステージ上で、仕事の内容やどんな人を探しているか趣向を凝らした企業紹介 LT を行います。
 
-First, representatives from firms looking for people will go on stage: each one will have 5-10 minutes to describe the firm's activities and the competencies they are looking for.
+LT が終了後各企業の代表者はイスに座ってセッション開場に残ります。
+興味のある企業があった場合には、あらかじめよういしたレジュメ(職務経歴書)を持って、企業の代表者と話をしてみてください。
 
-Then, each representative will sit at a desk, where candidates will be able to give their resume and talk about job opportunities.
-
-Because of the many people present, there will not be time for actual job interviews at the session, but the short discussion will nonetheless allow both parties to know each other and evaluate whether to pursue the contact further. It is also possible to schedule a private meeting/interview to be held in the following days in private meeting rooms available in the venue.
-
-Companies willing to present and discuss their recruiting opportunities in more detail will also have a special recruiting meeting in the official schedule, with a dedicated room. People 
+以下のビデオは EuroPython で行われているリクルーティングセッションの(発表部分の)様子です。
 
 .. raw:: html
 
