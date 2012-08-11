@@ -207,6 +207,13 @@ The speaker will explain what are the difficulties in programming screen reader,
 
 
 
+|michael.jpg|
+
+.. |michael.jpg| image:: /_static/speaker/michael.jpg
+   :alt: Michael Curran
+
+
+
 .. _session-16-1540-Room452-en:
 
 Explore Sphinx Extensions
@@ -236,6 +243,13 @@ Sphinx には組み込みで複数のHTMLテーマが付属しており、defaul
 
 
 
+|shkumagai.png|
+
+.. |shkumagai.png| image:: /_static/speaker/shkumagai.png
+   :alt: Shoji Kumagai
+
+
+
 .. _session-16-1645-Room358-en:
 
 The Development and Promotion of NVDA in Taiwan
@@ -251,6 +265,13 @@ This talk overviews how NVDA is used in Taiwan.
 
 
 
+|jerry.jpg|
+
+.. |jerry.jpg| image:: /_static/speaker/jerry.jpg
+   :alt: Dr. Jerry Wang
+
+
+
 .. _session-16-1710-Room452-en:
 
 Write a book using Sphinx
@@ -262,6 +283,13 @@ Write a book using Sphinx
 :Language: Japanese
 :When: 09/16 17:10 - 17:35
 :Room: Room 452
+
+
+
+|shimizukawa.jpg|
+
+.. |shimizukawa.jpg| image:: /_static/speaker/shimizukawa.jpg
+   :alt: Takayuki Shimizukawa
 
 
 
@@ -280,6 +308,13 @@ This talk overviews the features necessary for Japanese screen reader, and the d
 
 
 
+|nishimoto.jpg|
+
+.. |nishimoto.jpg| image:: /_static/speaker/nishimoto.jpg
+   :alt: Dr. Takuya Nishimoto
+
+
+
 .. _session-16-1745-Room452-en:
 
 How to use Sphinx
@@ -291,6 +326,13 @@ How to use Sphinx
 :Language: Japanese
 :When: 09/16 17:45 - 18:00
 :Room: Room 452
+
+
+
+|hamada.png|
+
+.. |hamada.png| image:: /_static/speaker/hamada.png
+   :alt: Goh Yamada
 
 
 
@@ -310,6 +352,13 @@ This talk gives the history of DAISY project, potential roles in global developm
 
 
 
+|kawamura.jpg|
+
+.. |kawamura.jpg| image:: /_static/speaker/kawamura.jpg
+   :alt: Hiroshi Kawamura
+
+
+
 .. _session-16-1800-Room452-en:
 
 How to disperse Sphinx and reST
@@ -321,6 +370,13 @@ How to disperse Sphinx and reST
 :Language: Japanese
 :When: 09/16 18:00 - 18:15
 :Room: Room 452
+
+
+
+|takanory.jpg|
+
+.. |takanory.jpg| image:: /_static/speaker/takanory.jpg
+   :alt: Takanori Suzuki
 
 
 
@@ -336,3 +392,10 @@ docutilsの使い方の概要
 :Language: Japanese
 :When: 09/16 18:15 - 18:30
 :Room: Room 452
+
+
+
+|hekyo.jpg|
+
+.. |hekyo.jpg| image:: /_static/speaker/hekyo.jpg
+   :alt: @hekyou       

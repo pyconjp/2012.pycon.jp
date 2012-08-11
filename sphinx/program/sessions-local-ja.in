@@ -13,6 +13,13 @@ Pythonで製作したコントロールパネルによって、仮想マシン�
 
 
 
+|yosida95.png|
+
+.. |yosida95.png| image:: /_static/speaker/yosida95.png
+   :alt: Kohei Yoshida
+
+
+
 .. _session-15-1100-Room230-ja:
 
 土屋先生
@@ -55,11 +62,19 @@ Pythonを用いたソフトウェア開発に必要な様々な項目を実現�
 
 
 
+|ymotongpoo.png|
+
+.. |ymotongpoo.png| image:: /_static/speaker/ymotongpoo.png
+   :alt: Yoshfumi Yamaguchi
+
+
+
 .. _session-15-1430-Room433-ja:
 
 Beginning Python
 ================
-2011年11月にPythonをはじめた新参者が10ヶ月を振り返る。
+2011年11月にPythonをはじめた新参者ですが、何か面白いことを喋れればと思います。Python経験1年未満、スクリプト言語自体も10年触れていない私が、ギークにm9プギャーされそうなここ10ヶ月を赤裸々に振り返ります。どうぞよろしくお願い致します。
+
 
 :発表者: Ken Sato
 :対象: 初心者
@@ -83,6 +98,13 @@ Beginning Python
 
 
 
+|troter.jpg|
+
+.. |troter.jpg| image:: /_static/speaker/troter.jpg
+   :alt: Takumi Iino
+
+
+
 .. _session-15-1455-Room433-ja:
 
 Python入門者のコードをリファクタリングしてみた
@@ -96,6 +118,13 @@ C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽ�
 :言語: 日本語
 :日時: 09/15 14:55 - 15:15
 :場所: Room 433
+
+
+
+|shimizukawa.png|
+
+.. |shimizukawa.png| image:: /_static/speaker/shimizukawa.png
+   :alt: Takayuki Shimizukawa
 
 
 
@@ -113,6 +142,13 @@ SQLAlchemyを利用したWebアプリケーション開発で押させておき�
 
 
 
+|tell-k.png|
+
+.. |tell-k.png| image:: /_static/speaker/tell-k.png
+   :alt: Teruhiko Kida
+
+
+
 .. _session-15-1530-Room433-ja:
 
 unittest嫌いがunittestをtesting
@@ -127,6 +163,13 @@ unittestをまともに書いていないunittest弱者同士で来るべきテ�
 
 
 
+|aizu.png|
+
+.. |aizu.png| image:: /_static/speaker/aizu.png
+   :alt: Tsuyoshi Aizu
+
+
+
 .. _session-15-1530-Room230-ja:
 
 写真共有サービス SnapDish の事例
@@ -138,6 +181,13 @@ SnapDishの設計・開発・運用・戦略までPython以外の話しも交え
 :言語: 日本語
 :日時: 09/15 15:30 - 16:15
 :場所: Room 230
+
+
+
+|kiyota.jpg|
+
+.. |kiyota.jpg| image:: /_static/speaker/kiyota.jpg
+   :alt: Fumikazu Kiyota
 
 
 
@@ -174,6 +224,13 @@ Example tools are zc.buildout, Scons, and waf.
 
 
 
+|oohata.jpg|
+
+.. |oohata.jpg| image:: /_static/speaker/oohata.jpg
+   :alt: Takahiro Oohata
+
+
+
 .. _session-16-1000-Room433-ja:
 
 Tornadoで分散KVSフレームワーク
@@ -185,6 +242,13 @@ Tornadoで分散KVSフレームワーク
 :言語: 日本語
 :日時: 09/16 10:00 - 10:25
 :場所: Room 433
+
+
+
+|kishimoto.gif|
+
+.. |kishimoto.gif| image:: /_static/speaker/kishimoto.gif
+   :alt: Koji Kishimoto
 
 
 
@@ -202,6 +266,13 @@ Pythonおじさんのweb2py挑戦記
 
 
 
+|nakayoshix.jpg|
+
+.. |nakayoshix.jpg| image:: /_static/speaker/nakayoshix.jpg
+   :alt: Yoshiyuki Nakamura
+
+
+
 .. _session-16-1025-Room433-ja:
 
 シンプルなシステム構成フレームワーク alnair
@@ -210,11 +281,18 @@ Pythonおじさんのweb2py挑戦記
 そのサーバー構築の為のツールとしてChefやPuppetなどがありますが、
 よりシンプルなツールとしてPythonで開発されたalnairを紹介します。
 
-:発表者: Inada Naoya
+:発表者: Naoya Inada
 :対象: 中級者 / 上級者
 :言語: 日本語
 :日時: 09/16 10:25 - 10:50
 :場所: Room 433
+
+
+
+|naoina.png|
+
+.. |naoina.png| image:: /_static/speaker/naoina.png
+   :alt: Naoya Inada
 
 
 
@@ -230,6 +308,13 @@ Sublime Text 2 を使おう
 :言語: 日本語
 :日時: 09/16 10:25 - 10:50
 :場所: Room 357
+
+
+
+|kawano.jpg|
+
+.. |kawano.jpg| image:: /_static/speaker/kawano.jpg
+   :alt: Shinobu Kawano
 
 
 
@@ -270,6 +355,13 @@ Pythonは残業を減らす唯一の方法です（嘘）
 
 
 
+|nonnoise.png|
+
+.. |nonnoise.png| image:: /_static/speaker/nonnoise.png
+   :alt: Yuta Kitagami
+
+
+
 .. _session-16-1515-Room357-ja:
 
 Python3でここまでできるWebプログラミング
@@ -299,6 +391,13 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 
 
 
+|fujiwara.jpg|
+
+.. |fujiwara.jpg| image:: /_static/speaker/fujiwara.jpg
+   :alt: Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
+
+
+
 .. _session-16-1645-Room357-ja:
 
 自社開発していなかった会社が python を選んだ理由
@@ -311,6 +410,13 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 :言語: 日本語
 :日時: 09/16 16:45 - 17:10
 :場所: Room 357
+
+
+
+|komatsu.jpg|
+
+.. |komatsu.jpg| image:: /_static/speaker/komatsu.jpg
+   :alt: Komatsu Daisuke
 
 
 

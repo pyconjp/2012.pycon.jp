@@ -26,6 +26,13 @@ you"(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiwa
 
 
 
+|hychen.jpg|
+
+.. |hychen.jpg| image:: /_static/speaker/hychen.jpg
+   :alt: Hsin-Yi Chen
+
+
+
 .. _session-15-1330-Room351a-ja:
 
 MongoDB with Python
@@ -37,6 +44,13 @@ Learn about working with leading NoSQL database MongoDB. This talk will cover th
 :言語: 英語
 :日時: 09/15 13:30 - 14:15
 :場所: Room 351a
+
+
+
+|mathias.jpg|
+
+.. |mathias.jpg| image:: /_static/speaker/mathias.jpg
+   :alt: Mathias Stearn
 
 
 
@@ -68,6 +82,13 @@ Clime provides an intuitive approach to convert your module contains functions i
 
 
 
+|mosky.jpg|
+
+.. |mosky.jpg| image:: /_static/speaker/mosky.jpg
+   :alt: Mosky Liu
+
+
+
 .. _session-15-1630-Room351a-ja:
 
 Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
@@ -79,6 +100,13 @@ I will present a small system to collect, summarize and graph detailed applicati
 :言語: 英語
 :日時: 09/15 16:30 - 17:15
 :場所: Room 351a
+
+
+
+|brian.jpg|
+
+.. |brian.jpg| image:: /_static/speaker/brian.jpg
+   :alt: Brian Dorsey
 
 
 
@@ -96,6 +124,13 @@ Introduction about technologies of JIT compiler used in PyPy such as what we cal
 
 
 
+|ryotaro.jpg|
+
+.. |ryotaro.jpg| image:: /_static/speaker/ryotaro.jpg
+   :alt: Ryotaro Ikeda
+
+
+
 .. _session-16-1100-Room351a-ja:
 
 Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python
@@ -110,6 +145,13 @@ Aided by its powerful gluing capability, Python can be used to build simulation 
 
 
 
+|yychen.jpg|
+
+.. |yychen.jpg| image:: /_static/speaker/yychen.jpg
+   :alt: Yung-Yu Chen
+
+
+
 .. _session-16-1515-Room351a-ja:
 
 Trying Continuous Delivery
@@ -121,6 +163,13 @@ This talk will share why we tried continuous development and delivery process, w
 :言語: 英語
 :日時: 09/16 15:15 - 16:00
 :場所: Room 351a
+
+
+
+|bucho.jpg|
+
+.. |bucho.jpg| image:: /_static/speaker/bucho.jpg
+   :alt: Toru Furukawa
 
 
 
