@@ -11,10 +11,10 @@ We hold "Joint events" by Python related community with PyCon JP 2012.
 
 Please refer to joint event sites or pages for the details.
 
-- :ref:`appengine-ja`
-- :ref:`djangopylons-ja`
-- :ref:`sphinx-ja`
-- :ref:`nvda-ja`
+- :ref:`appengine-en`
+- :ref:`djangopylons-en`
+- :ref:`sphinx-en`
+- :ref:`nvda-en`
 
 .. _appengine-en:
 
