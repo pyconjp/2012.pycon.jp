@@ -1,11 +1,13 @@
 :ignore:
 
-============
- スプリント
-============
+================
+ 開発スプリント
+================
 
-.. image:: /_static/program/sprints.jpg
-   :alt: Sprints イメージ
+.. figure:: /_static/program/sprints.jpg
+   :alt: PyCon JP 2011 でのスプリントの様子
+
+   PyCon JP 2011 でのスプリントの様子
 
 概要
 ====
