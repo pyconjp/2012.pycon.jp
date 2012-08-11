@@ -5,6 +5,7 @@ import time
 import datetime
 import textwrap
 import unicodedata
+import string
 
 
 ROOM_IDX_MAP = {
@@ -15,6 +16,13 @@ ROOM_IDX_MAP = {
     'Room 452': 5,
     'Room 358': 6
 }
+
+JOINT_NAMES = [
+    'Django & Pylons',
+    'App Engine',
+    'Sphinx',
+    'NVDA',
+]
 
 
 SESSION_TEMPLATE_JA = """
@@ -268,9 +276,11 @@ def make_joint_sessions(rows, sessions_name, lang):
         'title_with_underline': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
     }
 
-    with open('{0}-{1}.in'.format(sessions_name, lang), 'wb') as f:
-        sessions = make_session(rows, templates[lang], ('併設',), filters)
-        f.write('\n\n'.join(sessions))
+    for joint_name in JOINT_NAMES:
+        normed = ''.join(x for x in joint_name if x in string.letters).lower()
+        with open('{0}-{1}-{2}.in'.format(sessions_name, normed, lang), 'wb') as f:
+            sessions = make_session(rows, templates[lang], (joint_name,), filters)
+            f.write('\n\n'.join(sessions))
 
 
 def main():
@@ -280,6 +290,7 @@ def main():
     make_timetables(rows, 'schedule1', 'schedule2', 'en')
     make_main_sessions(rows, 'sessions-local', 'sessions-global', 'ja')
     make_main_sessions(rows, 'sessions-local', 'sessions-global', 'en')
+    make_joint_sessions(rows, 'sessions-joint', 'ja')
     make_joint_sessions(rows, 'sessions-joint', 'en')
 
 

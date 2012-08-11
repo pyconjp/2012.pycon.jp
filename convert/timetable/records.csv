@@ -190,7 +190,7 @@ Pythonに限らずプログラミングの初学者は「Hello Worldは表示で
 　を自分でプログラミングする必要はありません。
 
 ・近くの席に座った人同士で教え合って、楽しくプログラミングしましょう。",,,,,,,
-Python NDB APIの紹介,Introduction of Python NDV API,,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,najeira,,,,https://plus.google.com/u/0/116967938787828299147/about,,,, AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
+Python NDB APIの紹介,Introduction of Python NDV API,,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,najeira,,,,https://plus.google.com/u/0/116967938787828299147/about,,,,AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
 Gunicorn what's next? The new eb challenge,Gunicorn what's next? The new eb challenge,,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,Benoit Chesneau,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
 years of experience in building small and big-scale database backend
 website. He founded Enki Multimedia a company building innovative web
@@ -269,8 +269,7 @@ http://www.pelo.jp/
 ",http://www.gravatar.com/avatar/fd17bf1a7a6e0c71941b3bb84a5b3180.png,aizu.png,unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう,テスト駆動開発に憧れつつも、業務でunittest書くの面倒でしょうがない私が数あるunittestツールやそのツールを使ったtestフローを試行錯誤しながらテストすることで、私が思うunittestのベストプレクティスを披露できればと思っています。,"ツール / Programming Tools, プロジェクト事例 / Project Best Practices",ふつう / Standard(45 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,今現在、講演内容に関する資料は0です。PyconのCall for Proposalsに申し込むことで自分自身を追い込んで、unittest関連に本気で取り組もうと思います
 ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,,ハンズオン,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 358,Hands on; Room 358,,@ransui,Ransui Iso,,,,,,,,,,,,,,,
 パネルディスカッション的な何か（仮）,panel discussion,,,併設; App Engine,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 357,App Engine; Room 357,,"モデレーター Akira Kusumoto /
-パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII","Moderator: Akira Kusumoto /
-Panelist: Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII",,,,,,,,本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。,"モデレーター: Akira Kusumoto
+パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII","Moderator: Akira Kusumoto / Panelist: Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII",,,,,,,,本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。,"モデレーター: Akira Kusumoto
 パネラー:
 ・ Takashi Matsuo
 ・ najeira
@@ -684,8 +683,7 @@ Learning Algorithms and Data Structures in Python,Learning Algorithms and Data S
         D) Conclusion:
         - Python is fast and easy to get started
         - You will learn many things with Python, not just algorithm-specific or language-specific",教育事例 / Education Best Practices,ふつう / Standard(45 min),初心者 / beginning programmer,英語 / English,可 / Video recording OK,
-"社内でのSphinx、reSTの広め方
-",How to disperse Sphinx and reST,,,併設; Sphinx,9/16,9/16/2012 18:00:00,9/16/2012 18:15:00,Room 452,Sphinx; Room 452,,鈴木たかのり       ,Takanori Suzuki,,,,,"PyCon JP 2011, 2012 スタッフ
+社内でのSphinx、reSTの広め方,How to disperse Sphinx and reST,,,併設; Sphinx,9/16,9/16/2012 18:00:00,9/16/2012 18:15:00,Room 452,Sphinx; Room 452,,鈴木たかのり       ,Takanori Suzuki,,,,,"PyCon JP 2011, 2012 スタッフ
 Plone 研究会
 Python mini Hack-a-thon の主催の一人",http://sphinx-users.jp/_images/takanory1.jpg,takanory.jpg,"自分以外誰も Sphinx, reStructuredText を使ったことがない状況で、8名ほどのチームメンバーが全員が普通に使用するようになるまでの物語。","- メールの平文で reStructuredText
 - 議事録を reStructuredText → Plone

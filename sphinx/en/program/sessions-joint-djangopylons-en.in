@@ -1,0 +1,102 @@
+
+.. _session-15-1100-Room452-en:
+
+Django 1.4
+==========
+Djangoについて
+* 1.0 以降の新しいこと
+  * クラスベース汎用ビュー
+  * app template (django-skel)
+
+:Speaker: Hiroki Kiyohara
+:Audience: 
+:Language: Japanese
+:When: 09/15 11:00 - 11:45
+:Room: Room 452
+
+
+
+.. _session-15-1330-Room452-en:
+
+What Makes Pyramid Unique!
+==========================
+Pyramidについて
+Pyramidの特徴
+PyramidのためのPythonの知識
+
+:Speaker: Atsushi Odagiri
+:Audience: 
+:Language: Japanese
+:When: 09/15 13:30 - 14:15
+:Room: Room 452
+
+
+
+.. _session-15-1430-Room452-en:
+
+M2M Cloud Platform by Django
+============================
+Djangoを利用したM2Mサーバの実例について紹介
+
+:Speaker: Ryunosuke Matsumura
+:Audience: 
+:Language: Japanese
+:When: 09/15 14:30 - 15:15
+:Room: Room 452
+
+
+
+.. _session-15-1530-Room452-en:
+
+Pylons short session
+====================
+* Pyramidセキュリティ
+* 実際の開発
+
+:Speaker: Yusuke Muraoka, Naoyoshi Kobayashi
+:Audience: 
+:Language: Japanese
+:When: 09/15 15:30 - 16:15
+:Room: Room 452
+
+
+
+.. _session-15-1630-Room452-en:
+
+Asynchronous processing by Django-Celery
+========================================
+Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も
+
+:Speaker: @hdknr
+:Audience: 
+:Language: Japanese
+:When: 09/15 16:30 - 17:15
+:Room: Room 452
+
+
+
+.. _session-16-1000-Room452-en:
+
+Pyramid migration guide for Pylons users
+========================================
+これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
+
+:Speaker: Nozomu Kaneko
+:Audience: 
+:Language: Japanese
+:When: 09/16 10:00 - 10:45
+:Room: Room 452
+
+
+
+.. _session-16-1100-Room452-en:
+
+Django Lessons Learned @BeProud
+===============================
+3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有
+
+:Speaker: Ian M Lewis
+:Audience: 
+:Language: Japanese
+:When: 09/16 11:00 - 11:45
+:Room: Room 452
