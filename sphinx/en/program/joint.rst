@@ -11,6 +11,13 @@ We hold "Joint events" by Python related community with PyCon JP 2012.
 
 Please refer to joint event sites or pages for the details.
 
+- :ref:`appengine-ja`
+- :ref:`djangopylons-ja`
+- :ref:`sphinx-ja`
+- :ref:`nvda-ja`
+
+.. _appengine-en:
+
 App Engine Conference 2012
 ##########################
 |appengine|
@@ -26,15 +33,19 @@ App Engine Conference 2012
 .. include:: sessions-joint-appengine-en.in
 
 
+.. _djangopylons-en:
+
 Django & Pyramid Con JP 2012
 ############################
-- djangoproject.jp event page: `Django & Pyramid Con JP 2012 <http://djangoproject.jp/weblog/2012/07/26/django_pyramid_con_jp/>`_ (Japanese)
-- Pylons Project JP event page: `Django & Pyramid Con JP 2012 <http://www.pylonsproject.jp/news/djangopyramidconjp2012kaicuinoozhirase>`_ (Japanese)
+- djangoproject.jp event page: `Django & Pyramid Con JP 2012 (django) <http://djangoproject.jp/weblog/2012/07/26/django_pyramid_con_jp/>`_ (Japanese)
+- Pylons Project JP event page: `Django & Pyramid Con JP 2012 (pylons) <http://www.pylonsproject.jp/news/djangopyramidconjp2012kaicuinoozhirase>`_ (Japanese)
 - Date: 2012-09-15(Sat)-16(Sun)
 - Organizer: `djangoproject.jp <http://djangoproject.jp/>`_ 、
   `Pylons Project JP <http://www.pylonsproject.jp/>`_ (Japanese)
 
 .. include:: sessions-joint-djangopylons-en.in
+
+.. _sphinx-en:
 
 SphinxCon JP 2012
 #################
@@ -50,6 +61,7 @@ SphinxCon JP 2012
 
 .. include:: sessions-joint-sphinx-en.in
 
+.. _nvda-en:
 
 NVDA Workshop in Japan
 ######################

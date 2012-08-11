@@ -14,12 +14,12 @@ PyCon JP 2012 では各 Python 関連コミュニティによるイベントを�
 なお、チケットは PyCon JP 2012 と共通となりますので、
 :doc:`/registration/index` からチケットの購入をお願いします。
 
-- :ref:`appengine`
-- :ref:`django`
-- :ref:`sphinx`
-- :ref:`nvda`
+- :ref:`appengine-ja`
+- :ref:`djangopylons-ja`
+- :ref:`sphinx-ja`
+- :ref:`nvda-ja`
 
-.. _appengine:
+.. _appengine-ja:
 
 App Engine Conference 2012
 ##########################
@@ -36,12 +36,12 @@ App Engine Conference 2012
 .. include:: sessions-joint-appengine-ja.in
 
 
-.. _django:
+.. _djangopylons-ja:
 
 Django & Pyramid Con JP 2012
 ############################
-- djangoproject.jp イベントページ: `Django & Pyramid Con JP 2012 <http://djangoproject.jp/weblog/2012/07/26/django_pyramid_con_jp/>`_
-- Pylons Project JP イベントページ: `Django & Pyramid Con JP 2012 <http://www.pylonsproject.jp/news/djangopyramidconjp2012kaicuinoozhirase>`_
+- djangoproject.jp イベントページ: `Django & Pyramid Con JP 2012 (django) <http://djangoproject.jp/weblog/2012/07/26/django_pyramid_con_jp/>`_
+- Pylons Project JP イベントページ: `Django & Pyramid Con JP 2012 (pylons) <http://www.pylonsproject.jp/news/djangopyramidconjp2012kaicuinoozhirase>`_
 - 日程: 2012-09-15(土)-16(日)
 - 主催: `djangoproject.jp <http://djangoproject.jp/>`_ 、
   `Pylons Project JP <http://www.pylonsproject.jp/>`_
@@ -49,7 +49,7 @@ Django & Pyramid Con JP 2012
 .. include:: sessions-joint-djangopylons-ja.in
 
 
-.. _sphinx:
+.. _sphinx-ja:
 
 SphinxCon JP 2012
 #################
@@ -66,7 +66,7 @@ SphinxCon JP 2012
 
 .. include:: sessions-joint-sphinx-ja.in
 
-.. _nvda:
+.. _nvda-ja:
 
 NVDA Workshop in Japan
 ######################
