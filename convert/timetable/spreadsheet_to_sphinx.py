@@ -200,6 +200,7 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
 
 def make_sphinx_heading(text, marker='='):
     t = text.decode('utf-8')  #TODO
+    t = t.replace('\n', ' ').strip()
     t_width = sum(unicodedata.east_asian_width(x) in 'WFA' and 2 or 1 for x in t)
     t += '\n' + (marker * t_width)
     return t.encode('utf-8')
