@@ -120,7 +120,7 @@ def create_reference_id(row):
     return ref_id
 
 
-def make_timetables(rows, timetable1_filename, timetable2_filename, lang='ja'):
+def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
     session_terms = [
         {'start': datetime.datetime(2012, 9, 15,  9, 00), 'end': datetime.datetime(2012, 9, 15,  9, 30), 'end2': datetime.datetime(2012, 9, 15,  9, 30)},
         {'start': datetime.datetime(2012, 9, 15,  9, 30), 'end': datetime.datetime(2012, 9, 15,  9, 45), 'end2': datetime.datetime(2012, 9, 15,  9, 45)},
@@ -147,8 +147,8 @@ def make_timetables(rows, timetable1_filename, timetable2_filename, lang='ja'):
     ]
 
     writers = {
-        datetime.date(2012,9,15): csv.writer(open(timetable1_filename, 'wb')),
-        datetime.date(2012,9,16): csv.writer(open(timetable2_filename, 'wb')),
+        datetime.date(2012,9,15): csv.writer(open('{0}-{1}.csv'.format(timetable1_name, lang), 'wb')),
+        datetime.date(2012,9,16): csv.writer(open('{0}-{1}.csv'.format(timetable2_name, lang), 'wb')),
     }
 
     time_index = 0
@@ -235,7 +235,7 @@ def make_session(rows, template, type_=(), override_filters={}):
 
 
 
-def make_main_sessions(rows, sessions_local_filename, sessions_global_filename, lang):
+def make_main_sessions(rows, sessions_local_name, sessions_global_name, lang):
 
     templates = {'ja': SESSION_TEMPLATE_JA, 'en': SESSION_TEMPLATE_EN}
     lang_idx = {'ja': 0, 'en': 1}
@@ -247,17 +247,17 @@ def make_main_sessions(rows, sessions_local_filename, sessions_global_filename, 
         }
 
     # 日本語 セッション(出力言語ではなく)
-    with open(sessions_local_filename, 'wb') as f:
+    with open('{0}-{1}.in'.format(sessions_local_name, lang), 'wb') as f:
         sessions = make_session(rows, templates[lang], ('日本語',), filters)
         f.write('\n\n'.join(sessions))
 
     # 英語 セッション(出力言語ではなく)
-    with open(sessions_global_filename, 'wb') as f:
+    with open('{0}-{1}.in'.format(sessions_global_name, lang), 'wb') as f:
         sessions = make_session(rows, templates[lang], ('英語',), filters)
         f.write('\n\n'.join(sessions))
 
 
-def make_joint_sessions(rows, sessions_filename, lang):
+def make_joint_sessions(rows, sessions_name, lang):
 
     templates = {'ja': SESSION_TEMPLATE_JA, 'en': SESSION_TEMPLATE_EN}
     lang_idx = {'ja': 0, 'en': 1}
@@ -268,20 +268,20 @@ def make_joint_sessions(rows, sessions_filename, lang):
         'title_with_underline': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
     }
 
-    with open(sessions_filename, 'wb') as f:
+    with open('{0}-{1}.in'.format(sessions_name, lang), 'wb') as f:
         sessions = make_session(rows, templates[lang], ('併設',), filters)
         f.write('\n\n'.join(sessions))
 
 
-def main(input_filename, timetable1_filename, timetable2_filename, timetable1_en_filename, timetable2_en_filename, sessions_local_filename, sessions_global_filename, sessions_local_en_filename, sessions_global_en_filename, sessions_joint_en_filename):
-    reader = csv.reader(open(input_filename, 'rb'))
+def main():
+    reader = csv.reader(open('records.csv', 'rb'))
     rows = TimeTableRows(reader)
-    make_timetables(rows, timetable1_filename, timetable2_filename, 'ja')
-    make_timetables(rows, timetable1_en_filename, timetable2_en_filename, 'en')
-    make_main_sessions(rows, sessions_local_filename, sessions_global_filename, 'ja')
-    make_main_sessions(rows, sessions_local_en_filename, sessions_global_en_filename, 'en')
-    make_joint_sessions(rows, sessions_joint_en_filename, 'en')
+    make_timetables(rows, 'schedule1', 'schedule2', 'ja')
+    make_timetables(rows, 'schedule1', 'schedule2', 'en')
+    make_main_sessions(rows, 'sessions-local', 'sessions-global', 'ja')
+    make_main_sessions(rows, 'sessions-local', 'sessions-global', 'en')
+    make_joint_sessions(rows, 'sessions-joint', 'en')
 
 
 if __name__ == '__main__':
-    main('records.csv', 'schedule1-ja.csv', 'schedule2-ja.csv', 'schedule1-en.csv', 'schedule2-en.csv', 'sessions-local-ja.in', 'sessions-global-ja.in', 'sessions-local-en.in', 'sessions-global-en.in', 'sessions-joint-en.in')
+    main()
