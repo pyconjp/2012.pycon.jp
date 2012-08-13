@@ -5,11 +5,15 @@ App Engine Updates - 2012
 =========================
 Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。
 
-:発表者: Takashi Matsuo
 :対象: 
 :言語: 日本語
-:日時: 09/15 11:00 - 11:45
+:日時: Sep 15 11:00-11:45
 :場所: Room 357
+
+Takashi Matsuo
+--------------
+
+
 
 
 
@@ -19,11 +23,15 @@ Full Text Search の概要と使い方
 ===============================
 試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。
 
-:発表者: Tetsuya Mukai
 :対象: 
 :言語: 日本語
-:日時: 09/15 13:30 - 14:15
+:日時: Sep 15 13:30-14:15
 :場所: Room 357
+
+Tetsuya Mukai
+-------------
+
+
 
 
 
@@ -33,11 +41,15 @@ Python NDB APIの紹介
 ====================
 AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について
 
-:発表者: Tetsuhiro Ueda
 :対象: 
 :言語: 日本語
-:日時: 09/15 14:30 - 15:15
+:日時: Sep 15 14:30-15:15
 :場所: Room 357
+
+Tetsuhiro Ueda
+--------------
+
+
 
 
 
@@ -47,11 +59,15 @@ AppEngine Python用の新しいデータストアAPIであるNDBの機能や使�
 ====================================
 本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。
 
-:発表者: Moderator: Akira Kusumoto / Panelist: Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII
 :対象: 
 :言語: 日本語
-:日時: 09/15 15:30 - 16:15
+:日時: Sep 15 15:30-16:15
 :場所: Room 357
+
+Moderator: Akira Kusumoto / Panelist: Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII
+------------------------------------------------------------------------------------------
+
+
 
 
 
@@ -61,8 +77,12 @@ App Engine Lightning Talk
 =========================
 
 
-:発表者: Talkers
 :対象: 
 :言語: 日本語
-:日時: 09/15 16:30 - 17:15
+:日時: Sep 15 16:30-17:15
 :場所: Room 357
+
+Talkers
+-------
+
+

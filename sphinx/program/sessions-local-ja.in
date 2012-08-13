@@ -5,19 +5,22 @@
 =======================================
 Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。
 
-:発表者: Kohei Yoshida
 :対象: 初心者 / 中級者
 :言語: 日本語
-:日時: 09/15 11:00 - 11:45
+:日時: Sep 15 11:00-11:45
 :場所: Room 433
 
+Kohei Yoshida
+-------------
 
 
-|yosida95.png|
 
-.. |yosida95.png| image:: /_static/speaker/yosida95.png
+.. figure:: /_static/speaker/yosida95.png
    :alt: Kohei Yoshida
 
+
+
+高校2年生。小学6年生の時に同級生からウェブサイト制作を依頼されたことをきっかけにプログラミングの世界に足を踏み入れる。Python歴は中学3年生の時に初めて書いて以来3年目になる。PyConJP 2012スタッフを務める。
 
 
 .. _session-15-1100-Room230-ja:
@@ -26,11 +29,15 @@ Pythonで製作したコントロールパネルによって、仮想マシン�
 ========
 python教育の話し
 
-:発表者: Yosuke Tsuchiya
 :対象: 
 :言語: 日本語
-:日時: 09/15 11:00 - 11:45
+:日時: Sep 15 11:00-11:45
 :場所: Room 230
+
+Yosuke Tsuchiya
+---------------
+
+
 
 
 
@@ -40,12 +47,16 @@ Pythonは本当にBlenderの役に立っているか?
 ========================================
 3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。
 
-:発表者: Tetsuo Mitsuda
 :対象: 初心者
 :言語: 日本語
-:日時: 09/15 13:30 - 14:15
+:日時: Sep 15 13:30-14:15
 :場所: Room 433
 
+Tetsuo Mitsuda
+--------------
+
+
+IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BLUG.ｊｐ(Blender User Group Japan)メンバー。
 
 
 .. _session-15-1330-Room230-ja:
@@ -54,19 +65,22 @@ Pythonを取り巻く開発環境
 ========================
 Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する
 
-:発表者: Yoshfumi Yamaguchi
 :対象: 中級者
 :言語: 日本語
-:日時: 09/15 13:30 - 14:15
+:日時: Sep 15 13:30-14:15
 :場所: Room 230
 
+Yoshfumi Yamaguchi
+------------------
 
 
-|ymotongpoo.png|
 
-.. |ymotongpoo.png| image:: /_static/speaker/ymotongpoo.png
+.. figure:: /_static/speaker/ymotongpoo.png
    :alt: Yoshfumi Yamaguchi
 
+
+
+sphinx-users.jp平メンバー
 
 
 .. _session-15-1430-Room433-ja:
@@ -76,18 +90,22 @@ Beginning Python
 2011年11月にPythonをはじめた新参者ですが、何か面白いことを喋れればと思います。Python経験1年未満、スクリプト言語自体も10年触れていない私が、ギークにm9プギャーされそうなここ10ヶ月を赤裸々に振り返ります。どうぞよろしくお願い致します。
 
 
-:発表者: Ken Sato
 :対象: 初心者
 :言語: 日本語
-:日時: 09/15 14:30 - 14:55
+:日時: Sep 15 14:30-14:55
 :場所: Room 433
 
+Ken Sato
+--------
 
 
-|kensato.jpg|
 
-.. |kensato.jpg| image:: /_static/speaker/kensato.jpg
+.. figure:: /_static/speaker/kensato.jpg
    :alt: Ken Sato
+
+
+
+産業技術大学院大学 産業技術研究科 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。
 
 
 
@@ -97,18 +115,22 @@ Beginning Python
 ==================================
 分散バージョン管理システム(主にMercurial)をより良く使いこなすために、より効果的な構成管理を行うために必要なブランチ戦略とリポジトリの組織化の方法について、実例を交えて紹介します。
 
-:発表者: Takumi Iino
 :対象: 中級者
 :言語: 日本語
-:日時: 09/15 14:30 - 14:55
+:日時: Sep 15 14:30-14:55
 :場所: Room 230
 
+Takumi Iino
+-----------
 
 
-|troter.jpg|
 
-.. |troter.jpg| image:: /_static/speaker/troter.jpg
+.. figure:: /_static/speaker/troter.jpg
    :alt: Takumi Iino
+
+
+
+株式会社タイムインターメディア所属
 
 
 
@@ -120,19 +142,22 @@ C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽ�
 そのコード、Pythonっぽく書き換えませんか？
 
 
-:発表者: Takayuki Shimizukawa
 :対象: 初心者
 :言語: 日本語
-:日時: 09/15 14:55 - 15:15
+:日時: Sep 15 14:55-15:15
 :場所: Room 433
 
+Takayuki Shimizukawa
+--------------------
 
 
-|shimizukawa.png|
 
-.. |shimizukawa.png| image:: /_static/speaker/shimizukawa.png
+.. figure:: /_static/speaker/shimizukawa.png
    :alt: Takayuki Shimizukawa
 
+
+
+BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。
 
 
 .. _session-15-1455-Room230-ja:
@@ -141,19 +166,22 @@ SQLAlchemyと僕
 ==============
 SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。
 
-:発表者: Teruhiko Kida
 :対象: 初心者
 :言語: 日本語
-:日時: 09/15 14:55 - 15:15
+:日時: Sep 15 14:55-15:15
 :場所: Room 230
 
+Teruhiko Kida
+-------------
 
 
-|tell-k.png|
 
-.. |tell-k.png| image:: /_static/speaker/tell-k.png
+.. figure:: /_static/speaker/tell-k.png
    :alt: Teruhiko Kida
 
+
+
+情弱プログラマー
 
 
 .. _session-15-1530-Room433-ja:
@@ -162,18 +190,38 @@ unittest嫌いがunittestをtesting
 ===============================
 unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう
 
-:発表者: Tsuyoshi Aizu
 :対象: 初心者
 :言語: 日本語
-:日時: 09/15 15:30 - 16:15
+:日時: Sep 15 15:30-16:15
 :場所: Room 433
 
+Tsuyoshi Aizu
+-------------
 
 
-|aizu.png|
 
-.. |aizu.png| image:: /_static/speaker/aizu.png
+.. figure:: /_static/speaker/aizu.png
    :alt: Tsuyoshi Aizu
+
+
+
+●所属
+株式会社バスキュール号
+http://www.bascule-go.com/
+
+●肩書き
+エンジニア
+
+●参加プロジェクト
+▼Pelo（iOS用アプリ）
+・概要
+親しい友人・家族と位置情報を共有し、毎日の外出をより楽しくするお出かけ専用つぶやきロケーションアプリ
+・サービス期間
+2012年2月 - 
+・URL
+http://www.pelo.jp/
+・担当
+プロジェクトの途中からバックエンド開発に参加し、現在は運用とメンテナンスを担当。バックエンドはGoogle App  Engine
 
 
 
@@ -183,19 +231,24 @@ unittestをまともに書いていないunittest弱者同士で来るべきテ�
 ================================
 SnapDishの設計・開発・運用・戦略までPython以外の話しも交えて紹介します。何か新しくサービスを始める人たちのヒントになればよいと考えています。
 
-:発表者: Fumikazu Kiyota
 :対象: 情報関連サービス開発・運用に興味がある人
 :言語: 日本語
-:日時: 09/15 15:30 - 16:15
+:日時: Sep 15 15:30-16:15
 :場所: Room 230
 
+Fumikazu Kiyota
+---------------
 
 
-|kiyota.jpg|
 
-.. |kiyota.jpg| image:: /_static/speaker/kiyota.jpg
+.. figure:: /_static/speaker/kiyota.jpg
    :alt: Fumikazu Kiyota
 
+
+
+Livedoorでエンジニア職務を経て、現在、Vuzz Inc. CTOとして SnapDish（Android以外）フロントエンドからバックエンドを全て担当。
+
+より多くの人に使ってもらえる心地良い情報サービスを文系エンジニアとしてどのように開発し極めてていくが現在のテーマ。
 
 
 .. _session-15-1630-Room433-ja:
@@ -209,12 +262,16 @@ zc.buildout、Scons、waf を例に取り上げます。
 Introducing build tool written by Python, we accomplish effective development cycle with simple and portable configuration keeping consistent and flexible manner.
 Example tools are zc.buildout, Scons, and waf.
 
-:発表者: Shigeru Kitazaki
 :対象: 中級者 / 上級者
 :言語: 日本語
-:日時: 09/15 16:30 - 17:15
+:日時: Sep 15 16:30-17:15
 :場所: Room 433
 
+Shigeru Kitazaki
+----------------
+
+
+Web API の開発者。たまに翻訳など。
 
 
 .. _session-15-1630-Room230-ja:
@@ -223,19 +280,34 @@ Example tools are zc.buildout, Scons, and waf.
 ==================================
 国産 PaaS である NIFTY Cloud C4SA は、コア部分が Python で作られています。本講演では、基本的な C4SA の構成の解説から、なんで大人気の rails じゃなくて Python で作ることにしたのかなどの経緯などをお話させていただきます。もちろん、C4SA は Python が動く PaaS です。
 
-:発表者: Takahiro Oohata
 :対象: 初心者 / 中級者
 :言語: 日本語
-:日時: 09/15 16:30 - 17:15
+:日時: Sep 15 16:30-17:15
 :場所: Room 230
 
+Takahiro Oohata
+---------------
 
 
-|oohata.jpg|
 
-.. |oohata.jpg| image:: /_static/speaker/oohata.jpg
+.. figure:: /_static/speaker/oohata.jpg
    :alt: Takahiro Oohata
 
+
+
+1980年8月4日生まれ 山口県出身
+
+1996年 - 1年間アメリカに留学、米国での単位が認められず、高校1年生を2回やった。
+2000年 - 東大を舐めていたら、落ちた。
+2001年 - 雪辱を晴らす。
+2001年 - 東京があまりにも眩しくて遊びすぎて2回留年。そのときに、プログラムのバイトを始める。
+2005年 - 情報科学科に進学。
+2006年 - バイト先の社長が現状に満足してしまったので、つまらなくなり、起業。
+2007年 - 東京大学情報科学科を卒業、東京大学大学院情報理工学系研究科コンピュータ科学専攻に進学。
+2008年 - 株式会社化、今のC4SAの原型になるものを作り始める。
+2010年 - C4SAみたいなものが、やっと出来上がるが、売れない。
+2011年 - 東大からの支援、GBから増資を受け、ようやく、C4SAが陽の目をみることになるも、やや売れ。
+現在 - NIFTYと提携、NIFTY Cloud C4SA というカタチでメジャーデビューに挑戦中。
 
 
 .. _session-16-1000-Room433-ja:
@@ -244,19 +316,22 @@ Tornadoで分散KVSフレームワーク
 ==============================
 クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。
 
-:発表者: Koji Kishimoto
 :対象: 中級者
 :言語: 日本語
-:日時: 09/16 10:00 - 10:25
+:日時: Sep 16 10:00-10:25
 :場所: Room 433
 
+Koji Kishimoto
+--------------
 
 
-|kishimoto.gif|
 
-.. |kishimoto.gif| image:: /_static/speaker/kishimoto.gif
+.. figure:: /_static/speaker/kishimoto.gif
    :alt: Koji Kishimoto
 
+
+
+十数年前の大学の研究室時代にPythonに出合って以来、そのバランスの良さとエレガントさに魅せられてずっとPythonを使ってきました。会社では科学計算やCMS、ECなどの用途向けに開発などを行い、現在は先進的な分散KVSとその応用にPythonと共に取り組んでいます。
 
 
 .. _session-16-1000-Room357-ja:
@@ -265,19 +340,40 @@ Pythonおじさんのweb2py挑戦記
 ============================
 45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。
 
-:発表者: Yoshiyuki Nakamura
 :対象: 初心者
 :言語: 日本語
-:日時: 09/16 10:00 - 10:25
+:日時: Sep 16 10:00-10:25
 :場所: Room 357
 
+Yoshiyuki Nakamura
+------------------
 
 
-|nakayoshix.jpg|
 
-.. |nakayoshix.jpg| image:: /_static/speaker/nakayoshix.jpg
+.. figure:: /_static/speaker/nakayoshix.jpg
    :alt: Yoshiyuki Nakamura
 
+
+
+所属(職場):
+    クロストラスト株式会社 / Software Engineer
+        https://crosstrust.co.jp/
+
+所属(勉強会): 
+    (1) Python札幌 / 主宰
+    (2) 数学勉強会＠札幌 / 主宰
+    (3) クラウド研究会＠札幌 / 主宰
+
+参加プロジェクト(FLOSS):
+    openCRX (Open source CRM)/ 日本語翻訳担当
+        http://www.opencrx.org/faq.htm#language
+
+略歴(社会人以降):
+    フリースクール講師、建設コンサル勤務等を歴て2000年の秋、33歳(いわゆるこの業界の定年二年前)にしてIT業界に入る。地元札幌のプチSIer勤務等を経て、2010年6月より現職。当初より社内ぼっちdeveloperとして、日々Pythonにてプログラミングを行う。最近では社内PC端末のお守りから公開Webサーバの運用管理まで、営業以外およそ考えられる全ての技術的職務を行なっている。いわゆる社内SE。
+
+付録.プログラミング歴(社会人以降):
+    プログラミング言語歴は、Fortran/6年, C++/0.5年, Java/1年, C#/5年, VB(A)/2年, PHP/1年を経てPython/2年。他にRを少々。
+    エディタはEmacs歴24年。自称・Emacsおじさん。
 
 
 .. _session-16-1025-Room433-ja:
@@ -288,19 +384,22 @@ Pythonおじさんのweb2py挑戦記
 そのサーバー構築の為のツールとしてChefやPuppetなどがありますが、
 よりシンプルなツールとしてPythonで開発されたalnairを紹介します。
 
-:発表者: Naoya Inada
 :対象: 中級者 / 上級者
 :言語: 日本語
-:日時: 09/16 10:25 - 10:50
+:日時: Sep 16 10:25-10:50
 :場所: Room 433
 
+Naoya Inada
+-----------
 
 
-|naoina.png|
 
-.. |naoina.png| image:: /_static/speaker/naoina.png
+.. figure:: /_static/speaker/naoina.png
    :alt: Naoya Inada
 
+
+
+kyoto.py主催
 
 
 .. _session-16-1025-Room357-ja:
@@ -310,18 +409,23 @@ Sublime Text 2 を使おう
 注目エディタ Sublime Text 2 の紹介と、Python で機能拡張する方法について
 
 
-:発表者: Shinobu Kawano
 :対象: 初心者 / 中級者
 :言語: 日本語
-:日時: 09/16 10:25 - 10:50
+:日時: Sep 16 10:25-10:50
 :場所: Room 357
 
+Shinobu Kawano
+--------------
 
 
-|kawano.jpg|
 
-.. |kawano.jpg| image:: /_static/speaker/kawano.jpg
+.. figure:: /_static/speaker/kawano.jpg
    :alt: Shinobu Kawano
+
+
+
+株式会社アリエルネットワーク 開発部所属。 Sencha Touch を使って、ArielAirOne Enterprise というグループウェアのモバイル機能を開発しています。 Sencha 大好き。
+
 
 
 
@@ -331,11 +435,17 @@ gevent
 ======
 gevent の紹介
 
-:発表者: Naoki Inada
 :対象: 中級者
 :言語: 日本語
-:日時: 09/16 11:00 - 11:45
+:日時: Sep 16 11:00-11:45
 :場所: Room 357
+
+Naoki Inada
+-----------
+
+
+KLab株式会社 Kラボラトリー
+MessagePack-Python
 
 
 
@@ -354,19 +464,22 @@ Pythonは残業を減らす唯一の方法です（嘘）
 
 
 
-:発表者: Yuta Kitagami
 :対象: 中級者
 :言語: 日本語
-:日時: 09/16 15:15 - 16:00
+:日時: Sep 16 15:15-16:00
 :場所: Room 433
 
+Yuta Kitagami
+-------------
 
 
-|nonnoise.png|
 
-.. |nonnoise.png| image:: /_static/speaker/nonnoise.png
+.. figure:: /_static/speaker/nonnoise.png
    :alt: Yuta Kitagami
 
+
+
+高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。
 
 
 .. _session-16-1515-Room357-ja:
@@ -375,12 +488,18 @@ Python3でここまでできるWebプログラミング
 ========================================
 Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。
 
-:発表者: Atsushi Odagiri
 :対象: 中級者
 :言語: 日本語
-:日時: 09/16 15:15 - 16:00
+:日時: Sep 16 15:15-16:00
 :場所: Room 357
 
+Atsushi Odagiri
+---------------
+
+
+BeProud所属
+Pylonsproject.jp 代表
+2011 Pythonアドベントカレンダー(Python3) まとめ役
 
 
 .. _session-16-1645-Room433-ja:
@@ -390,19 +509,24 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
 本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。
 
-:発表者: Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
 :対象: 中級者
 :言語: 日本語
-:日時: 09/16 16:45 - 17:10
+:日時: Sep 16 16:45-17:10
 :場所: Room 433
 
+Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
+---------------------------------------------------
 
 
-|fujiwara.jpg|
 
-.. |fujiwara.jpg| image:: /_static/speaker/fujiwara.jpg
+.. figure:: /_static/speaker/fujiwara.jpg
    :alt: Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
 
+
+
+- FULLER株式会社 CTO
+- 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当。
+- 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。
 
 
 .. _session-16-1645-Room357-ja:
@@ -412,19 +536,22 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
 仕事でも自分の好きなことがやりたい人に向けて、どうやって仕事を作るかの参考になればと思います。
 
-:発表者: Komatsu Daisuke
 :対象: 初心者
 :言語: 日本語
-:日時: 09/16 16:45 - 17:10
+:日時: Sep 16 16:45-17:10
 :場所: Room 357
 
+Komatsu Daisuke
+---------------
 
 
-|komatsu.jpg|
 
-.. |komatsu.jpg| image:: /_static/speaker/komatsu.jpg
+.. figure:: /_static/speaker/komatsu.jpg
    :alt: Komatsu Daisuke
 
+
+
+株式会社キャッチボール21 開発グループマネージャ
 
 
 .. _session-16-1710-Room433-ja:
@@ -433,12 +560,16 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 ==================================
 前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。
 
-:発表者: Masahito Ikuta
 :対象: 中級者
 :言語: 日本語
-:日時: 09/16 17:10 - 17:35
+:日時: Sep 16 17:10-17:35
 :場所: Room 433
 
+Masahito Ikuta
+--------------
+
+
+大手ポータルサイトや決済代行を経て、2012年6月から gumi 在籍
 
 
 .. _session-16-1710-Room357-ja:
@@ -447,12 +578,16 @@ Pythonコミュニティが私に与えてくれたもの
 ========================================
 昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。
 
-:発表者: Tomomi Kurigeno
 :対象: 初心者
 :言語: 日本語
-:日時: 09/16 17:10 - 17:35
+:日時: Sep 16 17:10-17:35
 :場所: Room 357
 
+Tomomi Kurigeno
+---------------
+
+
+Java Engineer
 
 
 .. _session-16-1745-Room357-ja:
@@ -470,11 +605,28 @@ But as the other side, there is less "syntax freedom" due to Python's nature. Th
 In this session, I'll show you problems and solutions about DSL design in Python which were happened through development of my products (Oktest, Tenjin, Benchmarker, Kook, etc).
 
 
-:発表者: Makoto Kuwata
 :対象: 中級者
 :言語: 日本語
-:日時: 09/16 17:45 - 18:10
+:日時: Sep 16 17:45-18:10
 :場所: Room 357
+
+Makoto Kuwata
+-------------
+
+
+Programmer.
+
+2011 Pycon mini JP:
+How to Create a High-Speed Template Engine in Python
+https://sites.google.com/site/pyconminijp/reports/talks-am#TOC-Python-2
+
+2011 Pycon mini JP Lightning Talk:
+Benchmarker - a good friend for performance
+https://sites.google.com/site/pyconminijp/reports/lt#TOC-Benchmarker
+
+2011 Pycon JP Lightning Talk:
+Oktest - a new style testing library for Python
+http://2011.pycon.jp/program/lightning-talks#oktest-a-new-style-testing-library-for-python
 
 
 
@@ -484,8 +636,12 @@ Python Gateway Programming
 ==========================
 Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。
 
-:発表者: Tsuyoshi Nanri
 :対象: 初心者
 :言語: 日本語
-:日時: 09/16 18:10 - 18:35
+:日時: Sep 16 18:10-18:35
 :場所: Room 357
+
+Tsuyoshi Nanri
+--------------
+
+

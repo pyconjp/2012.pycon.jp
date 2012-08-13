@@ -10,11 +10,15 @@ Djangoについて
   * クラスベース汎用ビュー
   * app template (django-skel)
 
-:Speaker: Hiroki Kiyohara
 :Audience: 
 :Language: Japanese
-:When: 09/15 11:00 - 11:45
+:Time: Sep 15 11:00-11:45
 :Room: Room 452
+
+Hiroki Kiyohara
+---------------
+
+
 
 
 
@@ -26,11 +30,15 @@ Pyramidについて
 Pyramidの特徴
 PyramidのためのPythonの知識
 
-:Speaker: Atsushi Odagiri
 :Audience: 
 :Language: Japanese
-:When: 09/15 13:30 - 14:15
+:Time: Sep 15 13:30-14:15
 :Room: Room 452
+
+Atsushi Odagiri
+---------------
+
+
 
 
 
@@ -40,11 +48,15 @@ M2M Cloud Platform by Django
 ============================
 Djangoを利用したM2Mサーバの実例について紹介
 
-:Speaker: Ryunosuke Matsumura
 :Audience: 
 :Language: Japanese
-:When: 09/15 14:30 - 15:15
+:Time: Sep 15 14:30-15:15
 :Room: Room 452
+
+Ryunosuke Matsumura
+-------------------
+
+
 
 
 
@@ -55,11 +67,15 @@ Pylons short session
 * Pyramidセキュリティ
 * 実際の開発
 
-:Speaker: Yusuke Muraoka, Naoyoshi Kobayashi
 :Audience: 
 :Language: Japanese
-:When: 09/15 15:30 - 16:15
+:Time: Sep 15 15:30-16:15
 :Room: Room 452
+
+Yusuke Muraoka, Naoyoshi Kobayashi
+----------------------------------
+
+
 
 
 
@@ -69,11 +85,15 @@ Asynchronous processing by Django-Celery
 ========================================
 Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も
 
-:Speaker: @hdknr
 :Audience: 
 :Language: Japanese
-:When: 09/15 16:30 - 17:15
+:Time: Sep 15 16:30-17:15
 :Room: Room 452
+
+@hdknr
+------
+
+
 
 
 
@@ -83,11 +103,15 @@ Pyramid migration guide for Pylons users
 ========================================
 これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
 
-:Speaker: Nozomu Kaneko
 :Audience: 
 :Language: Japanese
-:When: 09/16 10:00 - 10:45
+:Time: Sep 16 10:00-10:45
 :Room: Room 452
+
+Nozomu Kaneko
+-------------
+
+
 
 
 
@@ -97,8 +121,12 @@ Django Lessons Learned @BeProud
 ===============================
 3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有
 
-:Speaker: Ian Lewis
 :Audience: 
 :Language: Japanese
-:When: 09/16 11:00 - 11:45
+:Time: Sep 16 11:00-11:45
 :Room: Room 452
+
+Ian Lewis
+---------
+
+

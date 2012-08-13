@@ -8,12 +8,18 @@ Sphinx は多くの OSS のマニュアル、リファレンスで採用され�
 IT企業でも利用されはじめています。
 ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。
 
-:発表者: Takeshi Komiya
 :対象: 
 :言語: 日本語
-:日時: 09/16 15:15 - 15:40
+:日時: Sep 16 15:15-15:40
 :場所: Room 452
 
+Takeshi Komiya
+--------------
+
+
+(株)タイムインターメディア所属
+blockdiag、Sphinx などといったドキュメンテーションツールに興味を持ち、
+ツール、拡張モジュールの開発やコミュニティ活動を行なっている。
 
 
 .. _session-16-1540-Room452-ja:
@@ -22,12 +28,16 @@ sphinx拡張 探訪
 ===============
 Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。
 
-:発表者: Shiro Wakayama
 :対象: 
 :言語: 日本語
-:日時: 09/16 15:40 - 16:05
+:日時: Sep 16 15:40-16:05
 :場所: Room 452
 
+Shiro Wakayama
+--------------
+
+
+sphinx-jp, blockdiagなど
 
 
 .. _session-16-1645-Room452-ja:
@@ -37,19 +47,22 @@ Sphinx HTML theme 事始め
 Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
 今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。
 
-:発表者: Shoji Kumagai
 :対象: 
 :言語: 日本語
-:日時: 09/16 16:45 - 17:10
+:日時: Sep 16 16:45-17:10
 :場所: Room 452
 
+Shoji Kumagai
+-------------
 
 
-|shkumagai.png|
 
-.. |shkumagai.png| image:: /_static/speaker/shkumagai.png
+.. figure:: /_static/speaker/shkumagai.png
    :alt: Shoji Kumagai
 
+
+
+某A社, テストエンジニア
 
 
 .. _session-16-1710-Room452-ja:
@@ -58,19 +71,22 @@ Sphinxを使って本を書こう（仮）
 ==============================
 私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。
 
-:発表者: Takayuki Shimizukawa
 :対象: 
 :言語: 日本語
-:日時: 09/16 17:10 - 17:35
+:日時: Sep 16 17:10-17:35
 :場所: Room 452
 
+Takayuki Shimizukawa
+--------------------
 
 
-|shimizukawa.jpg|
 
-.. |shimizukawa.jpg| image:: /_static/speaker/shimizukawa.jpg
+.. figure:: /_static/speaker/shimizukawa.jpg
    :alt: Takayuki Shimizukawa
 
+
+
+BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。
 
 
 .. _session-16-1745-Room452-ja:
@@ -79,19 +95,22 @@ Sphinxの平凡な使い方 ～業務での利用事例～
 =========================================
 ターゲットは、Sphinxに興味はあるけど、まだ使ったことが無い人です。
 
-:発表者: Goh Yamada
 :対象: 
 :言語: 日本語
-:日時: 09/16 17:45 - 18:00
+:日時: Sep 16 17:45-18:00
 :場所: Room 452
 
+Goh Yamada
+----------
 
 
-|hamada.png|
 
-.. |hamada.png| image:: /_static/speaker/hamada.png
+.. figure:: /_static/speaker/hamada.png
    :alt: Goh Yamada
 
+
+
+所属: ネットサポート株式会社
 
 
 .. _session-16-1800-Room452-ja:
@@ -100,19 +119,24 @@ Sphinxの平凡な使い方 ～業務での利用事例～
 ============================
 自分以外誰も Sphinx, reStructuredText を使ったことがない状況で、8名ほどのチームメンバーが全員が普通に使用するようになるまでの物語。
 
-:発表者: Takanori Suzuki
 :対象: 
 :言語: 日本語
-:日時: 09/16 18:00 - 18:15
+:日時: Sep 16 18:00-18:15
 :場所: Room 452
 
+Takanori Suzuki
+---------------
 
 
-|takanory.jpg|
 
-.. |takanory.jpg| image:: /_static/speaker/takanory.jpg
+.. figure:: /_static/speaker/takanory.jpg
    :alt: Takanori Suzuki
 
+
+
+PyCon JP 2011, 2012 スタッフ
+Plone 研究会
+Python mini Hack-a-thon の主催の一人
 
 
 .. _session-16-1815-Room452-ja:
@@ -122,15 +146,19 @@ Sphinxにおけるdocutilsの役割
 docutilsがreStructuredTextを処理する流れについて
 docutilsの使い方の概要
 
-:発表者: @hekyou       
 :対象: 
 :言語: 日本語
-:日時: 09/16 18:15 - 18:30
+:日時: Sep 16 18:15-18:30
 :場所: Room 452
 
+@hekyou
+-------
 
 
-|hekyo.jpg|
 
-.. |hekyo.jpg| image:: /_static/speaker/hekyo.jpg
+.. figure:: /_static/speaker/hekyo.jpg
    :alt: @hekyou       
+
+
+
+blockdiag, bookathon

@@ -18,19 +18,33 @@ you"(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiwa
 
 
 
-:Speaker: Hsin-Yi Chen
 :Audience: intermediate programmer
 :Language: English
-:When: 09/15 11:00 - 11:45
+:Time: Sep 15 11:00-11:45
 :Room: Room 351a
 
+Hsin-Yi Chen
+------------
 
 
-|hychen.jpg|
 
-.. |hychen.jpg| image:: /_static/speaker/hychen.jpg
+.. figure:: /_static/speaker/hychen.jpg
    :alt: Hsin-Yi Chen
 
+
+
+I am a
+
+* Debian Maintainer
+* Software Engineer in Canonical Ltd
+* Program Committee of COSCUP 2009 
+* Financial Lead of COSCUP & Gnome.Asia 2010 
+* Financial Lead of PyCon Taiwan 2012 
+* Speaker in OSDC.tw 2011
+* Speaker in PyCon.JP 2011
+* Speaker in PyCon Taiwan 2012
+
+http://about.me/hychen
 
 
 .. _session-15-1330-Room351a-en:
@@ -39,19 +53,22 @@ MongoDB with Python
 ===================
 Learn about working with leading NoSQL database MongoDB. This talk will cover the basics of pymongo, the MongoDB Python driver and using specialized MongoDB features like aggregation and geospatial indexing. 
 
-:Speaker: Mathias Stearn
 :Audience: beginning programmer / intermediate programmer / advanced programmer
 :Language: English
-:When: 09/15 13:30 - 14:15
+:Time: Sep 15 13:30-14:15
 :Room: Room 351a
 
+Mathias Stearn
+--------------
 
 
-|mathias.jpg|
 
-.. |mathias.jpg| image:: /_static/speaker/mathias.jpg
+.. figure:: /_static/speaker/mathias.jpg
    :alt: Mathias Stearn
 
+
+
+Mathias Stearn is a Software Engineer at 10gen, the MongoDB company. He works on the core MongoDB server and maintains the C++ language driver. Previously, he worked at FactSet where he used MongoDB in a log analysis application. He has a degree in Computer Science from the University of Maryland.
 
 
 .. _session-15-1430-Room351a-en:
@@ -60,12 +77,20 @@ Gunicorn what's next? The new eb challenge
 ==========================================
 Gunicorn was designed in view of easing the deployment of your python web application on the web hand have some success to do it. With the new challenges of the web (SPDY, Websockets, Green computing...), it's time to improve its design. This talk will cover the current design of Gunicorn, what need to be fixed and the new features that will be introduced in the future major release.
 
-:Speaker: Benoit Chesneau
 :Audience: beginning programmer / intermediate programmer
 :Language: English
-:When: 09/15 14:30 - 15:15
+:Time: Sep 15 14:30-15:15
 :Room: Room 351a
 
+Benoit Chesneau
+---------------
+
+
+Benoît Chesneau is a French web craftsman, living near Paris. He has
+years of experience in building small and big-scale database backend
+website. He founded Enki Multimedia a company building innovative web
+services and open-source applications. Benoît Chesneau is an Apache
+CouchDB committer and Gunicorn author.
 
 
 .. _session-15-1530-Room351a-en:
@@ -74,19 +99,54 @@ Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program
 ===========================================================================
 Clime provides an intuitive approach to convert your module contains functions into a multi-command CLI program. This talk will introduce the Clime and take a deeper look into the inner of Clime.
 
-:Speaker: Mosky Liu
 :Audience: beginning programmer / intermediate programmer
 :Language: English
-:When: 09/15 15:30 - 16:15
+:Time: Sep 15 15:30-16:15
 :Room: Room 351a
 
+Mosky Liu
+---------
 
 
-|mosky.jpg|
 
-.. |mosky.jpg| image:: /_static/speaker/mosky.jpg
+.. figure:: /_static/speaker/mosky.jpg
    :alt: Mosky Liu
 
+
+
+I have joined the open source communities in Taiwan and written Python about 4 years. I interest in the Python web topics and has made some websites use Python. And I had written system tools in Python, too.
+
+Active Projects:
+
+* Clime
+http://github.com/moskied/clime
+
+Old Projects:
+
+* Enjoy Bus
+A website which uses Flask provides the real-time bus info in Taipei and New Taipei city.
+
+* Apt-pool
+* Apt-add
+They are the wrappers of APT. They make the APT is more easier to use.
+
+Organization:
+
+* Speaker of Python Conference 2012 Taiwan
+http://tw.pycon.org/2012/
+
+* Intern of Pinkoi
+http://www.pinkoi.com/
+Pinkoi which uses pure Python is an e-commerce platform for the designers.
+
+* Python Lecturer of OSSF Workshop
+http://http://www.openfoundry.org/
+
+* Program Team of COSCUP 2012
+http://coscup.org/
+
+* Act Team of Ubuntu-TW
+http://ubuntu-tw.org/
 
 
 .. _session-15-1630-Room351a-en:
@@ -95,19 +155,22 @@ Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
 ===============================================================
 I will present a small system to collect, summarize and graph detailed application metrics. The system is simple, reliable and easy to extend. In this talk, I'll walk through the tools, configuration and Python code which glues everything together.
 
-:Speaker: Brian Dorsey
 :Audience: intermediate programmer
 :Language: English
-:When: 09/15 16:30 - 17:15
+:Time: Sep 15 16:30-17:15
 :Room: Room 351a
 
+Brian Dorsey
+------------
 
 
-|brian.jpg|
 
-.. |brian.jpg| image:: /_static/speaker/brian.jpg
+.. figure:: /_static/speaker/brian.jpg
    :alt: Brian Dorsey
 
+
+
+Brian Dorsey is a database and Python developer with over 10 years of experience using Python professionaly. He currently works full time, developing command line tools, simple web applications, Windows services, HTTP/JSON APIs and the occasional iPhone prototype. He is excited about information, databases, user experience, testing and glue code. Brian is a co-organizer of the Seattle Python Interest Group (www.seapig.org) and has given several talks and tutorials at conferences, user groups and taught Python at the University of Washington, in Seattle. He taught English in Shizuoka-ken from 1997 to 1999. He lives in Seattle, WA, USA
 
 
 .. _session-16-1000-Room351a-en:
@@ -116,19 +179,22 @@ Fundamental technologies used in PyPy JIT compiler
 ==================================================
 Introduction about technologies of JIT compiler used in PyPy such as what we call "production of JIT compiler" , how "hinting mechanism" works, and so forth  for beginner. In other words, brief introduction to JIT compiler used in PyPy.
 
-:Speaker: Ryotaro Ikeda
 :Audience: beginning programmer
 :Language: English
-:When: 09/16 10:00 - 10:45
+:Time: Sep 16 10:00-10:45
 :Room: Room 351a
 
+Ryotaro Ikeda
+-------------
 
 
-|ryotaro.jpg|
 
-.. |ryotaro.jpg| image:: /_static/speaker/ryotaro.jpg
+.. figure:: /_static/speaker/ryotaro.jpg
    :alt: Ryotaro Ikeda
 
+
+
+Graduated master course of Tokyo Institute of Technology recently, and currently under training for new graduates. When I was a student, I studies about JIT compiler. Also, I had studied about JIT compiler which PyPy have introduced.
 
 
 .. _session-16-1100-Room351a-en:
@@ -137,19 +203,22 @@ Implement High-Performance PDE Solvers for First-Principle Simulations by Using 
 ======================================================================================
 Aided by its powerful gluing capability, Python can be used to build simulation software that demands high performance.  As performance hotspots being replaced by C, the software can be organized by using Python for a clear structure.  The resulting software provides high flexibility along with high performance.  In this talk, SOLVCON, a Python-based software framework for solving conservation laws, is used to demonstrate the approach.
 
-:Speaker: Yung-Yu Chen
 :Audience: intermediate programmer
 :Language: English
-:When: 09/16 11:00 - 11:45
+:Time: Sep 16 11:00-11:45
 :Room: Room 351a
 
+Yung-Yu Chen
+------------
 
 
-|yychen.jpg|
 
-.. |yychen.jpg| image:: /_static/speaker/yychen.jpg
+.. figure:: /_static/speaker/yychen.jpg
    :alt: Yung-Yu Chen
 
+
+
+Yung-Yu is a numerical analyst, a high-performance computing (HPC) application developer, and a Python programmer.  He is currently working on SOLVCON, a software framework designed for solving conservation laws with parallel computing.
 
 
 .. _session-16-1515-Room351a-en:
@@ -158,19 +227,24 @@ Trying Continuous Delivery
 ==========================
 This talk will share why we tried continuous development and delivery process, what have been done, what succeeded and -- probably more importantly -- what failed through location-based social networking service development using Python on Google App Engine.
 
-:Speaker: Toru Furukawa
 :Audience: beginning programmer / intermediate programmer
 :Language: English
-:When: 09/16 15:15 - 16:00
+:Time: Sep 16 15:15-16:00
 :Room: Room 351a
 
+Toru Furukawa
+-------------
 
 
-|bucho.jpg|
 
-.. |bucho.jpg| image:: /_static/speaker/bucho.jpg
+.. figure:: /_static/speaker/bucho.jpg
    :alt: Toru Furukawa
 
+
+
+Toru Furukawa (@torufurukawa) is a technical architect at Bascule Inc.
+
+He started his software developer career when he was 35.  After few yeas of experience, his current interest is to improve productivity and predictability of development, include continuous delivery.
 
 
 .. _session-16-1645-Room351a-en:
@@ -179,12 +253,16 @@ Python in gait biomechanics research
 ====================================
 This talk will describe various Python tools for human and animal locomotion data analysis and dynamic simulations. It will also describe three related Python packages concurrently under development.
 
-:Speaker: Todd Pataky
 :Audience: beginning programmer / intermediate programmer
 :Language: English
-:When: 09/16 16:45 - 17:30
+:Time: Sep 16 16:45-17:30
 :Room: Room 351a
 
+Todd Pataky
+-----------
+
+
+Shinshu University, Young Researcher's Empowerment Project, Department of Bioengineering, Assistant Professor
 
 
 .. _session-16-1745-Room351a-en:
@@ -193,8 +271,13 @@ Learning Algorithms and Data Structures in Python
 =================================================
 Programming languages, data structures and algorithms are the fundamentals of computer science. There are a lot of materials that cover these subjects but often do not link well with each other. This talk will explain how to use Python to learn these topics in a fast and efficient manner
 
-:Speaker: TienVu Ho
 :Audience: beginning programmer
 :Language: English
-:When: 09/16 17:45 - 18:30
+:Time: Sep 16 17:45-18:30
 :Room: Room 351a
+
+TienVu Ho
+---------
+
+
+TienVu is a Web Application Engineer at Lucasfilm Singapore where he works on various python frameworks. In his spared time, TienVu enjoys participating in online programming contests.

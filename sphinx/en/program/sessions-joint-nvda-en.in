@@ -7,19 +7,22 @@ This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is 
 NVDA is written primarily in the Python programming language. 
 The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.
 
-:Speaker: Michael Curran
 :Audience: 
 :Language: English
-:When: 09/16 15:15 - 16:00
+:Time: Sep 16 15:15-16:00
 :Room: Room 358
 
+Michael Curran
+--------------
 
 
-|michael.jpg|
 
-.. |michael.jpg| image:: /_static/speaker/michael.jpg
+.. figure:: /_static/speaker/michael.jpg
    :alt: Michael Curran
 
+
+
+NV Access Limited, creater and lead developer of NVDA
 
 
 .. _session-16-1645-Room358-en:
@@ -29,19 +32,22 @@ The Development and Promotion of NVDA in Taiwan
 Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
 This talk overviews how NVDA is used in Taiwan.
 
-:Speaker: Dr. Jerry Wang
 :Audience: 
 :Language: English
-:When: 09/16 16:45 - 17:10
+:Time: Sep 16 16:45-17:10
 :Room: Room 358
 
+Dr. Jerry Wang
+--------------
 
 
-|jerry.jpg|
 
-.. |jerry.jpg| image:: /_static/speaker/jerry.jpg
+.. figure:: /_static/speaker/jerry.jpg
    :alt: Dr. Jerry Wang
 
+
+
+Taiwan Digital Talking Books Association
 
 
 .. _session-16-1710-Room358-en:
@@ -51,18 +57,22 @@ The Localization of NVDA for Japanese Language Users
 In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
 This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.
 
-:Speaker: Dr. Takuya Nishimoto
 :Audience: 
 :Language: 
-:When: 09/16 17:10 - 17:35
+:Time: Sep 16 17:10-17:35
 :Room: Room 358
 
+Dr. Takuya Nishimoto
+--------------------
 
 
-|nishimoto.jpg|
 
-.. |nishimoto.jpg| image:: /_static/speaker/nishimoto.jpg
+.. figure:: /_static/speaker/nishimoto.jpg
    :alt: Dr. Takuya Nishimoto
+
+
+
+Director of NVDA Japanese Team
 
 
 
@@ -74,15 +84,20 @@ Digital Accessible Information SYstem (DAISY) assists people who have challenges
 DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
 This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.
 
-:Speaker: Hiroshi Kawamura
 :Audience: 
 :Language: 
-:When: 09/16 17:45 - 18:30
+:Time: Sep 16 17:45-18:30
 :Room: Room 358
 
+Hiroshi Kawamura
+----------------
 
 
-|kawamura.jpg|
 
-.. |kawamura.jpg| image:: /_static/speaker/kawamura.jpg
+.. figure:: /_static/speaker/kawamura.jpg
    :alt: Hiroshi Kawamura
+
+
+
+Board (Past President), DAISY Consortium
+Vice President, Assistive Technology Development Organization
