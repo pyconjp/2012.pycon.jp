@@ -333,7 +333,7 @@ aws／boto／コスト
 海外戦略／コミュニティーづくり／ビジネスモデル／中国展開",プロジェクト事例 / Project Best Practices,ふつう / Standard(45 min),情報関連サービス開発・運用に興味がある人 / People are interested in the development and operation of information-related services,日本語 / Japanese,可 / Video recording OK,"Python の話しの割合が少ないです。
 後、他に良いCfPがあれば優先させてください。"
 休憩,Break,休憩,Break,,9/15,9/15/2012 16:15:00,9/15/2012 16:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
-Django-Celeryで非同期処理,Asynchronous Processing using Django-Celery,,,併設; Django & Pylons,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 452,Django & Pylons; Room 452,,@hdknr,@hdknr,,,,,,,,Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も,,Django,,,日本語 / Japanese,,
+Django-Celeryで非同期処理,Asynchronous Processing using Django-Celery,,,併設; Django & Pylons,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 452,Django & Pylons; Room 452,,@hdknr,Hideki Nara,英樹,奈良,,,,,,Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も,,Django,,,日本語 / Japanese,,
 Python 製ビルドツールのススメ       ,Using Python Build Tools ,,,日本語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 433,Japanese; Room 433,ビルドツール,kshigeru,Shigeru Kitazaki,茂,北崎,skitazaki@gmail.com,http://kshigeru.blogspot.jp/,Web API の開発者。たまに翻訳など。,,,"Python で記述されたビルドツールを利用することで、シンプルな記述で移植性を向上させ、一貫性を保ちつつ柔軟性のある手順を実現します。
 zc.buildout、Scons、waf を例に取り上げます。
 
