@@ -28,34 +28,34 @@ JOINT_NAMES = [
 SESSION_TEMPLATE_JA = """
 .. _{reference_id}:
 
-{title_with_underline}
+{title_with_line}
 {abstract}
 
-:発表者: {speaker}
 :対象: {audience}
 :言語: {language}
 :日時: {datetime}
 :場所: {room}
+
+{speaker_with_line}
 """
 
 
 SESSION_TEMPLATE_EN = """
 .. _{reference_id}:
 
-{title_with_underline}
+{title_with_line}
 {abstract}
 
-:Speaker: {speaker}
 :Audience: {audience}
 :Language: {language}
-:When: {datetime}
+:Time: {datetime}
 :Room: {room}
+
+{speaker_with_line}
 """
 
 IMAGE_TEMPLATE = """
-|{image}|
-
-.. |{image}| image:: /_static/speaker/{image}
+.. figure:: /_static/speaker/{image}
    :alt: {speaker}
 """
 
@@ -98,6 +98,8 @@ class TimeTableRows(object):
         'type': '種別',
         'audience': '対象者 / Intended audience',
         'image': '画像',
+        'bio': '略歴 / Short biography',
+        'topic': '講演テーマ / Topic',
     }
 
     FILTERS = {
@@ -215,15 +217,18 @@ def make_session(rows, template, type_=(), override_filters={}):
             continue
 
         params = dict(
-            title_with_underline = make_sphinx_heading(row.title_ja),
+            title_with_line = make_sphinx_heading(row.title_ja),
             abstract = row.abstract,
             speaker = row.speaker,
+            speaker_with_line = make_sphinx_heading(row.speaker, marker='-'),
             language = row.language,
-            datetime = "{0.start:%m/%d %H:%M} - {0.end:%H:%M}".format(row),
+            datetime = "{0.start:%b %d %H:%M}-{0.end:%H:%M}".format(row),
             room = row.room,
             audience = row.audience,
             reference_id = create_reference_id(row),
             image = row.image,
+            bio = row.bio,
+            topic = row.topic,
         )
 
         for k in params:
@@ -239,6 +244,7 @@ def make_session(rows, template, type_=(), override_filters={}):
         sessions.append(text)
         if row.image != "":
             sessions.append(IMAGE_TEMPLATE.format(**params))
+        sessions.append(params['bio'])
 
     return sessions
 
@@ -252,7 +258,7 @@ def make_main_sessions(rows, sessions_local_name, sessions_global_name, lang):
         'language': lambda r: r.language.split('/')[lang_idx[lang]].strip(),
         'audience': lambda r: ' / '.join([x.split('/')[lang_idx[lang]].strip() for x in r.audience.split(',')]),
         'reference_id': lambda r: create_reference_id(r) + '-' + lang,
-        'title_with_underline': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
+        'title_with_line': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
         }
 
     # 日本語 セッション(出力言語ではなく)
@@ -274,7 +280,7 @@ def make_joint_sessions(rows, sessions_name, lang):
         'language': lambda r: r.language.split('/')[lang_idx[lang]].strip(),
         'audience': lambda r: ' / '.join([x.split('/')[lang_idx[lang]].strip() for x in r.audience.split(',')]),
         'reference_id': lambda r: create_reference_id(r) + '-' + lang,
-        'title_with_underline': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
+        'title_with_line': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
     }
 
     for joint_name in JOINT_NAMES:
