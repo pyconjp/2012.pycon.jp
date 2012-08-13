@@ -4,7 +4,9 @@
 Django 1.4
 ==========
 Djangoについて
+
 * 1.0 以降の新しいこと
+
   * クラスベース汎用ビュー
   * app template (django-skel)
 
@@ -95,7 +97,7 @@ Django Lessons Learned @BeProud
 ===============================
 3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有
 
-:Speaker: Ian M Lewis
+:Speaker: Ian Lewis
 :Audience: 
 :Language: Japanese
 :When: 09/16 11:00 - 11:45

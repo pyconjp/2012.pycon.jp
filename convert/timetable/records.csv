@@ -21,7 +21,9 @@ It discusses why experimentation, ignorance and dissatisfaction with
 existing solutions leads to stellar code and happiness.",,,,,,,
 休憩,Break,休憩,Break,,9/15,9/15/2012 10:45:00,9/15/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 使える Django 1.4,Django 1.4,,,併設; Django & Pylons,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@hirokiky,Hiroki Kiyohara,Hiroki,Kiyiohara,,,,,,"Djangoについて
+
 * 1.0 以降の新しいこと
+
   * クラスベース汎用ビュー
   * app template (django-skel)",,Django,,,日本語 / Japanese,,
 ナウでヤングな17歳によるおうちVPS構築記,Young guy built home VPS,,,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 433,Japanese; Room 433,ナウなヤング,yosida95,Kohei Yoshida,昂平,吉田,kohei@yosida95.com,http://yosida95.com/,高校2年生。小学6年生の時に同級生からウェブサイト制作を依頼されたことをきっかけにプログラミングの世界に足を踏み入れる。Python歴は中学3年生の時に初めて書いて以来3年目になる。PyConJP 2012スタッフを務める。,http://yosida95.com/static/icon/portrait.png,yosida95.png,Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。,"-おまえだれよ(含: 過去に製作したプロダクト紹介)
@@ -116,16 +118,15 @@ http://d.hatena.ne.jp/ymotongpoo/20120516/1337123564"
 休憩,Break,休憩,Break,,9/15,9/15/2012 14:15:00,9/15/2012 14:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 Djangoを活用したM2Mクラウドプラットフォーム,M2M Cloud Platform by Django,,,併設; Django & Pylons,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 452,Django & Pylons; Room 452,,松村竜之介 （株式会社コア）,Ryunosuke Matsumura,,,,,,,,Djangoを利用したM2Mサーバの実例について紹介,,Django,,,日本語 / Japanese,,
 Beginning Python,Beginning Python,,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 433,Japanese; Room 433,内輪ネタが多すぎる。内輪ネタ部分を削除して、学習した書籍の話を掘り下げられるなら初学者発表として再検討してもよい。寺田コメント待ち -> 採用(7/x) -> outline変更(8/10),佐藤 健,Ken Sato,Ken,Sato,ken.sato.2501@gmail.com,,"産業技術大学院大学 産業技術研究科 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。
-
 ",,kensato.jpg,"2011年11月にPythonをはじめた新参者ですが、何か面白いことを喋れればと思います。Python経験1年未満、スクリプト言語自体も10年触れていない私が、ギークにm9プギャーされそうなここ10ヶ月を赤裸々に振り返ります。どうぞよろしくお願い致します。
-","そもそもPythonを始めたのは、PCに移植したいカードゲームがあったため。何らかの汎用言語の勉強をしたくなったときに、身近にPythonのギークがいたのでPythonをはじめた。しかしその先には、数々の方針変更や棘の道が待っているのだった……。
+","そもそもPythonを始めたきっかけは、PCに移植したいカードゲームがあったため。何らかの汎用言語の勉強をしたくなった折、身近にPythonのギークがいたのでPythonをはじめた。しかしその先には、数々の方針変更や棘の道が待っているのだった……。
 
-* 初心者特有の悩み、立ちはだかる壁
-* マサカリを持ったモヒカン達がやって来る！？ ハッカソン？ ハンズオン？ もうわけがわからないよ
-* 初心者目線での書評的な何か、あるいはPythonチュートリアルの難しさ
-* こんな本の読み方をして挫折、あるいは良い感じに
-* そして産業技術大学院大学へ。本学のPython教育について（学生目線）
-* ゲームライブラリpygameについて。BASICの感動をふたたび貴方へ
+・初心者特有の悩み、立ちはだかる壁
+・マサカリを持ったモヒカン達がやって来る！？ ハッカソン？ ハンズオン？ もうわけがわからないよ
+・初心者目線での書評的な何か、あるいはPythonチュートリアルの難しさ
+・こんな本の読み方をして挫折、あるいは良い感じに
+・ゲームライブラリpygameについて。BASICの感動をふたたび貴方へ
+・そしてAIITへ。本学のPython教育について（学生目線）
 ",Pythonの基本的なこと / Python Fundamentals,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
 ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Python programming while creating a software synthesizer,,,ハンズオン,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 358,Hands on; Room 358,,@ransui,Ransui Iso,,,,,,,,"Programming is Fun!
 
@@ -190,7 +191,7 @@ Pythonに限らずプログラミングの初学者は「Hello Worldは表示で
 　を自分でプログラミングする必要はありません。
 
 ・近くの席に座った人同士で教え合って、楽しくプログラミングしましょう。",,,,,,,
-Python NDB APIの紹介,Introduction of Python NDV API,,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,najeira,,,,https://plus.google.com/u/0/116967938787828299147/about,,,,AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
+Python NDB APIの紹介,Introduction of Python NDV API,,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,Tetsuhiro Ueda,,,,https://plus.google.com/u/0/116967938787828299147/about,,,,AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
 Gunicorn what's next? The new eb challenge,Gunicorn what's next? The new eb challenge,,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,Benoit Chesneau,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
 years of experience in building small and big-scale database backend
 website. He founded Enki Multimedia a company building innovative web
@@ -511,7 +512,7 @@ Sublime Text 2 を使おう,Try Sublime Text 2,,,日本語,9/16,9/16/2012 10:25:
 ",ツール / Programming Tools,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",日本語 / Japanese,可 / Video recording OK,"@shoma4a に脅されて応募しました。
 "
 休憩,Break,休憩,Break,,9/16,9/16/2012 10:45:00,9/16/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
-Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian M Lewis,,,,,,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
+Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian Lewis,,,,,,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
 リクルーティングセッション,Recruiting session,リクルーティングセッション,Recruiting session,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,日本語 / Japanese,可 / Video recording OK,
 はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,Atsuo Ishimoto,,,,,,,,,,,,,,,
 gevent,gevent,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,Naoki Inada,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
@@ -542,7 +543,7 @@ blockdiag、Sphinx などといったドキュメンテーションツールに�
 ツール、拡張モジュールの開発やコミュニティ活動を行なっている。",,,"すぐれたドキュメントツールである Sphinx を使って、あなたのドキュメントを書いてみませんか。
 Sphinx は多くの OSS のマニュアル、リファレンスで採用されている他、
 IT企業でも利用されはじめています。
-ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。",,Sphinx,25,,,可 / Video recording OK,
+ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。",,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
 Pythonistaの働き方,Way of working of Pythonista,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 433,Japanese; Room 433,pythonista,北神Noise,Yuta Kitagami,北神,雄太,hokusin02@gmail.com,www.kitagami.org,高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。,https://si0.twimg.com/profile_images/1646321977/____________.png,nonnoise.png,"今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
 しかし、真のPythonistaは使う場面を特に意識しない。
 例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
@@ -562,7 +563,7 @@ Pythonは残業を減らす唯一の方法です（嘘）
 ・その他、今後の自分の活動についてなど","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, 教育事例 / Education Best Practices, 組み込み / Embedding and Extending",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,よろしくお願いいたします。
 NVDA: Open Source Screen Reader Written in Python,NVDA: Open Source Screen Reader Written in Python,,,併設; NVDA,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 358,NVDA; Room 358,,Michael Curran,Michael Curran,,,,,"NV Access Limited, creater and lead developer of NVDA",http://workshop.nvda.jp/images/mr.-michael-curran,michael.jpg,"This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is a free and open source screen reader for the Microsoft Windows operating system.
 NVDA is written primarily in the Python programming language. 
-The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.",,NVDA,45,,,,
+The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.",,NVDA,45,,英語 / English,,
 Python3でここまでできるWebプログラミング,Web Programming with Python 3,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 357,Japanese; Room 357,python 3,aodag,Atsushi Odagiri,Atsushi,Odagiri,aodagx@gmail.com,http://aodag.posterous.com,"BeProud所属
 Pylonsproject.jp 代表
 2011 Pythonアドベントカレンダー(Python3) まとめ役",,,Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。,"まだまだライブラリが充実しているとはいいがたいPython3ですが、Webアプリケーションについて言えば、通常のWeb+DBアプリケーションを作るのに十分なものがそろっています。
@@ -585,13 +586,13 @@ I will cover the following topics but not limited to;
 sphinx拡張 探訪,Explore Sphinx Extensions,,,併設; Sphinx,9/16,9/16/2012 15:40:00,9/16/2012 16:05:00,Room 452,Sphinx; Room 452,,しろう @r_rudi,Shiro Wakayama,,,,,"sphinx-jp, blockdiagなど",,,Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。,,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
 Tea Break,Tea Break,Tea Break,Tea Break,,9/16,9/16/2012 16:00:00,9/16/2012 16:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 Sphinx HTML theme 事始め,First step of Sphinx HTML theme,,,併設; Sphinx,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 452,Sphinx; Room 452,,@shkumagai,Shoji Kumagai,,,,,"某A社, テストエンジニア",http://www.gravatar.com/avatar/0ba1ea1c1809ff38c7d76a478a88553d.png,shkumagai.png,"Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
-今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。",,Sphinx,15,,,可 / Video recording OK,
+今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。",,Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
 ミニ四駆で Python on Windows Azure,Python with Mini 4WD on Windows Azure,,,日本語; スポンサー,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 433,Japanese; Room 433,Gold,"藤原 敬弘, 高橋 道也, 武田 正樹","Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda",Takahiro,Fujiwara,takahiro.fujiwara@fuller.co.jp,,"- FULLER株式会社 CTO
 - 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当。
 - 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。",http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash3/538547_3739769986015_311877853_n.jpg,fujiwara.jpg,"マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
 本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。",,プロジェクト事例,25min?,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
 The Development and Promotion of NVDA in Taiwan,The Development and Promotion of NVDA in Taiwan,,,併設; NVDA,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 358,NVDA; Room 358,,Dr. Jerry Wang,Dr. Jerry Wang,,,,,Taiwan Digital Talking Books Association,http://workshop.nvda.jp/images/dr.-jerry-wang,jerry.jpg,"Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
-This talk overviews how NVDA is used in Taiwan.",,NVDA,25,,,,
+This talk overviews how NVDA is used in Taiwan.",,NVDA,25,,英語 / English,,
 自社開発していなかった会社が python を選んだ理由,Why we choose Python,,,日本語,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 357,Japanese; Room 357,初心者用短め,vkgtaro,Komatsu Daisuke,Komatsu,Daisuke,komatsu@cb21.co.jp,http://www.cb21.co.jp,株式会社キャッチボール21 開発グループマネージャ,http://vkgtaro.jp/images/vkgtaro.jpg,komatsu.jpg,"今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
 仕事でも自分の好きなことがやりたい人に向けて、どうやって仕事を作るかの参考になればと思います。","* 以前いた会社では perl でプログラミングしてた事
 * 転職を機にマネージメント側になった事（そもそも、社内に開発体制がなかった ）
@@ -621,7 +622,7 @@ Sphinxの平凡な使い方 ～業務での利用事例～,How to use Sphinx,,,�
 * 利用事例
 * 使っていく上で感じたSphinxのメリット、デメリット
 * その他",Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-Webフレームワークパネル,Web framework Panel Discussion,Webフレームワークパネル,Web framework Panel Discussion,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,,,
+Webフレームワークパネル,Web framework Panel Discussion,Webフレームワークパネル,Web framework Panel Discussion,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,日本語 / Japanese,,
 Development of Global Open Standard for Developing Countries,Development of Global Open Standard for Developing Countries,,,併設; NVDA,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 358,NVDA; Room 358,,Hiroshi Kawamura,Hiroshi Kawamura,,,,,"Board (Past President), DAISY Consortium
 Vice President, Assistive Technology Development Organization",http://workshop.nvda.jp/images/mr.-hiroshi-kawamura,kawamura.jpg,"Digital Accessible Information SYstem (DAISY) assists people who have challenges using regular printed media.
 DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
