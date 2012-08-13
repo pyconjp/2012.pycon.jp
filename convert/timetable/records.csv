@@ -583,7 +583,7 @@ Sphinxを使って本を書こう（仮）,Writing a Book Using Sphinx,,,併設;
 ソーシャルゲームとメッセージキュー,Social Game and Message Queue,,,日本語; スポンサー,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 433,Japanese; Room 433,,幾田　雅仁（ikuta masahito),Masahito Ikuta,Masahito,Ikuta,masahito.ikuta@gu3.co.jp,http://gu3.co.jp,大手ポータルサイトや決済代行を経て、2012年6月から gumi 在籍,,,前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
 The Localization of NVDA for Japanese Language Users,The Localization of NVDA for Japanese Language Users,,,併設; NVDA,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 358,NVDA; Room 358,,Dr. Takuya Nishimoto,Dr. Takuya Nishimoto,,,,,"Director of NVDA Japanese Team
 ",http://workshop.nvda.jp/images/takuya-nishimoto,nishimoto.jpg,"In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
-This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.",,NVDA,25,,,,
+This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.",,NVDA,25,,日本語 / Japanese,,
 Pythonコミュニティが私に与えてくれたもの,What the Python Community Has Given To Me,,,日本語,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 357,Japanese; Room 357,コミュニティ,tmmkr,Tomomi Kurigeno,Tomomi,KURIGENO,tomomik84@gmail.com,,Java Engineer,,,昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。,"・PyCon2011に参加前のこと
 ・PyCon2011に参加してはじめたこと
 ・変化したこと
@@ -600,7 +600,7 @@ Webフレームワークパネル,Web framework Panel Discussion,Webフレーム
 Development of Global Open Standard for Developing Countries,Development of Global Open Standard for Developing Countries,,,併設; NVDA,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 358,NVDA; Room 358,,Hiroshi Kawamura,Hiroshi Kawamura,,,,,"Board (Past President), DAISY Consortium
 Vice President, Assistive Technology Development Organization",http://workshop.nvda.jp/images/mr.-hiroshi-kawamura,kawamura.jpg,"Digital Accessible Information SYstem (DAISY) assists people who have challenges using regular printed media.
 DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
-This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.",,NVDA,45,,,,
+This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.",,NVDA,45,,日本語 / Japanese,,
 Fantastic DSL in Python - PythonでつくるDSLのテクニック -,Fantastic DSL in Python,,,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:10:00,Room 357,Japanese; Room 357,45分は長い。25分なら採用の可能性あり,Makoto Kuwata,Makoto Kuwata,Makoto,Kuwata,kwa@kuwata-lab.com,http://www.kuwata-lab.com/,"Programmer.
 
 2011 Pycon mini JP:
