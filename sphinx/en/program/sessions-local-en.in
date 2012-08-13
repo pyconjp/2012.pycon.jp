@@ -1,8 +1,8 @@
 
 .. _session-15-1100-Room433-en:
 
-Young guy built home VPS
-========================
+How a 17 year old built a home VPS
+==================================
 Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。
 
 :Audience: beginning programmer / intermediate programmer
@@ -17,7 +17,6 @@ Kohei Yoshida
 
 .. figure:: /_static/speaker/yosida95.png
    :alt: Kohei Yoshida
-
 
 
 高校2年生。小学6年生の時に同級生からウェブサイト制作を依頼されたことをきっかけにプログラミングの世界に足を踏み入れる。Python歴は中学3年生の時に初めて書いて以来3年目になる。PyConJP 2012スタッフを務める。
@@ -43,8 +42,8 @@ Yosuke Tsuchiya
 
 .. _session-15-1330-Room433-en:
 
-Python is very useful to Blender that really?
-=============================================
+Is Python really all that useful in Blender?
+============================================
 3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。
 
 :Audience: beginning programmer
@@ -56,13 +55,13 @@ Tetsuo Mitsuda
 --------------
 
 
-IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BLUG.ｊｐ(Blender User Group Japan)メンバー。
+IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BLUG.jp(Blender User Group Japan)メンバー。
 
 
 .. _session-15-1330-Room230-en:
 
-Python Development Environment
-==============================
+The Python Development Environment
+==================================
 Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する
 
 :Audience: intermediate programmer
@@ -77,7 +76,6 @@ Yoshfumi Yamaguchi
 
 .. figure:: /_static/speaker/ymotongpoo.png
    :alt: Yoshfumi Yamaguchi
-
 
 
 sphinx-users.jp平メンバー
@@ -104,15 +102,14 @@ Ken Sato
    :alt: Ken Sato
 
 
-
 産業技術大学院大学 産業技術研究科 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。
 
 
 
 .. _session-15-1430-Room230-en:
 
-Sistemized Distributed Version Controll System
-==============================================
+Systemizing Use of a Distributed Version Control System
+=======================================================
 分散バージョン管理システム(主にMercurial)をより良く使いこなすために、より効果的な構成管理を行うために必要なブランチ戦略とリポジトリの組織化の方法について、実例を交えて紹介します。
 
 :Audience: intermediate programmer
@@ -129,15 +126,14 @@ Takumi Iino
    :alt: Takumi Iino
 
 
-
 株式会社タイムインターメディア所属
 
 
 
 .. _session-15-1455-Room433-en:
 
-Refactaring Python Beginner's Code
-==================================
+Refactoring a Python Beginner's Code
+====================================
 C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽくないコードができあがります。
 そのコード、Pythonっぽく書き換えませんか？
 
@@ -154,7 +150,6 @@ Takayuki Shimizukawa
 
 .. figure:: /_static/speaker/shimizukawa.png
    :alt: Takayuki Shimizukawa
-
 
 
 BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。
@@ -180,14 +175,13 @@ Teruhiko Kida
    :alt: Teruhiko Kida
 
 
-
 情弱プログラマー
 
 
 .. _session-15-1530-Room433-en:
 
-Testing Unittest
-================
+Testing with unittest
+=====================
 unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう
 
 :Audience: beginning programmer
@@ -204,24 +198,14 @@ Tsuyoshi Aizu
    :alt: Tsuyoshi Aizu
 
 
+- 所属: 株式会社バスキュール号 http://www.bascule-go.com/
+- 肩書き: エンジニア
+- 参加プロジェクト: Pelo（iOS用アプリ）
 
-●所属
-株式会社バスキュール号
-http://www.bascule-go.com/
-
-●肩書き
-エンジニア
-
-●参加プロジェクト
-▼Pelo（iOS用アプリ）
-・概要
-親しい友人・家族と位置情報を共有し、毎日の外出をより楽しくするお出かけ専用つぶやきロケーションアプリ
-・サービス期間
-2012年2月 - 
-・URL
-http://www.pelo.jp/
-・担当
-プロジェクトの途中からバックエンド開発に参加し、現在は運用とメンテナンスを担当。バックエンドはGoogle App  Engine
+  - 概要: 親しい友人・家族と位置情報を共有し、毎日の外出をより楽しくするお出かけ専用つぶやきロケーションアプリ
+  - サービス期間: 2012年2月 - 
+  - URL: http://www.pelo.jp/
+  - 担当: プロジェクトの途中からバックエンド開発に参加し、現在は運用とメンテナンスを担当。バックエンドはGoogle App  Engine
 
 
 
@@ -245,7 +229,6 @@ Fumikazu Kiyota
    :alt: Fumikazu Kiyota
 
 
-
 Livedoorでエンジニア職務を経て、現在、Vuzz Inc. CTOとして SnapDish（Android以外）フロントエンドからバックエンドを全て担当。
 
 より多くの人に使ってもらえる心地良い情報サービスを文系エンジニアとしてどのように開発し極めてていくが現在のテーマ。
@@ -253,8 +236,8 @@ Livedoorでエンジニア職務を経て、現在、Vuzz Inc. CTOとして Snap
 
 .. _session-15-1630-Room433-en:
 
-Python build tool
-=================
+Using Python Build Tools
+========================
 Python で記述されたビルドツールを利用することで、シンプルな記述で移植性を向上させ、一貫性を保ちつつ柔軟性のある手順を実現します。
 zc.buildout、Scons、waf を例に取り上げます。
 
@@ -276,8 +259,8 @@ Web API の開発者。たまに翻訳など。
 
 .. _session-15-1630-Room230-en:
 
-Inside of NIFTY Cloud C4SA
-==========================
+Inside NIFTY's Cloud C4SA
+=========================
 国産 PaaS である NIFTY Cloud C4SA は、コア部分が Python で作られています。本講演では、基本的な C4SA の構成の解説から、なんで大人気の rails じゃなくて Python で作ることにしたのかなどの経緯などをお話させていただきます。もちろん、C4SA は Python が動く PaaS です。
 
 :Audience: beginning programmer / intermediate programmer
@@ -294,25 +277,24 @@ Takahiro Oohata
    :alt: Takahiro Oohata
 
 
-
 1980年8月4日生まれ 山口県出身
 
-1996年 - 1年間アメリカに留学、米国での単位が認められず、高校1年生を2回やった。
-2000年 - 東大を舐めていたら、落ちた。
-2001年 - 雪辱を晴らす。
-2001年 - 東京があまりにも眩しくて遊びすぎて2回留年。そのときに、プログラムのバイトを始める。
-2005年 - 情報科学科に進学。
-2006年 - バイト先の社長が現状に満足してしまったので、つまらなくなり、起業。
-2007年 - 東京大学情報科学科を卒業、東京大学大学院情報理工学系研究科コンピュータ科学専攻に進学。
-2008年 - 株式会社化、今のC4SAの原型になるものを作り始める。
-2010年 - C4SAみたいなものが、やっと出来上がるが、売れない。
-2011年 - 東大からの支援、GBから増資を受け、ようやく、C4SAが陽の目をみることになるも、やや売れ。
-現在 - NIFTYと提携、NIFTY Cloud C4SA というカタチでメジャーデビューに挑戦中。
+- 1996年 - 1年間アメリカに留学、米国での単位が認められず、高校1年生を2回やった。
+- 2000年 - 東大を舐めていたら、落ちた。
+- 2001年 - 雪辱を晴らす。
+- 2001年 - 東京があまりにも眩しくて遊びすぎて2回留年。そのときに、プログラムのバイトを始める。
+- 2005年 - 情報科学科に進学。
+- 2006年 - バイト先の社長が現状に満足してしまったので、つまらなくなり、起業。
+- 2007年 - 東京大学情報科学科を卒業、東京大学大学院情報理工学系研究科コンピュータ科学専攻に進学。
+- 2008年 - 株式会社化、今のC4SAの原型になるものを作り始める。
+- 2010年 - C4SAみたいなものが、やっと出来上がるが、売れない。
+- 2011年 - 東大からの支援、GBから増資を受け、ようやく、C4SAが陽の目をみることになるも、やや売れ。
+- 現在 - NIFTYと提携、NIFTY Cloud C4SA というカタチでメジャーデビューに挑戦中。
 
 
 .. _session-16-1000-Room433-en:
 
-KVS distributed framework made by Tornado
+A Distributed KVS Framework using Tornado
 =========================================
 クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。
 
@@ -330,14 +312,13 @@ Koji Kishimoto
    :alt: Koji Kishimoto
 
 
-
 十数年前の大学の研究室時代にPythonに出合って以来、そのバランスの良さとエレガントさに魅せられてずっとPythonを使ってきました。会社では科学計算やCMS、ECなどの用途向けに開発などを行い、現在は先進的な分散KVSとその応用にPythonと共に取り組んでいます。
 
 
 .. _session-16-1000-Room357-en:
 
-Challange web2py
-================
+A Python old timer's web2py Challenge
+=====================================
 45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。
 
 :Audience: beginning programmer
@@ -354,32 +335,27 @@ Yoshiyuki Nakamura
    :alt: Yoshiyuki Nakamura
 
 
+- 所属(職場):
+  クロストラスト株式会社 / Software Engineer https://crosstrust.co.jp/
+- 所属(勉強会):
 
-所属(職場):
-    クロストラスト株式会社 / Software Engineer
-        https://crosstrust.co.jp/
+  1. Python札幌 / 主宰
+  2. 数学勉強会＠札幌 / 主宰
+  3. クラウド研究会＠札幌 / 主宰
+- 参加プロジェクト(FLOSS):
+  openCRX (Open source CRM)/ 日本語翻訳担当 http://www.opencrx.org/faq.htm#language
+- 略歴(社会人以降):
+  フリースクール講師、建設コンサル勤務等を歴て2000年の秋、33歳(いわゆるこの業界の定年二年前)にしてIT業界に入る。地元札幌のプチSIer勤務等を経て、2010年6月より現職。当初より社内ぼっちdeveloperとして、日々Pythonにてプログラミングを行う。最近では社内PC端末のお守りから公開Webサーバの運用管理まで、営業以外およそ考えられる全ての技術的職務を行なっている。いわゆる社内SE。
+- 付録.プログラミング歴(社会人以降):
+  プログラミング言語歴は、Fortran/6年, C++/0.5年, Java/1年, C#/5年, VB(A)/2年, PHP/1年を経てPython/2年。他にRを少々。
+  エディタはEmacs歴24年。自称・Emacsおじさん。
 
-所属(勉強会): 
-    (1) Python札幌 / 主宰
-    (2) 数学勉強会＠札幌 / 主宰
-    (3) クラウド研究会＠札幌 / 主宰
-
-参加プロジェクト(FLOSS):
-    openCRX (Open source CRM)/ 日本語翻訳担当
-        http://www.opencrx.org/faq.htm#language
-
-略歴(社会人以降):
-    フリースクール講師、建設コンサル勤務等を歴て2000年の秋、33歳(いわゆるこの業界の定年二年前)にしてIT業界に入る。地元札幌のプチSIer勤務等を経て、2010年6月より現職。当初より社内ぼっちdeveloperとして、日々Pythonにてプログラミングを行う。最近では社内PC端末のお守りから公開Webサーバの運用管理まで、営業以外およそ考えられる全ての技術的職務を行なっている。いわゆる社内SE。
-
-付録.プログラミング歴(社会人以降):
-    プログラミング言語歴は、Fortran/6年, C++/0.5年, Java/1年, C#/5年, VB(A)/2年, PHP/1年を経てPython/2年。他にRを少々。
-    エディタはEmacs歴24年。自称・Emacsおじさん。
 
 
 .. _session-16-1025-Room433-en:
 
-alnair: Simple System Configration framework
-============================================
+alnair: Simple System Configuration Framework
+=============================================
 新しいWEBサービスを立ち上げるときなどに必要なのがサーバー構築です。
 そのサーバー構築の為のツールとしてChefやPuppetなどがありますが、
 よりシンプルなツールとしてPythonで開発されたalnairを紹介します。
@@ -396,7 +372,6 @@ Naoya Inada
 
 .. figure:: /_static/speaker/naoina.png
    :alt: Naoya Inada
-
 
 
 kyoto.py主催
@@ -421,7 +396,6 @@ Shinobu Kawano
 
 .. figure:: /_static/speaker/kawano.jpg
    :alt: Shinobu Kawano
-
 
 
 株式会社アリエルネットワーク 開発部所属。 Sencha Touch を使って、ArielAirOne Enterprise というグループウェアのモバイル機能を開発しています。 Sencha 大好き。
@@ -451,8 +425,8 @@ MessagePack-Python
 
 .. _session-16-1515-Room433-en:
 
-Way of working of Pythonista
-============================
+How Pythonistas Work
+====================
 今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
 しかし、真のPythonistaは使う場面を特に意識しない。
 例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
@@ -476,7 +450,6 @@ Yuta Kitagami
 
 .. figure:: /_static/speaker/nonnoise.png
    :alt: Yuta Kitagami
-
 
 
 高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。
@@ -523,16 +496,15 @@ Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
    :alt: Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
 
 
-
-- FULLER株式会社 CTO
-- 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当。
-- 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。
+- Takafiro Fujiwara: FULLER株式会社 CTO
+- Michiya Takahashi: 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当。
+- Masaki Takeda: 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。
 
 
 .. _session-16-1645-Room357-en:
 
-Why we choose Python
-====================
+Why A Company Who Had Never Done Independent Development, Chose Python
+======================================================================
 今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
 仕事でも自分の好きなことがやりたい人に向けて、どうやって仕事を作るかの参考になればと思います。
 
@@ -548,7 +520,6 @@ Komatsu Daisuke
 
 .. figure:: /_static/speaker/komatsu.jpg
    :alt: Komatsu Daisuke
-
 
 
 株式会社キャッチボール21 開発グループマネージャ
@@ -574,8 +545,8 @@ Masahito Ikuta
 
 .. _session-16-1710-Room357-en:
 
-What Python community has given to me
-=====================================
+What the Python Community Has Given To Me
+=========================================
 昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。
 
 :Audience: beginning programmer

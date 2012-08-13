@@ -1,8 +1,8 @@
 
 .. _session-16-1515-Room452-en:
 
-Documentation life with Sphinx
-==============================
+Documentation with Sphinx
+=========================
 すぐれたドキュメントツールである Sphinx を使って、あなたのドキュメントを書いてみませんか。
 Sphinx は多くの OSS のマニュアル、リファレンスで採用されている他、
 IT企業でも利用されはじめています。
@@ -18,6 +18,7 @@ Takeshi Komiya
 
 
 (株)タイムインターメディア所属
+
 blockdiag、Sphinx などといったドキュメンテーションツールに興味を持ち、
 ツール、拡張モジュールの開発やコミュニティ活動を行なっている。
 
@@ -42,8 +43,8 @@ sphinx-jp, blockdiagなど
 
 .. _session-16-1645-Room452-en:
 
-First step of Sphinx HTML theme
-===============================
+Sphinx HTML Theme Creation First Steps
+======================================
 Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
 今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。
 
@@ -61,14 +62,13 @@ Shoji Kumagai
    :alt: Shoji Kumagai
 
 
-
 某A社, テストエンジニア
 
 
 .. _session-16-1710-Room452-en:
 
-Write a book using Sphinx
-=========================
+Writing a Book Using Sphinx
+===========================
 私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。
 
 :Audience: 
@@ -83,7 +83,6 @@ Takayuki Shimizukawa
 
 .. figure:: /_static/speaker/shimizukawa.jpg
    :alt: Takayuki Shimizukawa
-
 
 
 BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。
@@ -109,7 +108,6 @@ Goh Yamada
    :alt: Goh Yamada
 
 
-
 所属: ネットサポート株式会社
 
 
@@ -131,7 +129,6 @@ Takanori Suzuki
 
 .. figure:: /_static/speaker/takanory.jpg
    :alt: Takanori Suzuki
-
 
 
 PyCon JP 2011, 2012 スタッフ
@@ -158,7 +155,6 @@ docutilsの使い方の概要
 
 .. figure:: /_static/speaker/hekyo.jpg
    :alt: @hekyou       
-
 
 
 blockdiag, bookathon

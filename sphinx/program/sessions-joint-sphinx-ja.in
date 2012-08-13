@@ -18,6 +18,7 @@ Takeshi Komiya
 
 
 (株)タイムインターメディア所属
+
 blockdiag、Sphinx などといったドキュメンテーションツールに興味を持ち、
 ツール、拡張モジュールの開発やコミュニティ活動を行なっている。
 
@@ -61,7 +62,6 @@ Shoji Kumagai
    :alt: Shoji Kumagai
 
 
-
 某A社, テストエンジニア
 
 
@@ -83,7 +83,6 @@ Takayuki Shimizukawa
 
 .. figure:: /_static/speaker/shimizukawa.jpg
    :alt: Takayuki Shimizukawa
-
 
 
 BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。
@@ -109,7 +108,6 @@ Goh Yamada
    :alt: Goh Yamada
 
 
-
 所属: ネットサポート株式会社
 
 
@@ -131,7 +129,6 @@ Takanori Suzuki
 
 .. figure:: /_static/speaker/takanory.jpg
    :alt: Takanori Suzuki
-
 
 
 PyCon JP 2011, 2012 スタッフ
@@ -158,7 +155,6 @@ docutilsの使い方の概要
 
 .. figure:: /_static/speaker/hekyo.jpg
    :alt: @hekyou       
-
 
 
 blockdiag, bookathon

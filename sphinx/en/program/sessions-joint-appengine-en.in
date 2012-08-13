@@ -19,8 +19,8 @@ Takashi Matsuo
 
 .. _session-15-1330-Room357-en:
 
-Full Text Seach overview
-========================
+An Overview of Full Text Seach
+==============================
 試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。
 
 :Audience: 
@@ -37,8 +37,8 @@ Tetsuya Mukai
 
 .. _session-15-1430-Room357-en:
 
-Introduction of Python NDV API
-==============================
+Introduction to the Python NDV API
+==================================
 AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について
 
 :Audience: 
@@ -55,7 +55,7 @@ Tetsuhiro Ueda
 
 .. _session-15-1530-Room357-en:
 
-panel discussion
+Panel Discussion
 ================
 本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。
 

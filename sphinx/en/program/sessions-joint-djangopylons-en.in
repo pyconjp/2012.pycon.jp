@@ -1,8 +1,8 @@
 
 .. _session-15-1100-Room452-en:
 
-Django 1.4
-==========
+Using Django 1.4
+================
 Djangoについて
 
 * 1.0 以降の新しいこと
@@ -44,8 +44,8 @@ Atsushi Odagiri
 
 .. _session-15-1430-Room452-en:
 
-M2M Cloud Platform by Django
-============================
+M2M Cloud Platform using Django
+===============================
 Djangoを利用したM2Mサーバの実例について紹介
 
 :Audience: 
@@ -62,7 +62,7 @@ Ryunosuke Matsumura
 
 .. _session-15-1530-Room452-en:
 
-Pylons short session
+Pylons Short Session
 ====================
 * Pyramidセキュリティ
 * 実際の開発
@@ -81,8 +81,8 @@ Yusuke Muraoka, Naoyoshi Kobayashi
 
 .. _session-15-1630-Room452-en:
 
-Asynchronous processing by Django-Celery
-========================================
+Asynchronous Processing using Django-Celery
+===========================================
 Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も
 
 :Audience: 
@@ -99,7 +99,7 @@ Celeryを使ったリアルタイム処理について紹介。 事例を通し�
 
 .. _session-16-1000-Room452-en:
 
-Pyramid migration guide for Pylons users
+Pyramid Migration Guide for Pylons Users
 ========================================
 これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
 
