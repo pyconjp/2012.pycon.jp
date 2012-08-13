@@ -9,11 +9,9 @@
    sessions
    handson
    joint
-
-.. day1
-   day2
    sprints
-   openspaces
+
+.. openspaces
 
 タイムテーブル
 ====================
