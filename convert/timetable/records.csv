@@ -563,7 +563,7 @@ Sphinx HTML theme 事始め,Sphinx HTML Theme Creation First Steps,,,併設; Sph
 今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。",,Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
 ミニ四駆で Python on Windows Azure,Python with Mini 4WD on Windows Azure,,,日本語; スポンサー,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 433,Japanese; Room 433,Gold,"藤原 敬弘, 高橋 道也, 武田 正樹","Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda",Takahiro,Fujiwara,takahiro.fujiwara@fuller.co.jp,,"- Takafiro Fujiwara: FULLER株式会社 CTO
 - Michiya Takahashi: 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当。
-- Masaki Takeda: 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。",http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash3/538547_3739769986015_311877853_n.jpg,fujiwara.jpg,"マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
+- Masaki Takeda: 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。",http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash3/538547_3739769986015_311877853_n.jpg,ms.png,"マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
 本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。",,プロジェクト事例,25min?,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
 The Development and Promotion of NVDA in Taiwan,The Development and Promotion of NVDA in Taiwan,,,併設; NVDA,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 358,NVDA; Room 358,,Dr. Jerry Wang,Dr. Jerry Wang,,,,,Taiwan Digital Talking Books Association,http://workshop.nvda.jp/images/dr.-jerry-wang,jerry.jpg,"Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
 This talk overviews how NVDA is used in Taiwan.",,NVDA,25,,英語 / English,,
