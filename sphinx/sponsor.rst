@@ -96,6 +96,14 @@ Silver Sponsor
 - ビープラウド
 - http://www.beproud.jp/
 
+ビープラウドは、Pythonをメイン言語として採用し、数々の開発実績を上げている会社です。
+優秀なPythonistaが集まる会社として知られ、高い技術力は各方面の評価を受けています。
+
+昨年は自社サービスにも力を入れ、connpass/liblarをリリースしました。
+特にconnpassはPyConJP2012の申込に利用されるなど、実績を上げつつあります。
+
+また、IT業界の活発化にも力を入れており、Web系勉強会BPStudyの主催などコミュニティ活動にも積極的に取り組んでいます。
+
 .. |beproud| image:: /_static/sponsor/logo_beproud.png
    :target: http://www.beproud.jp/
    :alt: BeProud
