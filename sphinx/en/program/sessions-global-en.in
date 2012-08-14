@@ -71,8 +71,8 @@ Mathias Stearn is a Software Engineer at 10gen, the MongoDB company. He works on
 
 .. _session-15-1430-Room351a-en:
 
-Gunicorn what's next? The new eb challenge
-==========================================
+Gunicorn what's next? The new web challenge
+===========================================
 Gunicorn was designed in view of easing the deployment of your python web application on the web hand have some success to do it. With the new challenges of the web (SPDY, Websockets, Green computing...), it's time to improve its design. This talk will cover the current design of Gunicorn, what need to be fixed and the new features that will be introduced in the future major release.
 
 :Audience: beginning programmer / intermediate programmer

@@ -192,7 +192,7 @@ Pythonに限らずプログラミングの初学者は「Hello Worldは表示で
 
 ・近くの席に座った人同士で教え合って、楽しくプログラミングしましょう。",,,,,,,
 Python NDB APIの紹介,Introduction to the Python NDV API,,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,Tetsuhiro Ueda,,,,https://plus.google.com/u/0/116967938787828299147/about,,,,AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
-Gunicorn what's next? The new eb challenge,Gunicorn what's next? The new eb challenge,,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,Benoit Chesneau,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
+Gunicorn what's next? The new web challenge,Gunicorn what's next? The new web challenge,,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,Benoit Chesneau,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
 years of experience in building small and big-scale database backend
 website. He founded Enki Multimedia a company building innovative web
 services and open-source applications. Benoît Chesneau is an Apache
@@ -248,8 +248,7 @@ SQLAlchemyと僕,SQLAlchemy and I,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 
 
 ",データベース / Databases,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
 休憩,Break,休憩,Break,,9/15,9/15/2012 15:15:00,9/15/2012 15:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
-Pylons ショートセッション,Pylons Short Session,,,併設; Django & Pylons,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 452,Django & Pylons; Room 452,,@jbking @podhmo,"Yusuke Muraoka, Naoyoshi Kobayashi",,,,,,,,"* Pyramidセキュリティ
-* 実際の開発",,Pylons,,,日本語 / Japanese,,
+Pyramidセキュリティ,Pyramid Security,,,併設; Django & Pylons,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 452,Django & Pylons; Room 452,,@jbking,Yusuke Muraoka,,,,,,,,* Pyramidセキュリティ,,Pylons,,,日本語 / Japanese,,
 unittest嫌いがunittestをtesting,Testing with unittest,,,日本語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 433,Japanese; Room 433,test,Ido,Tsuyoshi Aizu,Tsuyoshi,Aizu,aizu@bascule-go.com,,"- 所属: 株式会社バスキュール号 http://www.bascule-go.com/
 - 肩書き: エンジニア
 - 参加プロジェクト: Pelo（iOS用アプリ）
@@ -580,7 +579,7 @@ Sphinxを使って本を書こう（仮）,Writing a Book Using Sphinx,,,併設;
 * Jenkinsでtodo数を表示
 * レビューにtodoディレクティブ
 * 出版社さん向けのbuilderの作成",Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-ソーシャルゲームとメッセージキュー,Social Game and Message Queue,,,日本語; スポンサー,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 433,Japanese; Room 433,,幾田　雅仁（ikuta masahito),Masahito Ikuta,Masahito,Ikuta,masahito.ikuta@gu3.co.jp,http://gu3.co.jp,大手ポータルサイトや決済代行を経て、2012年6月から gumi 在籍,,,前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
+ソーシャルゲームとメッセージキュー,Social Game and Message Queue,,,日本語; スポンサー,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 433,Japanese; Room 433,,幾田　雅仁（ikuta masahito),Masahito Ikuta,Masahito,Ikuta,masahito.ikuta@gu3.co.jp,http://gu3.co.jp,大手ポータルサイトや決済代行を経て、2012年6月から gumi 在籍,,ikuta.png,前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
 The Localization of NVDA for Japanese Language Users,The Localization of NVDA for Japanese Language Users,,,併設; NVDA,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 358,NVDA; Room 358,,Dr. Takuya Nishimoto,Dr. Takuya Nishimoto,,,,,"Director of NVDA Japanese Team
 ",http://workshop.nvda.jp/images/takuya-nishimoto,nishimoto.jpg,"In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
 This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.",,NVDA,25,,日本語 / Japanese,,
@@ -588,7 +587,7 @@ Pythonコミュニティが私に与えてくれたもの,What the Python Commun
 ・PyCon2011に参加してはじめたこと
 ・変化したこと
 ・コミュニティへの参加の仕方
-",コミュニティ,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,不可 / Don't record my talk,"・拡張モジュールやプログラムそのものの話ではないですが、昨年のPyConJPに参加した事をきっかけにいちエンジニアとしての過ごし方やモチベーションががらりと変化する事ができましたので、コミュニティとしてのお話ができるかと思い、登録しました。
+",コミュニティ,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,"・拡張モジュールやプログラムそのものの話ではないですが、昨年のPyConJPに参加した事をきっかけにいちエンジニアとしての過ごし方やモチベーションががらりと変化する事ができましたので、コミュニティとしてのお話ができるかと思い、登録しました。
 ・また初日は別カンファレンスのスタッフのため、参加できません。
 ・所属については、所属社名を公表できない事情のため、掲載しておりません。"
 休憩,Break,休憩,Break,,9/16,9/16/2012 17:30:00,9/16/2012 17:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
