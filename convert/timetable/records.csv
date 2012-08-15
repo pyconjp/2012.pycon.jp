@@ -568,7 +568,7 @@ Sphinx HTML theme 事始め,Sphinx HTML Theme Creation First Steps,,,併設; Sph
 ミニ四駆で Python on Windows Azure,Python with Mini 4WD on Windows Azure,,,日本語; スポンサー,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 433,Japanese; Room 433,Gold,"藤原 敬弘, 高橋 道也, 武田 正樹","Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda",Takahiro,Fujiwara,takahiro.fujiwara@fuller.co.jp,,"- Takahiro Fujiwara: FULLER株式会社 CTO
 - Michiya Takahashi: 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当。
 - Masaki Takeda: 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。",http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash3/538547_3739769986015_311877853_n.jpg,ms.png,"マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
-本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。",,プロジェクト事例,25min?,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
+本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。",,プロジェクト事例 / Project Best Practices,25min?,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
 The Development and Promotion of NVDA in Taiwan,The Development and Promotion of NVDA in Taiwan,,,併設; NVDA,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 358,NVDA; Room 358,,Dr. Jerry Wang,Dr. Jerry Wang,,,,,Taiwan Digital Talking Books Association,http://workshop.nvda.jp/images/dr.-jerry-wang,jerry.jpg,"Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
 This talk overviews how NVDA is used in Taiwan.",,NVDA,25,,英語 / English,,
 自社開発していなかった会社が python を選んだ理由,"Why A Company Who Had Never Done Independent Development, Chose Python",,,日本語,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 357,Japanese; Room 357,初心者用短め,vkgtaro,Komatsu Daisuke,Komatsu,Daisuke,komatsu@cb21.co.jp,http://www.cb21.co.jp,株式会社キャッチボール21 開発グループマネージャ,http://vkgtaro.jp/images/vkgtaro.jpg,komatsu.jpg,"今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
@@ -669,7 +669,7 @@ Python mini Hack-a-thon の主催の一人",http://sphinx-users.jp/_images/takan
 - 日報を reStructuredText で
 - 設計書を Sphinx で
 - 設計書を Sphinx + blockdiag, seqdiag で",Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
-Python Gateway Programming,Python Gateway Programming,,,日本語,9/16,9/16/2012 18:10:00,9/16/2012 18:35:00,Room 357,Japanese; Room 357,,南里　剛,Tsuyoshi Nanri,南里 / Nanri,剛 / Tsuyoshi,南里,,,,,Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。,,"その他, プロジェクト事例",25min,初心者 / beginning programmer,日本語 / Japanese,,
+Python Gateway Programming,Python Gateway Programming,,,日本語,9/16,9/16/2012 18:10:00,9/16/2012 18:35:00,Room 357,Japanese; Room 357,,南里　剛,Tsuyoshi Nanri,南里 / Nanri,剛 / Tsuyoshi,南里,,,,,Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。,,"その他 / other, プロジェクト事例 / Project Best Practices",25min,初心者 / beginning programmer,日本語 / Japanese,,
 Sphinxにおけるdocutilsの役割,docutils in sphinx,,,併設; Sphinx,9/16,9/16/2012 18:15:00,9/16/2012 18:30:00,Room 452,Sphinx; Room 452,,@hekyou       ,@hekyou       ,,,,,"blockdiag, bookathon",http://a0.twimg.com/profile_images/1194202128/hekyo_reasonably_small.jpg,hekyo.jpg,"docutilsがreStructuredTextを処理する流れについて
 docutilsの使い方の概要",,Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
 休憩,Break,休憩,Break,,9/16,9/16/2012 18:30:00,9/16/2012 18:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
