@@ -26,6 +26,26 @@ http://gu3.co.jp/recruit/
 Silver Sponsor
 ==============
 
+|beproud|
+=========
+- ビープラウド
+- http://www.beproud.jp/
+
+ビープラウドは『プログラマ中心の集団』です。
+プログラマとは、設計からコードにするまでを全て一人でできる人の事を指しています。
+素晴らしいサービスやアプリケーションを造り出すには、 優秀なプログラマが必要です。
+
+我々は会社のメインとなる言語の1つにPythonを採用しています。 Webアプリケーションや簡単なスクリプトのほとんどをPythonで実装しています。 
+もしあなたが、Pythonでコードを読み書きするのがとても気持ちよく感じるのであれば、きっと我々と相性はバッチリなはずです！ 
+
+詳細は以下をご覧ください。
+
+http://jobs.beproud.jp/
+
+.. |beproud| image:: /_static/sponsor/logo_beproud.png
+   :target: http://www.beproud.jp/
+   :alt: BeProud
+
 |snapdish|
 ==========
 - SnapDish
