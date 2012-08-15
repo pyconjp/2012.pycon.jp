@@ -10,7 +10,6 @@ Djangoについて
   * クラスベース汎用ビュー
   * app template (django-skel)
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
 :Room: Room 452
@@ -30,7 +29,6 @@ Pyramidについて
 Pyramidの特徴
 PyramidのためのPythonの知識
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
 :Room: Room 452
@@ -48,7 +46,6 @@ M2M Cloud Platform using Django
 ===============================
 Djangoを利用したM2Mサーバの実例について紹介
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 14:30-15:15
 :Room: Room 452
@@ -66,7 +63,6 @@ Pyramid Security
 ================
 * Pyramidセキュリティ
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
 :Room: Room 452
@@ -84,7 +80,6 @@ Asynchronous Processing using Django-Celery
 ===========================================
 Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
 :Room: Room 452
@@ -102,7 +97,6 @@ Pyramid Migration Guide for Pylons Users
 ========================================
 これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 16 10:00-10:45
 :Room: Room 452
@@ -120,7 +114,6 @@ Django Lessons Learned @BeProud
 ===============================
 3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 16 11:00-11:45
 :Room: Room 452
@@ -129,3 +122,4 @@ Ian Lewis
 ---------
 
 
+Ian はBeProudに所属する Python エンジニア。ウェブ、ネットワーク、いわゆるNoSQL DBに興味あり。現在は connpass.com を作っています。

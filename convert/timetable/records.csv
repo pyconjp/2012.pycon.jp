@@ -98,7 +98,7 @@ you""(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiw
 if I have more time, I will also roughly talk about the same and difference between Python meta class and javascript prototype.
 
 basically talk about python2 new style class"
-土屋先生,tsuchiya,Session,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,土屋 陽介,Yosuke Tsuchiya,,,土屋,,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,,日本語 / Japanese,,
+Python教育の話し(仮),Education Python,Session,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,小山 裕司,Hiroshi Koyama,,,koyama@aiit.ac.jp,,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,,日本語 / Japanese,,
 昼休み,Lunch,昼休み,Lunch,,9/15,9/15/2012 11:45:00,9/15/2012 13:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 What Makes Pyramid Unique!,What Makes Pyramid Unique!,,,併設; Django & Pylons,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 452,Django & Pylons; Room 452,,@aodag,Atsushi Odagiri,,,,,,,,"Pyramidについて
 Pyramidの特徴
@@ -484,7 +484,7 @@ Sublime Text 2 を使おう,Try Sublime Text 2,,,日本語,9/16,9/16/2012 10:25:
 ",ツール / Programming Tools,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",日本語 / Japanese,可 / Video recording OK,"@shoma4a に脅されて応募しました。
 "
 休憩,Break,休憩,Break,,9/16,9/16/2012 10:45:00,9/16/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
-Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian Lewis,,,,,,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
+Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian Lewis,,,,,Ian はBeProudに所属する Python エンジニア。ウェブ、ネットワーク、いわゆるNoSQL DBに興味あり。現在は connpass.com を作っています。,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
 リクルーティングセッション,Recruiting Session,リクルーティングセッション,Recruiting session,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,日本語 / Japanese,可 / Video recording OK,
 はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,Atsuo Ishimoto,,,,,,,,,,,,,,,
 gevent,gevent,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,Naoki Inada,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
@@ -560,7 +560,7 @@ sphinx拡張 探訪,Explore Sphinx Extensions,,,併設; Sphinx,9/16,9/16/2012 15
 Tea Break,Tea Break,Tea Break,Tea Break,,9/16,9/16/2012 16:00:00,9/16/2012 16:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 Sphinx HTML theme 事始め,Sphinx HTML Theme Creation First Steps,,,併設; Sphinx,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 452,Sphinx; Room 452,,@shkumagai,Shoji Kumagai,,,,,"某A社, テストエンジニア",http://www.gravatar.com/avatar/0ba1ea1c1809ff38c7d76a478a88553d.png,shkumagai.png,"Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
 今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。",,Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
-ミニ四駆で Python on Windows Azure,Python with Mini 4WD on Windows Azure,,,日本語; スポンサー,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 433,Japanese; Room 433,Gold,"藤原 敬弘, 高橋 道也, 武田 正樹","Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda",Takahiro,Fujiwara,takahiro.fujiwara@fuller.co.jp,,"- Takafiro Fujiwara: FULLER株式会社 CTO
+ミニ四駆で Python on Windows Azure,Python with Mini 4WD on Windows Azure,,,日本語; スポンサー,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 433,Japanese; Room 433,Gold,"藤原 敬弘, 高橋 道也, 武田 正樹","Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda",Takahiro,Fujiwara,takahiro.fujiwara@fuller.co.jp,,"- Takahiro Fujiwara: FULLER株式会社 CTO
 - Michiya Takahashi: 東洋ソフトウェアエンジニアリング株式会社にて、Windows Azureの導入支援業務を担当。
 - Masaki Takeda: 日本マイクロソフト株式会社で Windows Azure のエバンジェリストをしています。",http://a5.sphotos.ak.fbcdn.net/hphotos-ak-ash3/538547_3739769986015_311877853_n.jpg,ms.png,"マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
 本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。",,プロジェクト事例,25min?,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,

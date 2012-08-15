@@ -5,7 +5,6 @@ App Engine Updates - 2012
 =========================
 Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
 :Room: Room 357
@@ -23,7 +22,6 @@ An Overview of Full Text Seach
 ==============================
 試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
 :Room: Room 357
@@ -41,7 +39,6 @@ Introduction to the Python NDV API
 ==================================
 AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 14:30-15:15
 :Room: Room 357
@@ -59,7 +56,6 @@ Panel Discussion
 ================
 本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
 :Room: Room 357
@@ -77,7 +73,6 @@ App Engine Lightning Talk
 =========================
 
 
-:Audience: 
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
 :Room: Room 357

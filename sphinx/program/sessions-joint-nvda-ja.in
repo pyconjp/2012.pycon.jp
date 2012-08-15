@@ -7,7 +7,6 @@ This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is 
 NVDA is written primarily in the Python programming language. 
 The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.
 
-:対象: 
 :言語: 英語
 :日時: Sep 16 15:15-16:00
 :場所: Room 358
@@ -31,7 +30,6 @@ The Development and Promotion of NVDA in Taiwan
 Taiwan Digital Talking Books Association (TDTB) is supporting development of NVDA for Chinese language users.
 This talk overviews how NVDA is used in Taiwan.
 
-:対象: 
 :言語: 英語
 :日時: Sep 16 16:45-17:10
 :場所: Room 358
@@ -55,7 +53,6 @@ The Localization of NVDA for Japanese Language Users
 In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
 This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.
 
-:対象: 
 :言語: 日本語
 :日時: Sep 16 17:10-17:35
 :場所: Room 358
@@ -81,7 +78,6 @@ Digital Accessible Information SYstem (DAISY) assists people who have challenges
 DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
 This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.
 
-:対象: 
 :言語: 日本語
 :日時: Sep 16 17:45-18:30
 :場所: Room 358
