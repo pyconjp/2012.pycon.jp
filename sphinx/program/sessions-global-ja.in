@@ -22,6 +22,7 @@ you"(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiwa
 :言語: 英語
 :日時: Sep 15 11:00-11:45
 :場所: Room 351a
+:トピック: Core Python
 
 Hsin-Yi Chen
 ------------
@@ -56,6 +57,7 @@ Learn about working with leading NoSQL database MongoDB. This talk will cover th
 :言語: 英語
 :日時: Sep 15 13:30-14:15
 :場所: Room 351a
+:トピック: Python 3k / データベース
 
 Mathias Stearn
 --------------
@@ -79,6 +81,7 @@ Gunicorn was designed in view of easing the deployment of your python web applic
 :言語: 英語
 :日時: Sep 15 14:30-15:15
 :場所: Room 351a
+:トピック: ライブラリや拡張 / ネットワークプログラム / Webシステム
 
 Benoit Chesneau
 ---------------
@@ -101,6 +104,7 @@ Clime provides an intuitive approach to convert your module contains functions i
 :言語: 英語
 :日時: Sep 15 15:30-16:15
 :場所: Room 351a
+:トピック: ライブラリや拡張
 
 Mosky Liu
 ---------
@@ -142,6 +146,7 @@ I will present a small system to collect, summarize and graph detailed applicati
 :言語: 英語
 :日時: Sep 15 16:30-17:15
 :場所: Room 351a
+:トピック: ツール / metrics / logging
 
 Brian Dorsey
 ------------
@@ -165,6 +170,7 @@ Introduction about technologies of JIT compiler used in PyPy such as what we cal
 :言語: 英語
 :日時: Sep 16 10:00-10:45
 :場所: Room 351a
+:トピック: 他のPython実装 / IronPython / PyPy..)
 
 Ryotaro Ikeda
 -------------
@@ -188,6 +194,7 @@ Aided by its powerful gluing capability, Python can be used to build simulation 
 :言語: 英語
 :日時: Sep 16 11:00-11:45
 :場所: Room 351a
+:トピック: 科学や数学
 
 Yung-Yu Chen
 ------------
@@ -211,6 +218,7 @@ This talk will share why we tried continuous development and delivery process, w
 :言語: 英語
 :日時: Sep 16 15:15-16:00
 :場所: Room 351a
+:トピック: ツール / プロジェクト事例 / Webシステム / Development Process
 
 Toru Furukawa
 -------------
@@ -236,6 +244,7 @@ This talk will describe various Python tools for human and animal locomotion dat
 :言語: 英語
 :日時: Sep 16 16:45-17:30
 :場所: Room 351a
+:トピック: オープンソースのPythonプロジェクト / 科学や数学
 
 Todd Pataky
 -----------
@@ -254,6 +263,7 @@ Programming languages, data structures and algorithms are the fundamentals of co
 :言語: 英語
 :日時: Sep 16 17:45-18:30
 :場所: Room 351a
+:トピック: 教育事例
 
 TienVu Ho
 ---------

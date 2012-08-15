@@ -9,6 +9,7 @@ Pythonで製作したコントロールパネルによって、仮想マシン�
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
 :Room: Room 433
+:Topic: Web-based Systems
 
 Kohei Yoshida
 -------------
@@ -32,6 +33,7 @@ python教育の話し
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
 :Room: Room 230
+:Topic: Education Best Practices
 
 Hiroshi Koyama
 --------------
@@ -50,6 +52,7 @@ Is Python really all that useful in Blender?
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
 :Room: Room 433
+:Topic: Open Source Python projects
 
 Tetsuo Mitsuda
 --------------
@@ -68,6 +71,7 @@ Pythonを用いたソフトウェア開発に必要な様々な項目を実現�
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
 :Room: Room 230
+:Topic: Python 3k / Python libraries and extensions / Documentation / Packaging Issues / Programming Tools
 
 Yoshfumi Yamaguchi
 ------------------
@@ -92,6 +96,7 @@ Beginning Python
 :Language: Japanese
 :Time: Sep 15 14:30-14:55
 :Room: Room 433
+:Topic: Python Fundamentals
 
 Ken Sato
 --------
@@ -116,6 +121,7 @@ Systemizing Use of a Distributed Version Control System
 :Language: Japanese
 :Time: Sep 15 14:30-14:55
 :Room: Room 230
+:Topic: Programming Tools
 
 Takumi Iino
 -----------
@@ -142,6 +148,7 @@ C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽ�
 :Language: Japanese
 :Time: Sep 15 14:55-15:15
 :Room: Room 433
+:Topic: Python Programming Introduction
 
 Takayuki Shimizukawa
 --------------------
@@ -165,6 +172,7 @@ SQLAlchemyを利用したWebアプリケーション開発で押させておき�
 :Language: Japanese
 :Time: Sep 15 14:55-15:15
 :Room: Room 230
+:Topic: Databases
 
 Teruhiko Kida
 -------------
@@ -188,6 +196,7 @@ unittestをまともに書いていないunittest弱者同士で来るべきテ�
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
 :Room: Room 433
+:Topic: Programming Tools / Project Best Practices
 
 Tsuyoshi Aizu
 -------------
@@ -219,6 +228,7 @@ SnapDishの設計・開発・運用・戦略までPython以外の話しも交え
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
 :Room: Room 230
+:Topic: Project Best Practices
 
 Fumikazu Kiyota
 ---------------
@@ -249,6 +259,7 @@ Example tools are zc.buildout, Scons, and waf.
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
 :Room: Room 433
+:Topic: Programming Tools / Project Best Practices
 
 Shigeru Kitazaki
 ----------------
@@ -267,6 +278,7 @@ Inside NIFTY's Cloud C4SA
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
 :Room: Room 230
+:Topic: Network Programming / Project Best Practices / Web-based Systems
 
 Takahiro Oohata
 ---------------
@@ -302,6 +314,7 @@ A Distributed KVS Framework using Tornado
 :Language: Japanese
 :Time: Sep 16 10:00-10:25
 :Room: Room 433
+:Topic: 
 
 Koji Kishimoto
 --------------
@@ -325,6 +338,7 @@ A Python old timer's web2py Challenge
 :Language: Japanese
 :Time: Sep 16 10:00-10:25
 :Room: Room 357
+:Topic: Project Best Practices / Web-based Systems
 
 Yoshiyuki Nakamura
 ------------------
@@ -364,6 +378,7 @@ alnair: Simple System Configuration Framework
 :Language: Japanese
 :Time: Sep 16 10:25-10:50
 :Room: Room 433
+:Topic: Python libraries and extensions / Programming Tools
 
 Naoya Inada
 -----------
@@ -388,6 +403,7 @@ Try Sublime Text 2
 :Language: Japanese
 :Time: Sep 16 10:25-10:50
 :Room: Room 357
+:Topic: Programming Tools
 
 Shinobu Kawano
 --------------
@@ -418,6 +434,7 @@ gevent はコルーチンベースのネットワークプログラミングラ�
 :Language: Japanese
 :Time: Sep 16 11:00-11:45
 :Room: Room 357
+:Topic: Python libraries and extensions / Network Programming
 
 Naoki Inada
 -----------
@@ -447,6 +464,7 @@ Pythonは残業を減らす唯一の方法です（嘘）
 :Language: Japanese
 :Time: Sep 16 15:15-16:00
 :Room: Room 433
+:Topic: Programming Tools / Project Best Practices / Education Best Practices / Embedding and Extending
 
 Yuta Kitagami
 -------------
@@ -470,6 +488,7 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 :Language: Japanese
 :Time: Sep 16 15:15-16:00
 :Room: Room 357
+:Topic: Python 3k
 
 Atsushi Odagiri
 ---------------
@@ -491,6 +510,7 @@ Python with Mini 4WD on Windows Azure
 :Language: Japanese
 :Time: Sep 16 16:45-17:10
 :Room: Room 433
+:Topic: プロジェクト事例
 
 Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
 ---------------------------------------------------
@@ -517,6 +537,7 @@ Why A Company Who Had Never Done Independent Development, Chose Python
 :Language: Japanese
 :Time: Sep 16 16:45-17:10
 :Room: Room 357
+:Topic: Project Best Practices
 
 Komatsu Daisuke
 ---------------
@@ -540,6 +561,7 @@ Social Game and Message Queue
 :Language: Japanese
 :Time: Sep 16 17:10-17:35
 :Room: Room 433
+:Topic: 
 
 Masahito Ikuta
 --------------
@@ -563,6 +585,7 @@ What the Python Community Has Given To Me
 :Language: Japanese
 :Time: Sep 16 17:10-17:35
 :Room: Room 357
+:Topic: Community
 
 Tomomi Kurigeno
 ---------------
@@ -590,6 +613,7 @@ In this session, I'll show you problems and solutions about DSL design in Python
 :Language: Japanese
 :Time: Sep 16 17:45-18:10
 :Room: Room 357
+:Topic: Programming Tips / DSL
 
 Makoto Kuwata
 -------------
@@ -621,6 +645,7 @@ Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウ
 :Language: Japanese
 :Time: Sep 16 18:10-18:35
 :Room: Room 357
+:Topic: その他 / プロジェクト事例
 
 Tsuyoshi Nanri
 --------------

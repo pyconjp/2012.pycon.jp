@@ -9,6 +9,7 @@ Pythonで製作したコントロールパネルによって、仮想マシン�
 :言語: 日本語
 :日時: Sep 15 11:00-11:45
 :場所: Room 433
+:トピック: Webシステム
 
 Kohei Yoshida
 -------------
@@ -32,6 +33,7 @@ python教育の話し
 :言語: 日本語
 :日時: Sep 15 11:00-11:45
 :場所: Room 230
+:トピック: 教育事例
 
 Hiroshi Koyama
 --------------
@@ -50,6 +52,7 @@ Pythonは本当にBlenderの役に立っているか?
 :言語: 日本語
 :日時: Sep 15 13:30-14:15
 :場所: Room 433
+:トピック: オープンソースのPythonプロジェクト
 
 Tetsuo Mitsuda
 --------------
@@ -68,6 +71,7 @@ Pythonを用いたソフトウェア開発に必要な様々な項目を実現�
 :言語: 日本語
 :日時: Sep 15 13:30-14:15
 :場所: Room 230
+:トピック: Python 3k / ライブラリや拡張 / ドキュメント / パッケージング / ツール
 
 Yoshfumi Yamaguchi
 ------------------
@@ -92,6 +96,7 @@ Beginning Python
 :言語: 日本語
 :日時: Sep 15 14:30-14:55
 :場所: Room 433
+:トピック: Pythonの基本的なこと
 
 Ken Sato
 --------
@@ -116,6 +121,7 @@ Ken Sato
 :言語: 日本語
 :日時: Sep 15 14:30-14:55
 :場所: Room 230
+:トピック: ツール
 
 Takumi Iino
 -----------
@@ -142,6 +148,7 @@ C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽ�
 :言語: 日本語
 :日時: Sep 15 14:55-15:15
 :場所: Room 433
+:トピック: Pythonプログラム入門
 
 Takayuki Shimizukawa
 --------------------
@@ -165,6 +172,7 @@ SQLAlchemyを利用したWebアプリケーション開発で押させておき�
 :言語: 日本語
 :日時: Sep 15 14:55-15:15
 :場所: Room 230
+:トピック: データベース
 
 Teruhiko Kida
 -------------
@@ -188,6 +196,7 @@ unittestをまともに書いていないunittest弱者同士で来るべきテ�
 :言語: 日本語
 :日時: Sep 15 15:30-16:15
 :場所: Room 433
+:トピック: ツール / プロジェクト事例
 
 Tsuyoshi Aizu
 -------------
@@ -219,6 +228,7 @@ SnapDishの設計・開発・運用・戦略までPython以外の話しも交え
 :言語: 日本語
 :日時: Sep 15 15:30-16:15
 :場所: Room 230
+:トピック: プロジェクト事例
 
 Fumikazu Kiyota
 ---------------
@@ -249,6 +259,7 @@ Example tools are zc.buildout, Scons, and waf.
 :言語: 日本語
 :日時: Sep 15 16:30-17:15
 :場所: Room 433
+:トピック: ツール / プロジェクト事例
 
 Shigeru Kitazaki
 ----------------
@@ -267,6 +278,7 @@ Web API の開発者。たまに翻訳など。
 :言語: 日本語
 :日時: Sep 15 16:30-17:15
 :場所: Room 230
+:トピック: ネットワークプログラム / プロジェクト事例 / Webシステム
 
 Takahiro Oohata
 ---------------
@@ -302,6 +314,7 @@ Tornadoで分散KVSフレームワーク
 :言語: 日本語
 :日時: Sep 16 10:00-10:25
 :場所: Room 433
+:トピック: 
 
 Koji Kishimoto
 --------------
@@ -325,6 +338,7 @@ Pythonおじさんのweb2py挑戦記
 :言語: 日本語
 :日時: Sep 16 10:00-10:25
 :場所: Room 357
+:トピック: プロジェクト事例 / Webシステム
 
 Yoshiyuki Nakamura
 ------------------
@@ -364,6 +378,7 @@ Yoshiyuki Nakamura
 :言語: 日本語
 :日時: Sep 16 10:25-10:50
 :場所: Room 433
+:トピック: ライブラリや拡張 / ツール
 
 Naoya Inada
 -----------
@@ -388,6 +403,7 @@ Sublime Text 2 を使おう
 :言語: 日本語
 :日時: Sep 16 10:25-10:50
 :場所: Room 357
+:トピック: ツール
 
 Shinobu Kawano
 --------------
@@ -418,6 +434,7 @@ gevent はコルーチンベースのネットワークプログラミングラ�
 :言語: 日本語
 :日時: Sep 16 11:00-11:45
 :場所: Room 357
+:トピック: ライブラリや拡張 / ネットワークプログラム
 
 Naoki Inada
 -----------
@@ -447,6 +464,7 @@ Pythonは残業を減らす唯一の方法です（嘘）
 :言語: 日本語
 :日時: Sep 16 15:15-16:00
 :場所: Room 433
+:トピック: ツール / プロジェクト事例 / 教育事例 / 組み込み
 
 Yuta Kitagami
 -------------
@@ -470,6 +488,7 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 :言語: 日本語
 :日時: Sep 16 15:15-16:00
 :場所: Room 357
+:トピック: Python 3k
 
 Atsushi Odagiri
 ---------------
@@ -491,6 +510,7 @@ Pylonsproject.jp 代表
 :言語: 日本語
 :日時: Sep 16 16:45-17:10
 :場所: Room 433
+:トピック: プロジェクト事例
 
 Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
 ---------------------------------------------------
@@ -517,6 +537,7 @@ Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
 :言語: 日本語
 :日時: Sep 16 16:45-17:10
 :場所: Room 357
+:トピック: プロジェクト事例
 
 Komatsu Daisuke
 ---------------
@@ -540,6 +561,7 @@ Komatsu Daisuke
 :言語: 日本語
 :日時: Sep 16 17:10-17:35
 :場所: Room 433
+:トピック: 
 
 Masahito Ikuta
 --------------
@@ -563,6 +585,7 @@ Pythonコミュニティが私に与えてくれたもの
 :言語: 日本語
 :日時: Sep 16 17:10-17:35
 :場所: Room 357
+:トピック: コミュニティ
 
 Tomomi Kurigeno
 ---------------
@@ -590,6 +613,7 @@ In this session, I'll show you problems and solutions about DSL design in Python
 :言語: 日本語
 :日時: Sep 16 17:45-18:10
 :場所: Room 357
+:トピック: Programming Tips / DSL
 
 Makoto Kuwata
 -------------
@@ -621,6 +645,7 @@ Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウ
 :言語: 日本語
 :日時: Sep 16 18:10-18:35
 :場所: Room 357
+:トピック: その他 / プロジェクト事例
 
 Tsuyoshi Nanri
 --------------

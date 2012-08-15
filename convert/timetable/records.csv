@@ -236,7 +236,7 @@ Pythonicな書き方でコードがどのように変わっていくのか、な
 * docstring
 * doctest
 * def suite()
-",Pythonプログラム入門,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
+",Pythonプログラム入門 / Python Programming Introduction,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
 SQLAlchemyと僕,SQLAlchemy and I,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:15:00,Room 230,Japanese; Room 230,SQLAlchemy,tell-k,Teruhiko Kida,Teruhiko,Kida,ffk2005@gmail.com,http://tell-k.hatenablog.com/,情弱プログラマー,https://twimg0-a.akamaihd.net/profile_images/81313711/tell-k_normal.PNG,tell-k.png,SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。,"アウトライン
 ----------------------------
 
@@ -579,7 +579,7 @@ This talk overviews how NVDA is used in Taiwan.",,NVDA,25,,英語 / English,,
 * python を選んで今、どうなったのか
 ",プロジェクト事例 / Project Best Practices,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,当日までにアウトラインを変えてしまうかもしれませんが、よろしくお願いします！
 Python in Gait Biomechanics Research,Python in Gait Biomechanics Research,,,英語,9/16,9/16/2012 16:45:00,9/16/2012 17:30:00,Room 351a,English; Room 351a,信州大学,tpataky00,Todd Pataky,Todd,Pataky,tpataky@shinshu-u.ac.jp,,"Shinshu University, Young Researcher's Empowerment Project, Department of Bioengineering, Assistant Professor",,,This talk will describe various Python tools for human and animal locomotion data analysis and dynamic simulations. It will also describe three related Python packages concurrently under development.,"Experimentation and numerical simulation of human and animal walking and running (‘gait’) can generate large volumes of data, and these data can have very different physical characteristics. For example: 1D force trajectories, 2D pressure distributions, and 3D bone and soft tissue strain and stress fields are physically distinct, but they often needed to be analyzed simultaneously. Such analyses require well-integrated computational tools to handle diverse datasets in an efficient manner. This talk will summarize how Python is being used at Shinshu University for experimental gait analysis and gait-related simulations, including standard scientific packages like NumPy, SciPy and Matplotlib. Three related custom packages currently under development will also be described:  (1) PyFEBio: a wrapper to biologically-focussed open source finite element analysis software, (2) SPMnD: a package for the topological statistical analysis of physically arbitrary gait data, and (3) OPP: a pressure distribution data management and analysis package. Some specific scientific applications using Python will also be highlighted, including: analysis of 3.8 million fossilized footprints, large mammal gait analysis, biometric gait identification, and energy harvesting.","オープンソースのPythonプロジェクト / Open Source Python projects, 科学や数学 / Science and Math",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
-Sphinxを使って本を書こう（仮）,Writing a Book Using Sphinx,,,併設; Sphinx,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 452,Sphinx; Room 452,,清水川 貴之 (@shimizukawa),Takayuki Shimizukawa,,,,,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://dragon-user-images.s3.amazonaws.com/profile/866145,shimizukawa.jpg,私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。,"* Sphinxで本を書き始める(ファイル構造の例)
+Sphinxを使って本を書こう,Writing a Book Using Sphinx,,,併設; Sphinx,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 452,Sphinx; Room 452,,清水川 貴之 (@shimizukawa),Takayuki Shimizukawa,,,,,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://dragon-user-images.s3.amazonaws.com/profile/866145,shimizukawa.jpg,私の過去2冊の翻訳・執筆した本の経験から、Sphinxを活用して執筆環境を自動化したときの手順とそのメリットなどを紹介します。,"* Sphinxで本を書き始める(ファイル構造の例)
 * JenkinsでHTMLとPDFの自動ビルド
 * Jenkinsでtodo数を表示
 * レビューにtodoディレクティブ
@@ -592,7 +592,7 @@ Pythonコミュニティが私に与えてくれたもの,What the Python Commun
 ・PyCon2011に参加してはじめたこと
 ・変化したこと
 ・コミュニティへの参加の仕方
-",コミュニティ,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,"・拡張モジュールやプログラムそのものの話ではないですが、昨年のPyConJPに参加した事をきっかけにいちエンジニアとしての過ごし方やモチベーションががらりと変化する事ができましたので、コミュニティとしてのお話ができるかと思い、登録しました。
+",コミュニティ / Community,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,"・拡張モジュールやプログラムそのものの話ではないですが、昨年のPyConJPに参加した事をきっかけにいちエンジニアとしての過ごし方やモチベーションががらりと変化する事ができましたので、コミュニティとしてのお話ができるかと思い、登録しました。
 ・また初日は別カンファレンスのスタッフのため、参加できません。
 ・所属については、所属社名を公表できない事情のため、掲載しておりません。"
 休憩,Break,休憩,Break,,9/16,9/16/2012 17:30:00,9/16/2012 17:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
@@ -641,7 +641,7 @@ In this session, I'll show you problems and solutions about DSL design in Python
   - Unary Operator Trick
 * Case Study
   - CSS Generator
-",Programming Tips / DSL,ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,事務局のみなさま、いつもお疲れさまです。上記の通り応募させていただきますのでご査収ください。よろしくお願いします。
+","Programming Tips, DSL",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,事務局のみなさま、いつもお疲れさまです。上記の通り応募させていただきますのでご査収ください。よろしくお願いします。
 Learning Algorithms and Data Structures in Python,Learning Algorithms and Data Structures in Python,,,英語,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 351a,English; Room 351a,教育,htvu,TienVu Ho,TienVu,Ho,ho0001vu@gmail.com,,"TienVu is a Web Application Engineer at Lucasfilm Singapore where he works on various python frameworks. In his spared time, TienVu enjoys participating in online programming contests.
 ",,,"Programming languages, data structures and algorithms are the fundamentals of computer science. There are a lot of materials that cover these subjects but often do not link well with each other. This talk will explain how to use Python to learn these topics in a fast and efficient manner"," A) Introduction to programming in Python
         - Demonstrate how fast and easy it is to get started to code in Python(types, variables, operation, loop, condition) compared to Java/C++
