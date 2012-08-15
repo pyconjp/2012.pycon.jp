@@ -39,6 +39,18 @@ SESSION_TEMPLATE_JA = """
 {speaker_with_line}
 """
 
+JOINT_TEMPLATE_JA = """
+.. _{reference_id}:
+
+{title_with_line}
+{abstract}
+
+:言語: {language}
+:日時: {datetime}
+:場所: {room}
+
+{speaker_with_line}
+"""
 
 SESSION_TEMPLATE_EN = """
 .. _{reference_id}:
@@ -47,6 +59,19 @@ SESSION_TEMPLATE_EN = """
 {abstract}
 
 :Audience: {audience}
+:Language: {language}
+:Time: {datetime}
+:Room: {room}
+
+{speaker_with_line}
+"""
+
+JOINT_TEMPLATE_EN = """
+.. _{reference_id}:
+
+{title_with_line}
+{abstract}
+
 :Language: {language}
 :Time: {datetime}
 :Room: {room}
@@ -274,7 +299,7 @@ def make_main_sessions(rows, sessions_local_name, sessions_global_name, lang):
 
 def make_joint_sessions(rows, sessions_name, lang):
 
-    templates = {'ja': SESSION_TEMPLATE_JA, 'en': SESSION_TEMPLATE_EN}
+    templates = {'ja': JOINT_TEMPLATE_JA, 'en': JOINT_TEMPLATE_EN}
     lang_idx = {'ja': 0, 'en': 1}
     filters = {
         'language': lambda r: r.language.split('/')[lang_idx[lang]].strip(),
