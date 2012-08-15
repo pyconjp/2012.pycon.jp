@@ -28,6 +28,10 @@ gumiではソーシャルアプリ開発エンジニアを募集しています�
 詳細は弊社求人情報をご参照ください。
 http://gu3.co.jp/recruit/
 
+.. |gumi| image:: /_static/sponsor/logo_gumi.png
+   :target: http://gu3.co.jp/
+   :alt: gumi
+
 .. |microsoft|
 .. ===========
 .. - 日本マイクロソフト
@@ -179,6 +183,30 @@ Silver Sponsor
 .. |goga| image:: /_static/sponsor/logo_goga.png
    :target: http://www.goga.co.jp/
    :alt: ゴーガ
+
+|smapo|
+=======
+- スポットライト
+- http://www.smapo.jp/
+
+- 職種: アプリケーションエンジニア
+
+内容:
+弊社提供サービス「スマポ」の根幹となるサーバーサイドアプリケーションの開発を行っていただきます
+サービス拡大に伴う機能拡張、API, 社内外の管理画面、ログ解析など業務内容は多岐に渡ります。
+
+- 環境など
+- 言語: Python, Pyramid, SQLAlchemy
+- DB: PostgreSQL, Postgis, MongoDB
+- 条件: 500万円〜1,000万円（スキル・経験を考慮）
+- 募集人員: 若干名
+
+詳細は下記からご覧ください
+http://www.smapo.jp/engineer/
+
+.. |smapo| image:: /_static/sponsor/logo_smapo.png
+   :target: http://www.smapo.jp/
+   :alt: スポットライト
 
 |vtj|
 =====

@@ -40,6 +40,13 @@ Gold Sponsor
 - gumi
 - http://gu3.co.jp/
 
+gumi is a game developer on mobile social gaming network GREE. We has a history of developing and operating hit games,  and won Best RPG Game at the "GREE Platform Awards".
+
+Our game development, Python has been used, 
+and we are developing more efficient by incorporating the latest technology actively.
+
+gumi aims to become the top provider of smartphone and feature phone social games in the world.
+
 .. |gumi| image:: /_static/sponsor/logo_gumi.png
    :target: http://gu3.co.jp/
    :alt: gumi
@@ -197,6 +204,11 @@ Google is a global technology leader focused on improving the ways people connec
 =======
 - Spotlight
 - http://www.smapo.jp/
+
+Smapo is the first mobile app in Japan that gives you rewards and offers simply for walking into stores. You can earn points at many major retailers.
+We help retailers to increase foot traffic into their stores while optimizing the marketing budget.
+
+Our team all loves Python and most of our server side programs are coded in Python.
 
 .. |smapo| image:: /_static/sponsor/logo_smapo.png
    :target: http://www.smapo.jp/

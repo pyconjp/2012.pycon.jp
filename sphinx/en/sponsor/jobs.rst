@@ -5,8 +5,8 @@
 PyCon JP Jobs Board page is dedicated to the job listings that PyCon Sponsors have open and are looking for talent
 This is offered as a service for both sponsors (to advertise their) and for attendees and the Python community as a whole to help connect them with unique job opportunities.
 
-.. Gold Sponsor
-.. ============
+Gold Sponsor
+============
 
 .. |10gen|
 .. =======
@@ -155,6 +155,22 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
 ..    :target: http://www.ariel-networks.com/
 ..    :alt: アリエル・ネットワーク
 
+|smapo|
+=======
+- Spotlight
+- http://www.smapo.jp/
+
+Application engineer:
+
+Will be involved with development of server-side with our engineers. Works include developing new features, apis, control panels for internal staff and our clients, massive log analysis, etc.
+
+- Language: Python, Pyramid, SqlAlchemy
+- DB: PostgreSQL, Postgis, mongodb
+- Employment Type: Full-time (condition depends on skills and experience)
+
+.. |smapo| image:: /_static/sponsor/logo_smapo.png
+   :target: http://www.smapo.jp/
+   :alt: Spotlight
 
 .. |goga|
 .. =======
