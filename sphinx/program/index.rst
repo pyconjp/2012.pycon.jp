@@ -9,6 +9,7 @@
    sessions
    handson
    joint
+   recruiting
    sprints
 
 .. openspaces
