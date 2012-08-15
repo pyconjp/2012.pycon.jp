@@ -489,7 +489,12 @@ Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django
 はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,Atsuo Ishimoto,,,,,,,,,,,,,,,
 gevent,gevent,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,Naoki Inada,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
 MessagePack-Python
-",,,gevent の紹介,"* 並行処理について
+",,,"gevent はコルーチンベースのネットワークプログラミングライブラリです。
+主に大量の同時接続を扱う必要がある場面において力を発揮し、
+効率の良いプログラムを簡単に書くことができます。
+
+本セッションでは、 gevent の仕組み、他の仕組みに比べた gevent の長所、
+そして gevent によるプログラミングについて解説します。","* 並行処理について
   * スレッド・プロセス・イベントドリブン・マイクロスレッドの利点欠点
   * マイクロスレッドの種類
 * gevent について
