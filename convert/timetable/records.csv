@@ -98,7 +98,7 @@ you""(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiw
 if I have more time, I will also roughly talk about the same and difference between Python meta class and javascript prototype.
 
 basically talk about python2 new style class"
-Python教育の話し(仮),Education Python,Session,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,小山 裕司,Hiroshi Koyama,,,koyama@aiit.ac.jp,,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,,日本語 / Japanese,,
+Python教育の話し(仮),Education Python,Session,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,小山 裕司,Hiroshi Koyama,,,koyama@aiit.ac.jp,,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,初心者 / beginning programmer,日本語 / Japanese,,
 昼休み,Lunch,昼休み,Lunch,,9/15,9/15/2012 11:45:00,9/15/2012 13:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 What Makes Pyramid Unique!,What Makes Pyramid Unique!,,,併設; Django & Pylons,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 452,Django & Pylons; Room 452,,@aodag,Atsushi Odagiri,,,,,,,,"Pyramidについて
 Pyramidの特徴
@@ -485,7 +485,7 @@ Sublime Text 2 を使おう,Try Sublime Text 2,,,日本語,9/16,9/16/2012 10:25:
 "
 休憩,Break,休憩,Break,,9/16,9/16/2012 10:45:00,9/16/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian Lewis,,,,,Ian はBeProudに所属する Python エンジニア。ウェブ、ネットワーク、いわゆるNoSQL DBに興味あり。現在は connpass.com を作っています。,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
-リクルーティングセッション,Recruiting Session,リクルーティングセッション,Recruiting session,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,日本語 / Japanese,可 / Video recording OK,
+リクルーティングセッション,Recruiting Session,:doc:`recruiting`,Recruiting session,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,日本語 / Japanese,可 / Video recording OK,
 はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,Atsuo Ishimoto,,,,,,,,,,,,,,,
 gevent,gevent,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,Naoki Inada,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
 MessagePack-Python
