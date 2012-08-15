@@ -35,6 +35,7 @@ SESSION_TEMPLATE_JA = """
 :言語: {language}
 :日時: {datetime}
 :場所: {room}
+:トピック: {topic}
 
 {speaker_with_line}
 """
@@ -62,6 +63,7 @@ SESSION_TEMPLATE_EN = """
 :Language: {language}
 :Time: {datetime}
 :Room: {room}
+:Topic: {topic}
 
 {speaker_with_line}
 """
@@ -274,6 +276,19 @@ def make_session(rows, template, type_=(), override_filters={}):
     return sessions
 
 
+def topic_filter(lang_idx):
+    def filter(row):
+        topics = []
+        for name in row.topic.split(','):
+            if '/' in name:
+                names = name.split('/')
+            else:
+                names = [name] * 2
+            names = [x.strip() for x in names]
+            topics.append(names[lang_idx])
+        return ' / '.join(topics)
+    return filter
+
 
 def make_main_sessions(rows, sessions_local_name, sessions_global_name, lang):
 
@@ -284,6 +299,7 @@ def make_main_sessions(rows, sessions_local_name, sessions_global_name, lang):
         'audience': lambda r: ' / '.join([x.split('/')[lang_idx[lang]].strip() for x in r.audience.split(',')]),
         'reference_id': lambda r: create_reference_id(r) + '-' + lang,
         'title_with_line': lambda r: make_sphinx_heading(getattr(r, 'title_' + lang)),
+        'topic': topic_filter(lang_idx[lang]),
         }
 
     # 日本語 セッション(出力言語ではなく)
