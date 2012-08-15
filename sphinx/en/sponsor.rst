@@ -96,6 +96,13 @@ Silver Sponsor
    :target: http://www.beproud.jp/
    :alt: BeProud
 
+BeProud is a software development agency who has developed a large number of
+applications using Python as the main language. BeProud is known for recruiting
+talented Pythonistas and achieving a high degree of satisfaction from our customers.
+Last year, BeProud released two new services, `connpass <http://connpass.com/>`_ and
+`liblar <http://liblar.com>`_ and encourages active learning and community development
+through BPStudy, a monthly event for web developers.
+
 |snapdish|
 ==========
 - SnapDish
