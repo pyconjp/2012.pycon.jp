@@ -235,7 +235,10 @@ Our team all loves Python and most of our server side programs are coded in Pyth
 - Accense Technology
 - http://accense.com/
 
+Accense Technology, Inc is a software company based in Tokyo and Osaka. Our speciality includes core network software like RADIUS server, as well as medical and care solutions.
+
+We have been gold/silver sponsor of PyCon US since 2007. We hope evolution of great Python engineers, softwares and community in Japan.
+
 .. |accense| image:: /_static/sponsor/logo_accense.png
    :target: http://accense.com/
    :alt: Accense Technology
-
