@@ -146,6 +146,8 @@ BizMobileは、低コストで安心、安全なモバイルビジネス環境�
 - Nexedi
 - http://www.nexedi.co.jp/
 
+Pythonを使って100%オープンソースの製品を開発しているフランス企業の子会社です。ERPパッケージのERP5やクラウドシステムのSlapOSなどを開発しています。
+
 .. |nexedi| image:: /_static/sponsor/logo_nexedi.png
    :target: http://www.nexedi.co.jp/
    :alt: Nexedi
