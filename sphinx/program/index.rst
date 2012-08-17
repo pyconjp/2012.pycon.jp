@@ -10,9 +10,8 @@
    handson
    joint
    recruiting
+   openspaces
    sprints
-
-.. openspaces
 
 タイムテーブル
 ====================

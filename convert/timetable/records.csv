@@ -259,7 +259,7 @@ unittest嫌いがunittestをtesting,Testing with unittest,,,日本語,9/15,9/15/
   - 担当: プロジェクトの途中からバックエンド開発に参加し、現在は運用とメンテナンスを担当。バックエンドはGoogle App  Engine
 ",http://www.gravatar.com/avatar/fd17bf1a7a6e0c71941b3bb84a5b3180.png,aizu.png,unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう,テスト駆動開発に憧れつつも、業務でunittest書くの面倒でしょうがない私が数あるunittestツールやそのツールを使ったtestフローを試行錯誤しながらテストすることで、私が思うunittestのベストプレクティスを披露できればと思っています。,"ツール / Programming Tools, プロジェクト事例 / Project Best Practices",ふつう / Standard(45 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,今現在、講演内容に関する資料は0です。PyconのCall for Proposalsに申し込むことで自分自身を追い込んで、unittest関連に本気で取り組もうと思います
 ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Creating a Music Synthesizer in Python,,,ハンズオン,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 358,Hands on; Room 358,,@ransui,Ransui Iso,,,,,,,,,,,,,,,
-パネルディスカッション的な何か（仮）,Panel Discussion,,,併設; App Engine,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 357,App Engine; Room 357,,"モデレーター Akira Kusumoto /
+パネルディスカッション:Google App Engine を選ぶ理由,Panel Discussion : Why are we choose Google App Engine?,,,併設; App Engine,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 357,App Engine; Room 357,,"モデレーター Akira Kusumoto /
 パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII","Moderator: Akira Kusumoto / Panelist: Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII",,,,,,,,本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。,"モデレーター: Akira Kusumoto
 パネラー:
 ・ Takashi Matsuo
@@ -508,7 +508,7 @@ By using Python, we can quickly make a prototype, which takes parallelism into a
 The hybrid approach paves the road to a new style of developing PDE solvers.  First-principle simulators can be built with fewer resources, provide a clearer structure, and make the system more flexible.  The high-level layers in the resulted software can host various supportive functionalities, including I/O, pre-processing, and post-processing.  The layered structure can be used to easily implement advanced technologies such as GPGPU computing and in situ visualization.
 
 The layered structure facilitate collaboration of larger teams and potentially better optimization of the code.  The speaker also solicits collaboration on SOLVCON from people who are similar interests.",科学や数学 / Science and Math,ふつう / Standard(45 min),中級者 / intermediate programmer,英語 / English,可 / Video recording OK,This is the second of the two proposal that I submit to PyConJP 2012.
-昼休み & オープンスペース,Lunch & Open Spaces,昼休み & OpenSpace,Lunch & OpenSpace,Key,9/16,9/16/2012 11:45:00,9/16/2012 14:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
+昼休み & オープンスペース,Lunch & Open Spaces,昼休み & :doc:`openspaces`,Lunch & OpenSpace,Key,9/16,9/16/2012 11:45:00,9/16/2012 14:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 基調講演,Keynote,`基調講演: Dan Kogai <keynote.html#session-16-1400-room433-ja>`_,`Keynote: Dan Kogai <keynote.html#session-16-1400-room433-en>`_,Key,9/16,9/16/2012 14:00:00,9/16/2012 15:00:00,Room 433,Key Event; Room 433,,@dankogai,Dan Kogai,dan,kogai,,,"TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー。ディーエイエヌ有限会社代表。1999〜2001年、オン・ザ・エッヂ(現ライブドア)取締役最高技術責任者(CTO)。プログラミング言語PerlではEncode担当。
 
 著書に『小飼弾のアルファギークに逢ってきた』(技術評論社)、『弾言』『決弾』(いずれも共著、アスペクト)、『空気を読むな、本を読め』(イースト・プレス)、『新書がベスト』(KKベストセラーズ)など。
