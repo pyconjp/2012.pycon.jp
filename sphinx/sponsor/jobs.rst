@@ -76,6 +76,26 @@ http://jobs.beproud.jp/
    :target: https://developers.google.com/
    :alt: Google
 
+|cb21|
+======
+- キャッチボール・トゥエンティワン
+- http://www.cb21.co.jp/
+
+株式会社キャッチボール・トゥエンティワンは、自社開発で新規サービスを作っていくため、今年2月に開発グループを発足しました。
+立ちあげて半年ですが、自社開発で新規サービスを作成中でございます。
+新規サービス立ちあげに伴い、日々様々な技術的な課題に直面しています。
+
+- Django で view とか model が増えてきた時の管理
+- Supervisor で gunicorn プロセスの管理
+- Python の CSV モジュールにおける unicode の扱い
+
+これらの課題に一緒に取り組んでいただける Python プログラマを探しております。
+もしご興味ございましたら、弊社社員が 4名 Pycon JP 2012に参加していますので、お気軽にお問い合わせください。
+
+.. |cb21| image:: /_static/sponsor/logo_cb21.png
+   :target: http://www.cb21.co.jp/
+   :alt: キャッチボール・トゥエンティワン
+
 |triax|
 =======
 - TriAx
