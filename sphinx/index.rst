@@ -70,10 +70,10 @@ Connpass で Paypal を経由した支払いを行なう際に限度額エラー
 回避手段などを `PyCon JP ブログ <http://pyconjp.blogspot.jp/2012/08/pycon-jp-paypal.html>`_ にまとめてありますので参照ください。
 
 
-キーノートスピーカー - 小飼弾氏
--------------------------------
+基調講演者 - 小飼弾氏
+---------------------
 
-二人目の :doc:`キーノートスピーカー </program/keynote>` が `小飼弾のアルファギークに逢ってきた <http://gihyo.jp/book/2008/978-4-7741-3452-9>`_ などの著書や Perl Monger として有名な `小飼弾 <http://twitter.com/dankogai>`_ 氏に決定しました。
+二人目の :doc:`基調講演者 </program/keynote>` が `小飼弾のアルファギークに逢ってきた <http://gihyo.jp/book/2008/978-4-7741-3452-9>`_ などの著書や Perl Monger として有名な `小飼弾 <http://twitter.com/dankogai>`_ 氏に決定しました。
 
 
 PyCon JP 2012 参加登録開始
@@ -91,8 +91,8 @@ PyCon JP 2012 の参加登録を開始しました。
 
 詳細は :doc:`パトロン応募ページ <sponsor/patron>` をご覧ください。
 
-キーノートスピーカー - Armin Ronacher氏
----------------------------------------
+基調講演者 - Armin Ronacher氏
+-----------------------------
 :doc:`/program/keynote` が `Flask <http://flask.pocoo.org/>`_ 等の開発者である
 Armin Ronacher(`@mitsuhiko <https://twitter.com/#!/mitsuhiko>`_) 氏に決定しました。
 
