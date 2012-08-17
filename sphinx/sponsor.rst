@@ -95,6 +95,9 @@ Silver Sponsor
 - フェアリーデバイセズ
 - http://www.fairydevices.jp/
 
+フェアリーデバイセズでは、新しくて面白いものを、みんなで協力してつくっています。
+新しい仲間をいつでも募集しているので、気軽に声をかけてくださいね！
+
 .. |fairydevices| image:: /_static/sponsor/logo_fairydevices.png
    :target: http://www.fairydevices.jp/
    :alt: フェアリーデバイセズ
