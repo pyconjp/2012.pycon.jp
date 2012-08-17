@@ -259,7 +259,7 @@ unittest嫌いがunittestをtesting,Testing with unittest,,,日本語,9/15,9/15/
   - 担当: プロジェクトの途中からバックエンド開発に参加し、現在は運用とメンテナンスを担当。バックエンドはGoogle App  Engine
 ",http://www.gravatar.com/avatar/fd17bf1a7a6e0c71941b3bb84a5b3180.png,aizu.png,unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう,テスト駆動開発に憧れつつも、業務でunittest書くの面倒でしょうがない私が数あるunittestツールやそのツールを使ったtestフローを試行錯誤しながらテストすることで、私が思うunittestのベストプレクティスを披露できればと思っています。,"ツール / Programming Tools, プロジェクト事例 / Project Best Practices",ふつう / Standard(45 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,今現在、講演内容に関する資料は0です。PyconのCall for Proposalsに申し込むことで自分自身を追い込んで、unittest関連に本気で取り組もうと思います
 ソフトシンセを作りながら学ぶPythonプログラミング(初級者),Hands on: Creating a Music Synthesizer in Python,,,ハンズオン,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 358,Hands on; Room 358,,@ransui,Ransui Iso,,,,,,,,,,,,,,,
-パネルディスカッション的な何か（仮）,Panel Discussion,,,併設; App Engine,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 357,App Engine; Room 357,,"モデレーター Akira Kusumoto /
+パネルディスカッション:Google App Engine を選ぶ理由,Panel Discussion : Why are we choose Google App Engine?,,,併設; App Engine,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 357,App Engine; Room 357,,"モデレーター Akira Kusumoto /
 パネラー Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII","Moderator: Akira Kusumoto / Panelist: Takashi Matsuo, najeira, Shinichi Ogawa, Kenji ISHII",,,,,,,,本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。,"モデレーター: Akira Kusumoto
 パネラー:
 ・ Takashi Matsuo
