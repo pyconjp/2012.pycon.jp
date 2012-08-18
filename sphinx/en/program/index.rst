@@ -9,6 +9,7 @@
    sessions
    handson
    joint
+   openspaces
    sprints
 
 Timetable plan
