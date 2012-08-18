@@ -185,6 +185,9 @@ Google is a global technology leader focused on improving the ways people connec
 - CodeIQ
 - https://codeiq.jp/
 
+CodeIQ is a programming online test service. Prove your coding skills in Python, Java, Ruby, PHP, Perl etc.
+You can get a opportunity to be invited to Meetup from ace engineers who create a problem, and also get a job offer. Let's try CodeIQ and find your best career!
+
 .. |codeiq| image:: /_static/sponsor/logo_codeiq.png
    :target: https://codeiq.jp/
    :alt: CodeIQ
