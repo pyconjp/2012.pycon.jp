@@ -215,10 +215,6 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
         else:
             data += ':ref:`{0}-{1}`'.format(create_reference_id(row), lang)
 
-        # スピーカー名を追記
-        if row.speaker:
-            data += ' [{0}]'.format(row.speaker)
-
         # 終了時間を追記
         if row.end > term['end']:
             #休憩時間に食い込むセッション
