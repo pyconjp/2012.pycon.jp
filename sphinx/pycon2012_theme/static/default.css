@@ -402,6 +402,10 @@ div.figure {
 	display: none;
 }
 
+/* sposer のbottom 表示 */
+
+#about-budget #content #sidebar,
+#en-about-budget #content #sidebar,
 #program-index #content #sidebar,
 #en-program-index #content #sidebar,
 #index #content #sidebar,
@@ -411,8 +415,8 @@ div.figure {
 	clear: both;
 }
 
-/* sposer のbottom 表示 */
-
+#about-budget #content #sidebar h3,
+#en-about-budget #content #sidebar h3,
 #program-index #content #sidebar h3,
 #en-program-index #content #sidebar h3,
 #index #content #sidebar h3,
@@ -420,6 +424,8 @@ div.figure {
 	margin-left: 0;
 }
 
+#about-budget #content #sidebar ul,
+#en-about-budget #content #sidebar ul,
 #program-index #content #sidebar ul,
 #en-program-index #content #sidebar ul,
 #index #content #sidebar ul,
@@ -427,6 +433,8 @@ div.figure {
 	margin-left: 0;
 }
 
+#about-budget #content #sidebar li,
+#en-about-budget #content #sidebar li,
 #program-index #content #sidebar li,
 #en-program-index #content #sidebar li,
 #index #content #sidebar li,
@@ -435,6 +443,8 @@ div.figure {
 	display: inline;
 }
 
+#about-budget #content #sidebar li a,
+#en-about-budget #content #sidebar li a,
 #program-index #content #sidebar li a,
 #en-program-index #content #sidebar li a,
 #index #content #sidebar li a,
@@ -442,6 +452,8 @@ div.figure {
 	display: inline;
 }
 
+#about-budget #content #sidebar li a img,
+#en-about-budget #content #sidebar li a img,
 #program-index #content #sidebar li a img,
 #en-program-index #content #sidebar li a img,
 #index #content #sidebar li a img,

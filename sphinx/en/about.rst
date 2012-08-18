@@ -56,3 +56,9 @@ Please refere to :doc:`/en/about/staff`
 .. _`PyCon JP Committee`: http://www.pycon.jp/committee.html
 
 
+Other Informations
+======================
+.. toctree::
+
+   about/staff
+   about/budget

@@ -57,3 +57,11 @@ PyCon JP 2012 は `PyCon JP 実行委員会`_ PyCon JP 2012 運営チームに�
 .. _`PyCon JP 実行委員会`: http://www.pycon.jp/committee.html
 
 チームの詳細やミーティング議事録は :doc:`/about/staff` を参照してください。
+
+●その他の情報
+==================
+
+.. toctree::
+
+   about/staff
+   about/budget

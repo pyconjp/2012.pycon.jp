@@ -11,7 +11,6 @@ PyCon JP 2012 開催します！
    :hidden:
 
    about
-   about/staff
    program/index
    cfp
    sponsor
@@ -21,7 +20,6 @@ PyCon JP 2012 開催します！
    media
    en/index
    en/about
-   en/about/staff
    en/program/index
    en/cfp
    en/sponsor
