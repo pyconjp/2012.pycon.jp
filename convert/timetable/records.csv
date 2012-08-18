@@ -60,7 +60,7 @@ Pythonプログラミングハンズオン(初心者向け),Hands on: Beginner P
 ------------
 
 * Windows、MacOSX、Linux(Ubuntuなど)のいずれかのOSがインストールされたノートPC(可能ならPython2.7をインストールしてきてください)",,,,,,,
-App Engine Updates - 2012       ,App Engine Updates - 2012       ,,,併設; App Engine,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 357,App Engine; Room 357,,Takashi Matsuo,Takashi Matsuo,Takashi,Matsuo,,https://plus.google.com/u/0/110554344789668969711/about,,,,Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
+App Engine Updates - 2012       ,App Engine Updates - 2012       ,,,併設; App Engine,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 357,App Engine; Room 357,,Takashi Matsuo,Takashi Matsuo,Takashi,Matsuo,,https://plus.google.com/u/0/110554344789668969711/about,,,tmatsuo.jpg,Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
 Python Type and Object,Python Type and Object,,,英語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 351a,English; Room 351a,「（寺田）スタッフのIanを落として海外のhychenを入れたい。」-> 反対意見がないため確定,hychen,Hsin-Yi Chen,Hsin-Yi,Chen,ossug.hychen@gmail.com,http://www.wuweig.org,"I am a
 
 * Debian Maintainer
@@ -100,10 +100,10 @@ if I have more time, I will also roughly talk about the same and difference betw
 basically talk about python2 new style class"
 Python教育の話し(仮),Education Python,Session,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,小山 裕司,Hiroshi Koyama,,,koyama@aiit.ac.jp,,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,初心者 / beginning programmer,日本語 / Japanese,,
 昼休み,Lunch,昼休み,Lunch,,9/15,9/15/2012 11:45:00,9/15/2012 13:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
-What Makes Pyramid Unique!,What Makes Pyramid Unique!,,,併設; Django & Pylons,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 452,Django & Pylons; Room 452,,@aodag,Atsushi Odagiri,,,,,,,,"Pyramidについて
+What Makes Pyramid Unique!,What Makes Pyramid Unique!,,,併設; Django & Pylons,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 452,Django & Pylons; Room 452,,@aodag,Atsushi Odagiri,,,,,,,aodag.png,"Pyramidについて
 Pyramidの特徴
 PyramidのためのPythonの知識",,Pylons,,,日本語 / Japanese,,
-Pythonは本当にBlenderの役に立っているか?,Is Python really all that useful in Blender?,,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 433,Japanese; Room 433,遠方、元併設イベント,三津田 哲雄,Tetsuo Mitsuda,哲雄,三津田,lab1092@gmail.com,http://blog.livedoor.jp/lab1092/,IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BLUG.jp(Blender User Group Japan)メンバー。,,,3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。,"オープンソースの3DCG統合環境であるBlenderおよび、Blenderの拡張""Add-on""を中心に、「BlenderというソフトにおけるPythonの使われ方」について事例を紹介できたらと思います。
+Pythonは本当にBlenderの役に立っているか?,Is Python really all that useful in Blender?,,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 433,Japanese; Room 433,遠方、元併設イベント,三津田 哲雄,Tetsuo Mitsuda,哲雄,三津田,lab1092@gmail.com,http://blog.livedoor.jp/lab1092/,IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BLUG.jp(Blender User Group Japan)メンバー。,,mitsuda.jpg,3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。,"オープンソースの3DCG統合環境であるBlenderおよび、Blenderの拡張""Add-on""を中心に、「BlenderというソフトにおけるPythonの使われ方」について事例を紹介できたらと思います。
 
 1. Blenderとは？
 2. PythonによるBlenderの拡張、""Add-on""について
@@ -248,7 +248,7 @@ SQLAlchemyと僕,SQLAlchemy and I,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 
 
 ",データベース / Databases,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
 休憩,Break,休憩,Break,,9/15,9/15/2012 15:15:00,9/15/2012 15:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
-Pyramidセキュリティ,Pyramid Security,,,併設; Django & Pylons,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 452,Django & Pylons; Room 452,,@jbking,Yusuke Muraoka,,,,,,,,* Pyramidセキュリティ,,Pylons,,,日本語 / Japanese,,
+Pyramidセキュリティ,Pyramid Security,,,併設; Django & Pylons,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 452,Django & Pylons; Room 452,,@jbking,Yusuke Muraoka,,,,,,,jbking.jpg,* Pyramidセキュリティ,,Pylons,,,日本語 / Japanese,,
 unittest嫌いがunittestをtesting,Testing with unittest,,,日本語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 433,Japanese; Room 433,test,Ido,Tsuyoshi Aizu,Tsuyoshi,Aizu,aizu@bascule-go.com,,"- 所属: 株式会社バスキュール号 http://www.bascule-go.com/
 - 肩書き: エンジニア
 - 参加プロジェクト: Pelo（iOS用アプリ）
@@ -484,12 +484,12 @@ Sublime Text 2 を使おう,Try Sublime Text 2,,,日本語,9/16,9/16/2012 10:25:
 ",ツール / Programming Tools,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",日本語 / Japanese,可 / Video recording OK,"@shoma4a に脅されて応募しました。
 "
 休憩,Break,休憩,Break,,9/16,9/16/2012 10:45:00,9/16/2012 11:00:00,,Japanese; English; Hands on; Django & Pylons; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
-Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian Lewis,,,,,Ian はBeProudに所属する Python エンジニア。ウェブ、ネットワーク、いわゆるNoSQL DBに興味あり。現在は connpass.com を作っています。,,,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
+Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian Lewis,,,,,Ian はBeProudに所属する Python エンジニア。ウェブ、ネットワーク、いわゆるNoSQL DBに興味あり。現在は connpass.com を作っています。,,ian.jpg,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
 リクルーティングセッション,Recruiting Session,:doc:`recruiting`,Recruiting session,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,日本語 / Japanese,可 / Video recording OK,
 はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,Atsuo Ishimoto,,,,,,,,,,,,,,,
 gevent,gevent,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,Naoki Inada,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
 MessagePack-Python
-",,,"gevent はコルーチンベースのネットワークプログラミングライブラリです。
+",,methane.jpg,"gevent はコルーチンベースのネットワークプログラミングライブラリです。
 主に大量の同時接続を扱う必要がある場面において力を発揮し、
 効率の良いプログラムを簡単に書くことができます。
 
@@ -518,7 +518,7 @@ The layered structure facilitate collaboration of larger teams and potentially b
 Sphinx ではじめるドキュメント生活 2012,Documentation with Sphinx,,,併設; Sphinx,9/16,9/16/2012 15:15:00,9/16/2012 15:40:00,Room 452,Sphinx; Room 452,,小宮 健 (@tk0miya),Takeshi Komiya,,,,,"(株)タイムインターメディア所属
 
 blockdiag、Sphinx などといったドキュメンテーションツールに興味を持ち、
-ツール、拡張モジュールの開発やコミュニティ活動を行なっている。",,,"すぐれたドキュメントツールである Sphinx を使って、あなたのドキュメントを書いてみませんか。
+ツール、拡張モジュールの開発やコミュニティ活動を行なっている。",,tk0miya.jpg,"すぐれたドキュメントツールである Sphinx を使って、あなたのドキュメントを書いてみませんか。
 Sphinx は多くの OSS のマニュアル、リファレンスで採用されている他、
 IT企業でも利用されはじめています。
 ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。",,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
@@ -544,7 +544,7 @@ NVDA is written primarily in the Python programming language.
 The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.",,NVDA,45,,英語 / English,,
 Python3でここまでできるWebプログラミング,Web Programming with Python 3,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 357,Japanese; Room 357,python 3,aodag,Atsushi Odagiri,Atsushi,Odagiri,aodagx@gmail.com,http://aodag.posterous.com,"BeProud所属
 Pylonsproject.jp 代表
-2011 Pythonアドベントカレンダー(Python3) まとめ役",,,Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。,"まだまだライブラリが充実しているとはいいがたいPython3ですが、Webアプリケーションについて言えば、通常のWeb+DBアプリケーションを作るのに十分なものがそろっています。
+2011 Pythonアドベントカレンダー(Python3) まとめ役",,aodag.png,Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。,"まだまだライブラリが充実しているとはいいがたいPython3ですが、Webアプリケーションについて言えば、通常のWeb+DBアプリケーションを作るのに十分なものがそろっています。
 ライブラリ以外でもツールやデプロイ方法など、Python3に関連する考慮点なども交えて、Python3でWebアプリケーション開発はすでに可能である話をします。",Python 3k,ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
 Trying Continuous Delivery,Trying Continuous Delivery,,,英語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 351a,English; Room 351a,"日本人枠
 他と毛色が違う",Toru Furukawa,Toru Furukawa,Toru,Furukawa,torufurukawa@gmail.com,,"Toru Furukawa (@torufurukawa) is a technical architect at Bascule Inc.
@@ -561,7 +561,7 @@ I will cover the following topics but not limited to;
 - What branching strategy we use (similar to git-flow)
 - How to execute zero-downtime release when data schema changed (App Engine practice)
 - What software architecture is suitable for continuous delivery","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, Webシステム / Web-based Systems, Development Process",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
-sphinx拡張 探訪,Explore Sphinx Extensions,,,併設; Sphinx,9/16,9/16/2012 15:40:00,9/16/2012 16:05:00,Room 452,Sphinx; Room 452,,しろう @r_rudi,Shiro Wakayama,,,,,"sphinx-jp, blockdiagなど",,,Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。,,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
+sphinx拡張 探訪,Explore Sphinx Extensions,,,併設; Sphinx,9/16,9/16/2012 15:40:00,9/16/2012 16:05:00,Room 452,Sphinx; Room 452,,しろう @r_rudi,Shiro Wakayama,,,,,"sphinx-jp, blockdiagなど",,r_rudi.png,Sphinxの魅力の一つに多種多様な拡張があります。多くの人がさまざまな目的で開発したSphinx拡張を紹介し、Sphinxがいろいろなニーズに答えられることを伝えます。,,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
 Tea Break,Tea Break,Tea Break,Tea Break,,9/16,9/16/2012 16:00:00,9/16/2012 16:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 Sphinx HTML theme 事始め,Sphinx HTML Theme Creation First Steps,,,併設; Sphinx,9/16,9/16/2012 16:45:00,9/16/2012 17:10:00,Room 452,Sphinx; Room 452,,@shkumagai,Shoji Kumagai,,,,,"某A社, テストエンジニア",http://www.gravatar.com/avatar/0ba1ea1c1809ff38c7d76a478a88553d.png,shkumagai.png,"Sphinx には組み込みで複数のHTMLテーマが付属しており、defaultのテーマも用意されたパラメータに値を指定すれば、印象をガラリと変えることが可能になります。
 今回はSphinxのHTMLテーマの基本的な構成に触れながら、組み込みのテーマでできること、組み込みのHTMLテーマからのもうひと工夫の仕方を軸に、自分が考えるSphinxテーマカスタマイズ手法を紹介したいと思います。",,Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
@@ -588,7 +588,7 @@ Sphinxを使って本を書こう,Writing a Book Using Sphinx,,,併設; Sphinx,9
 The Localization of NVDA for Japanese Language Users,The Localization of NVDA for Japanese Language Users,,,併設; NVDA,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 358,NVDA; Room 358,,Dr. Takuya Nishimoto,Dr. Takuya Nishimoto,,,,,"Director of NVDA Japanese Team
 ",http://workshop.nvda.jp/images/takuya-nishimoto,nishimoto.jpg,"In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
 This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.",,NVDA,25,,日本語 / Japanese,,
-Pythonコミュニティが私に与えてくれたもの,What the Python Community Has Given To Me,,,日本語,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 357,Japanese; Room 357,コミュニティ,tmmkr,Tomomi Kurigeno,Tomomi,KURIGENO,tomomik84@gmail.com,,Java Engineer,,,昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。,"・PyCon2011に参加前のこと
+Pythonコミュニティが私に与えてくれたもの,What the Python Community Has Given To Me,,,日本語,9/16,9/16/2012 17:10:00,9/16/2012 17:35:00,Room 357,Japanese; Room 357,コミュニティ,tmmkr,Tomomi Kurigeno,Tomomi,KURIGENO,tomomik84@gmail.com,,Java Engineer,,tmmkr.jpg,昨年PyConJpに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyConJPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。,"・PyCon2011に参加前のこと
 ・PyCon2011に参加してはじめたこと
 ・変化したこと
 ・コミュニティへの参加の仕方
