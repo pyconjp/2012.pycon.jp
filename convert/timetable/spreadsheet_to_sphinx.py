@@ -81,6 +81,8 @@ JOINT_TEMPLATE_EN = """
 {speaker_with_line}
 """
 
+URL_TEMPLATE = """{url}"""
+
 IMAGE_TEMPLATE = """
 .. figure:: /_static/speaker/{image}
    :alt: {speaker}
@@ -127,6 +129,7 @@ class TimeTableRows(object):
         'image': '画像',
         'bio': '略歴 / Short biography',
         'topic': '講演テーマ / Topic',
+        'url': 'URL',
     }
 
     FILTERS = {
@@ -261,6 +264,7 @@ def make_session(rows, template, type_=(), override_filters={}):
             image = row.image,
             bio = row.bio,
             topic = row.topic,
+            url = row.url,
         )
 
         for k in params:
@@ -276,6 +280,8 @@ def make_session(rows, template, type_=(), override_filters={}):
         sessions.append(text)
         if row.image != "":
             sessions.append(IMAGE_TEMPLATE.format(**params))
+        if row.url != "":
+            sessions.append(URL_TEMPLATE.format(**params))
         sessions.append(params['bio'])
 
     return sessions

@@ -522,7 +522,7 @@ blockdiag、Sphinx などといったドキュメンテーションツールに�
 Sphinx は多くの OSS のマニュアル、リファレンスで採用されている他、
 IT企業でも利用されはじめています。
 ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。",,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-Pythonistaの働き方,How Pythonistas Work,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 433,Japanese; Room 433,pythonista,北神Noise,Yuta Kitagami,北神,雄太,hokusin02@gmail.com,www.kitagami.org,高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。,https://si0.twimg.com/profile_images/1646321977/____________.png,nonnoise.png,"今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
+Pythonistaの働き方,How Pythonistas Work,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 433,Japanese; Room 433,pythonista,北神Noise,Yuta Kitagami,北神,雄太,hokusin02@gmail.com,http://www.kitagami.org,高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。,https://si0.twimg.com/profile_images/1646321977/____________.png,nonnoise.png,"今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
 しかし、真のPythonistaは使う場面を特に意識しない。
 例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
 例え、クライアント向け業務用ソフトを開発していようとも、Pythonを使う機会を見つける事も出来る。
