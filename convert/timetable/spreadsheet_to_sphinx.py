@@ -209,13 +209,18 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
         if (data):
             data += '\n\n{0:%H:%M} '.format(row.start)
 
+        # タイトルを追記
         if getattr(row, 'title_sphinx_' + lang):
             data += getattr(row, 'title_sphinx_' + lang)
         else:
             data += ':ref:`{0}-{1}`'.format(create_reference_id(row), lang)
+
+        # 終了時間を追記
         if row.end > term['end']:
             #休憩時間に食い込むセッション
             data += ' (till {0:%H:%M})'.format(row.end)
+
+        # 部屋名を設定
         if row.room:
             cols[ROOM_IDX_MAP[row.room]] = data
         else:
