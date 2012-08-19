@@ -670,7 +670,7 @@ Python mini Hack-a-thon の主催の一人",http://sphinx-users.jp/_images/takan
 - 設計書を Sphinx で
 - 設計書を Sphinx + blockdiag, seqdiag で",Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
 Python Gateway Programming,Python Gateway Programming,,,日本語,9/16,9/16/2012 18:10:00,9/16/2012 18:35:00,Room 357,Japanese; Room 357,,南里　剛,Tsuyoshi Nanri,南里 / Nanri,剛 / Tsuyoshi,南里,,,,,Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。,,"その他 / other, プロジェクト事例 / Project Best Practices",25min,初心者 / beginning programmer,日本語 / Japanese,,
-Sphinxにおけるdocutilsの役割,docutils in sphinx,,,併設; Sphinx,9/16,9/16/2012 18:15:00,9/16/2012 18:30:00,Room 452,Sphinx; Room 452,,@hekyou       ,@hekyou       ,,,,,"blockdiag, bookathon",http://a0.twimg.com/profile_images/1194202128/hekyo_reasonably_small.jpg,hekyo.jpg,"docutilsがreStructuredTextを処理する流れについて
+Sphinxにおけるdocutilsの役割,docutils in sphinx,,,併設; Sphinx,9/16,9/16/2012 18:15:00,9/16/2012 18:30:00,Room 452,Sphinx; Room 452,,@hekyou       ,Keita Uchiyama,Keita,Uchiyama,,,"blockdiag, bookathon",http://a0.twimg.com/profile_images/1194202128/hekyo_reasonably_small.jpg,hekyo.jpg,"docutilsがreStructuredTextを処理する流れについて
 docutilsの使い方の概要",,Sphinx,15,,日本語 / Japanese,可 / Video recording OK,
 休憩,Break,休憩,Break,,9/16,9/16/2012 18:30:00,9/16/2012 18:45:00,,Japanese; English; Sphinx; NVDA; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 Closing,Closing,Closing,Closing,Key,9/16,9/16/2012 18:45:00,9/16/2012 19:00:00,Room 433,Key Event; Room 433,,,,,,,,,,,,,,,,,,
