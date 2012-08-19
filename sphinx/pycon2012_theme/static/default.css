@@ -480,3 +480,7 @@ div.figure {
        height: 16px;
 }
 
+strong {
+       font-weight: bold;
+}
+
