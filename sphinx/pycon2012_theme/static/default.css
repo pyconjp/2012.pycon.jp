@@ -470,3 +470,13 @@ div.figure {
 	width: auto;
 }
 
+.rss {
+       float: right;
+}
+
+.rss-image {
+       margin-top: 5px;
+       width: 16px;
+       height: 16px;
+}
+
