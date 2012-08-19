@@ -226,6 +226,10 @@ li {
 	list-style: outside disc;
 }
 
+li ul {
+        	margin-left: 50px;
+}
+
 table {
 	margin-left: 110px;
 	margin-bottom: 1em;
