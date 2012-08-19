@@ -4,6 +4,7 @@
 
 .. figure:: /_static/program/openspaces.jpg
    :alt: オープンスペースのホワイトボード
+   :width: 500
 
    オープンスペースのホワイトボード
 

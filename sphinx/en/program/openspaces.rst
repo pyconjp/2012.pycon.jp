@@ -4,6 +4,7 @@
 
 .. figure:: /_static/program/openspaces.jpg
    :alt: Open Space board
+   :width: 500
 
    Open Space board
 

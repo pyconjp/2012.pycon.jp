@@ -2,6 +2,10 @@
  PyCon JP Jobs Board
 =====================
 
+.. figure:: /_static/sponsor/job-board.jpg
+   :alt: Job Board
+   :width: 500
+
 PyCon JP Jobs Board page is dedicated to the job listings that PyCon Sponsors have open and are looking for talent
 This is offered as a service for both sponsors (to advertise their) and for attendees and the Python community as a whole to help connect them with unique job opportunities.
 

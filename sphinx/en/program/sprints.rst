@@ -4,6 +4,7 @@
 
 .. figure:: /_static/program/sprints.jpg
    :alt: PyCon JP 2011 Sprints
+   :width: 500
 
    PyCon JP 2011 Sprints
 
