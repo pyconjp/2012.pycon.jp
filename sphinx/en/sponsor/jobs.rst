@@ -6,8 +6,10 @@
    :alt: Job Board
    :width: 500
 
-PyCon JP Jobs Board page is dedicated to the job listings that PyCon Sponsors have open and are looking for talent
-This is offered as a service for both sponsors (to advertise their) and for attendees and the Python community as a whole to help connect them with unique job opportunities.
+The PyCon JP Jobs Board is dedicated to the job listings that PyCon Sponsors
+have open and are looking for talent. This is offered as a service for both
+sponsors (to advertise their) and for attendees and the Python community as a
+whole to help connect them with unique job opportunities.
 
 Gold Sponsor
 ============
@@ -27,6 +29,31 @@ For more information, please see this URL: http://gu3.co.jp/recruit/
 
 Silver Sponsor
 ==============
+
+|beproud|
+=========
+- BeProud Inc.
+- http://www.beproud.jp/
+
+BeProud recruits developers who can go from design to code without
+outside direction. We think that creating good services and applications
+requires excellent programmers.
+
+BeProud is a software development agency who has developed a large number of
+talented Pythonistas and achieving a high degree of satisfaction from our customers.
+Last year, BeProud released two new services, `connpass <http://connpass.com/>`_ and
+`liblar <http://liblar.com>`_ and encourages active learning and community development
+through BPStudy, a monthly event for web developers.
+
+We are currently recruiting Web Designers. Though we would require a large
+degree of Japanese fluency, please see our jobs page:
+
+http://jobs.beproud.jp/
+
+
+.. |beproud| image:: /_static/sponsor/logo_beproud.png
+   :target: http://www.beproud.jp/
+   :alt: BeProud
 
 |google|
 ========
