@@ -98,7 +98,7 @@ you""(http://www.slideshare.net/hychen/what-can-meta-class-do-for-you-pycon-taiw
 if I have more time, I will also roughly talk about the same and difference between Python meta class and javascript prototype.
 
 basically talk about python2 new style class"
-Python教育の話し(仮),Education Python,Session,Session,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,小山 裕司,Hiroshi Koyama,,,koyama@aiit.ac.jp,,,,,python教育の話し,,教育事例 / Education Best Practices,45min?,初心者 / beginning programmer,日本語 / Japanese,,
+Pythonプログラミング教育に関する考察,Education Python programming,,,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 230,Japanese; Room 230,会場提供,小山 裕司,Hiroshi Koyama,,,koyama@aiit.ac.jp,,産業技術大学院大学 教授,,,複数の学生を対象にPythonプログラミング教育を行った経験から、プログラミングからシステム開発のスキルを学ぶときに気をつけるべき事項を示す。プログラミングの効率を改善するための開発環境等に関しても言及する。,,教育事例 / Education Best Practices,45min?,"初心者 / beginning programmer, 中級者 / intermediate programmer",日本語 / Japanese,,
 昼休み,Lunch,昼休み,Lunch,,9/15,9/15/2012 11:45:00,9/15/2012 13:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 What Makes Pyramid Unique!,What Makes Pyramid Unique!,,,併設; Django & Pylons,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 452,Django & Pylons; Room 452,,@aodag,Atsushi Odagiri,,,,,,,aodag.png,"Pyramidについて
 Pyramidの特徴
