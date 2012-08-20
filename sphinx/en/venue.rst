@@ -26,9 +26,8 @@ Access
 
 Party Venue
 ===========
-"PyCon JP Party" will be held in 
-`Hearton Hotel Higashi Shinagawa`_
-on Day 1(Sep. 15), at 19:00.
+
+"PyCon JP Party" will be held at the `Hearton Hotel Higashi Shinagawa`_ on Day 1 (Sep. 15), at 19:00.
 
 .. _`Hearton Hotel Higashi Shinagawa`: http://www.heartonhotel.com/hig/
 
@@ -44,10 +43,10 @@ Address
 
 5 minutes walk from the Conference Venue(`The Advanced Institute of Industrial Technology`_).
 
-Staying guide
+Hotel guide
 =============
 
-There is Expedia http://www.expedia.com/ or Google :)
+Please check Expedia http://www.expedia.com/ or Google :)
 
 Efficient keywords:
 
@@ -59,18 +58,21 @@ Efficient keywords:
 - Akihabara (bit far from PyConJP but you love it maybe)
 - Asakusa (famous for sight seeing. some guest houses are around there)
 
-Note that we actually don't have much information about foreigner staying.
-Any comments, suggestions are welcome.
+All hotels should accommodate foreigners. If you have trouble booking a hotel
+please contact `Ian Lewis <http://twitter.com/IanMLewis>`_ and we will help you
+as best we can.
 
 Shinagawa Seaside station
 -------------------------
-- `Hearton Hotel Higashi Shinagawa`_ 7,800 JPY(Party venue)
+
+- `Hearton Hotel Higashi Shinagawa`_ 7,800 JPY (Party Venue)
 - `Hotel Sunroute Shinagawa Seaside <http://www.sunroutehotel.jp/shinagawaseaside/hsss-eng/>`_ 9,860 JPY
 - `Super Hotel Shinagawa Aomonoyokocho <http://www.superhoteljapan.com/en/s-hotels/aomonoyokocho.html>`_ 6,980 JPY
 - `Toyoko Inn Tokyo Shinagawa Aomono-yokocho-eki <http://www.toyoko-inn.com/e_hotel/00049/index.html>`_ 6,480 JPY
 
-Osaki, Shinagawa station
+Osaki, Shinagawa Station
 ------------------------
+
 - `New Otani Inn Tokyo <http://www.newotani.co.jp/en/inntokyo/index.html?GRP>`_
   13,000 JPY
 - `Shinagawa Prince Hotel <http://www.princehotels.com/en/shinagawa/>`_
