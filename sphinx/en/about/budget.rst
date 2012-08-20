@@ -1,5 +1,5 @@
 ====================
-PyCon JP 2012 budget
+PyCon JP 2012 Budget
 ====================
 
 .. raw:: html
