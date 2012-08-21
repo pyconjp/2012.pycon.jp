@@ -35,6 +35,16 @@ Gold Sponsor
 - 10Gen/MongoDB
 - http://www.mongodb.org/
 
+10genは代表的なNoSQLデータベースであるMongoDBを提供する会社です。
+
+10genはMongoDBの開発、コミュニティの構築、そしてMongoDB商用サービス（ライセンス、サポート、コンサルティング等）を提供しています。
+
+MongoDBはオープンソースのドキュメント指向データベースで、数万の企業や人々に迅速かつ容易にアプリケーションを開発、スケール、そして運用することを可能にします。元DoubleClick社のDwight MerrimanとEliot Horowitzによって設立され、熟練した技術者が率いる10genはFlybridge Capital Partners、NEA、Sequoia CapitalとUnion Square Venturesに資金提供を受けています。
+
+10genのグローバルな顧客には02、Craigslist、Disney、eBay、Forbes、foursquare、Intuit、Shutterfly、Telefonica、英国政府のデジタルサービス部門等をはじめ、500社以上の顧客がいます。10genは、ダブリン、ロンドン、シドニーにオフィスを持ち、ニューヨーク、パロアルトの2社の本社制を採っています。
+
+詳細については、 http://www.10gen.com/ もしくは http://www.mongodb.org/ をご覧ください。
+
 .. |10gen| image:: /_static/sponsor/logo_10gen.png
    :target: http://www.mongodb.org/
    :alt: 10gen/MongoDB

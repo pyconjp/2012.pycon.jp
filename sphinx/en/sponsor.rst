@@ -31,6 +31,21 @@ Gold Sponsor
 - 10Gen/MongoDB
 - http://www.mongodb.org/
 
+10gen develops MongoDB, and offers production support, training, and consulting for the open source database.
+
+10gen was founded by former DoubleClick Founder and CTO Dwight Merriman 
+and former DoubleClick engineer and ShopWiki Founder and CTO Eliot 
+Horowitz. Dwight and Eliot began development on MongoDB in 2007, drawing
+upon their experiences building large scale, high availability, robust 
+systems.
+
+10gen is led by seasoned executives and technologists with senior 
+leadership experience at many of the worlds leading technology 
+companies, including two executives and four senior engineers with over 
+50 years combined experience at Oracle. 10gen is backed by leading 
+venture capital firms who invested in established leaders like Oracle, 
+Cisco and Apple as well as rapidly growing internet companies like Zynga and Twitter.
+
 .. |10gen| image:: /_static/sponsor/logo_10gen.png
    :target: http://www.mongodb.org/
    :alt: 10gen/MongoDB
