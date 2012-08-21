@@ -48,7 +48,7 @@ Staff
      - `@kiyotaman <http://twitter.com/kiyotaman>`_
      - 
    * - Secretariat
-     - Kenji Matsuzaki
+     - Keiji Matsuzaki
      - `@xga <http://twitter.com/xga>`_
      - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
    * - Liaison

@@ -48,7 +48,7 @@
      - `@kiyotaman <http://twitter.com/kiyotaman>`_
      - 
    * - 事務局
-     - 松崎 けんじ
+     - 松崎 啓治
      - `@xga <http://twitter.com/xga>`_
      - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
    * -
