@@ -19,6 +19,7 @@ Overview
 ========
 .. list-table::
    :widths: 30 70
+   :stub-columns: 1
 
    * - Conference Day
      - 2012 September 15(Sat)-16(Sun)

@@ -20,6 +20,7 @@ PyCon JP 2012 では「 **つながるPython** 」をスローガンに、前回
 
 .. list-table::
    :widths: 30 70
+   :stub-columns: 1
 
    * - カンファレンス
      - 2012-09-15(土)-16(日)
