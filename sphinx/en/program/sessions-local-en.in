@@ -27,21 +27,26 @@ http://yosida95.com/
 
 .. _session-15-1100-Room230-en:
 
-Education Python programming
-============================
-複数の学生を対象にPythonプログラミング教育を行った経験から、プログラミングからシステム開発のスキルを学ぶときに気をつけるべき事項を示す。プログラミングの効率を改善するための開発環境等に関しても言及する。
+Study of Education Python programming
+=====================================
+プログラミング未経験者を対象にPythonプログラミング教育を行った経験からプログラミングからシステム開発のスキルを学ぶときに気をつけるべき事項について示す。また、プログラミングの効率を改善するための開発環境等に関しても言及する。
 
-:Audience: beginning programmer / intermediate programmer
+:Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
 :Room: Room 230
 :Topic: Education Best Practices
 
-Hiroshi Koyama
---------------
+Yosuke Tsuchiya
+---------------
 
 
-産業技術大学院大学 教授
+
+.. figure:: /_static/speaker/tsuchiya.jpg
+   :alt: Yosuke Tsuchiya
+
+
+産業技術大学院大学 助教
 
 
 .. _session-15-1330-Room433-en:
