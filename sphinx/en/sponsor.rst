@@ -90,6 +90,15 @@ Our public cloud platform "Windows Azure" supports open platform in many ways. W
    :target: http://www.s-cubism.jp/
    :alt: S-cubism
 
+|klab|
+======
+- KLab
+- http://www.klab.jp/recruit/
+
+.. |klab| image:: /_static/sponsor/logo_klab.png
+   :target: http://www.klab.jp/recruit/
+   :alt: KLab
+
 Silver Sponsor
 ==============
 

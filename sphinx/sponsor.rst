@@ -97,6 +97,15 @@ gumiはソーシャルゲーム業界において、高い技術力と強固な�
    :target: http://www.s-cubism.jp/
    :alt: エスキュービズム
 
+|klab|
+======
+- KLab
+- http://www.klab.jp/recruit/
+
+.. |klab| image:: /_static/sponsor/logo_klab.png
+   :target: http://www.klab.jp/recruit/
+   :alt: KLab
+
 Silver Sponsor
 ==============
 
