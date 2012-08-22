@@ -32,7 +32,7 @@ Gold Sponsor
 
 |10gen|
 =======
-- 10Gen/MongoDB
+- 10gen/MongoDB
 - http://www.mongodb.org/
 
 10genは代表的なNoSQLデータベースであるMongoDBを提供する会社です。

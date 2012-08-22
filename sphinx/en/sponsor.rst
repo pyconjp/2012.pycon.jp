@@ -28,7 +28,7 @@ Gold Sponsor
 
 |10gen|
 =======
-- 10Gen/MongoDB
+- 10gen/MongoDB
 - http://www.mongodb.org/
 
 10gen develops MongoDB, and offers production support, training, and consulting for the open source database.
