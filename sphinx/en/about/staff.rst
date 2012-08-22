@@ -82,7 +82,7 @@ Staff
      - `@RicoImazu <https://twitter.com/RicoImazu>`_
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
    * - Other
-     - Kohe Yoshida
+     - Kohei Yoshida
      - `@yosida95 <https://twitter.com/yosida95>`_
      - `yosida95 <http://www.facebook.com/yosida95>`_
    * -
