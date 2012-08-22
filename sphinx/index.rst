@@ -38,7 +38,7 @@ PyCon JP 2012 に8月中に申し込みを済ませた方に PyCon JP T シャ�
 8月中に申し込まれていない方は希望のサイズが用意できないかもしれません。
 T シャツを確実に受け取りたい方は8月中の申し込みをお願いします。
 
-詳細は `PyCon JP ブログ <http://pyconjp.blogspot.jp/>`_ へ
+詳細は `PyCon JP ブログ <http://pyconjp.blogspot.jp/2012/08/announce-of-novelty-tsharts.html>`_ へ
 
 
 
