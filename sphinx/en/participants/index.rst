@@ -119,16 +119,9 @@ Caution about Photos
   * Some photos may be used and published in a conference report via online news media.
 
 .. * 参加者による会場内の撮影は、原則としてOKです（講演者、LT、会場内等）。
-.. 
-..   * 講演者・LT参加者の写真は、特に案内のない限り、blog等掲載の承諾をいただく予定です。
-..   * 当日の案内も含め、撮影を希望されない講演者に対する写真撮影・公開はご遠慮下さい。
 
 * Attendees may take photos during the conference (speakers, LT, venue, etc.)
 
-  * Unless there were other arrangements made, we plan to obtain permission to publish
-    photos of speakers on our blog and other media.
-  * Some speakers way wish to not have their photo taken. Please follow instructions
-    during the event and respect the speaker's privacy.
 
 .. 会場の詳細について
 .. ==================
@@ -136,10 +129,10 @@ Caution about Photos
 Venue
 ==================
 
-.. 見取り図
-.. --------
+.. 会場内地図
+.. ------------
 
-Venue Map
+Floor Map
 ----------
 
 .. まだない
