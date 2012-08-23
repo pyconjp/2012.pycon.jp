@@ -19,15 +19,26 @@ In order to check in to PyCon JP you will need to bring with you one of the foll
 - Your `connpass <http://connpass.com/event/708/>`_ ticket (print out, or smartphone is OK)
 - For those who registered via bank deposit, please bring the bank deposit receipt.
 
-Venue
-=======
-
-.. 開催場所である `産業技術大学院大学 <http://aiit.jp/>`_ までの交通に関しては :doc:`/venue` をご覧ください。
-
-For information on how to access the venue (`The Advanced Institute of Industrial Technology`_) please see
-the :doc:`/en/venue` page.
+Conference Venue
+================
+`The Advanced Institute of Industrial Technology`_
 
 .. _`The Advanced Institute of Industrial Technology`: http://aiit.ac.jp/english
+
+.. raw:: html
+
+   <iframe width="530" height="530" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=advanced+institute+of+industrial+technology&amp;aq=&amp;sll=35.603544,139.756522&amp;sspn=0.035521,0.065961&amp;ie=UTF8&amp;t=m&amp;st=115664277548083516147&amp;rq=1&amp;ev=zi&amp;split=1&amp;hq=advanced+institute+of+industrial+technology&amp;hnear=&amp;ll=35.616489,139.749956&amp;spn=0.033492,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;q=advanced+institute+of+industrial+technology&amp;aq=&amp;sll=35.603544,139.756522&amp;sspn=0.035521,0.065961&amp;ie=UTF8&amp;t=m&amp;st=115664277548083516147&amp;rq=1&amp;ev=zi&amp;split=1&amp;hq=advanced+institute+of+industrial+technology&amp;hnear=&amp;ll=35.616489,139.749956&amp;spn=0.033492,0.054932&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>
+
+Address
+-------
+1-10-40 Higashi-Ooi, Shinagawa-ku, Tokyo
+
+Access
+------
+- 3 minutes walk: Shinagawa Seaside Station(Rinkai Line)
+- 9 minutes walk: Samezu Station(Keihin Kyuko Line)
+- 10 minutes walk: Aomono Yokocho Station(Keihin Kyuko Line)
+- 18 minutes walk: Oimachi Station(JR Keihin Tohoku/Negishi Line)
 
 
 
