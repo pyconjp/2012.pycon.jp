@@ -211,7 +211,12 @@ Other
 Program/Timetable
 ==========================
 
-Please see the :doc:`/en/program/index`
+.. :doc:`/program/index` をご覧ください。
+.. 当日、プログラム冊子を配布いたします。
+
+Please see the :doc:`/en/program/index`.
+
+Program booklet will be distributed on the day.
 
 
 .. guidebookapp について
