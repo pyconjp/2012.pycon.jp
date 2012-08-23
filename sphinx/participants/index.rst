@@ -138,6 +138,12 @@ Guidebook App でPyCon JP 2012 のプログラムなどを閲覧できます。
 
 無料のGuidebookアプリをiOS/Android/Windows Phone/Blackberryにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
 
+.. figure:: /_static/guidebookapp-screenshot-small.png
+   :target: /_static/guidebookapp-screenshot.png
+
+   Guidebook App スクリーンショット
+
+
 * 会場までの地図や会場内の地図をいつでも閲覧
 * 発表の一覧を素早く閲覧、発表詳細からトラック別表示可能
 * 見たい発表をマークして自分だけのタイムテーブルを作成

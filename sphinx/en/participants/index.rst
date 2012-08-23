@@ -237,6 +237,12 @@ You can view the PyCon JP 2012 program and other info in the conference Guideboo
 
 You can install the Guidebook app and download the PyCon JP guide for free.
 
+.. figure:: /_static/guidebookapp-screenshot-small.png
+   :target: /_static/guidebookapp-screenshot.png
+
+   Guidebook App screenshot
+
+
 .. * 会場までの地図や会場内の地図をいつでも閲覧
 .. * 発表の一覧を素早く閲覧、発表詳細からトラック別表示可能
 .. * 見たい発表をマークして自分だけのタイムテーブルを作成
