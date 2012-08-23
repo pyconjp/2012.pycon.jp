@@ -10,8 +10,14 @@
 
 当日参加者の方は、受付で参加者であることを確認するために以下のいずれかが必要となります。
 
-- `connpass <http://connpass.com/event/708/>`_ の受付票(印刷していなくても結構です)
-- 銀行振り込みの場合は氏名が確認できるものが必要です
+- `connpass <http://connpass.com/event/708/>`_ の受付票 (印刷または端末画面をご呈示下さい)
+- 銀行振り込みの場合は受付番号と、氏名が確認できるものが必要です
+
+.. figure:: /_static/reception-image-sample.png
+
+  受付票サンプル
+
+  connpassで参加済みの方は http://connpass.com/event/708/ticket/ で受付票を表示されます。
 
 
 カンファレンス会場

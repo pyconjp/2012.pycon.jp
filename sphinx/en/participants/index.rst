@@ -9,15 +9,27 @@
 For Participants
 ==================
 
+.. 当日の受付
+.. ===========
+
+Reception of the day
+=====================
+
 .. 当日参加者の方は、受付で参加者であることを確認するために以下のいずれかが必要となります。
 
 In order to check in to PyCon JP you will need to bring with you one of the following:
 
-.. - `connpass <http://connpass.com/event/708/>`_ の受付票(印刷していなくても結構です)
-.. - 銀行振り込みの場合は氏名が確認できるものが必要です
+.. - `connpass <http://connpass.com/event/708/>`_ の `受付票 <http://connpass.com/event/708/ticket/>`_ (印刷または端末画面をご呈示下さい)
+.. - 銀行振り込みの場合は受付番号と、氏名が確認できるものが必要です
 
 - Your `connpass <http://connpass.com/event/708/>`_ ticket (print out, or smartphone is OK)
-- For those who registered via bank deposit, please bring the bank deposit receipt.
+- For those who registered via bank deposit, please bring the reception number and the bank deposit receipt.
+
+.. figure:: /_static/reception-image-sample.png
+
+  Reception sheet sample.
+
+  If you registered at connpass, display it at http://connpass.com/event/708/ticket/
 
 Conference Venue
 ================
@@ -216,7 +228,7 @@ You can view the PyCon JP 2012 program and other info in the conference Guideboo
 
    <iframe src="http://gears.guidebook.com/static/assets/badge.html?guide_name=PyCon JP 2012&gid=2741&shortname=pyconjp2012" frameborder="0" width="350" height="150" style="width:350px;height:150px;overflow:hidden;" scrolling="no"></iframe>
 
-.. 無料のGuidebookアプリをiOS/Androidにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
+.. 無料のGuidebookアプリをiOS/Android/Windows Phone/Blackberryにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
 
 You can install the Guidebook app and download the PyCon JP guide for free.
 
