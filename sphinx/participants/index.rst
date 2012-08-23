@@ -128,14 +128,13 @@ Guidebook App でPyCon JP 2012 のプログラムなどを閲覧できます。
 
    <iframe src="http://gears.guidebook.com/static/assets/badge.html?guide_name=PyCon JP 2012&gid=2741&shortname=pyconjp2012" frameborder="0" width="350" height="150" style="width:350px;height:150px;overflow:hidden;" scrolling="no"></iframe>
 
-無料のGuidebookアプリをiOS/Androidにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
+無料のGuidebookアプリをiOS/Android/Windows Phone/Blackberryにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
 
 * 会場までの地図や会場内の地図をいつでも閲覧
-* 発表の一覧をトラック別、部屋別に素早く閲覧
+* 発表の一覧を素早く閲覧、発表詳細からトラック別表示可能
 * 見たい発表をマークして自分だけのタイムテーブルを作成
 * ToDo機能で当日やりたいことをメモしておこう
-* 発表をイイネしてリアルタイムに他の人と共有
-* Twitterの #pyconjp を見たりツイート
+* 発表をイイネしてリアルタイムに他の人と評価を共有
 
 アプリのダウンロードは上記上記のguidebookバナーか、以下のQRコードからお願いします。
 

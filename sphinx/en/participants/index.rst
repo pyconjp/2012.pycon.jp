@@ -221,18 +221,16 @@ You can view the PyCon JP 2012 program and other info in the conference Guideboo
 You can install the Guidebook app and download the PyCon JP guide for free.
 
 .. * 会場までの地図や会場内の地図をいつでも閲覧
-.. * 発表の一覧をトラック別、部屋別に素早く閲覧
+.. * 発表の一覧を素早く閲覧、発表詳細からトラック別表示可能
 .. * 見たい発表をマークして自分だけのタイムテーブルを作成
 .. * ToDo機能で当日やりたいことをメモしておこう
-.. * 発表をイイネしてリアルタイムに他の人と共有
-.. * Twitterの #pyconjp を見たりツイート
+.. * 発表をイイネしてリアルタイムに他の人と評価を共有
 
 * You can view the directions the venue and venue map.
-* You can view the conference program by track or room.
+* You can view the conference program, program detail, and you can view program by track or room from program detail.
 * You can bookmark talks you would like to attend and create your own conference schedule.
 * You can create a TODO list of items you would like to do while you are at the conference.
 * You can like various talks and share in realtime.
-* You can view the conference Twitter timeline and share info via Twitter in realtime.
 
 .. アプリのダウンロードは上記上記のguidebookバナーか、以下のQRコードからお願いします。
 
