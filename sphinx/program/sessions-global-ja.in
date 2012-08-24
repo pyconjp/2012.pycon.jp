@@ -75,38 +75,13 @@ Mathias Stearn is a Software Engineer at 10gen, the MongoDB company. He works on
 
 .. _session-15-1430-Room351a-ja:
 
-Gunicorn what's next? The new web challenge
-===========================================
-Gunicorn was designed in view of easing the deployment of your python web application on the web hand have some success to do it. With the new challenges of the web (SPDY, Websockets, Green computing...), it's time to improve its design. This talk will cover the current design of Gunicorn, what need to be fixed and the new features that will be introduced in the future major release.
-
-:対象: 初心者 / 中級者
-:言語: 英語
-:日時: Sep 15 14:30-15:15
-:場所: Room 351a
-:トピック: ライブラリや拡張 / ネットワークプログラム / Webシステム
-
-Benoit Chesneau
----------------
-
-
-http://gunicorn.org
-
-Benoît Chesneau is a French web craftsman, living near Paris. He has
-years of experience in building small and big-scale database backend
-website. He founded Enki Multimedia a company building innovative web
-services and open-source applications. Benoît Chesneau is an Apache
-CouchDB committer and Gunicorn author.
-
-
-.. _session-15-1530-Room351a-ja:
-
 Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program
 ===========================================================================
 Clime provides an intuitive approach to convert your module contains functions into a multi-command CLI program. This talk will introduce the Clime and take a deeper look into the inner of Clime.
 
 :対象: 初心者 / 中級者
 :言語: 英語
-:日時: Sep 15 15:30-16:15
+:日時: Sep 15 14:30-15:15
 :場所: Room 351a
 :トピック: ライブラリや拡張
 
@@ -140,6 +115,31 @@ Organization:
 * Python Lecturer of OSSF Workshop: http://http://www.openfoundry.org/
 * Program Team of COSCUP 2012: http://coscup.org/
 * Act Team of Ubuntu-TW: http://ubuntu-tw.org/
+
+
+.. _session-15-1530-Room351a-ja:
+
+Gunicorn what's next? The new web challenge
+===========================================
+Gunicorn was designed in view of easing the deployment of your python web application on the web hand have some success to do it. With the new challenges of the web (SPDY, Websockets, Green computing...), it's time to improve its design. This talk will cover the current design of Gunicorn, what need to be fixed and the new features that will be introduced in the future major release.
+
+:対象: 初心者 / 中級者
+:言語: 英語
+:日時: Sep 15 15:30-16:15
+:場所: Room 351a
+:トピック: ライブラリや拡張 / ネットワークプログラム / Webシステム
+
+Benoit Chesneau
+---------------
+
+
+http://gunicorn.org
+
+Benoît Chesneau is a French web craftsman, living near Paris. He has
+years of experience in building small and big-scale database backend
+website. He founded Enki Multimedia a company building innovative web
+services and open-source applications. Benoît Chesneau is an Apache
+CouchDB committer and Gunicorn author.
 
 
 .. _session-15-1630-Room351a-ja:
@@ -243,7 +243,9 @@ Toru Furukawa
 
 Toru Furukawa (@torufurukawa) is a technical architect at Bascule Inc.
 
-He started his software developer career when he was 35.  After few yeas of experience, his current interest is to improve productivity and predictability of development, include continuous delivery.
+He started his software developer career when he was 35. After few yeas of experience, his current interest is to improve productivity and predictability of development, including continuous delivery.
+
+
 
 
 .. _session-16-1645-Room351a-ja:

@@ -77,28 +77,37 @@ IT業界に勤務。オープンソースの3DCGソフトとPythonが好き。BL
 
 .. _session-15-1330-Room230-en:
 
-The Python Development Environment
-==================================
-Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する
+How Pythonistas Work
+====================
+今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
+しかし、真のPythonistaは使う場面を特に意識しない。
+例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
+例え、クライアント向け業務用ソフトを開発していようとも、Pythonを使う機会を見つける事も出来る。
+例え、社内がPHPやRubyの開発だとしても、Pythonを隠れて使う事も出来る。
+Pythonは残業を減らす唯一の方法です（嘘）
+
+そんなPythonistaの素晴らしい働きっぷり(※主に自分とプラス妄想）を紹介したいと思います。
+
+
 
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
 :Room: Room 230
-:Topic: Python 3k / Python libraries and extensions / Documentation / Packaging Issues / Programming Tools
+:Topic: Programming Tools / Project Best Practices / Education Best Practices / Embedding and Extending
 
-Yoshfumi Yamaguchi
-------------------
-
-
-
-.. figure:: /_static/speaker/ymotongpoo.png
-   :alt: Yoshfumi Yamaguchi
+Yuta Kitagami
+-------------
 
 
-http://d.hatena.ne.jp/ymotongpoo/
 
-sphinx-users.jp平メンバー
+.. figure:: /_static/speaker/nonnoise.png
+   :alt: Yuta Kitagami
+
+
+http://www.kitagami.org
+
+高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。
 
 
 .. _session-15-1430-Room433-en:
@@ -453,6 +462,60 @@ http://kawanoshinobu.com
 
 .. _session-16-1100-Room357-en:
 
+The Python Development Environment
+==================================
+Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、およびそれらの構成などを、コード編集、Pythonの管理、ワークスペースの管理、パッケージの管理、テストの管理、継続ビルド・テスト、ドキュメントの各観点から紹介する。
+
+:Audience: intermediate programmer
+:Language: Japanese
+:Time: Sep 16 11:00-11:45
+:Room: Room 357
+:Topic: Python 3k / Python libraries and extensions / Documentation / Packaging Issues / Programming Tools
+
+Yoshifumi Yamaguchi
+-------------------
+
+
+
+.. figure:: /_static/speaker/ymotongpoo.png
+   :alt: Yoshifumi Yamaguchi
+
+
+http://d.hatena.ne.jp/ymotongpoo/
+
+sphinx-users.jp平メンバー
+
+
+.. _session-16-1515-Room433-en:
+
+Web Programming with Python 3
+=============================
+Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。
+
+:Audience: intermediate programmer
+:Language: Japanese
+:Time: Sep 16 15:15-16:00
+:Room: Room 433
+:Topic: Python 3k
+
+Atsushi Odagiri
+---------------
+
+
+
+.. figure:: /_static/speaker/aodag.png
+   :alt: Atsushi Odagiri
+
+
+http://aodag.posterous.com
+
+BeProud所属
+Pylonsproject.jp 代表
+2011 Pythonアドベントカレンダー(Python3) まとめ役
+
+
+.. _session-16-1515-Room357-en:
+
 gevent
 ======
 gevent はコルーチンベースのネットワークプログラミングライブラリです。
@@ -464,7 +527,7 @@ gevent はコルーチンベースのネットワークプログラミングラ�
 
 :Audience: intermediate programmer
 :Language: Japanese
-:Time: Sep 16 11:00-11:45
+:Time: Sep 16 15:15-16:00
 :Room: Room 357
 :Topic: Python libraries and extensions / Network Programming
 
@@ -482,69 +545,6 @@ http://github.com/methane
 KLab株式会社 Kラボラトリー
 MessagePack-Python
 
-
-
-.. _session-16-1515-Room433-en:
-
-How Pythonistas Work
-====================
-今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
-しかし、真のPythonistaは使う場面を特に意識しない。
-例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
-例え、クライアント向け業務用ソフトを開発していようとも、Pythonを使う機会を見つける事も出来る。
-例え、社内がPHPやRubyの開発だとしても、Pythonを隠れて使う事も出来る。
-Pythonは残業を減らす唯一の方法です（嘘）
-
-そんなPythonistaの素晴らしい働きっぷり(※主に自分とプラス妄想）を紹介したいと思います。
-
-
-
-:Audience: intermediate programmer
-:Language: Japanese
-:Time: Sep 16 15:15-16:00
-:Room: Room 433
-:Topic: Programming Tools / Project Best Practices / Education Best Practices / Embedding and Extending
-
-Yuta Kitagami
--------------
-
-
-
-.. figure:: /_static/speaker/nonnoise.png
-   :alt: Yuta Kitagami
-
-
-http://www.kitagami.org
-
-高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。
-
-
-.. _session-16-1515-Room357-en:
-
-Web Programming with Python 3
-=============================
-Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。
-
-:Audience: intermediate programmer
-:Language: Japanese
-:Time: Sep 16 15:15-16:00
-:Room: Room 357
-:Topic: Python 3k
-
-Atsushi Odagiri
----------------
-
-
-
-.. figure:: /_static/speaker/aodag.png
-   :alt: Atsushi Odagiri
-
-
-http://aodag.posterous.com
-
-BeProud所属
-Pylonsproject.jp 代表
-2011 Pythonアドベントカレンダー(Python3) まとめ役
 
 
 .. _session-16-1645-Room433-en:

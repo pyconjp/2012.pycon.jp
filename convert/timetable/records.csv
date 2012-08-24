@@ -26,7 +26,7 @@ existing solutions leads to stellar code and happiness.",,,,,,,
 
   * クラスベース汎用ビュー
   * app template (django-skel)",,Django,,,日本語 / Japanese,,
-ナウでヤングな17歳によるおうちVPS構築記,How a 17 year old built a home VPS,,,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 433,Japanese; Room 433,ナウなヤング,yosida95,Kohei Yoshida,昂平,吉田,kohei@yosida95.com,http://yosida95.com/,高校2年生。小学6年生の時に同級生からウェブサイト制作を依頼されたことをきっかけにプログラミングの世界に足を踏み入れる。Python歴は中学3年生の時に初めて書いて以来3年目になる。PyConJP 2012スタッフを務める。,http://yosida95.com/static/icon/portrait.png,yosida95.png,Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。,"-おまえだれよ(含: 過去に製作したプロダクト紹介)
+ナウでヤングな17歳のVPS構築記,How a 17 year old built a home VPS,,,日本語,9/15,9/15/2012 11:00:00,9/15/2012 11:45:00,Room 433,Japanese; Room 433,ナウなヤング,yosida95,Kohei Yoshida,昂平,吉田,kohei@yosida95.com,http://yosida95.com/,高校2年生。小学6年生の時に同級生からウェブサイト制作を依頼されたことをきっかけにプログラミングの世界に足を踏み入れる。Python歴は中学3年生の時に初めて書いて以来3年目になる。PyConJP 2012スタッフを務める。,http://yosida95.com/static/icon/portrait.png,yosida95.png,Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。,"-おまえだれよ(含: 過去に製作したプロダクト紹介)
 -コントロールパネル製作を思い立ったきっかけ
 -構成の話(ホストOS, KVM, ストレージ, WAF, etc...)
 -先にコントロールパネルだけを製作した話
@@ -113,8 +113,23 @@ Pythonは本当にBlenderの役に立っているか?,Is Python really all that 
 Pythonプログラミングハンズオン(初心者向け),Hands on: Beginner Python Programming,,,ハンズオン,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 358,Hands on; Room 358,,@tokibito,Shinya Okano,,,,,,,,,,,,,,,
 Full Text Search の概要と使い方,An Overview of Full Text Seach,,,併設; App Engine,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 357,App Engine; Room 357,,Tetsuya Mukai,Tetsuya Mukai,,,,,,,,試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
 MongoDB with Python,MongoDB with Python,,,英語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 351a,English; Room 351a,Goldスポンサー,@mathias_mongo,Mathias Stearn,Mathias,Stearn,mathias@10gen.com,,"Mathias Stearn is a Software Engineer at 10gen, the MongoDB company. He works on the core MongoDB server and maintains the C++ language driver. Previously, he worked at FactSet where he used MongoDB in a log analysis application. He has a degree in Computer Science from the University of Maryland.",http://www.google.com/url?source=imglanding&ct=img&q=http://2011.berlinbuzzwords.de/sites/2011.berlinbuzzwords.de/files/photos/mathias_small.jpg?1301900453&sa=X&ei=PQvuT4acEe-F0QGHnsTyDQ&ved=0CAkQ8wc4GA&usg=AFQjCNFp92R2hne525iiRjCzj0tu6YSoTQ,mathias.jpg,"Learn about working with leading NoSQL database MongoDB. This talk will cover the basics of pymongo, the MongoDB Python driver and using specialized MongoDB features like aggregation and geospatial indexing. ","MongoDB -- from ""humongous"" -- is an open source, NoSQL, document-oriented database. Trading off a few traditional features of databases (notably joins and transactions) in order to achieve much better performance, MongoDB is fast, scalable, and designed for web development. The goal of the MongoDB project is to bridge the gap between key-value stores (which are fast and highly scalable) and traditional RDBMS systems (which provide rich queries and deep functionality). In this talk, we'll provide a brief introduction to working with MongoDB and Python. This talk will cover the basics from installing the pymongo Python driver for MongoDB (includes python 3 support) and connecting to mongod to creating, inserting, querying for, and updating documents. We will also touch on aggregation, geospatial indexes, GridFS and running database commands.","Python 3k, データベース / Databases",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer, 上級者 / advanced programmer",英語 / English,可 / Video recording OK,
-Pythonを取り巻く開発環境,The Python Development Environment,,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 230,Japanese; Room 230,開発環境,ymotongpoo,Yoshfumi Yamaguchi,Yoshifumi,Yamaguchi,ymotongpoo@gmail.com,http://d.hatena.ne.jp/ymotongpoo/,sphinx-users.jp平メンバー,https://lh5.googleusercontent.com/-SKIq_gOROJc/Tj3pcSZfHqI/AAAAAAAABB0/iyTGBBUoIDU/s400/beeploud%233_400x400.png,ymotongpoo.png,Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、それらの構成などを紹介する,今日のソフトウェア開発においては、テスト、ドキュメント、規約のチェック等、数多くのステップが求められています。本講演ではPythonによるソフトウェア開発においてツール／環境を用いてこれらの作業を実現する手法を取り上げたいと考えています。特に講演者自身のみの経験ではなく、識者へのインタビューに基づいた調査結果を共有するような内容にしたいと考えています。,"Python 3k, ライブラリや拡張 / Python libraries and extensions, ドキュメント / Documentation, パッケージング / Packaging Issues, ツール / Programming Tools",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,"基本的には次のエントリの内容を発展させたものにしたいと考えています。
-http://d.hatena.ne.jp/ymotongpoo/20120516/1337123564"
+Pythonistaの働き方,How Pythonistas Work,,,日本語,9/15,9/15/2012 13:30:00,9/15/2012 14:15:00,Room 230,Japanese; Room 433,pythonista,北神Noise,Yuta Kitagami,北神,雄太,hokusin02@gmail.com,http://www.kitagami.org,高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。,https://si0.twimg.com/profile_images/1646321977/____________.png,nonnoise.png,"今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
+しかし、真のPythonistaは使う場面を特に意識しない。
+例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
+例え、クライアント向け業務用ソフトを開発していようとも、Pythonを使う機会を見つける事も出来る。
+例え、社内がPHPやRubyの開発だとしても、Pythonを隠れて使う事も出来る。
+Pythonは残業を減らす唯一の方法です（嘘）
+
+そんなPythonistaの素晴らしい働きっぷり(※主に自分とプラス妄想）を紹介したいと思います。
+
+","・一般的な現場でのPythonの使い方
+・Pythonの求人が少ない実情
+・Pythonの開発では無い現場でPythonを使う方法
+・Pythonでサクッと作った便利な物
+・Pythonで残業を減らす方法
+・Pythonをもっと気取らず楽しく扱う方法
+
+・その他、今後の自分の活動についてなど","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, 教育事例 / Education Best Practices, 組み込み / Embedding and Extending",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,よろしくお願いいたします。
 休憩,Break,休憩,Break,,9/15,9/15/2012 14:15:00,9/15/2012 14:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,
 Djangoを活用したM2Mクラウドプラットフォーム,M2M Cloud Platform using Django,,,併設; Django & Pylons,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 452,Django & Pylons; Room 452,,松村竜之介 （株式会社コア）,Ryunosuke Matsumura,,,,,,,,Djangoを利用したM2Mサーバの実例について紹介,,Django,,,日本語 / Japanese,,
 Beginning Python,Beginning Python,,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 433,Japanese; Room 433,内輪ネタが多すぎる。内輪ネタ部分を削除して、学習した書籍の話を掘り下げられるなら初学者発表として再検討してもよい。寺田コメント待ち -> 採用(7/x) -> outline変更(8/10),佐藤 健,Ken Sato,Ken,Sato,ken.sato.2501@gmail.com,,"産業技術大学院大学 産業技術研究科 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。
@@ -192,19 +207,40 @@ Pythonに限らずプログラミングの初学者は「Hello Worldは表示で
 
 ・近くの席に座った人同士で教え合って、楽しくプログラミングしましょう。",,,,,,,
 Python NDB APIの紹介,Introduction to the Python NDV API,,,併設; App Engine,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 357,App Engine; Room 357,,najeira,Tetsuhiro Ueda,,,,https://plus.google.com/u/0/116967938787828299147/about,,,,AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について,,Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
-Gunicorn what's next? The new web challenge,Gunicorn what's next? The new web challenge,,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,Benoit Chesneau,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
-years of experience in building small and big-scale database backend
-website. He founded Enki Multimedia a company building innovative web
-services and open-source applications. Benoît Chesneau is an Apache
-CouchDB committer and Gunicorn author.",,,"Gunicorn was designed in view of easing the deployment of your python web application on the web hand have some success to do it. With the new challenges of the web (SPDY, Websockets, Green computing...), it's time to improve its design. This talk will cover the current design of Gunicorn, what need to be fixed and the new features that will be introduced in the future major release.","This talk will cover the following topics:
+"Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program","Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program",,,英語,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 351a,English; Room 351a,台湾,Mosky,Mosky Liu,Mosky,Liu,mosky.tw@gmail.com,http://www.facebook.com/mosky.liu/,"I have joined the open source communities in Taiwan and written Python about 4 years. I interest in the Python web topics and has made some websites use Python. And I had written system tools in Python, too.
 
-- Design choices in Gunicorn
-- Challenges in deploying a python web application (code reload, concurrency...). What possible soluton
-- Improvements in the gunicorn design to solve current issues
-- How we will handle new WEB protocols
-- Improvments in the arbiter to use more of the machine capacities
+Active Projects:
 
-It will end by a demo of the new gunicorn that will be commited sometimes in july.","ライブラリや拡張 / Python libraries and extensions, ネットワークプログラム / Network Programming, Webシステム / Web-based Systems",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
+* Clime: http://github.com/moskied/clime
+
+Old Projects:
+
+* Enjoy Bus: A website which uses Flask provides the real-time bus info in Taipei and New Taipei city.
+* Apt-pool
+* Apt-add: They are the wrappers of APT. They make the APT is more easier to use.
+
+Organization:
+
+* Speaker of Python Conference 2012 Taiwan: http://tw.pycon.org/2012/
+* Intern of Pinkoi(http://www.pinkoi.com/): Pinkoi which uses pure Python is an e-commerce platform for the designers.
+* Python Lecturer of OSSF Workshop: http://http://www.openfoundry.org/
+* Program Team of COSCUP 2012: http://coscup.org/
+* Act Team of Ubuntu-TW: http://ubuntu-tw.org/",http://a5.sphotos.ak.fbcdn.net/hphotos-ak-snc7/s720x720/600225_3310481882682_1837574534_n.jpg,mosky.jpg,Clime provides an intuitive approach to convert your module contains functions into a multi-command CLI program. This talk will introduce the Clime and take a deeper look into the inner of Clime.,"Roughly, I will split this talk into three parts: 1. Introduction 2. Take a Deeper Look and 3. Demo.
+
+* Introduction
+I will introduce the reasons I started to write Clime and explain the different between Clime and the traditional ways to write a CLI program (with optparse or argparse). And show the basic usages and list the ways to install Clime.
+
+* Take a Deeper Look
+I will talk about the inner details of Clime.
+
+Something like the procedures after you import Clime, the components of Clime, how to custom the CLI program that Clime created, and the advanced features that Clime provides
+
+* Demo
+I will prepare demos for the features I referred in this talk.
+
+Actually, Clime has a full documentation at http://docs.mosky.tw/clime/. This talk will cover the all of things in this documentation.",ライブラリや拡張 / Python libraries and extensions,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,"I just want to share the project I recently made. It is not very important to Python or audiences. You can shorten my talk to 25 mins if you received too many big talks. :P
+
+The preparation of a conference is really hard. Thanks for your effort."
 分散バージョン管理システムの組織化,Systemizing Use of a Distributed Version Control System,,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 230,Japanese; Room 230,元併設イベント,troter,Takumi Iino,卓見,飯野,trot.thunder@gmail.com,,"株式会社タイムインターメディア所属
 ",https://secure.gravatar.com/avatar/6da366428575cc9527bd98dfc387cfe0,troter.jpg,分散バージョン管理システム(主にMercurial)をより良く使いこなすために、より効果的な構成管理を行うために必要なブランチ戦略とリポジトリの組織化の方法について、実例を交えて紹介します。,"- 分散バージョン管理とは
 - ブランチ戦略とブランチ戦術の違い
@@ -270,45 +306,24 @@ unittest嫌いがunittestをtesting,Testing with unittest,,,日本語,9/15,9/15/
 ・ najeira
 ・ Shinichi Ogawa
 ・ Kenji ISHII",Google App Engine,ふつう / Standard(45 min),,日本語 / Japanese,,
-"Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program","Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program",,,英語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 351a,English; Room 351a,台湾,Mosky,Mosky Liu,Mosky,Liu,mosky.tw@gmail.com,http://www.facebook.com/mosky.liu/,"I have joined the open source communities in Taiwan and written Python about 4 years. I interest in the Python web topics and has made some websites use Python. And I had written system tools in Python, too.
+Gunicorn what's next? The new web challenge,Gunicorn what's next? The new web challenge,,,英語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 351a,English; Room 351a,Gunicornの人,benoitc,Benoit Chesneau,Benoit,Chesneau,benoitc@gunicorn.org,http://gunicorn.org,"Benoît Chesneau is a French web craftsman, living near Paris. He has
+years of experience in building small and big-scale database backend
+website. He founded Enki Multimedia a company building innovative web
+services and open-source applications. Benoît Chesneau is an Apache
+CouchDB committer and Gunicorn author.",,,"Gunicorn was designed in view of easing the deployment of your python web application on the web hand have some success to do it. With the new challenges of the web (SPDY, Websockets, Green computing...), it's time to improve its design. This talk will cover the current design of Gunicorn, what need to be fixed and the new features that will be introduced in the future major release.","This talk will cover the following topics:
 
-Active Projects:
+- Design choices in Gunicorn
+- Challenges in deploying a python web application (code reload, concurrency...). What possible soluton
+- Improvements in the gunicorn design to solve current issues
+- How we will handle new WEB protocols
+- Improvments in the arbiter to use more of the machine capacities
 
-* Clime: http://github.com/moskied/clime
-
-Old Projects:
-
-* Enjoy Bus: A website which uses Flask provides the real-time bus info in Taipei and New Taipei city.
-* Apt-pool
-* Apt-add: They are the wrappers of APT. They make the APT is more easier to use.
-
-Organization:
-
-* Speaker of Python Conference 2012 Taiwan: http://tw.pycon.org/2012/
-* Intern of Pinkoi(http://www.pinkoi.com/): Pinkoi which uses pure Python is an e-commerce platform for the designers.
-* Python Lecturer of OSSF Workshop: http://http://www.openfoundry.org/
-* Program Team of COSCUP 2012: http://coscup.org/
-* Act Team of Ubuntu-TW: http://ubuntu-tw.org/",http://a5.sphotos.ak.fbcdn.net/hphotos-ak-snc7/s720x720/600225_3310481882682_1837574534_n.jpg,mosky.jpg,Clime provides an intuitive approach to convert your module contains functions into a multi-command CLI program. This talk will introduce the Clime and take a deeper look into the inner of Clime.,"Roughly, I will split this talk into three parts: 1. Introduction 2. Take a Deeper Look and 3. Demo.
-
-* Introduction
-I will introduce the reasons I started to write Clime and explain the different between Clime and the traditional ways to write a CLI program (with optparse or argparse). And show the basic usages and list the ways to install Clime.
-
-* Take a Deeper Look
-I will talk about the inner details of Clime.
-
-Something like the procedures after you import Clime, the components of Clime, how to custom the CLI program that Clime created, and the advanced features that Clime provides
-
-* Demo
-I will prepare demos for the features I referred in this talk.
-
-Actually, Clime has a full documentation at http://docs.mosky.tw/clime/. This talk will cover the all of things in this documentation.",ライブラリや拡張 / Python libraries and extensions,ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,"I just want to share the project I recently made. It is not very important to Python or audiences. You can shorten my talk to 25 mins if you received too many big talks. :P
-
-The preparation of a conference is really hard. Thanks for your effort."
+It will end by a demo of the new gunicorn that will be commited sometimes in july.","ライブラリや拡張 / Python libraries and extensions, ネットワークプログラム / Network Programming, Webシステム / Web-based Systems",ふつう / Standard(45 min),"初心者 / beginning programmer, 中級者 / intermediate programmer",英語 / English,可 / Video recording OK,
 写真共有サービス SnapDish の事例,SnapDish: Photo sharing service,,,日本語,9/15,9/15/2012 15:30:00,9/15/2012 16:15:00,Room 230,Japanese; Room 230,"事例かつスタッフだけど毛色違って面白そう
 
 寺田コメント: 確かに面白そう",kiyota,Fumikazu Kiyota,Fumikazu,Kiyota,fumikazu.kiyota@vuzz.com,http://snapdi.sh,"Livedoorでエンジニア職務を経て、現在、Vuzz Inc. CTOとして SnapDish（Android以外）フロントエンドからバックエンドを全て担当。
 
-より多くの人に使ってもらえる心地良い情報サービスを文系エンジニアとしてどのように開発し極めてていくが現在のテーマ。",http://vuzz.com/ja/images/kiyota_fumikazu.jpg,kiyota.jpg,SnapDishの設計・開発・運用・戦略までPython以外の話しも交えて紹介します。何か新しくサービスを始める人たちのヒントになればよいと考えています。,"１、自己紹介
+より多くの人に使ってもらえる心地良い情報サービスを文系エンジニアとしてどのように開発し極めてていくが現在のテーマ。",http://vuzz.com/ja/images/kiyota_fumikazu.jpg,kiyota.jpg,SnapDishの設計・開発・運用・戦略までPython以外の話も交えて紹介します。何か新しくサービスを始める人たちのヒントになればよいと考えています。,"１、自己紹介
 bio／開発に対する考え方と姿勢
 
 ２、サービス紹介
@@ -491,20 +506,8 @@ Sublime Text 2 を使おう,Try Sublime Text 2,,,日本語,9/16,9/16/2012 10:25:
 Django Lessons Learned @BeProud,Django Lessons Learned @BeProud,,,併設; Django & Pylons,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 452,Django & Pylons; Room 452,,@IanMLewis,Ian Lewis,,,,,Ian はBeProudに所属する Python エンジニア。ウェブ、ネットワーク、いわゆるNoSQL DBに興味あり。現在は connpass.com を作っています。,,ian.jpg,3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有,,Django,,,日本語 / Japanese,,
 リクルーティングセッション,Recruiting Session,:doc:`recruiting`,Recruiting session,日本語; Key,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 433,Japanese; Room 433,,,,,,,,,,,,,,,,日本語 / Japanese,可 / Video recording OK,
 はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,Atsuo Ishimoto,,,,,,,,,,,,,,,
-gevent,gevent,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 357,聞きたい,methane,Naoki Inada,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
-MessagePack-Python
-",,methane.jpg,"gevent はコルーチンベースのネットワークプログラミングライブラリです。
-主に大量の同時接続を扱う必要がある場面において力を発揮し、
-効率の良いプログラムを簡単に書くことができます。
-
-本セッションでは、 gevent の仕組み、他の仕組みに比べた gevent の長所、
-そして gevent によるプログラミングについて解説します。","* 並行処理について
-  * スレッド・プロセス・イベントドリブン・マイクロスレッドの利点欠点
-  * マイクロスレッドの種類
-* gevent について
-  * greenlet について
-  * gevent について
-  * gevent で効率的なプログラムを書く方法","ライブラリや拡張 / Python libraries and extensions, ネットワークプログラム / Network Programming",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
+Pythonを取り巻く開発環境,The Python Development Environment,,,日本語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 357,Japanese; Room 230,開発環境,ymotongpoo,Yoshifumi Yamaguchi,Yoshifumi,Yamaguchi,ymotongpoo@gmail.com,http://d.hatena.ne.jp/ymotongpoo/,sphinx-users.jp平メンバー,https://lh5.googleusercontent.com/-SKIq_gOROJc/Tj3pcSZfHqI/AAAAAAAABB0/iyTGBBUoIDU/s400/beeploud%233_400x400.png,ymotongpoo.png,Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、およびそれらの構成などを、コード編集、Pythonの管理、ワークスペースの管理、パッケージの管理、テストの管理、継続ビルド・テスト、ドキュメントの各観点から紹介する。,今日のソフトウェア開発においては、テスト、ドキュメント、規約のチェック等、数多くのステップが求められています。本講演ではPythonによるソフトウェア開発においてツール／環境を用いてこれらの作業を実現する手法を取り上げたいと考えています。特に講演者自身のみの経験ではなく、識者へのインタビューに基づいた調査結果を共有するような内容にしたいと考えています。,"Python 3k, ライブラリや拡張 / Python libraries and extensions, ドキュメント / Documentation, パッケージング / Packaging Issues, ツール / Programming Tools",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,"基本的には次のエントリの内容を発展させたものにしたいと考えています。
+http://d.hatena.ne.jp/ymotongpoo/20120516/1337123564"
 Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python,Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python,,,英語,9/16,9/16/2012 11:00:00,9/16/2012 11:45:00,Room 351a,English; Room 351a,台湾,yungyuc,Yung-Yu Chen,Yung-Yu,Chen,yyc@solvcon.net,http://solvcon.net/yyc/,"Yung-Yu is a numerical analyst, a high-performance computing (HPC) application developer, and a Python programmer.  He is currently working on SOLVCON, a software framework designed for solving conservation laws with parallel computing.",https://en.gravatar.com/userimage/6057572/d3e46054fbb9c9126b925d3e9d6e9b04.jpg?size=200,yychen.jpg,"Aided by its powerful gluing capability, Python can be used to build simulation software that demands high performance.  As performance hotspots being replaced by C, the software can be organized by using Python for a clear structure.  The resulting software provides high flexibility along with high performance.  In this talk, SOLVCON, a Python-based software framework for solving conservation laws, is used to demonstrate the approach.","I would like to report the application of Python to develop first-principle simulators based on solving conservation laws, which are formulated as linear or non-linear, hyperbolic partial differential equations (PDEs), and the lessons learned in the emerging efforts.  The specific category of applications calls for highly-optimized and massively-parallelized code.  SOLVCON (http://solvcon.net/), a project that the speaker is working on, will be used as an example in this talk.
 
 By using Python, we can quickly make a prototype, which takes parallelism into account, to learn how the system should look like in an early stage.  Performance hotspot needs to be regularly checked in the course of development.  Low-level languages must be used to implement the hotspot to deliver the performance in demand.  A hybrid architecture that uses Python and a low-level language like C is the key.  The fundamental two-loop structure in hyperbolic PDE solvers is exploited to organize the software.
@@ -526,34 +529,33 @@ blockdiag、Sphinx などといったドキュメンテーションツールに�
 Sphinx は多くの OSS のマニュアル、リファレンスで採用されている他、
 IT企業でも利用されはじめています。
 ドキュメントを作りたくなってしまうとまで言われる Sphinx の魅力を皆さんにご紹介します。",,Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-Pythonistaの働き方,How Pythonistas Work,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 433,Japanese; Room 433,pythonista,北神Noise,Yuta Kitagami,北神,雄太,hokusin02@gmail.com,http://www.kitagami.org,高校時代からシステムに興味を持ち、電子工作を始めました。その後、大学でもシステム工学を学び、電子工作やプログラミングを極め、ハードウェアにシステム工学の概念を取り入れ、ハードウェア開発を一層ソフトウェア開発に近づける技術を磨いている。 現在はArtifactNoiseにて、新しいシステムの形を提案してます。,https://si0.twimg.com/profile_images/1646321977/____________.png,nonnoise.png,"今日の仕事環境でPythonを使う場面は、主にサーバー関係やWEB関係に限られるだろう。
-しかし、真のPythonistaは使う場面を特に意識しない。
-例え、WEBに全く関係のない組み込み系の開発現場でもPythonistaは気軽にPythonを使う。
-例え、クライアント向け業務用ソフトを開発していようとも、Pythonを使う機会を見つける事も出来る。
-例え、社内がPHPやRubyの開発だとしても、Pythonを隠れて使う事も出来る。
-Pythonは残業を減らす唯一の方法です（嘘）
-
-そんなPythonistaの素晴らしい働きっぷり(※主に自分とプラス妄想）を紹介したいと思います。
-
-","・一般的な現場でのPythonの使い方
-・Pythonの求人が少ない実情
-・Pythonの開発では無い現場でPythonを使う方法
-・Pythonでサクッと作った便利な物
-・Pythonで残業を減らす方法
-・Pythonをもっと気取らず楽しく扱う方法
-
-・その他、今後の自分の活動についてなど","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, 教育事例 / Education Best Practices, 組み込み / Embedding and Extending",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,よろしくお願いいたします。
 NVDA: Open Source Screen Reader Written in Python,NVDA: Open Source Screen Reader Written in Python,,,併設; NVDA,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 358,NVDA; Room 358,,Michael Curran,Michael Curran,,,,,"NV Access Limited, creater and lead developer of NVDA",http://workshop.nvda.jp/images/mr.-michael-curran,michael.jpg,"This talk overviews the development of NonVisual Desktop Access (NVDA). NVDA is a free and open source screen reader for the Microsoft Windows operating system.
 NVDA is written primarily in the Python programming language. 
 The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.",,NVDA,45,,英語 / English,,
-Python3でここまでできるWebプログラミング,Web Programming with Python 3,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 357,Japanese; Room 357,python 3,aodag,Atsushi Odagiri,Atsushi,Odagiri,aodagx@gmail.com,http://aodag.posterous.com,"BeProud所属
+Python3でここまでできるWebプログラミング,Web Programming with Python 3,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 433,Japanese; Room 357,python 3,aodag,Atsushi Odagiri,Atsushi,Odagiri,aodagx@gmail.com,http://aodag.posterous.com,"BeProud所属
 Pylonsproject.jp 代表
 2011 Pythonアドベントカレンダー(Python3) まとめ役",,aodag.png,Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。,"まだまだライブラリが充実しているとはいいがたいPython3ですが、Webアプリケーションについて言えば、通常のWeb+DBアプリケーションを作るのに十分なものがそろっています。
 ライブラリ以外でもツールやデプロイ方法など、Python3に関連する考慮点なども交えて、Python3でWebアプリケーション開発はすでに可能である話をします。",Python 3k,ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
+gevent,gevent,,,日本語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 357,Japanese; Room 357,聞きたい,methane,Naoki Inada,Naoki,INADA,songofacandy@gmail.com,http://github.com/methane,"KLab株式会社 Kラボラトリー
+MessagePack-Python
+",,methane.jpg,"gevent はコルーチンベースのネットワークプログラミングライブラリです。
+主に大量の同時接続を扱う必要がある場面において力を発揮し、
+効率の良いプログラムを簡単に書くことができます。
+
+本セッションでは、 gevent の仕組み、他の仕組みに比べた gevent の長所、
+そして gevent によるプログラミングについて解説します。","* 並行処理について
+  * スレッド・プロセス・イベントドリブン・マイクロスレッドの利点欠点
+  * マイクロスレッドの種類
+* gevent について
+  * greenlet について
+  * gevent について
+  * gevent で効率的なプログラムを書く方法","ライブラリや拡張 / Python libraries and extensions, ネットワークプログラム / Network Programming",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
 Trying Continuous Delivery,Trying Continuous Delivery,,,英語,9/16,9/16/2012 15:15:00,9/16/2012 16:00:00,Room 351a,English; Room 351a,"日本人枠
 他と毛色が違う",Toru Furukawa,Toru Furukawa,Toru,Furukawa,torufurukawa@gmail.com,,"Toru Furukawa (@torufurukawa) is a technical architect at Bascule Inc.
 
-He started his software developer career when he was 35.  After few yeas of experience, his current interest is to improve productivity and predictability of development, include continuous delivery.",https://si0.twimg.com/profile_images/1544728882/torufurukawa.jpg,bucho.jpg,"This talk will share why we tried continuous development and delivery process, what have been done, what succeeded and -- probably more importantly -- what failed through location-based social networking service development using Python on Google App Engine.","Continuous delivery is a development process that emphasizes automation and releasable product from the beginning to the end of development.  In order to develop and operate the server-side app for a location-based social networking service on Google App Engine by very few engineers, I started practicing continuous delivery.
+He started his software developer career when he was 35. After few yeas of experience, his current interest is to improve productivity and predictability of development, including continuous delivery.
+
+",https://si0.twimg.com/profile_images/1544728882/torufurukawa.jpg,bucho.jpg,"This talk will share why we tried continuous development and delivery process, what have been done, what succeeded and -- probably more importantly -- what failed through location-based social networking service development using Python on Google App Engine.","Continuous delivery is a development process that emphasizes automation and releasable product from the beginning to the end of development.  In order to develop and operate the server-side app for a location-based social networking service on Google App Engine by very few engineers, I started practicing continuous delivery.
 
 The presentation is to share what I have learned and done, and how they worked, rather than guide audience to single solution.
 
