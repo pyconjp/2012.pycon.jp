@@ -5,16 +5,43 @@
  一般参加の方へ
 ================
 
+当日の受付
+===========
+
 当日参加者の方は、受付で参加者であることを確認するために以下のいずれかが必要となります。
 
-- `connpass <http://connpass.com/event/708/>`_ の受付票(印刷していなくても結構です)
-- 銀行振り込みの場合は氏名が確認できるものが必要です
+- `connpass <http://connpass.com/event/708/>`_ の受付票 (印刷または端末画面をご呈示下さい)
+- 銀行振り込みの場合は受付番号と、氏名が確認できるものが必要です
+
+.. figure:: /_static/reception-image-sample.png
+
+  受付票サンプル
+
+  connpassで参加済みの方は http://connpass.com/event/708/ticket/ で受付票を表示されます。
 
 
-会場
-====
+カンファレンス会場
+===================
 
-開催場所である `産業技術大学院大学 <http://aiit.jp/>`_ までの交通に関しては :doc:`/venue` をご覧ください。
+- 会場: `産業技術大学院大学`_
+
+.. _`産業技術大学院大学`: http://aiit.ac.jp/
+
+.. raw:: html
+
+   <iframe width="530" height="530" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=ja&amp;geocode=&amp;q=%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=69.061547,135.087891&amp;ie=UTF8&amp;hq=%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6&amp;hnear=&amp;radius=15000&amp;t=m&amp;cid=9578655232339000915&amp;ll=35.616768,139.750643&amp;spn=0.033492,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=ja&amp;geocode=&amp;q=%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6&amp;aq=&amp;sll=37.0625,-95.677068&amp;sspn=69.061547,135.087891&amp;ie=UTF8&amp;hq=%E7%94%A3%E6%A5%AD%E6%8A%80%E8%A1%93%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%A4%A7%E5%AD%A6&amp;hnear=&amp;radius=15000&amp;t=m&amp;cid=9578655232339000915&amp;ll=35.616768,139.750643&amp;spn=0.033492,0.054932&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">大きな地図で見る</a></small>
+
+住所
+----
+東京都 品川区 東大井1-10-40
+
+最寄り駅
+--------
+- りんかい線 「品川シーサイド駅」B出口 徒歩3分
+- 京浜急行線 「鮫洲駅」 徒歩9分
+- 京浜急行線 「青物横町駅」 徒歩10分
+- JR京浜東北・根岸線 「大井町駅」 徒歩18分
+
 
 
 入場方法や途中入退場など
@@ -55,17 +82,14 @@
 
 * 参加者による会場内の撮影は、原則としてOKです（講演者、LT、会場内等）。
 
-  * 講演者・LT参加者の写真は、特に案内のない限り、blog等掲載の承諾をいただく予定です。
-  * 当日の案内も含め、撮影を希望されない講演者に対する写真撮影・公開はご遠慮下さい。
-
 
 会場の詳細について
 ==================
 
-見取り図
---------
+会場内地図
+------------
 
-まだない
+準備中です
 
 .. 画像来たら貼る
 
@@ -100,6 +124,8 @@
 
 :doc:`/program/index` をご覧ください。
 
+当日、プログラム冊子を配布いたします。
+
 
 guidebookapp について
 =====================
@@ -110,14 +136,19 @@ Guidebook App でPyCon JP 2012 のプログラムなどを閲覧できます。
 
    <iframe src="http://gears.guidebook.com/static/assets/badge.html?guide_name=PyCon JP 2012&gid=2741&shortname=pyconjp2012" frameborder="0" width="350" height="150" style="width:350px;height:150px;overflow:hidden;" scrolling="no"></iframe>
 
-無料のGuidebookアプリをiOS/Androidにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
+無料のGuidebookアプリをiOS/Android/Windows Phone/Blackberryにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
+
+.. figure:: /_static/guidebookapp-screenshot-small.png
+   :target: /_static/guidebookapp-screenshot.png
+
+   Guidebook App スクリーンショット
+
 
 * 会場までの地図や会場内の地図をいつでも閲覧
-* 発表の一覧をトラック別、部屋別に素早く閲覧
+* 発表の一覧を素早く閲覧、発表詳細からトラック別表示可能
 * 見たい発表をマークして自分だけのタイムテーブルを作成
 * ToDo機能で当日やりたいことをメモしておこう
-* 発表をイイネしてリアルタイムに他の人と共有
-* Twitterの #pyconjp を見たりツイート
+* 発表をイイネしてリアルタイムに他の人と評価を共有
 
 アプリのダウンロードは上記上記のguidebookバナーか、以下のQRコードからお願いします。
 

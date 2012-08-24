@@ -28,7 +28,7 @@ Gold Sponsor
 
 |10gen|
 =======
-- 10Gen/MongoDB
+- 10gen/MongoDB
 - http://www.mongodb.org/
 
 10gen develops MongoDB, and offers production support, training, and consulting for the open source database.
@@ -89,6 +89,15 @@ Our public cloud platform "Windows Azure" supports open platform in many ways. W
 .. |scubism| image:: /_static/sponsor/logo_scubism.png
    :target: http://www.s-cubism.jp/
    :alt: S-cubism
+
+|klab|
+======
+- KLab
+- http://www.klab.jp/recruit/
+
+.. |klab| image:: /_static/sponsor/logo_klab.png
+   :target: http://www.klab.jp/recruit/
+   :alt: KLab
 
 Silver Sponsor
 ==============

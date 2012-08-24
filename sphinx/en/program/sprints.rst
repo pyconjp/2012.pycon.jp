@@ -12,7 +12,7 @@ Overview
 ========
 :Date: 2012 September 17(Mon, National holiday)
 :Time: 10:00-18:00
-:Venue: `Advanced Institute of Industrial Technology <http://aiit.ac.jp/english/>`_
+:Venue: `Advanced Institute of Industrial Technology <http://aiit.ac.jp/english/>`_ (Room 351a、357、358)
 
 Development sprints are a key part of PyCon JP, a chance for the contributors to open-source projects to get together face-to-face for up to four days of intensive learning, development and camaraderie. Newbies sit with gurus, go out for lunch and dinner together, and have a great time while advancing their project.
 

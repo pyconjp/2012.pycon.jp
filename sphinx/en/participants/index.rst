@@ -9,25 +9,48 @@
 For Participants
 ==================
 
+.. 当日の受付
+.. ===========
+
+Reception of the day
+=====================
+
 .. 当日参加者の方は、受付で参加者であることを確認するために以下のいずれかが必要となります。
 
 In order to check in to PyCon JP you will need to bring with you one of the following:
 
-.. - `connpass <http://connpass.com/event/708/>`_ の受付票(印刷していなくても結構です)
-.. - 銀行振り込みの場合は氏名が確認できるものが必要です
+.. - `connpass <http://connpass.com/event/708/>`_ の `受付票 <http://connpass.com/event/708/ticket/>`_ (印刷または端末画面をご呈示下さい)
+.. - 銀行振り込みの場合は受付番号と、氏名が確認できるものが必要です
 
 - Your `connpass <http://connpass.com/event/708/>`_ ticket (print out, or smartphone is OK)
-- For those who registered via bank deposit, please bring the bank deposit receipt.
+- For those who registered via bank deposit, please bring the reception number and the bank deposit receipt.
 
-Venue
-=======
+.. figure:: /_static/reception-image-sample.png
 
-.. 開催場所である `産業技術大学院大学 <http://aiit.jp/>`_ までの交通に関しては :doc:`/venue` をご覧ください。
+  Reception sheet sample.
 
-For information on how to access the venue (`The Advanced Institute of Industrial Technology`_) please see
-the :doc:`/en/venue` page.
+  If you registered at connpass, display it at http://connpass.com/event/708/ticket/
+
+Conference Venue
+================
+`The Advanced Institute of Industrial Technology`_
 
 .. _`The Advanced Institute of Industrial Technology`: http://aiit.ac.jp/english
+
+.. raw:: html
+
+   <iframe width="530" height="530" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;q=advanced+institute+of+industrial+technology&amp;aq=&amp;sll=35.603544,139.756522&amp;sspn=0.035521,0.065961&amp;ie=UTF8&amp;t=m&amp;st=115664277548083516147&amp;rq=1&amp;ev=zi&amp;split=1&amp;hq=advanced+institute+of+industrial+technology&amp;hnear=&amp;ll=35.616489,139.749956&amp;spn=0.033492,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.com/maps?f=q&amp;source=embed&amp;hl=en&amp;q=advanced+institute+of+industrial+technology&amp;aq=&amp;sll=35.603544,139.756522&amp;sspn=0.035521,0.065961&amp;ie=UTF8&amp;t=m&amp;st=115664277548083516147&amp;rq=1&amp;ev=zi&amp;split=1&amp;hq=advanced+institute+of+industrial+technology&amp;hnear=&amp;ll=35.616489,139.749956&amp;spn=0.033492,0.054932&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left" target="_blank">View Larger Map</a></small>
+
+Address
+-------
+1-10-40 Higashi-Ooi, Shinagawa-ku, Tokyo
+
+Access
+------
+- 3 minutes walk: Shinagawa Seaside Station(Rinkai Line)
+- 9 minutes walk: Samezu Station(Keihin Kyuko Line)
+- 10 minutes walk: Aomono Yokocho Station(Keihin Kyuko Line)
+- 18 minutes walk: Oimachi Station(JR Keihin Tohoku/Negishi Line)
 
 
 
@@ -108,16 +131,9 @@ Caution about Photos
   * Some photos may be used and published in a conference report via online news media.
 
 .. * 参加者による会場内の撮影は、原則としてOKです（講演者、LT、会場内等）。
-.. 
-..   * 講演者・LT参加者の写真は、特に案内のない限り、blog等掲載の承諾をいただく予定です。
-..   * 当日の案内も含め、撮影を希望されない講演者に対する写真撮影・公開はご遠慮下さい。
 
 * Attendees may take photos during the conference (speakers, LT, venue, etc.)
 
-  * Unless there were other arrangements made, we plan to obtain permission to publish
-    photos of speakers on our blog and other media.
-  * Some speakers way wish to not have their photo taken. Please follow instructions
-    during the event and respect the speaker's privacy.
 
 .. 会場の詳細について
 .. ==================
@@ -125,10 +141,10 @@ Caution about Photos
 Venue
 ==================
 
-.. 見取り図
-.. --------
+.. 会場内地図
+.. ------------
 
-Venue Map
+Floor Map
 ----------
 
 .. まだない
@@ -195,7 +211,12 @@ Other
 Program/Timetable
 ==========================
 
-Please see the :doc:`/en/program/index`
+.. :doc:`/program/index` をご覧ください。
+.. 当日、プログラム冊子を配布いたします。
+
+Please see the :doc:`/en/program/index`.
+
+Program booklet will be distributed on the day.
 
 
 .. guidebookapp について
@@ -212,23 +233,27 @@ You can view the PyCon JP 2012 program and other info in the conference Guideboo
 
    <iframe src="http://gears.guidebook.com/static/assets/badge.html?guide_name=PyCon JP 2012&gid=2741&shortname=pyconjp2012" frameborder="0" width="350" height="150" style="width:350px;height:150px;overflow:hidden;" scrolling="no"></iframe>
 
-.. 無料のGuidebookアプリをiOS/Androidにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
+.. 無料のGuidebookアプリをiOS/Android/Windows Phone/Blackberryにインストールして、PyCon JP 2012の各種情報を閲覧出来ます。
 
 You can install the Guidebook app and download the PyCon JP guide for free.
 
+.. figure:: /_static/guidebookapp-screenshot-small.png
+   :target: /_static/guidebookapp-screenshot.png
+
+   Guidebook App screenshot
+
+
 .. * 会場までの地図や会場内の地図をいつでも閲覧
-.. * 発表の一覧をトラック別、部屋別に素早く閲覧
+.. * 発表の一覧を素早く閲覧、発表詳細からトラック別表示可能
 .. * 見たい発表をマークして自分だけのタイムテーブルを作成
 .. * ToDo機能で当日やりたいことをメモしておこう
-.. * 発表をイイネしてリアルタイムに他の人と共有
-.. * Twitterの #pyconjp を見たりツイート
+.. * 発表をイイネしてリアルタイムに他の人と評価を共有
 
 * You can view the directions the venue and venue map.
-* You can view the conference program by track or room.
+* You can view the conference program, program detail, and you can view program by track or room from program detail.
 * You can bookmark talks you would like to attend and create your own conference schedule.
 * You can create a TODO list of items you would like to do while you are at the conference.
 * You can like various talks and share in realtime.
-* You can view the conference Twitter timeline and share info via Twitter in realtime.
 
 .. アプリのダウンロードは上記上記のguidebookバナーか、以下のQRコードからお願いします。
 

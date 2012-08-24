@@ -48,6 +48,33 @@ http://gu3.co.jp/recruit/
    :target: http://www.s-cubism.jp/
    :alt: エスキュービズム
 
+|klab|
+======
+- KLab
+- http://www.klab.jp/recruit/
+
+主に次のような分野でエンジニアを募集しています。
+下記に当てはまる経験が御座いましたら望ましいですが、他分野からの転職も歓迎しています！
+採用基準は一緒に成長できる人かどうかです。
+
+**インフラエンジニア**
+
+- 独自データセンターの構築・運用
+- AWSなどの IaaS 上でのシステム構築・運用
+
+**アプリケーションエンジニア**
+
+- 言語: JavaScript, Objective-C, Java, php, Python, Erlang など
+- 環境: PC向けWeb, モバイルWeb, iOS, Android など
+
+|
+
+- 勤務地: 東京、大阪、福岡、仙台、フィリピン
+
+.. |klab| image:: /_static/sponsor/logo_klab.png
+   :target: http://www.klab.jp/recruit/
+   :alt: KLab
+
 Silver Sponsor
 ==============
 
