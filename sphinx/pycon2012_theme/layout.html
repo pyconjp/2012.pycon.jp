@@ -293,6 +293,15 @@
 	  <a href="{{ pathto('about/staff') }}">PyCon JP 2012 management team</a>,
 	  {%- endif %}
 	  All rights reserved.</p>
+        <p>
+            {%- if show_sphinx %}
+            {% trans sphinx_version=sphinx_version|e %}Created using <a href="http://sphinx.pocoo.org/">Sphinx</a> {{ sphinx_version }}.{% endtrans %}
+            {%- endif %}
+            {%- if show_source and has_source and sourcename %}
+            <a href="{{ pathto('_sources/' + sourcename, true)|e }}"
+               rel="nofollow">{{ _('Show Source') }}</a>
+            {%- endif %}
+        </p>
     </div>
 </div>
 </body>
