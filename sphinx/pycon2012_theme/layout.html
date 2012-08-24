@@ -125,6 +125,7 @@
     <link rel="shortcut icon" href="{{ pathto('_static/favicon.png', 1) }}" />
     <link rel="stylesheet" href="{{ pathto('_static/cssreset-min.css', 1) }}" type="text/css" />
     <link rel="stylesheet" href="{{ pathto('_static/' + style, 1) }}" type="text/css" media="all" />
+    <link rel="stylesheet" href="{{ pathto('_static/print.css', 1) }}" type="text/css" media="print" />
     <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ pathto('rss.xml', 1) }}" />
     <!--[if lt IE 8]>
         <link rel="stylesheet" type="text/css" href="{{ pathto('_static/ie_fixed.css', 1) }}" />
@@ -158,7 +159,7 @@
         </div>
     </div>
 
-    <div class="rss">
+    <div id="rss" class="rss">
       <a href="{{ pathto('rss.xml', 1) }}"><img src="{{ pathto('_static/image/feed-icon-28x28.png', 1) }}" class="rss-image" /></a>
     </div>
     <div id="navi">
