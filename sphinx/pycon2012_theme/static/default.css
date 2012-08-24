@@ -465,8 +465,12 @@ div.figure {
 	vertical-align: middle;
 }
 
+#about-budget #content .section,
+#en-about-budget #content .section,
 #program-index #content .section,
-#en-program-index #content .section {
+#en-program-index #content .section,
+#index #content .section,
+#en-index #content .section {
 	width: auto;
 }
 
