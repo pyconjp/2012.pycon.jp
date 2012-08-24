@@ -62,6 +62,8 @@ body {
 }
 #navi ul{
 	margin-left: 0
+	width: 920px;
+	float: left;
 }
 
 #navi li{
