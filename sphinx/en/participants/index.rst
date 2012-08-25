@@ -89,7 +89,7 @@ Registration
 
 * Registration Goods
 
-  * Pamphlet, survey, name tag, SWAG
+  * Pamphlet, name tag, SWAG
 
 .. * 会場内での名札
 .. 
@@ -111,7 +111,7 @@ Registration
 
   * There is no limit on late registration. You may register at any time.
   * Please take your name tag with you when you leave.
-  * Please take some time to fill out the conference survey before you leave.
+  * Please take some time to fill out the conference survey on the web before you leave.
 
 .. 撮影に関する注意
 .. ================
