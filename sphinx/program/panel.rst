@@ -42,7 +42,7 @@ http://d.hatena.ne.jp/ymotongpoo/
 Panelist(Flask): Armin Ronacher
 -------------------------------
 
-.. figure:: /_static/mitsuhiko.jpg
+.. figure:: /_static/speaker/mitsuhiko.png
    :alt: Armin Ronacher
 
 Armin Ronacher は Pocoo_ チームの創立メンバーの一人で、

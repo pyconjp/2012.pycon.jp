@@ -42,7 +42,7 @@ http://d.hatena.ne.jp/ymotongpoo/
 Panelist(Flask): Armin Ronacher
 -------------------------------
 
-.. figure:: /_static/mitsuhiko.jpg
+.. figure:: /_static/speaker/mitsuhiko.png
    :alt: Armin Ronacher
 
 Armin Ronacher is one of the founding members of the Pocoo_ Team, a group of enthusiastic Python developers responsible for the Sphinx_ Documentation Tool, the Jinja2_ template engine and more.
