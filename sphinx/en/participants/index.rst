@@ -135,23 +135,21 @@ Caution about Photos
 * Attendees may take photos during the conference (speakers, LT, venue, etc.)
 
 
-.. 会場の詳細について
+.. 会場内地図
 .. ==================
 
-Venue
+Floor Map
 ==================
 
-.. 会場内地図
-.. ------------
+.. figure:: /_static/maps/map2f.png
+   :alt: 2nd Floor
 
-Floor Map
-----------
+.. figure:: /_static/maps/map3f.png
+   :alt: 3ed Floor
 
-.. まだない
+.. figure:: /_static/maps/map4f.png
+   :alt: 4th Floor
 
-Coming Soon
-
-.. 画像来たら貼る
 
 .. 諸注意
 .. ======

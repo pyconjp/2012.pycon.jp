@@ -83,15 +83,18 @@
 * 参加者による会場内の撮影は、原則としてOKです（講演者、LT、会場内等）。
 
 
-会場の詳細について
+会場内地図
 ==================
 
-会場内地図
-------------
+.. figure:: /_static/maps/map2f.png
+   :alt: 2nd Floor
 
-準備中です
+.. figure:: /_static/maps/map3f.png
+   :alt: 3ed Floor
 
-.. 画像来たら貼る
+.. figure:: /_static/maps/map4f.png
+   :alt: 4th Floor
+
 
 諸注意
 ======
