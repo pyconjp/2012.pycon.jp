@@ -166,7 +166,8 @@ Other
 ..     - 無線 LAN が利用可能です。
 ..   * - 昼食
 ..     - | スポンサーのご協力により、ランチ（お弁当+飲み物）が提供されます。
-..       | 昼食の時間に学食にてお配りしますので、時間内に受け取ってください。
+..       | 昼食の時間に学食にてお配りしますので、14時までに受け取ってください。
+..       | 14時以降は配布出来ない可能性があります。
 ..   * - 飲食
 ..     - | 持ち込みは自由です。
 ..       | ただし、食堂および指定箇所以外での食事は禁止です。
@@ -189,6 +190,7 @@ Other
   * - Lunch
     - | We will be serving lunch generously provided by our sponsors.
       | We will post the time when lunch will be served. Please eat lunch during the alloted time.
+      | Lunch may not be able to serve the time after 14.
   * - Food & Drink
     - | Bringing food and drink into the conference is permitted.
       | However, we ask that you only eat in the cafeteria or other allotted areas.
