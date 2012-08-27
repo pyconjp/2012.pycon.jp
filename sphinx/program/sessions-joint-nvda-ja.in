@@ -50,6 +50,8 @@ Taiwan Digital Talking Books Association
 
 The Localization of NVDA for Japanese Language Users
 ====================================================
+日本では2010年からNVDA日本語版(nvdajp)を開発・公開してきました。主な特長は、日本語の音声合成エンジンの追加、かな漢字変換の読み上げ、点字ディスプレイへの対応などです。 この講演では、日本語のスクリーンリーダーに必要な機能の概要と、NVDA日本語チームによる開発の現状を紹介します。
+
 In Japan, localized version of NVDA, which supports Japanese text-to-speech synthesizer, input method support, and Japanese braille display support, has been developed since 2010.
 This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.
 
@@ -66,14 +68,17 @@ Dr. Takuya Nishimoto
    :alt: Dr. Takuya Nishimoto
 
 
-Director of NVDA Japanese Team
-
+Director of NVDA Japanese Team / NVDA日本語チーム代表
 
 
 .. _session-16-1745-Room358-ja:
 
 Development of Global Open Standard for Developing Countries
 ============================================================
+Digital Accessible Information SYstem (DAISY) は読書が困難な人々を支援する技術です。DAISY 
+コンソーシアムは国際標準規格DAISYの開発、保守、普及を行なう非営利の国際組織です。この講演では河村氏にDAISYプロジェクトの経緯、そして、
+インクルーシブな社会発展のために NVDA のようなオープンソース技術、オープンスタンダード技術がどのように貢献できるかをお話いただきます。
+
 Digital Accessible Information SYstem (DAISY) assists people who have challenges using regular printed media.
 DAISY Consortium is a not-for-profit international association that develops, maintains and promotes DAISY standards.
 This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.
@@ -91,5 +96,5 @@ Hiroshi Kawamura
    :alt: Hiroshi Kawamura
 
 
-Board (Past President), DAISY Consortium
-Vice President, Assistive Technology Development Organization
+DAISY コンソーシアム 前代表 / Board (Past President), DAISY Consortium
+特定非営利活動法人 支援技術開発機構（ATDO）副理事長 / Vice President, Assistive Technology Development Organization
