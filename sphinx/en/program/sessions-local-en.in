@@ -657,7 +657,7 @@ Web framework Panel Discussion
 ==============================
 去年好評だったパネルディスカッションを今年も行います。
 
-今年はFlaskの作者であり基調講演を行うArmin Ronacherを初めとした各フレームワークの第一人者を迎え、Flask_, `Django <https://www.djangoproject.com/>`_, `Pyramid <http://www.pylonsproject.org/>`_, `Google App Engine <https://developers.google.com/appengine/?hl=ja>`_ の利点と欠点を赤裸々に討論して頂きます。
+今年はFlaskの作者であり基調講演を行うArmin Ronacherを初めとした各フレームワークの第一人者を迎え、 `Flask <http://flask.pocoo.org/>`_, `Django <https://www.djangoproject.com/>`_, `Pyramid <http://www.pylonsproject.org/>`_, `Google App Engine <https://developers.google.com/appengine/?hl=ja>`_ の利点と欠点を赤裸々に討論して頂きます。
 
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
