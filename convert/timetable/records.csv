@@ -461,10 +461,13 @@ Tornadoで分散KVSフレームワーク,A Distributed KVS Framework using Torna
 Pythonバージョン：Python2.6 or 2.7
 OS：自由",,,,,,,
 Pythonおじさんのweb2py挑戦記,A Python old timer's web2py Challenge,,,日本語,9/16,9/16/2012 10:00:00,9/16/2012 10:25:00,Room 357,Japanese; Room 357,遠方、web2pyに絞って25分の依頼をする,中村 良幸 / nakayoshix,Yoshiyuki Nakamura,Yoshiyuki,Nakamura,nakayoshix@gmail.com,https://twitter.com/nakayoshix,"- 所属(勉強会):
+
   1. Python札幌 / 主宰
   2. 数学勉強会＠札幌 / 主宰
   3. クラウド研究会＠札幌 / 主宰
+
 - 開催イベント
+
   1. 数学勉強会＠札幌 ー 勉強会のお知らせ (主催・数学勉強会＠札幌)
      https://sites.google.com/site/mathsapporo/seminars
   2. ぼちぼちHaskell勉強会＠札幌 (主催・クラウド研究会＠札幌)
@@ -473,11 +476,17 @@ Pythonおじさんのweb2py挑戦記,A Python old timer's web2py Challenge,,,日
      http://connpass.com/series/133/
   4. クラウド温泉  (主催・クラウド研究会＠札幌)
      http://connpass.com/series/149/
+
 - 参加プロジェクト(FLOSS):
+
   openCRX (Open source CRM)/ 日本語翻訳担当 http://www.opencrx.org/faq.htm#language
+
 - 略歴(社会人以降):
+
   フリースクール講師、建設コンサル勤務等を歴て2000年の秋、33歳(いわゆるこの業界の定年二年前)にしてIT業界に入る。地元札幌のプチSIer勤務等を経て、2010年6月より現職。当初より社内ぼっちdeveloperとして、日々Pythonにてプログラミングを行う。最近では社内PC端末のお守りから公開Webサーバの運用管理まで、営業以外およそ考えられる全ての技術的職務を行なっている。いわゆる社内SE。
+
 - 付録.プログラミング歴(社会人以降):
+
   プログラミング言語歴は、Fortran/6年, C++/0.5年, Java/1年, C#/5年, VB(A)/2年, PHP/1年を経てPython/2年。他にRを少々。
   エディタはEmacs歴24年。自称・Emacsおじさん。
 ",https://si0.twimg.com/profile_images/1707378386/399030_2809864443.jpg,nakayoshix.jpg,45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。,"通常のimportを使わずにexecfile、その結果としてのグローバル環境汚染(?)等から、あたかもPythonをPHP化するものだと言わんばかりに、古参Pythonistaからはとかくdisられることの多いweb2pyではありますが、もちろんweb2pyにも良い点があります。およそ一年半にわたり、実際に業務用Webシステム開発にweb2pyを用いた経験から、その特徴と利点および欠点を赤裸々に語ります。それに加えて、帳票出力用にPyUNOを用いたOpenOffice.org連携、REST APIを用いたJIRA, kintoneおよびZoho CRM連携、更にはSSL証明書ベースによるSOAP等を用いた外部システム連携についてもその概略を説明します。最後に、より洗練されたドメインモデルにリファクタリングする上での今後の戦略について現時点での想定をお話し、質疑応答の時間を使って皆さんのご意見やアドバイスを伺いたいと考えています。","プロジェクト事例 / Project Best Practices, Webシステム / Web-based Systems",ふつう / Standard(45 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,初学者・初心者枠でのエントリーを想定しています。なお、札幌在住であること、また弊社(クロストラスト)内の特殊事情、更に最終的には最大の関門とも言えるYAuthが必要であるため、現時点ではPyCon JPへの参加は決定しておりませんが、もし万が一採択された際には万難を排して参加する所存です。どうぞよろしくお願いいたします。
