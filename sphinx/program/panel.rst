@@ -28,7 +28,7 @@ Flask_, `Django <https://www.djangoproject.com/>`_, `Pyramid <http://www.pylonsp
 ======
 
 Modelator: Yoshifumi Yamaguchi
------------------------------
+------------------------------
 
 .. figure:: /_static/speaker/ymotongpoo.png
    :alt: Yoshifumi Yamaguchi

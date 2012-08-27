@@ -28,7 +28,7 @@ Modelator & Panelists
 =====================
 
 Modelator: Yoshifumi Yamaguchi
------------------------------
+------------------------------
 
 .. figure:: /_static/speaker/ymotongpoo.png
    :alt: Yoshifumi Yamaguchi
