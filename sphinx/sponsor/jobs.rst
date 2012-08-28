@@ -39,7 +39,8 @@ http://gu3.co.jp/recruit/
 
 経歴は問いません。もしあなたが腕一本で勝負してきたと自負するPythonistaなら、ぜひ一度連絡をお願いします。また、これまで他言語でバリバリやってきたがPythonは初めて！という方でも大丈夫です。さらに、物理・数学系を専攻する中で何かしらのプログラミングを経験した方も求めています。PyCon当日はセッションでも話すことになっていますので、会場で捕まえて頂ければその場でお話することも可能です。ぜひ、一緒に挑戦しましょう！
 
-- 職種: エンジニア
+職種: エンジニア
+
 - 勤務地: 港区芝公園（浜松町駅、大門駅、芝公園駅から徒歩数分）
 
 詳細は弊社求人情報を御覧ください http://s-cubism.jp/careers/
@@ -57,12 +58,12 @@ http://gu3.co.jp/recruit/
 下記に当てはまる経験が御座いましたら望ましいですが、他分野からの転職も歓迎しています！
 採用基準は一緒に成長できる人かどうかです。
 
-**インフラエンジニア**
+職種: インフラエンジニア
 
 - 独自データセンターの構築・運用
 - AWSなどの IaaS 上でのシステム構築・運用
 
-**アプリケーションエンジニア**
+職種: アプリケーションエンジニア
 
 - 言語: JavaScript, Objective-C, Java, php, Python, Erlang など
 - 環境: PC向けWeb, モバイルWeb, iOS, Android など
@@ -109,6 +110,8 @@ http://jobs.beproud.jp/
 - WEBプログラマ: Python (Django, Flask, Tornado など）での開発経験あり。
 - インフラ: AWSでの運用経験ありで、Apache, nginx, MySQL, MongoDB, Memcached, Redis のどどれかでの運用経験あり。
 
+|
+
 - 連絡先: SnapDish@vuzz.com
 - 担当: 清田 (Twitter `@kiyotaman <http://twitter.com/kiyotaman>`_)
 - 場所: 吉祥寺 - http://4sq.com/xm1OmK
@@ -153,7 +156,8 @@ http://jobs.beproud.jp/
 - TriAx
 - http://triax.jp/
 
-- 職種: エンジニア
+職種: エンジニア
+
 - 業種: ソフトウェア開発
 - 内容: WEBサイト・コンテンツ制作・自社CMSの開発等
 - 勤務地: 渋谷区代々木
@@ -162,6 +166,29 @@ http://jobs.beproud.jp/
 .. |triax| image:: /_static/sponsor/logo_triax.png
    :target: http://triax.jp/
    :alt: TriAx
+
+|zerostart|
+===========
+- ゼロスタート
+- http://zero-start.jp/
+
+ゼロスタートでは「Python で仕事をしたい」プログラマを募集しています。あなたの手で、弊社の「サイト内検索エンジン」や「レコメンドエンジン」、そしてクライアントサイトをより良くしてください！
+条件等は下記をご覧ください。
+
+職種：Webプログラマ
+
+- 仕事内容：自社製品のサイト内検索エンジン「ZERO-ZONE Search」などの開発
+- 勤務地：東京都目黒区大橋（最寄駅：東急田園都市線　池尻大橋駅）
+- 勤務時間：週休2日制、10：00〜19：00
+- 給与：ご相談下さい
+- 問合せ先： staff@zero-start.jp または コーポレートサイトの問合せページ
+- 担当者：今津（メールや問合せが面倒な方は twitter `@RicoImazu <https://twitter.com/RicoImazu>`_ まで）
+
+詳細が気になる・不明点があるという方は、お気軽にお問合わせ下さいませ。
+
+.. |zerostart| image:: /_static/sponsor/logo_zerostart.png
+   :target: http://zero-start.jp/
+   :alt: ゼロスタート
 
 |goga|
 =======
@@ -179,15 +206,16 @@ http://jobs.beproud.jp/
 - スポットライト
 - http://www.smapo.jp/
 
-- 職種: アプリケーションエンジニア
+職種: アプリケーションエンジニア
 
-内容:
 弊社提供サービス「スマポ」の根幹となるサーバーサイドアプリケーションの開発を行っていただきます
-サービス拡大に伴う機能拡張、API, 社内外の管理画面、ログ解析など業務内容は多岐に渡ります。
+サービス拡大に伴う機能拡張、API、社内外の管理画面、ログ解析など業務内容は多岐に渡ります。
 
 - 環境など
-- 言語: Python, Pyramid, SQLAlchemy
-- DB: PostgreSQL, Postgis, MongoDB
+
+  - 言語: Python, Pyramid, SQLAlchemy
+  - DB: PostgreSQL, Postgis, MongoDB
+
 - 条件: 500万円〜1,000万円（スキル・経験を考慮）
 - 募集人員: 若干名
 
@@ -203,7 +231,7 @@ http://www.smapo.jp/engineer/
 - 日本仮想化技術
 - http://virtualtech.jp/
 
-- 職種: プログラマー
+職種: プログラマー
 
 OpenStackのカスタマイズおよび新規機能開発。Pythonの他、C言語、Javaなどでも開発できる方歓迎。新オフィスは渋谷駅徒歩5分でゆったりしたデスクと全員アーロンチェアを使用。条件はフレキシブルに対応できます。
 
