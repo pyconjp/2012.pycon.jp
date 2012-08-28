@@ -10,6 +10,7 @@
    handson
    joint
    recruiting
+   lightningtalks
    openspaces
    sprints
 

@@ -9,6 +9,7 @@
    sessions
    handson
    joint
+   lightningtalks
    openspaces
    sprints
 

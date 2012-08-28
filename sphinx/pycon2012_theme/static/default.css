@@ -232,6 +232,14 @@ li ul {
         	margin-left: 50px;
 }
 
+li p {
+	margin: 0 0 0.5em 0;
+}
+
+ol li {
+	list-style: decimal outside;
+}
+
 table {
 	margin-left: 110px;
 	margin-bottom: 1em;
