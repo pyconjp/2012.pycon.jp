@@ -53,6 +53,10 @@ Staff
      - Keiji Matsuzaki
      - `@xga <http://twitter.com/xga>`_
      - `Keiji Futoase Matsuzaki <http://www.facebook.com/futoase>`_
+   * -
+     - Takeshi Inagaki
+     -
+     -
    * - Liaison
      - Ian Lewis
      - `@IanMLewis <http://twitter.com/ianmlewis>`_
@@ -69,6 +73,14 @@ Staff
      - Yosuke Tsuchiya 
      -
      - `yosuke.tsuchiya <http://www.facebook.com/yosuke.tsuchiya>`_
+   * - 
+     - Tohru Ike
+     -
+     -
+   * -
+     - Toshiomi Usui
+     -
+     -
    * - Design
      - Fumichika Kinoshita
      - `@kinofumi <https://twitter.com/kinofumi>`_
@@ -81,11 +93,11 @@ Staff
      - Rico Imazu
      - `@RicoImazu <https://twitter.com/RicoImazu>`_
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
-   * - Other
+   * - Reception
      - Kohei Yoshida
      - `@yosida95 <https://twitter.com/yosida95>`_
      - `yosida95 <http://www.facebook.com/yosida95>`_
-   * -
+   * - Other
      - Yi Li
      -
      -
