@@ -230,6 +230,8 @@ You can get a opportunity to be invited to Meetup from ace engineers who create 
 - Goga
 - http://www.goga.co.jp/
 
+Why don't you change the world by GAE Python together!
+
 .. |goga| image:: /_static/sponsor/logo_goga.png
    :target: http://www.goga.co.jp/
    :alt: Goga

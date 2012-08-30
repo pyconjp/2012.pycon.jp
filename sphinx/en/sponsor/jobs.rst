@@ -66,6 +66,17 @@ Google's Cloud Platform team is hiring Solutions Architect to be based in Mounta
    :target: https://developers.google.com/
    :alt: Google
 
+|goga|
+=======
+- Goga
+- http://www.goga.co.jp/
+
+This is an exciting opportunity to work for an IT company as a software engineer based in Tokyo. 
+
+.. |goga| image:: /_static/sponsor/logo_goga.png
+   :target: http://www.goga.co.jp/
+   :alt: Goga
+
 |smapo|
 =======
 - Spotlight
