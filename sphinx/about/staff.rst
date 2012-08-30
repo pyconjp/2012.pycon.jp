@@ -33,10 +33,6 @@
      - 保坂 翔馬
      - `@shomah4a <http://twitter.com/shomah4a>`_
      - 
-   * - 
-     - 冨田 洋祐
-     - `@you_tomita <http://twitter.com/you_tomita>`_
-     - `you.tomita <http://www.facebook.com/you.tomita>`_
    * - プログラム
      - 畠 弥峰
      - `@flag_boy <http://twitter.com/flag_boy>`_
@@ -85,10 +81,6 @@
      - 木下 文史
      - `@kinofumi <https://twitter.com/kinofumi>`_
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
-   * - 遠方者支援
-     - 竹谷 浩人
-     -
-     - `h.taketani <http://www.facebook.com/h.taketani>`_
    * - Sprint
      - 今津 りこ
      - `@RicoImazu <https://twitter.com/RicoImazu>`_
@@ -97,10 +89,6 @@
      - 吉田 昂平
      - `@yosida95 <https://twitter.com/yosida95>`_
      - `yosida95 <http://www.facebook.com/yosida95>`_
-   * - その他スタッフ
-     - 一 李
-     -
-     -
 
 運営スタッフに興味がある方へ
 ============================

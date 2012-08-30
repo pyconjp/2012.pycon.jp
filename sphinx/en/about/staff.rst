@@ -33,10 +33,6 @@ Staff
      - Shoma Hosaka
      - `@shomah4a <http://twitter.com/shomah4a>`_
      - 
-   * - 
-     - Yosuke Tomita
-     - `@you_tomita <http://twitter.com/you_tomita>`_
-     - `you.tomita <http://www.facebook.com/you.tomita>`_
    * - Program
      - Hirotaka Hata
      - `@flag_boy <http://twitter.com/flag_boy>`_
@@ -85,10 +81,6 @@ Staff
      - Fumichika Kinoshita
      - `@kinofumi <https://twitter.com/kinofumi>`_
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
-   * - Travel support
-     - Hiroto Taketani
-     -
-     - `h.taketani <http://www.facebook.com/h.taketani>`_
    * - Sprint
      - Rico Imazu
      - `@RicoImazu <https://twitter.com/RicoImazu>`_
@@ -97,7 +89,3 @@ Staff
      - Kohei Yoshida
      - `@yosida95 <https://twitter.com/yosida95>`_
      - `yosida95 <http://www.facebook.com/yosida95>`_
-   * - Other
-     - Yi Li
-     -
-     -
