@@ -156,12 +156,9 @@ http://jobs.beproud.jp/
 - TriAx
 - http://triax.jp/
 
-職種: エンジニア
+TriAx では「アカデミック×ビジネス」をキーワードに産学連携をビジョンとして掲げています。新しい技術を知り実世界に応用することに興味を持っている方は、是非我々と一緒に働いてみませんか？
 
-- 業種: ソフトウェア開発
-- 内容: WEBサイト・コンテンツ制作・自社CMSの開発等
-- 勤務地: 渋谷区代々木
-- 条件: 300万～　裁量労働制
+詳細につきましてはこちらをご参照くださいhttp://triax.jp/about/recruit/
 
 .. |triax| image:: /_static/sponsor/logo_triax.png
    :target: http://triax.jp/
