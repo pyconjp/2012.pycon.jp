@@ -739,7 +739,7 @@ http://2011.pycon.jp/program/lightning-talks#oktest-a-new-style-testing-library-
 
 Python Gateway Programming
 ==========================
-Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。
+ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。
 
 :対象: 初心者
 :言語: 日本語
