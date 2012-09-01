@@ -261,7 +261,7 @@ The preparation of a conference is really hard. Thanks for your effort."
 -- Web、業務システム向けパターン
 -- カナリアリリースのためのパターン
 - まとめ",ツール / Programming Tools,短め / Short(25 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,
-Python入門者のコードをリファクタリングしてみた,Refactoring a Python Beginner's Code,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:15:00,Room 433,Japanese; Room 433,初心者用短め,清水川 貴之 (@shimizukawa),Takayuki Shimizukawa,Takayuki,Shimizukawa,shimizukawa@gmail.com,http://清水川.jp/,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://secure.gravatar.com/avatar/0cae2878acf9f67e7cc6c06c55877ffd?size=420,shimizukawa.png,"C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽくないコードができあがります。
+Python入門者のコードをリファクタリングしてみた,Refactoring a Python Beginner's Code,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:20:00,Room 433,Japanese; Room 433,初心者用短め,清水川 貴之 (@shimizukawa),Takayuki Shimizukawa,Takayuki,Shimizukawa,shimizukawa@gmail.com,http://清水川.jp/,BeProud所属。Sphinx-users.jp 副会長。訳書・著書「エキスパートPythonプログラミング」「Pythonプロフェッショナルプログラミング」。,https://secure.gravatar.com/avatar/0cae2878acf9f67e7cc6c06c55877ffd?size=420,shimizukawa.png,"C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽくないコードができあがります。
 そのコード、Pythonっぽく書き換えませんか？
 ","Java(仮)のコードをPythonに移植して、段階的にPythonらしいコードに書き換えていきます。
 Pythonicな書き方でコードがどのように変わっていくのか、なぜそのように変更するのかを紹介しながら、コードをリファクタリングする課程を追っていきましょう。
@@ -273,7 +273,7 @@ Pythonicな書き方でコードがどのように変わっていくのか、な
 * doctest
 * def suite()
 ",Pythonプログラム入門 / Python Programming Introduction,短め / Short(25 min),初心者 / beginning programmer,日本語 / Japanese,可 / Video recording OK,
-SQLAlchemyと僕,SQLAlchemy and I,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:15:00,Room 230,Japanese; Room 230,SQLAlchemy,tell-k,Teruhiko Kida,Teruhiko,Kida,ffk2005@gmail.com,http://tell-k.hatenablog.com/,情弱プログラマー,https://twimg0-a.akamaihd.net/profile_images/81313711/tell-k_normal.PNG,tell-k.png,SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。,"アウトライン
+SQLAlchemyと僕,SQLAlchemy and I,,,日本語,9/15,9/15/2012 14:55:00,9/15/2012 15:20:00,Room 230,Japanese; Room 230,SQLAlchemy,tell-k,Teruhiko Kida,Teruhiko,Kida,ffk2005@gmail.com,http://tell-k.hatenablog.com/,情弱プログラマー,https://twimg0-a.akamaihd.net/profile_images/81313711/tell-k_normal.PNG,tell-k.png,SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。,"アウトライン
 ----------------------------
 
 * SQLAlchemy の概要
