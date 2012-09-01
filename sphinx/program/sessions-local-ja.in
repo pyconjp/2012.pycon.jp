@@ -11,13 +11,13 @@ Pythonで製作したコントロールパネルによって、仮想マシン�
 :場所: Room 433
 :トピック: Webシステム
 
-Kohei Yoshida
--------------
+吉田 昂平 / Kohei Yoshida
+-------------------------
 
 
 
 .. figure:: /_static/speaker/yosida95.png
-   :alt: Kohei Yoshida
+   :alt: 吉田 昂平 / Kohei Yoshida
 
 
 http://yosida95.com/
@@ -37,13 +37,13 @@ Pythonプログラミング教育に関する考察
 :場所: Room 230
 :トピック: 教育事例
 
-Yosuke Tsuchiya
----------------
+土屋 陽介 / Yosuke Tsuchiya
+---------------------------
 
 
 
 .. figure:: /_static/speaker/tsuchiya.jpg
-   :alt: Yosuke Tsuchiya
+   :alt: 土屋 陽介 / Yosuke Tsuchiya
 
 
 産業技術大学院大学 助教
@@ -61,13 +61,13 @@ Pythonは本当にBlenderの役に立っているか?
 :場所: Room 433
 :トピック: オープンソースのPythonプロジェクト
 
-Tetsuo Mitsuda
---------------
+三津田 哲雄 / Tetsuo Mitsuda
+----------------------------
 
 
 
 .. figure:: /_static/speaker/mitsuda.jpg
-   :alt: Tetsuo Mitsuda
+   :alt: 三津田 哲雄 / Tetsuo Mitsuda
 
 
 http://blog.livedoor.jp/lab1092/
@@ -96,13 +96,13 @@ Pythonは残業を減らす唯一の方法です（嘘）
 :場所: Room 230
 :トピック: ツール / プロジェクト事例 / 教育事例 / 組み込み
 
-Yuta Kitagami
--------------
+北神 雄太 / Yuta Kitagami
+-------------------------
 
 
 
 .. figure:: /_static/speaker/nonnoise.png
-   :alt: Yuta Kitagami
+   :alt: 北神 雄太 / Yuta Kitagami
 
 
 http://www.kitagami.org
@@ -123,13 +123,13 @@ Beginning Python
 :場所: Room 433
 :トピック: Pythonの基本的なこと
 
-Ken Sato
---------
+佐藤 健 / Ken Sato
+------------------
 
 
 
 .. figure:: /_static/speaker/kensato.jpg
-   :alt: Ken Sato
+   :alt: 佐藤 健 / Ken Sato
 
 
 産業技術大学院大学 産業技術研究科 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。
@@ -148,13 +148,13 @@ Ken Sato
 :場所: Room 230
 :トピック: ツール
 
-Takumi Iino
------------
+飯野 卓見 / Takumi Iino
+-----------------------
 
 
 
 .. figure:: /_static/speaker/troter.jpg
-   :alt: Takumi Iino
+   :alt: 飯野 卓見 / Takumi Iino
 
 
 株式会社タイムインターメディア所属
@@ -175,13 +175,13 @@ C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽ�
 :場所: Room 433
 :トピック: Pythonプログラム入門
 
-Takayuki Shimizukawa
---------------------
+清水川 貴之 / Takayuki Shimizukawa
+----------------------------------
 
 
 
 .. figure:: /_static/speaker/shimizukawa.png
-   :alt: Takayuki Shimizukawa
+   :alt: 清水川 貴之 / Takayuki Shimizukawa
 
 
 http://清水川.jp/
@@ -201,13 +201,13 @@ SQLAlchemyを利用したWebアプリケーション開発で押させておき�
 :場所: Room 230
 :トピック: データベース
 
-Teruhiko Kida
--------------
+木田 光彦 / Teruhiko Kida
+-------------------------
 
 
 
 .. figure:: /_static/speaker/tell-k.png
-   :alt: Teruhiko Kida
+   :alt: 木田 光彦 / Teruhiko Kida
 
 
 http://tell-k.hatenablog.com/
@@ -227,13 +227,13 @@ unittestをまともに書いていないunittest弱者同士で来るべきテ�
 :場所: Room 433
 :トピック: ツール / プロジェクト事例
 
-Tsuyoshi Aizu
--------------
+会津 剛 / Tsuyoshi Aizu
+-----------------------
 
 
 
 .. figure:: /_static/speaker/aizu.png
-   :alt: Tsuyoshi Aizu
+   :alt: 会津 剛 / Tsuyoshi Aizu
 
 
 - 所属: 株式会社バスキュール号 http://www.bascule-go.com/
@@ -259,13 +259,13 @@ SnapDishの設計・開発・運用・戦略までPython以外の話も交えて
 :場所: Room 230
 :トピック: プロジェクト事例
 
-Fumikazu Kiyota
----------------
+清田 史和 / Fumikazu Kiyota
+---------------------------
 
 
 
 .. figure:: /_static/speaker/kiyota.jpg
-   :alt: Fumikazu Kiyota
+   :alt: 清田 史和 / Fumikazu Kiyota
 
 
 http://snapdi.sh
@@ -292,8 +292,8 @@ Example tools are zc.buildout, Scons, and waf.
 :場所: Room 433
 :トピック: ツール / プロジェクト事例
 
-Shigeru Kitazaki
-----------------
+北崎 茂 / Shigeru Kitazaki
+--------------------------
 
 
 http://kshigeru.blogspot.jp/
@@ -313,13 +313,13 @@ Web API の開発者。たまに翻訳など。
 :場所: Room 230
 :トピック: ネットワークプログラム / プロジェクト事例 / Webシステム
 
-Takahiro Oohata
----------------
+大畑 貴弘 / Takahiro Oohata
+---------------------------
 
 
 
 .. figure:: /_static/speaker/oohata.jpg
-   :alt: Takahiro Oohata
+   :alt: 大畑 貴弘 / Takahiro Oohata
 
 
 http://realglobe.jp
@@ -351,13 +351,13 @@ Tornadoで分散KVSフレームワーク
 :場所: Room 433
 :トピック: 
 
-Koji Kishimoto
---------------
+岸本 康二 / Koji Kishimoto
+--------------------------
 
 
 
 .. figure:: /_static/speaker/kishimoto.gif
-   :alt: Koji Kishimoto
+   :alt: 岸本 康二 / Koji Kishimoto
 
 
 http://s-cubism.jp/
@@ -377,13 +377,13 @@ Pythonおじさんのweb2py挑戦記
 :場所: Room 357
 :トピック: プロジェクト事例 / Webシステム
 
-Yoshiyuki Nakamura
-------------------
+中村 良幸 / Yoshiyuki Nakamura
+------------------------------
 
 
 
 .. figure:: /_static/speaker/nakayoshix.jpg
-   :alt: Yoshiyuki Nakamura
+   :alt: 中村 良幸 / Yoshiyuki Nakamura
 
 
 https://twitter.com/nakayoshix
@@ -434,13 +434,13 @@ https://twitter.com/nakayoshix
 :場所: Room 433
 :トピック: ライブラリや拡張 / ツール
 
-Naoya Inada
------------
+稲田 尚也 / Naoya Inada
+-----------------------
 
 
 
 .. figure:: /_static/speaker/naoina.png
-   :alt: Naoya Inada
+   :alt: 稲田 尚也 / Naoya Inada
 
 
 kyoto.py主催
@@ -459,13 +459,13 @@ Sublime Text 2 を使おう
 :場所: Room 357
 :トピック: ツール
 
-Shinobu Kawano
---------------
+川野 忍 / Shinobu Kawano
+------------------------
 
 
 
 .. figure:: /_static/speaker/kawano.jpg
-   :alt: Shinobu Kawano
+   :alt: 川野 忍 / Shinobu Kawano
 
 
 http://kawanoshinobu.com
@@ -487,13 +487,13 @@ Pythonを用いたソフトウェア開発に必要な様々な項目を実現�
 :場所: Room 357
 :トピック: Python 3k / ライブラリや拡張 / ドキュメント / パッケージング / ツール
 
-Yoshifumi Yamaguchi
--------------------
+山口 能迪 / Yoshifumi Yamaguchi
+-------------------------------
 
 
 
 .. figure:: /_static/speaker/ymotongpoo.png
-   :alt: Yoshifumi Yamaguchi
+   :alt: 山口 能迪 / Yoshifumi Yamaguchi
 
 
 http://d.hatena.ne.jp/ymotongpoo/
@@ -513,13 +513,13 @@ Python3でWebアプリケーションを作るために利用可能なライブ�
 :場所: Room 433
 :トピック: Python 3k
 
-Atsushi Odagiri
----------------
+小田切 篤 / Atsushi Odagiri
+---------------------------
 
 
 
 .. figure:: /_static/speaker/aodag.png
-   :alt: Atsushi Odagiri
+   :alt: 小田切 篤 / Atsushi Odagiri
 
 
 http://aodag.posterous.com
@@ -546,13 +546,13 @@ gevent はコルーチンベースのネットワークプログラミングラ�
 :場所: Room 357
 :トピック: ライブラリや拡張 / ネットワークプログラム
 
-Naoki Inada
------------
+稲田 直哉 / Naoki Inada
+-----------------------
 
 
 
 .. figure:: /_static/speaker/methane.jpg
-   :alt: Naoki Inada
+   :alt: 稲田 直哉 / Naoki Inada
 
 
 http://github.com/methane
@@ -575,13 +575,13 @@ MessagePack-Python
 :場所: Room 433
 :トピック: プロジェクト事例
 
-Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
----------------------------------------------------
+藤原 敬弘 / Takahiro Fujiwara, 高橋 道也 / Michiya Takahashi, 武田 正樹 / Masaki Takeda
+---------------------------------------------------------------------------------------
 
 
 
 .. figure:: /_static/speaker/ms.png
-   :alt: Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
+   :alt: 藤原 敬弘 / Takahiro Fujiwara, 高橋 道也 / Michiya Takahashi, 武田 正樹 / Masaki Takeda
 
 
 - Takahiro Fujiwara: FULLER株式会社 CTO
@@ -602,13 +602,13 @@ Takahiro Fujiwara, Michiya Takahashi, Masaki Takeda
 :場所: Room 357
 :トピック: プロジェクト事例
 
-Daisuke Komatsu
----------------
+小松 大輔 / Daisuke Komatsu
+---------------------------
 
 
 
 .. figure:: /_static/speaker/komatsu.jpg
-   :alt: Daisuke Komatsu
+   :alt: 小松 大輔 / Daisuke Komatsu
 
 
 http://www.cb21.co.jp
@@ -628,13 +628,13 @@ http://www.cb21.co.jp
 :場所: Room 433
 :トピック: 
 
-Masahito Ikuta
---------------
+幾田 雅仁 / Masahito Ikuta
+--------------------------
 
 
 
 .. figure:: /_static/speaker/ikuta.png
-   :alt: Masahito Ikuta
+   :alt: 幾田 雅仁 / Masahito Ikuta
 
 
 http://gu3.co.jp
@@ -654,13 +654,13 @@ Pythonコミュニティが私に与えてくれたもの
 :場所: Room 357
 :トピック: コミュニティ
 
-Tomomi Kurigeno
----------------
+栗毛野 友美 / Tomomi Kurigeno
+-----------------------------
 
 
 
 .. figure:: /_static/speaker/tmmkr.jpg
-   :alt: Tomomi Kurigeno
+   :alt: 栗毛野 友美 / Tomomi Kurigeno
 
 
 Webサービス開発業務に従事。Python系のコミュニティへの参加の他、アジャイルソフトウェア開発に関するコミュニティを主催している。
@@ -680,16 +680,16 @@ Webフレームワークパネル
 :場所: Room 433
 :トピック: Webシステム
 
-Modelator: Yoshifumi Yamaguchi
-------------------------------
+Modelator: 山口 能迪 / Yoshifumi Yamaguchi
+------------------------------------------
 
 
 Panelist:
 
 - Armin Ronacher(Flask)
-- Atsushi Odagiri(Pyramid)
-- Makoto Tsuyuki(django)
-- Takashi Matsuo(App Engine)
+- 小田切 篤 / Atsushi Odagiri(Pyramid)
+- 露木 誠 / Makoto Tsuyuki(Django)
+- 松尾 貴史 / Takashi Matsuo(App Engine)
 
 
 .. _session-16-1745-Room357-ja:
@@ -713,8 +713,8 @@ In this session, I'll show you problems and solutions about DSL design in Python
 :場所: Room 357
 :トピック: Programming Tips / DSL
 
-Makoto Kuwata
--------------
+桑田 誠 / Makoto Kuwata
+-----------------------
 
 
 http://www.kuwata-lab.com/
@@ -739,7 +739,7 @@ http://2011.pycon.jp/program/lightning-talks#oktest-a-new-style-testing-library-
 
 Python Gateway Programming
 ==========================
-Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。
+ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。
 
 :対象: 初心者
 :言語: 日本語
@@ -747,7 +747,7 @@ Abstract：ZigBee機器とクラウドサービスを繋げるPythonゲートウ
 :場所: Room 357
 :トピック: その他 / プロジェクト事例
 
-Tsuyoshi Nanri
---------------
+南里 剛 / Tsuyoshi Nanri
+------------------------
 
 

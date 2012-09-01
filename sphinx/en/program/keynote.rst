@@ -31,8 +31,8 @@ He is currently working for Fireteam_, a game services company in London.
 .. _session-16-1400-Room433-en:
 
 
-Dan Kogai
-===========
+小飼 弾 / Dan Kogai
+===================
 .. figure:: /_static/dankogai.jpg
    :alt: Dan Kogai
 
