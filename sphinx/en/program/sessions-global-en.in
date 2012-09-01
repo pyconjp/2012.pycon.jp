@@ -180,13 +180,13 @@ Introduction about technologies of JIT compiler used in PyPy such as what we cal
 :Room: Room 351a
 :Topic: Other implementations(Jython / IronPython / PyPy..)
 
-Ryotaro Ikeda
--------------
+池田 涼太郎 / Ryotaro Ikeda
+---------------------------
 
 
 
 .. figure:: /_static/speaker/ryotaro.jpg
-   :alt: Ryotaro Ikeda
+   :alt: 池田 涼太郎 / Ryotaro Ikeda
 
 
 http://www.longsleeper.com/
@@ -232,13 +232,13 @@ This talk will share why we tried continuous development and delivery process, w
 :Room: Room 351a
 :Topic: Programming Tools / Project Best Practices / Web-based Systems / Development Process
 
-Toru Furukawa
--------------
+古川 亨 / Toru Furukawa
+-----------------------
 
 
 
 .. figure:: /_static/speaker/bucho.jpg
-   :alt: Toru Furukawa
+   :alt: 古川 亨 / Toru Furukawa
 
 
 Toru Furukawa (@torufurukawa) is a technical architect at Bascule Inc.

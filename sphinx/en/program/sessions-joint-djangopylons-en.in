@@ -14,8 +14,8 @@ Djangoについて
 :Time: Sep 15 11:00-11:45
 :Room: Room 452
 
-Hiroki Kiyohara
----------------
+清原 弘貴 / Hiroki Kiyohara
+---------------------------
 
 
 
@@ -33,13 +33,13 @@ PyramidのためのPythonの知識
 :Time: Sep 15 13:30-14:15
 :Room: Room 452
 
-Atsushi Odagiri
----------------
+小田切 篤 / Atsushi Odagiri
+---------------------------
 
 
 
 .. figure:: /_static/speaker/aodag.png
-   :alt: Atsushi Odagiri
+   :alt: 小田切 篤 / Atsushi Odagiri
 
 
 
@@ -55,8 +55,8 @@ Djangoを利用したM2Mサーバの実例について紹介
 :Time: Sep 15 14:30-15:15
 :Room: Room 452
 
-Ryunosuke Matsumura
--------------------
+松村 竜之介 / Ryunosuke Matsumura
+---------------------------------
 
 
 
@@ -72,13 +72,13 @@ Pyramid Security
 :Time: Sep 15 15:30-16:15
 :Room: Room 452
 
-Yusuke Muraoka
---------------
+村岡 友介 / Yusuke Muraoka
+--------------------------
 
 
 
 .. figure:: /_static/speaker/jbking.jpg
-   :alt: Yusuke Muraoka
+   :alt: 村岡 友介 / Yusuke Muraoka
 
 
 
@@ -94,8 +94,8 @@ Celeryを使ったリアルタイム処理について紹介。 事例を通し�
 :Time: Sep 15 16:30-17:15
 :Room: Room 452
 
-Hideki Nara
------------
+奈良 英樹 / Hideki Nara
+-----------------------
 
 
 
@@ -128,13 +128,13 @@ Django Lessons Learned @BeProud
 :Time: Sep 16 11:00-11:45
 :Room: Room 452
 
-Ian Lewis
----------
+イアン ルイス / Ian Lewis
+-------------------------
 
 
 
 .. figure:: /_static/speaker/ian.jpg
-   :alt: Ian Lewis
+   :alt: イアン ルイス / Ian Lewis
 
 
 Ian はBeProudに所属する Python エンジニア。ウェブ、ネットワーク、いわゆるNoSQL DBに興味あり。現在は connpass.com を作っています。

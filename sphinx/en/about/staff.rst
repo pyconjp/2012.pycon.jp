@@ -13,11 +13,11 @@ Staff
      - Name
      - Twitter
      - Facebook
-   * - Chairman
+   * - Chairperson
      - Manabu Terada
      - `@terapyon <http://twitter.com/terapyon>`_
      - `terapyon <http://www.facebook.com/terapyon>`_
-   * - Vice-Chainman
+   * - Vice-Chainperson
      - Takayuki Shimizukawa
      - `@shimizukawa <http://twitter.com/shimizukawa>`_
      - `shimizukawa <http://www.facebook.com/shimizukawa>`_
@@ -66,7 +66,7 @@ Staff
      - `@inoshiro <https://twitter.com/inoshiro>`_
      - `kenjiro.kosaka <http://www.facebook.com/kenjiro.kosaka>`_
    * -
-     - Yosuke Tsuchiya 
+     - Yosuke Tsuchiya
      -
      - `yosuke.tsuchiya <http://www.facebook.com/yosuke.tsuchiya>`_
    * - 
@@ -81,7 +81,7 @@ Staff
      - Fumichika Kinoshita
      - `@kinofumi <https://twitter.com/kinofumi>`_
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
-   * - Sprint
+   * - Sprints
      - Rico Imazu
      - `@RicoImazu <https://twitter.com/RicoImazu>`_
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_

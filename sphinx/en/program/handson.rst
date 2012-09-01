@@ -8,7 +8,7 @@ Hands-on
 Python programming Hands-on (for beginner)
 ============================================
 
-:Lecturer: Shinya Okano / @tokibito
+:Lecturer: 岡野 真也 / Shinya Okano
 :Audience: Beginning programmer
 :Language: Japanese
 :When: 09/15 11:00 - 14:15
@@ -23,7 +23,7 @@ Python programming Hands-on (for beginner)
 Learning Python programming by creating a software synthesizer (for beginner)
 ================================================================================
 
-:Lecturer: Ransui Iso / @ransui
+:Lecturer: 磯 蘭水 / Ransui Iso
 :Audience: Beginning programmer
 :Language: Japanese
 :When: 09/15 14:30 - 17:15
@@ -36,7 +36,7 @@ Learning Python programming by creating a software synthesizer (for beginner)
 Learning web(Flask) applications (for intermediater)
 =====================================================
 
-:Lecturer: Atsuo Ishimoto / @atsuoishimoto
+:Lecturer: 石本 敦夫 / Atsuo Ishimoto
 :Audience: Intermediate programmer
 :Language: Japanese
 :When: 09/16 10:00 - 11:45
