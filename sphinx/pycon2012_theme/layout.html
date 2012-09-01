@@ -144,19 +144,35 @@
 	  {%- endif %}
 	</div>
         <div id="pyconinfo">
-            <dl>
     {%- if _getName('lang') == 'lang-en' %}
+            <img src="{{ pathto('_static/image/pyconjp2012_info_e.gif', 1) }}" usemap="#infomap"></img>
+            <map name="infomap">
+              <area shape="rect" coords="0,0,250,45" href="{{ pathto('en/program/index.html#timetable-day1-en', 1) }}"   alt="Program Sep-15(Sat)">
+              <area shape="rect" coords="260,0,345,45" href="{{ pathto('en/program/index.html#timetable-day2-en', 1) }}" alt="Program Sep-16(Sun)">
+              <area shape="rect" coords="360,0,450,45" href="{{ pathto('en/program/index.html#timetable-day3-en', 1) }}" alt="Program Sep-17(Holiday)">
+              <area shape="rect" coords="0,50,450,80" href="{{ pathto('en/venue') }}" alt="開催場所">
+            </map>
+            <dl>
                 <dt>Date</dt>
                 <dd>2012 September 15(Sat),16(Sun),17(Mon)</dd>
                 <dt>Venue</dt>
                 <dd>Advanced Institute of Industrial Technology (AIIT), Higashi-Ooi Shinagawa-ku Tokyo Japan</dd>
+            </dl>
     {%- else %}
+            <img src="{{ pathto('_static/image/pyconjp2012_info.gif', 1) }}" usemap="#infomap"></img>
+            <map name="infomap">
+              <area shape="rect" coords="0,0,170,45" href="{{ pathto('program/index.html#timetable-day1-ja', 1) }}" alt="プログラム 9月15日(土曜)">
+              <area shape="rect" coords="195,0,310,45" href="{{ pathto('program/index.html#timetable-day2-ja', 1) }}" alt="プログラム 9月16日(日曜)">
+              <area shape="rect" coords="335,0,450,45" href="{{ pathto('program/index.html#timetable-day3-ja', 1) }}" alt="プログラム 9月17日(祝日)">
+              <area shape="rect" coords="0,50,450,80" href="{{ pathto('venue') }}" alt="開催場所">
+            </map>
+            <dl>
                 <dt>日時</dt>
                 <dd>2012年9月15日(土)/16日(日)/17日（祝）</dd>
                 <dt>会場</dt>
                 <dd>東京都品川区東大井　産業技術大学院大学</dd>
-    {%- endif %}
             </dl>
+    {%- endif %}
         </div>
     </div>
 

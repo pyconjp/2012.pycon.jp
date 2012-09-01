@@ -18,6 +18,8 @@ Timetable plan
 
 The timetable is not definite. It may change in the future.
 
+.. _timetable-day1-en:
+
 .. csv-table:: Day1 : 2012/9/15 (Sat)
    :header: "Time", "230(Japanese1)", "433(Japanese2)", "351a(English)", "357(Joint1)", "452(Joint2)", "358(Hands-on)"
    :stub-columns: 1
@@ -25,11 +27,14 @@ The timetable is not definite. It may change in the future.
 
 Starting at 7pm on Day1 (Sept. 15th), the After-Party will begin at a different venue. For more information and to register, check out the registration page !! => :doc:`../registration/index`
 
+.. _timetable-day2-en:
+
 .. csv-table:: Day2 : 2012/9/16 (Sun)
    :header: "Time", "230(-)", "433(Japanese2)", "351a(English)", "357(Japanese3)", "452(Joint2)", "358(Hands-on/Joint3)"
    :stub-columns: 1
    :file: schedule2-en.csv
 
+.. _timetable-day3-en:
 
 Day3 : 2012/9/17 (Mon, National Holiday)
 ----------------------------------------
