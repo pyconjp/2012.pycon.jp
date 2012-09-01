@@ -81,7 +81,7 @@
      - 木下 文史
      - `@kinofumi <https://twitter.com/kinofumi>`_
      - `fumichika.kinoshita <http://www.facebook.com/fumichika.kinoshita>`_
-   * - Sprint
+   * - スプリント
      - 今津 りこ
      - `@RicoImazu <https://twitter.com/RicoImazu>`_
      - `rico.imazu <http://www.facebook.com/rico.imazu>`_
