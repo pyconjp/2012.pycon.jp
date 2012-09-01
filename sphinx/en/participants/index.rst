@@ -1,8 +1,5 @@
-:ignore:
-:orphan:
-
 .. ================
-..  一般参加の方へ
+..  参加する方へ
 .. ================
 
 ==================
@@ -52,6 +49,16 @@ Access
 - 10 minutes walk: Aomono Yokocho Station(Keihin Kyuko Line)
 - 18 minutes walk: Oimachi Station(JR Keihin Tohoku/Negishi Line)
 
+
+.. パーティ会場 & 宿泊情報
+.. ==========================
+.. 
+.. :doc:`../venue` を参照して下さい。
+
+Party Venue & Hotel guide
+===========================
+
+Please refere to :doc:`../venue`.
 
 
 .. 入場方法や途中入退場など
