@@ -63,6 +63,14 @@ He is currently working for Fireteam_, a game services company in London.
 Panelist(django): Makoto Tsuyuki
 --------------------------------
 
+.. figure:: /_static/speaker/tsuyuki.png
+   :alt: Makoto Tsuyuki
+
+http://www.tsuyukimakoto.com/about/
+
+`株式会社TOLOT <http://tolot.com/>`_ 所属
+`django-ja <https://groups.google.com/forum/?fromgroups#!forum/django-ja>`_ 立ち上げメンバー（のひとり）
+立てないITサーフィンの会
 
 
 Panelist(Pyramid): Atsushi Odagiri
