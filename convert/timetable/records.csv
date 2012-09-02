@@ -622,7 +622,7 @@ Sphinxの平凡な使い方 ～業務での利用事例～,How to use Sphinx,,,�
 * 利用事例
 * 使っていく上で感じたSphinxのメリット、デメリット
 * その他",Sphinx,25,,日本語 / Japanese,可 / Video recording OK,
-Webフレームワークパネル,Web framework Panel Discussion,,,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:45:00,Room 433,Japanese; Room 433,,Modelator: Yoshifumi Yamaguchi,Modelator: 山口 能迪 / Yoshifumi Yamaguchi,,,,,"Panelist:
+Webフレームワークパネル,Web framework Panel Discussion,:doc:`panel`,:doc:`panel`,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:45:00,Room 433,Japanese; Room 433,,Modelator: Yoshifumi Yamaguchi,Modelator: 山口 能迪 / Yoshifumi Yamaguchi,,,,,"Panelist:
 
 - Armin Ronacher(Flask)
 - 小田切 篤 / Atsushi Odagiri(Pyramid)

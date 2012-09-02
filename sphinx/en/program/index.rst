@@ -8,6 +8,7 @@
    keynote
    sessions
    handson
+   panel
    joint
    lightningtalks
    openspaces

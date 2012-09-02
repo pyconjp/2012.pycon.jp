@@ -7,6 +7,7 @@
 
    keynote
    sessions
+   panel
    handson
    joint
    recruiting
