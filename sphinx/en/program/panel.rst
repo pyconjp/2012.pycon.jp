@@ -4,7 +4,7 @@
 Web framework Panel Discussion
 ==============================
 
-.. figure:: /_static/program/panel.jpg
+.. figure:: /_static/program/python-web-company-panel-2011.jpg
    :alt: 去年のパネルディスカッションの様子
 
    去年のパネルディスカッションの様子
