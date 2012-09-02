@@ -16,6 +16,7 @@ PyCon JP 2012 開催します！
    sponsor
    registration/index
    registration/support
+   participants/index
    venue
    media
    en/index
@@ -25,6 +26,7 @@ PyCon JP 2012 開催します！
    en/sponsor
    en/registration/index
    en/registration/support
+   en/participants/index
    en/venue
 
 お知らせ
@@ -38,7 +40,7 @@ PyCon JP 2012 に8月中に申し込みを済ませた方に PyCon JP T シャ�
 8月中に申し込まれていない方は希望のサイズが用意できないかもしれません。
 T シャツを確実に受け取りたい方は8月中の申し込みをお願いします。
 
-詳細は `PyCon JP ブログ <http://pyconjp.blogspot.jp/2012/08/announce-of-novelty-tsharts.html>`_ へ
+詳細は、PyCon JP ブログ `8月中参加登録の方にPyConJP2012 Tシャツを提供します！ <http://pyconjp.blogspot.jp/2012/08/announce-of-novelty-tsharts.html>`_ へ
 
 
 
@@ -54,7 +56,7 @@ Connpass での Paypal 支払い時のエラーについて
 ---------------------------------------------
 
 Connpass で Paypal を経由した支払いを行なう際に限度額エラーで支払えないという問題が出ています。
-回避手段などを `PyCon JP ブログ <http://pyconjp.blogspot.jp/2012/08/pycon-jp-paypal.html>`_ にまとめてありますので参照ください。
+回避手段などをPyCon JP ブログ `PyCon JP チケット購入が PayPal でできない件について <http://pyconjp.blogspot.jp/2012/08/pycon-jp-paypal.html>`_ にまとめてありますので参照ください。
 
 
 基調講演者 - 小飼弾氏
