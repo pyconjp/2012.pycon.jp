@@ -268,3 +268,24 @@ You can download the guidebook via the link in the banner above or via the QR co
 
 .. figure:: /_static/guidebook-qr-code.png
 
+
+Guide for disabled people
+==============================
+
+There are elevators at the venue. Although there are stairs at the front entrance, there are elevators behind stairs. These elevators make you access all the part of the venue including meal areas. There are no accessible bathrooms.
+
+There are no guide blocks and braille guide for the visual impaired.
+
+Since we expect a substantial crowd, if you need, please take assistants with you. We do not provide assistants.
+
+You do not have to participants registration for your assistants. Let us know about it at the reception.
+
+- Q1. Do disabled people need to notice their disabilities?
+- A1. Please let us know in advance by mail(2012@pycon.jp).
+
+- Q2. Do we provide foods and drinks for assistants?
+- A2. Yes, we do. But novelties would not be provided.
+
+- Q3. Can assistants take seats during the session.
+- A3. Yes, they can.
+
