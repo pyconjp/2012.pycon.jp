@@ -45,37 +45,40 @@ Sprintの提案、参加
 
 もちろん、リーダーにならなくても、他の人の提案しているテーマに参加することも可能です。その場合もスプリント用サイトへの書き込みは必須ではありませんが、リーダーが何を準備するかなどを考える助けになるので、事前に書きこんでいただけたら嬉しいです。
 
-.. 提案方法は、PyCon JP 2012 Sprint Spreadsheet <リンク>にやりたいテーマを書きこんで、リーダーになれば完了です。書き方は昨年のもの（PyCon JP 2011 Sprint Spreadsheet<リンク>）を参考にしてください。
 
-.. もちろん、リーダーにならなくても、他の人の提案しているテーマに参加することも可能です。その場合、Spreadsheet <リンク>への書き込みは必須ではありませんが、リーダーが何を準備するかなどを考える助けになるので、事前に書きこんでいただけたら嬉しいです。
+Sprintの一覧
+============
 
-.. Sprintの一覧
-.. ============
+Sprint の参加は `こちら <http://connpass.com/event/961/>`_ から
+上記申し込みページで申し込まれた sprint の内容一覧です。
 
-.. .. list-table::
+気になるものがあったら是非参加してみてください。
 
-..    * - Kay-framework
-..      - MiCHiLU
-..    * - haml-jinja
-..      - MiCHiLU
-..    * - pypy-ja
-..      - rokujyouhitoma, Surgo, Masahito, shomah4a, jbking
-..    * - blockdiag hacks
-..      - tk0miya
-..    * - pyramid
-..      - aodag, imagawa_yakata, Shinya Ota, jptomo
-..    * - SlapOS
-..      - Tahara Yusei
-..    * - distutils2/packaging
-..      - Takayuki SHIMIZUKAWA, hychen, aroma_black
-..    * - App Engine Code Lab
-..      - Takashi Matsuo
-..    * - Python-RDMA
-..      - Danna
-..    * - Python Design Doc for sphinx
-..      - Yuta Kitagami, aodag, tk0miya
-..    * - DevQuiz
-..      - ytakeuch
+.. list-table::
+   :header-rows: 1
+
+   * - 内容
+     - リーダー
+   * - Sphinx Sprint か Sphinx ハンズオン
+     - `@tk0miya <http://twitter.com/tk0miya>`_
+   * - Django Sprint
+     - `@hirokiky <http://twitter.com/hirokiky>`_ 
+   * - App Engine ハンズオン
+     - `@tmatsuo <http://twitter.com/tmatsuo>`_
+   * - Mercurial ハンズオン
+     - `@troter <http://twitter.com/troter>`_
+   * - よってたかって `新生 python.jp <http://new.python.jp>`_  を何とかする集い
+     - `@atsuoishimoto <http://twitter.com/atsuoishimoto>`_
+   * - PyPy について話す
+     - `@rokujyouhitoma <http://twitter.com/rokujyouhitoma>`_
+   * - NVDA Sprint
+     - `@24motz <http://twitter.com/24motz>`_
+   * - Pyramid ハンズオン (`資料 <https://github.com/Pylons/pyramid/wiki/Sprint-Ideas>`_)
+     - `@aodag <http://twitter.com/aodag>`_
+   * - Sphinxの小ネタを海外MLから拾って日本MLに紹介する
+     - `@shimizukawa <http://twitter.com/shimizukawa>`_
+   * - Windows Azure で Python
+     - `@michisu <http://twitter.com/michisu>`_
 
 よくある質問(FAQ)
 =================
@@ -100,6 +103,3 @@ Sprintの提案、参加
 - Q: 途中入場・退場はできますか？
 - A: 特に受付などを設ける予定はありませんので、可能です。
 
-.. (PyCon JP Sprints: Lunch Map)
-.. - Q: 誰が参加しますか？
-.. - A: 事前登録が必須ではないので、参加者を100％把握することはできませんが、 PyCon JP 2012 Sprint Spreadsheet<リンク> 等でなんとなく誰が参加するかを知ることができます。
