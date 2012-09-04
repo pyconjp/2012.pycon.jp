@@ -16,6 +16,9 @@ Overview
 
 Development sprints are a key part of PyCon JP, a chance for the contributors to open-source projects to get together face-to-face for up to four days of intensive learning, development and camaraderie. Newbies sit with gurus, go out for lunch and dinner together, and have a great time while advancing their project.
 
+Sprints registraion open!
+Please refer to `PyCon JP 2012 Sprints - connpass <http://connpass.com/event/961/>`_ page.
+
 What's a sprint?
 ================
 PyCon JP Development Sprints are one day of intensive learning and development on an open source project of your choice, in a team environment. It's a time to come together with colleagues, old and new, to share what you've learned and apply it to an open source project.
