@@ -8,6 +8,11 @@ Hands-on
 Python programming Hands-on (for beginner)
 ============================================
 
+.. figure:: /_static/speaker/tokibito.jpg
+   :align: center
+
+   `岡野 真也 / Shinya Okano <https://twitter.com/tokibito>`_
+
 :Lecturer: 岡野 真也 / Shinya Okano
 :Audience: Beginning programmer
 :Language: Japanese
@@ -23,6 +28,11 @@ Python programming Hands-on (for beginner)
 Learning Python programming by creating a software synthesizer (for beginner)
 ================================================================================
 
+.. figure:: /_static/speaker/ransui.jpg
+   :align: center
+
+   `磯 蘭水 / Ransui Iso <https://twitter.com/ransui>`_
+
 :Lecturer: 磯 蘭水 / Ransui Iso
 :Audience: Beginning programmer
 :Language: Japanese
@@ -35,6 +45,11 @@ Learning Python programming by creating a software synthesizer (for beginner)
 
 Learning web(Flask) applications (for intermediater)
 =====================================================
+
+.. figure:: /_static/speaker/atsuo.jpg
+   :align: center
+
+   `石本 敦夫 / Atsuo Ishimoto <https://twitter.com/atsuoishimoto>`_
 
 :Lecturer: 石本 敦夫 / Atsuo Ishimoto
 :Audience: Intermediate programmer

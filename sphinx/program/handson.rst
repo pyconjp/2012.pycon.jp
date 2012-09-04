@@ -30,6 +30,11 @@
 Pythonプログラミングハンズオン(初心者向け)
 ==========================================
 
+.. figure:: /_static/speaker/tokibito.jpg
+   :align: center
+
+   `岡野 真也 / Shinya Okano <https://twitter.com/tokibito>`_
+
 :講師: 岡野 真也 / Shinya Okano
 :対象: 初心者
 :言語: 日本語
@@ -69,6 +74,11 @@ Pythonプログラミングハンズオン(初心者向け)
 
 ソフトシンセを作りながら学ぶPythonプログラミング(初級者)
 ========================================================
+
+.. figure:: /_static/speaker/ransui.jpg
+   :align: center
+
+   `磯 蘭水 / Ransui Iso <https://twitter.com/ransui>`_
 
 :講師: 磯 蘭水 / Ransui Iso
 :対象: 初心者
@@ -149,6 +159,11 @@ Pythonに限らずプログラミングの初級者は「Hello Worldは表示で
 
 はじめてのWeb(Flask)アプリケーション(中級者)
 ============================================
+
+.. figure:: /_static/speaker/atsuo.jpg
+   :align: center
+
+   `石本 敦夫 / Atsuo Ishimoto <https://twitter.com/atsuoishimoto>`_
 
 :講師: 石本 敦夫 / Atsuo Ishimoto
 :対象: 中級者

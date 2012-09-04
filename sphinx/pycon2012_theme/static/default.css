@@ -335,6 +335,20 @@ small {
 div.figure {
 	margin-left: 100px;
 }
+div.figure.align-center {
+	text-align: center;
+}
+div.figure.align-left {
+	text-align: left;
+}
+div.figure.align-right {
+	text-align: right;
+}
+
+div.figure p.caption {
+	text-align: none;
+	margin: 0.5em;
+}
 
 /* index ページのスタイル */
 
