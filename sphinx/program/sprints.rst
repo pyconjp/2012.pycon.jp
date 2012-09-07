@@ -78,7 +78,7 @@ Sprint の参加は `こちら <http://connpass.com/event/961/>`_ から
    * - Sphinxの小ネタを海外MLから拾って日本MLに紹介する
      - `@shimizukawa <http://twitter.com/shimizukawa>`_
    * - Windows Azure で Python
-     - `@michisu <http://twitter.com/michisu>`_
+     - `@michiyata <http://twitter.com/michiyata>`_
 
 よくある質問(FAQ)
 =================
