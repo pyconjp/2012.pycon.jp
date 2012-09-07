@@ -69,11 +69,11 @@ Sprint の参加は `こちら <http://connpass.com/event/961/>`_ から
      - `@troter <http://twitter.com/troter>`_
    * - よってたかって `新生 python.jp <http://new.python.jp>`_  を何とかする集い
      - `@atsuoishimoto <http://twitter.com/atsuoishimoto>`_
-   * - PyPy について話す
+   * - PyPy についてみんなでお話する会
      - `@rokujyouhitoma <http://twitter.com/rokujyouhitoma>`_
    * - NVDA Sprint
      - `@24motz <http://twitter.com/24motz>`_
-   * - Pyramid ハンズオン (`資料 <https://github.com/Pylons/pyramid/wiki/Sprint-Ideas>`_)
+   * - Pyramid Sprint (`資料 <https://github.com/Pylons/pyramid/wiki/Sprint-Ideas>`_)
      - `@aodag <http://twitter.com/aodag>`_
    * - Sphinxの小ネタを海外MLから拾って日本MLに紹介する
      - `@shimizukawa <http://twitter.com/shimizukawa>`_
