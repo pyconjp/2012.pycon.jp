@@ -182,19 +182,19 @@
     {%- if _getName('lang') == 'lang-en' %}
             <li><a href="{{ pathto('en/about') }}" class="about">About</a></li>
             {# <li><a href="{{ pathto('en/cfp') }}" class="cfp">Call for Proposals</a></li> #}
-            <li><b><a href="{{ pathto('en/registration/index') }}" class="registration">Registration</a></b></li>
+            <li><a href="{{ pathto('en/registration/index') }}" class="registration">Registration</a></li>
             <li><a href="{{ pathto('en/program/index') }}" class="program">Program</a></li>
             <li><a href="{{ pathto('en/sponsor') }}" class="sponsor">Sponsorship</a></li>
-            <li><a href="{{ pathto('en/participants/index') }}" class="participants">Participants</a></li>
+            <li><b><a href="{{ pathto('en/participants/index') }}" class="participants">Participants</a></b></li>
             <li><a href="{{ pathto('en/venue') }}" class="venue">Venue</a></li>
             <li><a href="http://pyconjp.blogspot.jp/" class="blog">Blog</a> (Japanese)</li>
     {%- else %}
             <li><a href="{{ pathto('about') }}" class="about">PyCon JP 2012</a></li>
             {# <li><a href="{{ pathto('cfp') }}" class="cfp" title="CfP: Call for Proposals">演題募集</a></li> #}
-            <li><b><a href="{{ pathto('registration/index') }}" class="registration">参加登録</a></b></li>
+            <li><a href="{{ pathto('registration/index') }}" class="registration">参加登録</a></li>
             <li><a href="{{ pathto('program/index') }}" class="program">プログラム</a></li>
             <li><a href="{{ pathto('sponsor') }}" class="sponsor">スポンサー</a></li>
-            <li><a href="{{ pathto('participants/index') }}" class="participants">参加する方へ</a></li>
+            <li><b><a href="{{ pathto('participants/index') }}" class="participants">参加する方へ</a></b></li>
             <li><a href="{{ pathto('venue') }}" class="venue">開催場所</a></li>
             <li><a href="http://pyconjp.blogspot.jp/" class="blog">Blog</a></li>
     {%- endif %}
