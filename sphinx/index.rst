@@ -29,8 +29,6 @@ PyCon JP 2012 開催します！
    en/participants/index
    en/venue
 
-お知らせ
-========
 
 アンケートご記入お願いします
 -------------------------------
@@ -38,19 +36,17 @@ PyCon JP 2012 開催します！
 Page: :doc:`survey/index`
 
 
-YouTube ライブ配信中！
+YouTube ライブ
 ---------------------------
-
-* ライブ配信しています！
-http://www.youtube.com/user/PyConJP/videos?flow=grid&view=2
 
 .. raw:: html
 
    <iframe width="560" height="315" src="http://www.youtube.com/embed/EDlFk1hc8kc" frameborder="0" allowfullscreen></iframe>
 
 
-* 終了セッションも閲覧できますよ。
-http://www.youtube.com/user/PyConJP/videos?flow=grid&view=0
+* ほとんどのセッションは録画再生できます
+
+  http://www.youtube.com/user/PyConJP/videos?flow=grid&view=0
 
 
 .. 参加者向け T シャツについて
