@@ -5,6 +5,8 @@ App Engine Updates - 2012
 =========================
 Python2.7 Runtime の活用方法や、App Engine の新機能についてお話しします。
 
+:Video: 
+:Slide: `App Engine Updates - 2012        <https://docs.google.com/presentation/d/1yb7DIzKA8agVBNpwWCpttzRwDWgJWI-HFTduTMxcQIE/edit#slide=id.p>`_
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
 :Room: Room 357
@@ -29,6 +31,8 @@ An Overview of Full Text Seach
 ==============================
 試験的に公開された全文検索APIの使い方を、今後の展望などを踏まえながら解説します。
 
+:Video: http://www.youtube.com/watch?v=VzYdkYhPMj0
+:Slide: `Full Text Search の概要と使い方 <https://docs.google.com/presentation/d/1mMNENPbdjsNiJtVlK71zc9hV-hXXtwZah_qfaLzSzd0/edit#slide=id.p16>`_
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
 :Room: Room 357
@@ -46,6 +50,8 @@ Introduction to the Python NDV API
 ==================================
 AppEngine Python用の新しいデータストアAPIであるNDBの機能や使い方について
 
+:Video: http://www.youtube.com/watch?v=hldoRF7fZEo
+:Slide: `Python NDB APIの紹介 <https://docs.google.com/presentation/d/1itvvB_sVJSH30cR479PSeaHjnVDMvy3KNr9R_G5-MEs/edit#slide=id.p>`_
 :Language: Japanese
 :Time: Sep 15 14:30-15:15
 :Room: Room 357
@@ -65,6 +71,8 @@ Panel Discussion : Why are we choose Google App Engine?
 =======================================================
 本パネルディスカッションでは、実際にGoogle App Engineを使ったアプリケーション開発に携わっていらっしゃる方々に登壇いただき、「なぜGoogle App Engineのプラットフォームを選択したのか？」、「Google App Engineによって開発がどう変わったか(PaaSとは何か)」と「Google App Engineに向いてるアプリケーションと向いてないアプリケーション」について、これまでの経験談を中心に語って頂きます。 このパネルディスカッションを通じて、参加者の皆様にGoogle App Engineのリアル(いいところ、悪いところ)を知ってもらえればと思います。
 
+:Video: http://www.youtube.com/watch?v=fWUuR65O958
+:Slide: `パネルディスカッション:Google App Engine を選ぶ理由 <http://www.slideshare.net/bluerabbit777jp/google-app-engine-14331900>`_
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
 :Room: Room 357
@@ -87,6 +95,8 @@ App Engine Community Hangout
 ============================
 App Engineに関心がある人々が集まって懇親をするコーナーです。直前のパネルディスカッションのパネラーに対して質問をしたり、17日のハンズオンの事前準備をしたり、飛び入りで LT を実施したり、といったゆるい BoF 形式の集まりを予定しています。
 
+:Video: 
+:Slide: 
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
 :Room: Room 357

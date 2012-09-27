@@ -24,13 +24,14 @@ JOINT_NAMES = [
     'NVDA',
 ]
 
-
 SESSION_TEMPLATE_JA = """
 .. _{reference_id}:
 
 {title_with_line}
 {abstract}
 
+:ビデオ: {video}
+:スライド: {slide}
 :対象: {audience}
 :言語: {language}
 :日時: {datetime}
@@ -46,6 +47,8 @@ JOINT_TEMPLATE_JA = """
 {title_with_line}
 {abstract}
 
+:ビデオ: {video}
+:スライド: {slide}
 :言語: {language}
 :日時: {datetime}
 :場所: {room}
@@ -59,6 +62,8 @@ SESSION_TEMPLATE_EN = """
 {title_with_line}
 {abstract}
 
+:Video: {video}
+:Slide: {slide}
 :Audience: {audience}
 :Language: {language}
 :Time: {datetime}
@@ -74,12 +79,17 @@ JOINT_TEMPLATE_EN = """
 {title_with_line}
 {abstract}
 
+:Video: {video}
+:Slide: {slide}
 :Language: {language}
 :Time: {datetime}
 :Room: {room}
 
 {speaker_with_line}
 """
+
+VIDEO_TEMPLATE = """- YouTube: {video}"""
+SLIDE_TEMPLATE = """- Slide: {slide_url}"""
 
 URL_TEMPLATE = """{url}"""
 
@@ -130,6 +140,9 @@ class TimeTableRows(object):
         'bio': '略歴 / Short biography',
         'topic': '講演テーマ / Topic',
         'url': 'URL',
+        'slide_url': 'slide url',
+        'slide_title': 'slide title',
+        'video': 'video',
     }
 
     FILTERS = {
@@ -265,6 +278,8 @@ def make_session(rows, template, type_=(), override_filters={}):
             bio = row.bio,
             topic = row.topic,
             url = row.url,
+            video = row.video,
+            slide = ''
         )
 
         for k in params:
@@ -275,6 +290,13 @@ def make_session(rows, template, type_=(), override_filters={}):
                     pass
                 except IndexError:
                     pass
+
+        # create slide link
+        if row.slide_url:
+            title = row.title_ja
+            if row.slide_title:
+                title = row.slide_title
+            params['slide'] = '`%s <%s>`_' % (title, row.slide_url)
 
         text = template.format(**params)
         sessions.append(text)

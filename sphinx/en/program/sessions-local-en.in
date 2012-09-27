@@ -5,6 +5,8 @@ How a 17 year old built a home VPS
 ==================================
 Pythonで製作したコントロールパネルによって、仮想マシンをウェブブラウザからコントロールするお話。
 
+:Video: http://www.youtube.com/watch?v=tOWZB9tFgu8
+:Slide: `ナウでヤングな17歳のVPS 構築機 <https://speakerdeck.com/u/yosida95/p/2012-dot-09-dot-15-pycon-jp-2012-%5Bnaudeyanguna17sui-falsevps-gou-zhu-ji-%5D>`_
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
@@ -31,6 +33,8 @@ Study of Education Python programming
 =====================================
 プログラミング未経験者を対象にPythonプログラミング教育を行った経験からプログラミングからシステム開発のスキルを学ぶときに気をつけるべき事項について示す。また、プログラミングの効率を改善するための開発環境等に関しても言及する。
 
+:Video: http://www.youtube.com/watch?v=WstviLaioDY
+:Slide: 
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
@@ -55,6 +59,8 @@ Is Python really all that useful in Blender?
 ============================================
 3DCG統合環境BlenderにおけるPythonの使われ方の事例を中心に、BlenderとPythonの現在の状況について紹介します。
 
+:Video: http://www.youtube.com/watch?v=vBXJHrwYhLw
+:Slide: `Pythonは本当にBlenderの役に立っているか? <http://www.slideshare.net/lab1092/20120915-pythonblender>`_
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
@@ -90,6 +96,8 @@ Pythonは残業を減らす唯一の方法です（嘘）
 
 
 
+:Video: http://www.youtube.com/watch?v=4D8kBAi4-IQ
+:Slide: 
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
@@ -117,6 +125,8 @@ Beginning Python
 2011年11月にPythonをはじめた新参者ですが、何か面白いことを喋れればと思います。Python経験1年未満、スクリプト言語自体も10年触れていない私が、ギークにm9プギャーされそうなここ10ヶ月を赤裸々に振り返ります。どうぞよろしくお願い致します。
 
 
+:Video: http://www.youtube.com/watch?v=MnU2zVn15SA
+:Slide: `Beginning Python <http://www.slideshare.net/satokencat/bp2012>`_
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 15 14:30-14:55
@@ -142,6 +152,8 @@ Systemizing Use of a Distributed Version Control System
 =======================================================
 分散バージョン管理システム(主にMercurial)をより良く使いこなすために、より効果的な構成管理を行うために必要なブランチ戦略とリポジトリの組織化の方法について、実例を交えて紹介します。
 
+:Video: http://www.youtube.com/watch?v=L3G62w_QQSg
+:Slide: `(分散)バージョン管理システムの組織化 <http://troter.jp/pyconjp-2012-dvcs/#slide1>`_
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 15 14:30-14:55
@@ -169,6 +181,8 @@ C/C++やJavaの経験者がPythonコードを書くと、なにかPythonっぽ�
 そのコード、Pythonっぽく書き換えませんか？
 
 
+:Video: http://www.youtube.com/watch?v=DCOvwsBzuVc
+:Slide: `Refactoring A Python Beginner's Code <http://shimizukawa.bitbucket.org/refactoring-python-beginners-code/index.html>`_
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 15 14:55-15:20
@@ -195,6 +209,8 @@ SQLAlchemy and I
 ================
 SQLAlchemyを利用したWebアプリケーション開発で押させておきたいポイントと、Tipsをまとめて、初心者向けとして紹介します。
 
+:Video: http://www.youtube.com/watch?v=4_NTLbkTnzw
+:Slide: `SQLAlchemyと僕 <http://tell-k.github.com/pyconjp2012/>`_
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 15 14:55-15:20
@@ -221,6 +237,8 @@ Testing with unittest
 =====================
 unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう
 
+:Video: http://www.youtube.com/watch?v=vHHooxFsviE
+:Slide: 
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
@@ -253,6 +271,8 @@ SnapDish: Photo sharing service
 ===============================
 SnapDishの設計・開発・運用・戦略までPython以外の話も交えて紹介します。何か新しくサービスを始める人たちのヒントになればよいと考えています。
 
+:Video: http://www.youtube.com/watch?v=Zu0QchoiKBk
+:Slide: `写真共有サービス SnapDish の事例 <http://www.slideshare.net/FumikazuKiyota/snapdish>`_
 :Audience: People are interested in the development and operation of information-related services
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
@@ -286,6 +306,8 @@ zc.buildout、Scons、waf を例に取り上げます。
 Introducing build tool written by Python, we accomplish effective development cycle with simple and portable configuration keeping consistent and flexible manner.
 Example tools are zc.buildout, Scons, and waf.
 
+:Video: http://www.youtube.com/watch?v=KXJNuJTXBEE
+:Slide: `Python 製ビルドツールのススメ        <https://docs.google.com/presentation/d/1-oO3qw9cS5aKApI2wjJwGAj0g0udnbuBp-tkW-90-Uw/edit#slide=id.p>`_
 :Audience: intermediate programmer / advanced programmer
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
@@ -307,6 +329,8 @@ Inside NIFTY Cloud C4SA
 =======================
 国産 PaaS である NIFTY Cloud C4SA は、コア部分が Python で作られています。本講演では、基本的な C4SA の構成の解説から、なんで大人気の rails じゃなくて Python で作ることにしたのかなどの経緯などをお話させていただきます。もちろん、C4SA は Python が動く PaaS です。
 
+:Video: http://www.youtube.com/watch?v=KqYKH05E9Gk
+:Slide: 
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
@@ -345,6 +369,8 @@ A Distributed KVS Framework using Tornado
 =========================================
 クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。
 
+:Video: http://www.youtube.com/watch?v=5WTSdyvK3QY
+:Slide: 
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 10:00-10:25
@@ -371,6 +397,8 @@ A Python old timer's web2py Challenge
 =====================================
 45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。
 
+:Video: http://www.youtube.com/watch?v=ABBksVChDAA
+:Slide: 
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 16 10:00-10:25
@@ -428,6 +456,8 @@ alnair: Simple System Configuration Framework
 そのサーバー構築の為のツールとしてChefやPuppetなどがありますが、
 よりシンプルなツールとしてPythonで開発されたalnairを紹介します。
 
+:Video: http://www.youtube.com/watch?v=ZLcSnreXvj4
+:Slide: `シンプルなシステム構成フレームワーク alnair <http://www.slideshare.net/naoina/alnair>`_
 :Audience: intermediate programmer / advanced programmer
 :Language: Japanese
 :Time: Sep 16 10:25-10:50
@@ -453,6 +483,8 @@ Try Sublime Text 2
 注目エディタ Sublime Text 2 の紹介と、Python で機能拡張する方法について
 
 
+:Video: http://www.youtube.com/watch?v=LTBS7Fj5MwM
+:Slide: `Sublime Text 2 を使おう <https://speakerdeck.com/u/kawanoshinobu/p/pyconjp-2012-try-sublime-text>`_
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :Time: Sep 16 10:25-10:50
@@ -481,6 +513,8 @@ The Python Development Environment
 ==================================
 Pythonを用いたソフトウェア開発に必要な様々な項目を実現する上で使えるツール、およびそれらの構成などを、コード編集、Pythonの管理、ワークスペースの管理、パッケージの管理、テストの管理、継続ビルド・テスト、ドキュメントの各観点から紹介する。
 
+:Video: http://www.youtube.com/watch?v=3ntNXzzgZDs
+:Slide: `Pythonを取り巻く開発環境 <https://docs.google.com/file/d/0B5k3Cg7nkTt1UnRVbTNhYl9PNjA/edit>`_
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 11:00-11:45
@@ -507,6 +541,8 @@ Web Programming with Python 3
 =============================
 Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。
 
+:Video: http://www.youtube.com/watch?v=SespFNc5l4E
+:Slide: 
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 15:15-16:00
@@ -540,6 +576,8 @@ gevent はコルーチンベースのネットワークプログラミングラ�
 本セッションでは、 gevent の仕組み、他の仕組みに比べた gevent の長所、
 そして gevent によるプログラミングについて解説します。
 
+:Video: http://www.youtube.com/watch?v=RJG_XKSuGNE
+:Slide: `gevent <https://github.com/methane/pyconjp2012-gevent-slide>`_
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 15:15-16:00
@@ -569,6 +607,8 @@ Python with Mini 4WD on Windows Azure
 マイクロソフトのクラウドプラットフォーム「Windows Azure」上でPython の実行環境を利用することができます。
 本セッションでは、ミニ四駆を使ったデモを交えながら Python を Windows Azure で利用する際の方法をご紹介します。
 
+:Video: http://www.youtube.com/watch?v=cuRr34_u5vc
+:Slide: `ミニ四駆で Python on Windows Azure <http://www.slideshare.net/tfmagician/python-on-windows-azure>`_
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 16:45-17:10
@@ -596,6 +636,8 @@ Why A Company Who Had Never Done Independent Development, Chose Python
 今まで社内に開発体制を持っていなかった僕らが、なぜ python を共通言語として選び、開発グループを作るに至ったかを話してみたいと思います。
 仕事でも自分の好きなことがやりたい人に向けて、どうやって仕事を作るかの参考になればと思います。
 
+:Video: http://www.youtube.com/watch?v=sxW5_BH3-A4
+:Slide: 
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 16 16:45-17:10
@@ -622,6 +664,8 @@ Social Game and Message Queue
 =============================
 前半で、メッセージングとは何か？何故、ソーシャルゲームにメッセージングが必要なのか？を解説。後半で、RabbitMQ + kombu による具体例の紹介や ZeroMQ Python Binding の紹介を行う。
 
+:Video: http://www.youtube.com/watch?v=UTGAbADtcAg
+:Slide: 
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 17:10-17:35
@@ -648,6 +692,8 @@ What the Python Community Has Given To Me
 =========================================
 昨年PyCon JPに参加した事を契機に、コミュニティ活動に参加だけでなく企画をするようになりました。どこにでもいる普通の非PythonエンジニアがPyCon JPに参加した事をきっかけに得た事や変化した事、コミュニティの歩き方についてお話しします。
 
+:Video: http://www.youtube.com/watch?v=-vUsAblgvwU
+:Slide: `Pythonコミュニティが私に与えてくれたもの <http://www.slideshare.net/TomomiK/python-14305984>`_
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 16 17:10-17:35
@@ -674,6 +720,8 @@ Web framework Panel Discussion
 
 今年はFlaskの作者であり基調講演を行うArmin Ronacherを初めとした各フレームワークの第一人者を迎え、 `Flask <http://flask.pocoo.org/>`_, `Django <https://www.djangoproject.com/>`_, `Pyramid <http://www.pylonsproject.org/>`_, `Google App Engine <https://developers.google.com/appengine/?hl=ja>`_ の利点と欠点を赤裸々に討論して頂きます。
 
+:Video: http://www.youtube.com/watch?v=0OtwD-GE0n8
+:Slide: 
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :Time: Sep 16 17:45-18:45
@@ -707,6 +755,8 @@ But as the other side, there is less "syntax freedom" due to Python's nature. Th
 In this session, I'll show you problems and solutions about DSL design in Python which were happened through development of my products (Oktest, Tenjin, Benchmarker, Kook, etc).
 
 
+:Video: http://www.youtube.com/watch?v=l8ptNmtB0G8
+:Slide: 
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 17:45-18:10
@@ -741,6 +791,8 @@ Python Gateway Programming
 ==========================
 ZigBee機器とクラウドサービスを繋げるPythonゲートウェイを紹介します。
 
+:Video: http://www.youtube.com/watch?v=N7SasSG1l4U
+:Slide: 
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 16 18:10-18:35

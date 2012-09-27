@@ -10,6 +10,8 @@ Djangoについて
   * クラスベース汎用ビュー
   * app template (django-skel)
 
+:Video: http://www.youtube.com/watch?v=mztNbPjeXe0
+:Slide: `使えるDjango1.4 <http://www.slideshare.net/hirokiky/django14>`_
 :Language: Japanese
 :Time: Sep 15 11:00-11:45
 :Room: Room 452
@@ -34,6 +36,8 @@ Pyramidについて
 Pyramidの特徴
 PyramidのためのPythonの知識
 
+:Video: http://www.youtube.com/watch?v=ZM59E3G7Amc
+:Slide: `What Makes Pyramid Unique! <http://www.slideshare.net/aodag/what-makes-pyramid-unique>`_
 :Language: Japanese
 :Time: Sep 15 13:30-14:15
 :Room: Room 452
@@ -56,6 +60,8 @@ M2M Cloud Platform using Django
 ===============================
 Djangoを利用したM2Mサーバの実例について紹介
 
+:Video: http://www.youtube.com/watch?v=m8xM4n7kGVA
+:Slide: 
 :Language: Japanese
 :Time: Sep 15 14:30-15:15
 :Room: Room 452
@@ -73,6 +79,8 @@ Pyramid Security
 ================
 * Pyramidセキュリティ
 
+:Video: http://www.youtube.com/watch?v=OTVvH1qx7bM
+:Slide: `Pyramid Security <http://www.slideshare.net/jbking/pyramid-security>`_
 :Language: Japanese
 :Time: Sep 15 15:30-16:15
 :Room: Room 452
@@ -95,6 +103,8 @@ Asynchronous Processing using Django-Celery
 ===========================================
 Celeryを使ったリアルタイム処理について紹介。 事例を通した具体的な話も
 
+:Video: http://www.youtube.com/watch?v=Rv-EJaoizpA
+:Slide: `Django-Celeryで非同期処理 <http://hdknr.bitbucket.org/celery/>`_
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
 :Room: Room 452
@@ -112,6 +122,8 @@ Pyramid Migration Guide for Pylons Users
 ========================================
 これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介
 
+:Video: http://www.youtube.com/watch?v=31hrBjeU5sk
+:Slide: `Pylons ユーザのための Pyramid 移行ガイド <https://github.com/knzm/pyconjp2012/wiki>`_
 :Language: Japanese
 :Time: Sep 16 10:00-10:45
 :Room: Room 452
@@ -129,6 +141,8 @@ Django Lessons Learned @BeProud
 ===============================
 3年以上Djangoを使って開発をしてきたBeProudで、 経験したこと、勉強になったことを共有
 
+:Video: http://www.youtube.com/watch?v=zxBfTGgNdA8
+:Slide: `Django Lessons Learned @BeProud <http://ianlewis.bitbucket.org/django_lessons_learned_pyconjp2012/template/#1>`_
 :Language: Japanese
 :Time: Sep 16 11:00-11:45
 :Room: Room 452
