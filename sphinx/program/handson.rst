@@ -36,6 +36,7 @@ Pythonプログラミングハンズオン(初心者向け)
    `岡野 真也 / Shinya Okano <https://twitter.com/tokibito>`_
 
 :講師: 岡野 真也 / Shinya Okano
+:資料: `PyCon JP 2012 Pythonプログラミングハンズオン(初級者向け) <http://pyconjp2012-python-for-beginners.readthedocs.org/en/latest/index.html>`_
 :対象: 初心者
 :言語: 日本語
 :日時: 09/15 11:00 - 14:15 (昼食挟む)
@@ -81,6 +82,7 @@ Pythonプログラミングハンズオン(初心者向け)
    `磯 蘭水 / Ransui Iso <https://twitter.com/ransui>`_
 
 :講師: 磯 蘭水 / Ransui Iso
+:資料: `ソフトシンセを作りながら学ぶPythonプログラミング <http://www.slideshare.net/RansuiIso/python-14315727>`_
 :対象: 初心者
 :言語: 日本語
 :日時: 09/15 14:30 - 17:15 (休憩挟む)
@@ -166,6 +168,7 @@ Pythonに限らずプログラミングの初級者は「Hello Worldは表示で
    `石本 敦夫 / Atsuo Ishimoto <https://twitter.com/atsuoishimoto>`_
 
 :講師: 石本 敦夫 / Atsuo Ishimoto
+:資料: `FlaskによるWebアプリケーションの実装とプログラミングツール <https://github.com/atsuoishimoto/pyconjp_2012/blob/master/PyConJP_2012.pdf>`
 :対象: 中級者
 :言語: 日本語
 :日時: 09/16 10:00 - 11:45 (休憩挟む)

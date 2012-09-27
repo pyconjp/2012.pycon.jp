@@ -2,10 +2,9 @@
  Lightning Talks
 =================
 
-.. figure:: /_static/program/lightning-talks.jpg
-   :alt: Entry sheet
+.. raw:: html
 
-   Entry sheet
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/FDOrCsJ76lM" frameborder="0" allowfullscreen></iframe>
 
 :Language: English or Japanese
 :Time: Sep 15 17:30-18:30

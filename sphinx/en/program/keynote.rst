@@ -23,13 +23,16 @@ He is currently working for Fireteam_, a game services company in London.
 .. _flask: http://flask.pocoo.org/
 .. _Fireteam: http://fireteam.net/
 
+:Slide: `Happiness Through Ignorance <https://speakerdeck.com/u/mitsuhiko/p/happiness-through-ignorance>`_
 :Language: English
 :Time: Sep 15 09:45-10:45
 :Room: Room 230
 
+.. raw:: html
+
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/EDlFk1hc8kc" frameborder="0" allowfullscreen></iframe>
 
 .. _session-16-1400-Room433-en:
-
 
 小飼 弾 / Dan Kogai
 ===================
@@ -40,7 +43,11 @@ Born in the same year as TCP/IP (1969), `Dan Kogai <http://twitter.com/dankogai>
 
 - Twitter: `@dankogai <https://twitter.com/#!/dankogai>`_
 
+:Slide: `Python as a Foreign Language <http://www.dan.co.jp/~dankogai/pyconjp2012/python.html>`_
 :Language: Japanese
 :Time: Sep 16 14:00-15:00
 :Room: Room 433
 
+.. raw:: html
+
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/H8zcRv_XyeQ" frameborder="0" allowfullscreen></iframe>

@@ -2,10 +2,9 @@
  ライトニングトーク
 ====================
 
-.. figure:: /_static/program/lightning-talks.jpg
-   :alt: ライトニングトークのエントリーシート
+.. raw:: html
 
-   ライトニングトークのエントリーシート
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/FDOrCsJ76lM" frameborder="0" allowfullscreen></iframe>
 
 :言語: 英語または日本語
 :日時: Sep 15 17:30-18:30

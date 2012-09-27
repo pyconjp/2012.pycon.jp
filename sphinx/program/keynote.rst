@@ -25,10 +25,14 @@ Jinja2_ テンプレートエンジンなどを作成している Python の熱�
 .. _flask: http://flask.pocoo.org/
 .. _Fireteam: http://fireteam.net/
 
+:スライド: `Happiness Through Ignorance <https://speakerdeck.com/u/mitsuhiko/p/happiness-through-ignorance>`_
 :言語: 英語(同時通訳あり)
 :日時: Sep 15 09:45-10:45
 :場所: Room 230
 
+.. raw:: html
+
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/EDlFk1hc8kc" frameborder="0" allowfullscreen></iframe>
 
 .. _session-16-1400-Room433-ja:
 
@@ -43,6 +47,12 @@ TCP/IPが生まれた1969年生まれ。投資家/プログラマ/ブロガー�
 
 - Twitter: `@dankogai <https://twitter.com/#!/dankogai>`_
 
+:スライド: `Python as a Foreign Language <http://www.dan.co.jp/~dankogai/pyconjp2012/python.html>`_
 :言語: 日本語
 :日時: Sep 16 14:00-15:00
 :場所: Room 433
+
+.. raw:: html
+
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/H8zcRv_XyeQ" frameborder="0" allowfullscreen></iframe>
+

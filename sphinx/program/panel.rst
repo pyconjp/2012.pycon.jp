@@ -2,10 +2,9 @@
 Webフレームワークパネル
 =======================
 
-.. figure:: /_static/program/python-web-company-panel-2011.jpg
-   :alt: 去年のパネルディスカッションの様子
+.. raw:: html
 
-   去年のパネルディスカッションの様子
+   <iframe width="560" height="315" src="http://www.youtube.com/embed/0OtwD-GE0n8" frameborder="0" allowfullscreen></iframe>
 
 :対象: 初心者 / 中級者
 :言語: 日本語
@@ -19,8 +18,6 @@ Webフレームワークパネル
 Flask_, `Django <https://www.djangoproject.com/>`_, `Pyramid <http://www.pylonsproject.org/>`_, `Google App Engine <https://developers.google.com/appengine/?hl=ja>`_ の利点と欠点を赤裸々に討論して頂きます。
 
 この討論を聴いて頂ければ、状況に応じたwebフレームワークの選択が出来るようになるはずです。
-
-
 
 出演者
 ======
