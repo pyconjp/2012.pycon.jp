@@ -8,7 +8,7 @@ NVDA is written primarily in the Python programming language.
 The speaker will explain what are the difficulties in programming screen reader, what is the benefits of using Python language, and in what ways NVDA is being developed.
 
 :ビデオ: http://www.youtube.com/watch?v=BaRjKXvhJdo
-:スライド: 
+:スライド: `NVDA: Open Source Screen Reader Written in Python <http://www.nvda.jp/2012/curran-PyConJP-2012-NVDA-presentation.html>`_
 :言語: 英語
 :日時: Sep 16 15:15-16:00
 :場所: Room 358
@@ -33,7 +33,7 @@ Taiwan Digital Talking Books Association (TDTB) is supporting development of NVD
 This talk overviews how NVDA is used in Taiwan.
 
 :ビデオ: http://www.youtube.com/watch?v=61FYUfh0J10
-:スライド: 
+:スライド: `The Development and Promotion of NVDA in Taiwan <http://www.nvda.jp/2012/wang-wu-PyCon2012_Taiwan.txt>`_
 :言語: 英語
 :日時: Sep 16 16:45-17:10
 :場所: Room 358
@@ -60,7 +60,7 @@ In Japan, localized version of NVDA, which supports Japanese text-to-speech synt
 This talk overviews the features necessary for Japanese screen reader, and the development of NVDAJP.
 
 :ビデオ: http://www.youtube.com/watch?v=HYQaX_xuKJQ
-:スライド: 
+:スライド: `The Localization of NVDA for Japanese Language Users <http://www.nvda.jp/2012/nishimoto-NVDA-Japanese-en.txt>`_
 :言語: 日本語
 :日時: Sep 16 17:10-17:35
 :場所: Room 358
@@ -90,7 +90,7 @@ DAISY Consortium is a not-for-profit international association that develops, ma
 This talk gives the history of DAISY project, potential roles in global development of inclusive societies, and what is expected of the NVDA community from this point of view.
 
 :ビデオ: http://www.youtube.com/watch?v=7oUq3rfjgHY
-:スライド: 
+:スライド: `Development of Global Open Standard for Developing Countries <http://www.nvda.jp/2012/kawamura-nvda.txt>`_
 :言語: 日本語
 :日時: Sep 16 17:45-18:30
 :場所: Room 358
