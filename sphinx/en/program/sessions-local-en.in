@@ -370,7 +370,7 @@ A Distributed KVS Framework using Tornado
 クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。
 
 :Video: http://www.youtube.com/watch?v=5WTSdyvK3QY
-:Slide: 
+:Slide: `Tornadoで分散KVSフレームワーク <http://www.slideshare.net/kishimotosc/pyvortex>`_
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 10:00-10:25

@@ -447,7 +447,7 @@ This year, we will be holding an after-party on the first day of PyCon JP at the
 Our two keynote speakers as well as a large number of our attendees will be attending, so it should be a lot of fun interacting and hanging out with fellow Pythonistas!",,,,,,,,,,
 開場,Open,開場,Open,Key,9/16,9/16/2012 9:00:00,9/16/2012 10:00:00,,Key Event; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,,,,
 Pylons ユーザのための Pyramid 移行ガイド,Pyramid Migration Guide for Pylons Users,,,併設; Django & Pylons,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 452,Django & Pylons; Room 452,,@knzm2011,Nozomu Kaneko,,,,,,,,これまで Pylons を使っていた人が Pyramid に移行する際に知っておくべきことを紹介,,Pylons,,,日本語 / Japanese,,,https://github.com/knzm/pyconjp2012/wiki,,http://www.youtube.com/watch?v=31hrBjeU5sk
-Tornadoで分散KVSフレームワーク,A Distributed KVS Framework using Tornado,,,日本語; スポンサー,9/16,9/16/2012 10:00:00,9/16/2012 10:25:00,Room 433,Japanese; Room 433,スポンサー,岸本 康二,岸本 康二 / Koji Kishimoto,Koji,Kishimoto,kishimoto@s-cubism.jp,http://s-cubism.jp/,十数年前の大学の研究室時代にPythonに出合って以来、そのバランスの良さとエレガントさに魅せられてずっとPythonを使ってきました。会社では科学計算やCMS、ECなどの用途向けに開発などを行い、現在は先進的な分散KVSとその応用にPythonと共に取り組んでいます。,http://s-cubism.jp/careers/staff/img/cfng_snd_leftmenu_icon03.gif,kishimoto.gif,クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,,,,http://www.youtube.com/watch?v=5WTSdyvK3QY
+Tornadoで分散KVSフレームワーク,A Distributed KVS Framework using Tornado,,,日本語; スポンサー,9/16,9/16/2012 10:00:00,9/16/2012 10:25:00,Room 433,Japanese; Room 433,スポンサー,岸本 康二,岸本 康二 / Koji Kishimoto,Koji,Kishimoto,kishimoto@s-cubism.jp,http://s-cubism.jp/,十数年前の大学の研究室時代にPythonに出合って以来、そのバランスの良さとエレガントさに魅せられてずっとPythonを使ってきました。会社では科学計算やCMS、ECなどの用途向けに開発などを行い、現在は先進的な分散KVSとその応用にPythonと共に取り組んでいます。,http://s-cubism.jp/careers/staff/img/cfng_snd_leftmenu_icon03.gif,kishimoto.gif,クラウド環境上でCassandraを使って業務をこなしている時に思ったことを解消するべく、Pythonの代表的WEBサーバTornadoを使って実験的に分散KVSのフレームワークを構築してみました。最初からクラウド環境を想定した分散KVSとはどのようなものか、案件をベースにしたノウハウと共にご説明致します。,,,,中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,,http://www.slideshare.net/kishimotosc/pyvortex,,http://www.youtube.com/watch?v=5WTSdyvK3QY
 はじめてのWeb(Flask)アプリケーション(中級者),Hands on: Web(Flask) Application,,,ハンズオン,9/16,9/16/2012 10:00:00,9/16/2012 10:45:00,Room 358,Hands on; Room 358,,@atsuoishimoto,Atsuo Ishimoto,,,,,,,,"Flaskによる簡単なWebアプリケーションの実装を通じ、実用的なPythonプログラミングの実践と、プログラミングツールの使い方を実習します。
 
 ・Flaskによる、Webアプリケーションの実装
@@ -621,7 +621,7 @@ Pythonコミュニティが私に与えてくれたもの,What the Python Commun
 Sphinxの平凡な使い方 ～業務での利用事例～,How to use Sphinx,,,併設; Sphinx,9/16,9/16/2012 17:45:00,9/16/2012 18:00:00,Room 452,Sphinx; Room 452,,@usaturn,山田 剛 / Goh Yamada,,,,,所属: ネットサポート株式会社,https://twimg0-a.akamaihd.net/profile_images/1365715199/md_bigger.png,hamada.png,ターゲットは、Sphinxに興味はあるけど、まだ使ったことが無い人です。,"* 使い始めたきっかけ
 * 利用事例
 * 使っていく上で感じたSphinxのメリット、デメリット
-* その他",Sphinx,25,,日本語 / Japanese,可 / Video recording OK,,,,http://www.youtube.com/watch?v=SoehUIC3RKc
+* その他",Sphinx,25,,日本語 / Japanese,可 / Video recording OK,,http://www.slideshare.net/goyamada92/sphinx-14566291,,http://www.youtube.com/watch?v=SoehUIC3RKc
 Webフレームワークパネル,Web framework Panel Discussion,:doc:`panel`,:doc:`panel`,日本語,9/16,9/16/2012 17:45:00,9/16/2012 18:45:00,Room 433,Japanese; Room 433,,Modelator: Yoshifumi Yamaguchi,Modelator: 山口 能迪 / Yoshifumi Yamaguchi,,,,,"Panelist:
 
 - Armin Ronacher(Flask)
