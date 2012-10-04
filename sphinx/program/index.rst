@@ -40,6 +40,8 @@ Day1 19:00から別会場にてPartyがあります。参加登録について�
    :stub-columns: 1
    :file: schedule2-ja.csv
 
+.. include:: slide-video-ja.in
+
 .. _timetable-day3-ja:
 
 Day 3 : 2012年9月17 (月・祝日)

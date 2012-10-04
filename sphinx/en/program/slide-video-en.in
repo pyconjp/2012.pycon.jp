@@ -1,0 +1,424 @@
+
+.. |doc0| image:: /_static/documents.png
+   :target: http://www.slideshare.net/takanory/pycon-jp-2012-opening
+   :alt: Document: Opening
+
+.. |doc1| image:: /_static/documents.png
+   :target: https://speakerdeck.com/u/mitsuhiko/p/happiness-through-ignorance
+   :alt: Document: Keynote
+
+.. |doc2| image:: /_static/documents.png
+   :target: http://www.slideshare.net/hirokiky/django14
+   :alt: Document: Using Django 1.4
+
+.. |doc3| image:: /_static/documents.png
+   :target: https://speakerdeck.com/u/yosida95/p/2012-dot-09-dot-15-pycon-jp-2012-%5Bnaudeyanguna17sui-falsevps-gou-zhu-ji-%5D
+   :alt: Document: How a 17 year old built a home VPS
+
+.. |doc4| image:: /_static/documents.png
+   :target: http://pyconjp2012-python-for-beginners.readthedocs.org/en/latest/index.html
+   :alt: Document: Hands on: Beginner Python Programming
+
+.. |doc5| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1yb7DIzKA8agVBNpwWCpttzRwDWgJWI-HFTduTMxcQIE/edit#slide=id.p
+   :alt: Document: App Engine Updates - 2012       
+
+.. |doc6| image:: /_static/documents.png
+   :target: http://www.slideshare.net/hychen/python-type-and-object
+   :alt: Document: Python Type and Object
+
+.. |doc7| image:: /_static/documents.png
+   :target: http://www.slideshare.net/aodag/what-makes-pyramid-unique
+   :alt: Document: What Makes Pyramid Unique!
+
+.. |doc8| image:: /_static/documents.png
+   :target: http://www.slideshare.net/lab1092/20120915-pythonblender
+   :alt: Document: Is Python really all that useful in Blender?
+
+.. |doc9| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1mMNENPbdjsNiJtVlK71zc9hV-hXXtwZah_qfaLzSzd0/edit#slide=id.p16
+   :alt: Document: An Overview of Full Text Seach
+
+.. |doc10| image:: /_static/documents.png
+   :target: http://www.slideshare.net/satokencat/bp2012
+   :alt: Document: Beginning Python
+
+.. |doc11| image:: /_static/documents.png
+   :target: http://www.slideshare.net/RansuiIso/python-14315727
+   :alt: Document: Hands on: Creating a Music Synthesizer in Python
+
+.. |doc12| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1itvvB_sVJSH30cR479PSeaHjnVDMvy3KNr9R_G5-MEs/edit#slide=id.p
+   :alt: Document: Introduction to the Python NDV API
+
+.. |doc13| image:: /_static/documents.png
+   :target: http://troter.jp/pyconjp-2012-dvcs/#slide1
+   :alt: Document: Systemizing Use of a Distributed Version Control System
+
+.. |doc14| image:: /_static/documents.png
+   :target: http://shimizukawa.bitbucket.org/refactoring-python-beginners-code/index.html
+   :alt: Document: Refactoring a Python Beginner's Code
+
+.. |doc15| image:: /_static/documents.png
+   :target: http://tell-k.github.com/pyconjp2012/
+   :alt: Document: SQLAlchemy and I
+
+.. |doc16| image:: /_static/documents.png
+   :target: http://www.slideshare.net/jbking/pyramid-security
+   :alt: Document: Pyramid Security
+
+.. |doc17| image:: /_static/documents.png
+   :target: http://www.slideshare.net/bluerabbit777jp/google-app-engine-14331900
+   :alt: Document: Panel Discussion : Why are we choose Google App Engine?
+
+.. |doc18| image:: /_static/documents.png
+   :target: http://www.slideshare.net/FumikazuKiyota/snapdish
+   :alt: Document: SnapDish: Photo sharing service
+
+.. |doc19| image:: /_static/documents.png
+   :target: http://hdknr.bitbucket.org/celery/
+   :alt: Document: Asynchronous Processing using Django-Celery
+
+.. |doc20| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1-oO3qw9cS5aKApI2wjJwGAj0g0udnbuBp-tkW-90-Uw/edit#slide=id.p
+   :alt: Document: Using Python Build Tools 
+
+.. |doc21| image:: /_static/documents.png
+   :target: https://github.com/knzm/pyconjp2012/wiki
+   :alt: Document: Pyramid Migration Guide for Pylons Users
+
+.. |doc22| image:: /_static/documents.png
+   :target: http://www.slideshare.net/kishimotosc/pyvortex
+   :alt: Document: A Distributed KVS Framework using Tornado
+
+.. |doc23| image:: /_static/documents.png
+   :target: https://github.com/atsuoishimoto/pyconjp_2012/blob/master/PyConJP_2012.pdf
+   :alt: Document: Hands on: Web(Flask) Application
+
+.. |doc24| image:: /_static/documents.png
+   :target: https://github.com/ryotaro/pyconjp2012slide/blob/master/master/Fundamental%20Technologies%20Used%20in%20PyPy%20JIT%20Compiler.pptx
+   :alt: Document: Fundamental Technologies Used in PyPy JIT Compiler
+
+.. |doc25| image:: /_static/documents.png
+   :target: http://www.slideshare.net/naoina/alnair
+   :alt: Document: alnair: Simple System Configuration Framework
+
+.. |doc26| image:: /_static/documents.png
+   :target: https://speakerdeck.com/u/kawanoshinobu/p/pyconjp-2012-try-sublime-text
+   :alt: Document: Try Sublime Text 2
+
+.. |doc27| image:: /_static/documents.png
+   :target: http://ianlewis.bitbucket.org/django_lessons_learned_pyconjp2012/template/#1
+   :alt: Document: Django Lessons Learned @BeProud
+
+.. |doc28| image:: /_static/documents.png
+   :target: https://docs.google.com/file/d/0B5k3Cg7nkTt1UnRVbTNhYl9PNjA/edit
+   :alt: Document: The Python Development Environment
+
+.. |doc29| image:: /_static/documents.png
+   :target: http://www.dan.co.jp/~dankogai/pyconjp2012/python.html
+   :alt: Document: Keynote
+
+.. |doc30| image:: /_static/documents.png
+   :target: http://www.slideshare.net/TakeshiKomiya/sphinx-2012-pyconjp-sphinxconjp
+   :alt: Document: Documentation with Sphinx
+
+.. |doc31| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/curran-PyConJP-2012-NVDA-presentation.html
+   :alt: Document: NVDA: Open Source Screen Reader Written in Python
+
+.. |doc32| image:: /_static/documents.png
+   :target: https://github.com/methane/pyconjp2012-gevent-slide
+   :alt: Document: gevent
+
+.. |doc33| image:: /_static/documents.png
+   :target: http://www.slideshare.net/torufurukawa/trying-continuous-delivery-pyconjp-2012
+   :alt: Document: Trying Continuous Delivery
+
+.. |doc34| image:: /_static/documents.png
+   :target: http://tdoc.info/sphinxcon2012/
+   :alt: Document: Explore Sphinx Extensions
+
+.. |doc35| image:: /_static/documents.png
+   :target: http://shkumagai.github.com/slides/sphinxcon.jp.201209/#/title
+   :alt: Document: Sphinx HTML Theme Creation First Steps
+
+.. |doc36| image:: /_static/documents.png
+   :target: http://www.slideshare.net/tfmagician/python-on-windows-azure
+   :alt: Document: Python with Mini 4WD on Windows Azure
+
+.. |doc37| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/wang-wu-PyCon2012_Taiwan.txt
+   :alt: Document: The Development and Promotion of NVDA in Taiwan
+
+.. |doc38| image:: /_static/documents.png
+   :target: http://www.slideshare.net/shimizukawa/sphinx-pyconjp-2012
+   :alt: Document: Writing a Book Using Sphinx
+
+.. |doc39| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/nishimoto-NVDA-Japanese-en.txt
+   :alt: Document: The Localization of NVDA for Japanese Language Users
+
+.. |doc40| image:: /_static/documents.png
+   :target: http://www.slideshare.net/TomomiK/python-14305984
+   :alt: Document: What the Python Community Has Given To Me
+
+.. |doc41| image:: /_static/documents.png
+   :target: http://www.slideshare.net/goyamada92/sphinx-14566291
+   :alt: Document: How to use Sphinx
+
+.. |doc42| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/kawamura-nvda.txt
+   :alt: Document: Development of Global Open Standard for Developing Countries
+
+.. |doc43| image:: /_static/documents.png
+   :target: http://www.slideshare.net/takanory/how-to-spread-rest-and-sphinx
+   :alt: Document: How to disperse Sphinx and reST
+
+.. |doc44| image:: /_static/documents.png
+   :target: https://gist.github.com/3730720
+   :alt: Document: docutils in sphinx
+
+.. |doc45| image:: /_static/documents.png
+   :target: http://www.slideshare.net/takanory/pycon-jp-2012-closing
+   :alt: Document: Closing
+
+.. |video0| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=EDlFk1hc8kc
+   :alt: Video: Keynote
+
+.. |video1| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=mztNbPjeXe0
+   :alt: Video: Using Django 1.4
+
+.. |video2| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=tOWZB9tFgu8
+   :alt: Video: How a 17 year old built a home VPS
+
+.. |video3| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ujrJNLd0jI4
+   :alt: Video: Python Type and Object
+
+.. |video4| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=WstviLaioDY
+   :alt: Video: Study of Education Python programming
+
+.. |video5| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ZM59E3G7Amc
+   :alt: Video: What Makes Pyramid Unique!
+
+.. |video6| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=vBXJHrwYhLw
+   :alt: Video: Is Python really all that useful in Blender?
+
+.. |video7| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=VzYdkYhPMj0
+   :alt: Video: An Overview of Full Text Seach
+
+.. |video8| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Gd05QjkceH8
+   :alt: Video: MongoDB with Python
+
+.. |video9| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=4D8kBAi4-IQ
+   :alt: Video: How Pythonistas Work
+
+.. |video10| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=m8xM4n7kGVA
+   :alt: Video: M2M Cloud Platform using Django
+
+.. |video11| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=MnU2zVn15SA
+   :alt: Video: Beginning Python
+
+.. |video12| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=hldoRF7fZEo
+   :alt: Video: Introduction to the Python NDV API
+
+.. |video13| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=-7GTPv7LjC4
+   :alt: Video: Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program
+
+.. |video14| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=L3G62w_QQSg
+   :alt: Video: Systemizing Use of a Distributed Version Control System
+
+.. |video15| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=DCOvwsBzuVc
+   :alt: Video: Refactoring a Python Beginner's Code
+
+.. |video16| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=4_NTLbkTnzw
+   :alt: Video: SQLAlchemy and I
+
+.. |video17| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=OTVvH1qx7bM
+   :alt: Video: Pyramid Security
+
+.. |video18| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=vHHooxFsviE
+   :alt: Video: Testing with unittest
+
+.. |video19| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=fWUuR65O958
+   :alt: Video: Panel Discussion : Why are we choose Google App Engine?
+
+.. |video20| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=EaYkSPK6rXY
+   :alt: Video: Gunicorn what's next? The new web challenge
+
+.. |video21| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Zu0QchoiKBk
+   :alt: Video: SnapDish: Photo sharing service
+
+.. |video22| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Rv-EJaoizpA
+   :alt: Video: Asynchronous Processing using Django-Celery
+
+.. |video23| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=KXJNuJTXBEE
+   :alt: Video: Using Python Build Tools 
+
+.. |video24| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=FTGdLnx_ep0
+   :alt: Video: Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
+
+.. |video25| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=KqYKH05E9Gk
+   :alt: Video: Inside NIFTY Cloud C4SA
+
+.. |video26| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=FDOrCsJ76lM
+   :alt: Video: Lightning Talks
+
+.. |video27| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=31hrBjeU5sk
+   :alt: Video: Pyramid Migration Guide for Pylons Users
+
+.. |video28| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=5WTSdyvK3QY
+   :alt: Video: A Distributed KVS Framework using Tornado
+
+.. |video29| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ABBksVChDAA
+   :alt: Video: A Python old timer's web2py Challenge
+
+.. |video30| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=DVhmEa1uudI
+   :alt: Video: Fundamental Technologies Used in PyPy JIT Compiler
+
+.. |video31| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ZLcSnreXvj4
+   :alt: Video: alnair: Simple System Configuration Framework
+
+.. |video32| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=LTBS7Fj5MwM
+   :alt: Video: Try Sublime Text 2
+
+.. |video33| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=zxBfTGgNdA8
+   :alt: Video: Django Lessons Learned @BeProud
+
+.. |video34| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=3ntNXzzgZDs
+   :alt: Video: The Python Development Environment
+
+.. |video35| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=pVUhKcJbv-U
+   :alt: Video: Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python
+
+.. |video36| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=H8zcRv_XyeQ
+   :alt: Video: Keynote
+
+.. |video37| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=YRa-eN9Chy0
+   :alt: Video: Documentation with Sphinx
+
+.. |video38| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=BaRjKXvhJdo
+   :alt: Video: NVDA: Open Source Screen Reader Written in Python
+
+.. |video39| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=SespFNc5l4E
+   :alt: Video: Web Programming with Python 3
+
+.. |video40| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=RJG_XKSuGNE
+   :alt: Video: gevent
+
+.. |video41| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=hpTtlnRYOfk
+   :alt: Video: Trying Continuous Delivery
+
+.. |video42| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Po4yAQQ2qLc
+   :alt: Video: Sphinx HTML Theme Creation First Steps
+
+.. |video43| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=cuRr34_u5vc
+   :alt: Video: Python with Mini 4WD on Windows Azure
+
+.. |video44| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=61FYUfh0J10
+   :alt: Video: The Development and Promotion of NVDA in Taiwan
+
+.. |video45| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=sxW5_BH3-A4
+   :alt: Video: Why A Company Who Had Never Done Independent Development, Chose Python
+
+.. |video46| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=tRYpdm-e5Ro
+   :alt: Video: Python in Gait Biomechanics Research
+
+.. |video47| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=7VOJpFHnPWg
+   :alt: Video: Writing a Book Using Sphinx
+
+.. |video48| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=UTGAbADtcAg
+   :alt: Video: Social Game and Message Queue
+
+.. |video49| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=HYQaX_xuKJQ
+   :alt: Video: The Localization of NVDA for Japanese Language Users
+
+.. |video50| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=-vUsAblgvwU
+   :alt: Video: What the Python Community Has Given To Me
+
+.. |video51| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=SoehUIC3RKc
+   :alt: Video: How to use Sphinx
+
+.. |video52| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=0OtwD-GE0n8
+   :alt: Video: Web framework Panel Discussion
+
+.. |video53| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=7oUq3rfjgHY
+   :alt: Video: Development of Global Open Standard for Developing Countries
+
+.. |video54| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=l8ptNmtB0G8
+   :alt: Video: Fantastic DSL in Python
+
+.. |video55| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=HN5-7Kn_XsI
+   :alt: Video: Learning Algorithms and Data Structures in Python
+
+.. |video56| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=vKuhuxcCxM0
+   :alt: Video: How to disperse Sphinx and reST
+
+.. |video57| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=N7SasSG1l4U
+   :alt: Video: Python Gateway Programming
+
+.. |video58| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=kiUMwzTjMGY
+   :alt: Video: docutils in sphinx
+
+.. |video59| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=H0SdgTvXtYw
+   :alt: Video: Closing

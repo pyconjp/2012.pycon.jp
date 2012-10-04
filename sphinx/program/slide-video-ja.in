@@ -1,0 +1,424 @@
+
+.. |doc0| image:: /_static/documents.png
+   :target: http://www.slideshare.net/takanory/pycon-jp-2012-opening
+   :alt: Document: オープニング
+
+.. |doc1| image:: /_static/documents.png
+   :target: https://speakerdeck.com/u/mitsuhiko/p/happiness-through-ignorance
+   :alt: Document: 基調講演
+
+.. |doc2| image:: /_static/documents.png
+   :target: http://www.slideshare.net/hirokiky/django14
+   :alt: Document: 使える Django 1.4
+
+.. |doc3| image:: /_static/documents.png
+   :target: https://speakerdeck.com/u/yosida95/p/2012-dot-09-dot-15-pycon-jp-2012-%5Bnaudeyanguna17sui-falsevps-gou-zhu-ji-%5D
+   :alt: Document: ナウでヤングな17歳のVPS構築記
+
+.. |doc4| image:: /_static/documents.png
+   :target: http://pyconjp2012-python-for-beginners.readthedocs.org/en/latest/index.html
+   :alt: Document: Pythonプログラミングハンズオン(初心者向け)
+
+.. |doc5| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1yb7DIzKA8agVBNpwWCpttzRwDWgJWI-HFTduTMxcQIE/edit#slide=id.p
+   :alt: Document: App Engine Updates - 2012       
+
+.. |doc6| image:: /_static/documents.png
+   :target: http://www.slideshare.net/hychen/python-type-and-object
+   :alt: Document: Python Type and Object
+
+.. |doc7| image:: /_static/documents.png
+   :target: http://www.slideshare.net/aodag/what-makes-pyramid-unique
+   :alt: Document: What Makes Pyramid Unique!
+
+.. |doc8| image:: /_static/documents.png
+   :target: http://www.slideshare.net/lab1092/20120915-pythonblender
+   :alt: Document: Pythonは本当にBlenderの役に立っているか?
+
+.. |doc9| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1mMNENPbdjsNiJtVlK71zc9hV-hXXtwZah_qfaLzSzd0/edit#slide=id.p16
+   :alt: Document: Full Text Search の概要と使い方
+
+.. |doc10| image:: /_static/documents.png
+   :target: http://www.slideshare.net/satokencat/bp2012
+   :alt: Document: Beginning Python
+
+.. |doc11| image:: /_static/documents.png
+   :target: http://www.slideshare.net/RansuiIso/python-14315727
+   :alt: Document: ソフトシンセを作りながら学ぶPythonプログラミング(初級者)
+
+.. |doc12| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1itvvB_sVJSH30cR479PSeaHjnVDMvy3KNr9R_G5-MEs/edit#slide=id.p
+   :alt: Document: Python NDB APIの紹介
+
+.. |doc13| image:: /_static/documents.png
+   :target: http://troter.jp/pyconjp-2012-dvcs/#slide1
+   :alt: Document: 分散バージョン管理システムの組織化
+
+.. |doc14| image:: /_static/documents.png
+   :target: http://shimizukawa.bitbucket.org/refactoring-python-beginners-code/index.html
+   :alt: Document: Python入門者のコードをリファクタリングしてみた
+
+.. |doc15| image:: /_static/documents.png
+   :target: http://tell-k.github.com/pyconjp2012/
+   :alt: Document: SQLAlchemyと僕
+
+.. |doc16| image:: /_static/documents.png
+   :target: http://www.slideshare.net/jbking/pyramid-security
+   :alt: Document: Pyramidセキュリティ
+
+.. |doc17| image:: /_static/documents.png
+   :target: http://www.slideshare.net/bluerabbit777jp/google-app-engine-14331900
+   :alt: Document: パネルディスカッション:Google App Engine を選ぶ理由
+
+.. |doc18| image:: /_static/documents.png
+   :target: http://www.slideshare.net/FumikazuKiyota/snapdish
+   :alt: Document: 写真共有サービス SnapDish の事例
+
+.. |doc19| image:: /_static/documents.png
+   :target: http://hdknr.bitbucket.org/celery/
+   :alt: Document: Django-Celeryで非同期処理
+
+.. |doc20| image:: /_static/documents.png
+   :target: https://docs.google.com/presentation/d/1-oO3qw9cS5aKApI2wjJwGAj0g0udnbuBp-tkW-90-Uw/edit#slide=id.p
+   :alt: Document: Python 製ビルドツールのススメ       
+
+.. |doc21| image:: /_static/documents.png
+   :target: https://github.com/knzm/pyconjp2012/wiki
+   :alt: Document: Pylons ユーザのための Pyramid 移行ガイド
+
+.. |doc22| image:: /_static/documents.png
+   :target: http://www.slideshare.net/kishimotosc/pyvortex
+   :alt: Document: Tornadoで分散KVSフレームワーク
+
+.. |doc23| image:: /_static/documents.png
+   :target: https://github.com/atsuoishimoto/pyconjp_2012/blob/master/PyConJP_2012.pdf
+   :alt: Document: はじめてのWeb(Flask)アプリケーション(中級者)
+
+.. |doc24| image:: /_static/documents.png
+   :target: https://github.com/ryotaro/pyconjp2012slide/blob/master/master/Fundamental%20Technologies%20Used%20in%20PyPy%20JIT%20Compiler.pptx
+   :alt: Document: Fundamental Technologies Used in PyPy JIT Compiler
+
+.. |doc25| image:: /_static/documents.png
+   :target: http://www.slideshare.net/naoina/alnair
+   :alt: Document: シンプルなシステム構成フレームワーク alnair
+
+.. |doc26| image:: /_static/documents.png
+   :target: https://speakerdeck.com/u/kawanoshinobu/p/pyconjp-2012-try-sublime-text
+   :alt: Document: Sublime Text 2 を使おう
+
+.. |doc27| image:: /_static/documents.png
+   :target: http://ianlewis.bitbucket.org/django_lessons_learned_pyconjp2012/template/#1
+   :alt: Document: Django Lessons Learned @BeProud
+
+.. |doc28| image:: /_static/documents.png
+   :target: https://docs.google.com/file/d/0B5k3Cg7nkTt1UnRVbTNhYl9PNjA/edit
+   :alt: Document: Pythonを取り巻く開発環境
+
+.. |doc29| image:: /_static/documents.png
+   :target: http://www.dan.co.jp/~dankogai/pyconjp2012/python.html
+   :alt: Document: 基調講演
+
+.. |doc30| image:: /_static/documents.png
+   :target: http://www.slideshare.net/TakeshiKomiya/sphinx-2012-pyconjp-sphinxconjp
+   :alt: Document: Sphinx ではじめるドキュメント生活 2012
+
+.. |doc31| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/curran-PyConJP-2012-NVDA-presentation.html
+   :alt: Document: NVDA: Open Source Screen Reader Written in Python
+
+.. |doc32| image:: /_static/documents.png
+   :target: https://github.com/methane/pyconjp2012-gevent-slide
+   :alt: Document: gevent
+
+.. |doc33| image:: /_static/documents.png
+   :target: http://www.slideshare.net/torufurukawa/trying-continuous-delivery-pyconjp-2012
+   :alt: Document: Trying Continuous Delivery
+
+.. |doc34| image:: /_static/documents.png
+   :target: http://tdoc.info/sphinxcon2012/
+   :alt: Document: Sphinx拡張 探訪
+
+.. |doc35| image:: /_static/documents.png
+   :target: http://shkumagai.github.com/slides/sphinxcon.jp.201209/#/title
+   :alt: Document: Sphinx HTML theme 事始め
+
+.. |doc36| image:: /_static/documents.png
+   :target: http://www.slideshare.net/tfmagician/python-on-windows-azure
+   :alt: Document: ミニ四駆で Python on Windows Azure
+
+.. |doc37| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/wang-wu-PyCon2012_Taiwan.txt
+   :alt: Document: The Development and Promotion of NVDA in Taiwan
+
+.. |doc38| image:: /_static/documents.png
+   :target: http://www.slideshare.net/shimizukawa/sphinx-pyconjp-2012
+   :alt: Document: Sphinxを使って本を書こう
+
+.. |doc39| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/nishimoto-NVDA-Japanese-en.txt
+   :alt: Document: The Localization of NVDA for Japanese Language Users
+
+.. |doc40| image:: /_static/documents.png
+   :target: http://www.slideshare.net/TomomiK/python-14305984
+   :alt: Document: Pythonコミュニティが私に与えてくれたもの
+
+.. |doc41| image:: /_static/documents.png
+   :target: http://www.slideshare.net/goyamada92/sphinx-14566291
+   :alt: Document: Sphinxの平凡な使い方 ～業務での利用事例～
+
+.. |doc42| image:: /_static/documents.png
+   :target: http://www.nvda.jp/2012/kawamura-nvda.txt
+   :alt: Document: Development of Global Open Standard for Developing Countries
+
+.. |doc43| image:: /_static/documents.png
+   :target: http://www.slideshare.net/takanory/how-to-spread-rest-and-sphinx
+   :alt: Document: 社内でのSphinx、reSTの広め方
+
+.. |doc44| image:: /_static/documents.png
+   :target: https://gist.github.com/3730720
+   :alt: Document: Sphinxにおけるdocutilsの役割
+
+.. |doc45| image:: /_static/documents.png
+   :target: http://www.slideshare.net/takanory/pycon-jp-2012-closing
+   :alt: Document: Closing
+
+.. |video0| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=EDlFk1hc8kc
+   :alt: Video: 基調講演
+
+.. |video1| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=mztNbPjeXe0
+   :alt: Video: 使える Django 1.4
+
+.. |video2| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=tOWZB9tFgu8
+   :alt: Video: ナウでヤングな17歳のVPS構築記
+
+.. |video3| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ujrJNLd0jI4
+   :alt: Video: Python Type and Object
+
+.. |video4| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=WstviLaioDY
+   :alt: Video: Pythonプログラミング教育に関する考察
+
+.. |video5| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ZM59E3G7Amc
+   :alt: Video: What Makes Pyramid Unique!
+
+.. |video6| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=vBXJHrwYhLw
+   :alt: Video: Pythonは本当にBlenderの役に立っているか?
+
+.. |video7| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=VzYdkYhPMj0
+   :alt: Video: Full Text Search の概要と使い方
+
+.. |video8| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Gd05QjkceH8
+   :alt: Video: MongoDB with Python
+
+.. |video9| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=4D8kBAi4-IQ
+   :alt: Video: Pythonistaの働き方
+
+.. |video10| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=m8xM4n7kGVA
+   :alt: Video: Djangoを活用したM2Mクラウドプラットフォーム
+
+.. |video11| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=MnU2zVn15SA
+   :alt: Video: Beginning Python
+
+.. |video12| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=hldoRF7fZEo
+   :alt: Video: Python NDB APIの紹介
+
+.. |video13| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=-7GTPv7LjC4
+   :alt: Video: Clime: With A Line, Convert Your Functions into a Multi-Command CLI Program
+
+.. |video14| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=L3G62w_QQSg
+   :alt: Video: 分散バージョン管理システムの組織化
+
+.. |video15| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=DCOvwsBzuVc
+   :alt: Video: Python入門者のコードをリファクタリングしてみた
+
+.. |video16| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=4_NTLbkTnzw
+   :alt: Video: SQLAlchemyと僕
+
+.. |video17| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=OTVvH1qx7bM
+   :alt: Video: Pyramidセキュリティ
+
+.. |video18| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=vHHooxFsviE
+   :alt: Video: unittest嫌いがunittestをtesting
+
+.. |video19| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=fWUuR65O958
+   :alt: Video: パネルディスカッション:Google App Engine を選ぶ理由
+
+.. |video20| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=EaYkSPK6rXY
+   :alt: Video: Gunicorn what's next? The new web challenge
+
+.. |video21| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Zu0QchoiKBk
+   :alt: Video: 写真共有サービス SnapDish の事例
+
+.. |video22| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Rv-EJaoizpA
+   :alt: Video: Django-Celeryで非同期処理
+
+.. |video23| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=KXJNuJTXBEE
+   :alt: Video: Python 製ビルドツールのススメ       
+
+.. |video24| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=FTGdLnx_ep0
+   :alt: Video: Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
+
+.. |video25| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=KqYKH05E9Gk
+   :alt: Video: 国産 PaaS、NIFTY Cloud C4SA の中身
+
+.. |video26| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=FDOrCsJ76lM
+   :alt: Video: Lightning Talks
+
+.. |video27| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=31hrBjeU5sk
+   :alt: Video: Pylons ユーザのための Pyramid 移行ガイド
+
+.. |video28| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=5WTSdyvK3QY
+   :alt: Video: Tornadoで分散KVSフレームワーク
+
+.. |video29| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ABBksVChDAA
+   :alt: Video: Pythonおじさんのweb2py挑戦記
+
+.. |video30| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=DVhmEa1uudI
+   :alt: Video: Fundamental Technologies Used in PyPy JIT Compiler
+
+.. |video31| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=ZLcSnreXvj4
+   :alt: Video: シンプルなシステム構成フレームワーク alnair
+
+.. |video32| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=LTBS7Fj5MwM
+   :alt: Video: Sublime Text 2 を使おう
+
+.. |video33| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=zxBfTGgNdA8
+   :alt: Video: Django Lessons Learned @BeProud
+
+.. |video34| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=3ntNXzzgZDs
+   :alt: Video: Pythonを取り巻く開発環境
+
+.. |video35| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=pVUhKcJbv-U
+   :alt: Video: Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python
+
+.. |video36| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=H8zcRv_XyeQ
+   :alt: Video: 基調講演
+
+.. |video37| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=YRa-eN9Chy0
+   :alt: Video: Sphinx ではじめるドキュメント生活 2012
+
+.. |video38| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=BaRjKXvhJdo
+   :alt: Video: NVDA: Open Source Screen Reader Written in Python
+
+.. |video39| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=SespFNc5l4E
+   :alt: Video: Python3でここまでできるWebプログラミング
+
+.. |video40| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=RJG_XKSuGNE
+   :alt: Video: gevent
+
+.. |video41| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=hpTtlnRYOfk
+   :alt: Video: Trying Continuous Delivery
+
+.. |video42| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=Po4yAQQ2qLc
+   :alt: Video: Sphinx HTML theme 事始め
+
+.. |video43| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=cuRr34_u5vc
+   :alt: Video: ミニ四駆で Python on Windows Azure
+
+.. |video44| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=61FYUfh0J10
+   :alt: Video: The Development and Promotion of NVDA in Taiwan
+
+.. |video45| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=sxW5_BH3-A4
+   :alt: Video: 自社開発していなかった会社が python を選んだ理由
+
+.. |video46| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=tRYpdm-e5Ro
+   :alt: Video: Python in Gait Biomechanics Research
+
+.. |video47| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=7VOJpFHnPWg
+   :alt: Video: Sphinxを使って本を書こう
+
+.. |video48| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=UTGAbADtcAg
+   :alt: Video: ソーシャルゲームとメッセージキュー
+
+.. |video49| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=HYQaX_xuKJQ
+   :alt: Video: The Localization of NVDA for Japanese Language Users
+
+.. |video50| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=-vUsAblgvwU
+   :alt: Video: Pythonコミュニティが私に与えてくれたもの
+
+.. |video51| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=SoehUIC3RKc
+   :alt: Video: Sphinxの平凡な使い方 ～業務での利用事例～
+
+.. |video52| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=0OtwD-GE0n8
+   :alt: Video: Webフレームワークパネル
+
+.. |video53| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=7oUq3rfjgHY
+   :alt: Video: Development of Global Open Standard for Developing Countries
+
+.. |video54| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=l8ptNmtB0G8
+   :alt: Video: Fantastic DSL in Python - PythonでつくるDSLのテクニック -
+
+.. |video55| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=HN5-7Kn_XsI
+   :alt: Video: Learning Algorithms and Data Structures in Python
+
+.. |video56| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=vKuhuxcCxM0
+   :alt: Video: 社内でのSphinx、reSTの広め方
+
+.. |video57| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=N7SasSG1l4U
+   :alt: Video: Python Gateway Programming
+
+.. |video58| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=kiUMwzTjMGY
+   :alt: Video: Sphinxにおけるdocutilsの役割
+
+.. |video59| image:: /_static/movie.png
+   :target: http://www.youtube.com/watch?v=H0SdgTvXtYw
+   :alt: Video: Closing

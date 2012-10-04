@@ -35,6 +35,8 @@ Starting at 7pm on Day1 (Sept. 15th), the After-Party will begin at a different 
    :stub-columns: 1
    :file: schedule2-en.csv
 
+.. include:: slide-video-en.in
+
 .. _timetable-day3-en:
 
 Day3 : 2012/9/17 (Mon, National Holiday)

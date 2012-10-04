@@ -91,6 +91,17 @@ JOINT_TEMPLATE_EN = """
 VIDEO_TEMPLATE = """- YouTube: {video}"""
 SLIDE_TEMPLATE = """- Slide: {slide_url}"""
 
+SLIDE_SUB_TEMPLATE = """
+.. |doc%d| image:: /_static/documents.png
+   :target: %s
+   :alt: Document: %s
+"""
+VIDEO_SUB_TEMPLATE = """
+.. |video%d| image:: /_static/movie.png
+   :target: %s
+   :alt: Video: %s
+"""
+
 URL_TEMPLATE = """{url}"""
 
 IMAGE_TEMPLATE = """
@@ -207,6 +218,8 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
     time_index = 0
     cols = [''] * 7
     results = {}
+    docs = []
+    videos = []
     for row in rows:
         term = session_terms[time_index]
         if term['end'] <= row.start:
@@ -230,6 +243,13 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
             data += getattr(row, 'title_sphinx_' + lang)
         else:
             data += ':ref:`{0}-{1}`'.format(create_reference_id(row), lang)
+        # ビデオとスライドの一覧を作成
+        if getattr(row, 'slide_url'):
+            data += ' |doc%d|' % len(docs)
+            docs.append((row.slide_url, row.title_ja, row.title_en))
+        if getattr(row, 'video'):
+            data += ' |video%d|' % len(videos)
+            videos.append((row.video, row.title_ja, row.title_en))
 
         # 終了時間を追記
         if row.end > term['end']:
@@ -247,6 +267,17 @@ def make_timetables(rows, timetable1_name, timetable2_name, lang='ja'):
     for t in sorted(results):
         writers[t.date()].writerow(results[t])
 
+    # スライドとビデオの一覧を出力
+    with open('slide-video-ja.in', 'w') as f:
+        for i in range(len(docs)):
+            f.write(SLIDE_SUB_TEMPLATE % (i, docs[i][0], docs[i][1]))
+        for i in range(len(videos)):
+            f.write(VIDEO_SUB_TEMPLATE % (i, videos[i][0], videos[i][1]))
+    with open('slide-video-en.in', 'w') as f:
+        for i in range(len(docs)):
+            f.write(SLIDE_SUB_TEMPLATE % (i, docs[i][0], docs[i][2]))
+        for i in range(len(videos)):
+            f.write(VIDEO_SUB_TEMPLATE % (i, videos[i][0], videos[i][2]))
 
 def make_sphinx_heading(text, marker='='):
     t = text.decode('utf-8')  #TODO
