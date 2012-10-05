@@ -157,7 +157,7 @@ Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
 I will present a small system to collect, summarize and graph detailed application metrics. The system is simple, reliable and easy to extend. In this talk, I'll walk through the tools, configuration and Python code which glues everything together.
 
 :Video: http://www.youtube.com/watch?v=FTGdLnx_ep0
-:Slide: 
+:Slide: `Gathering and visualizing metrics with ZeroMQ, Redis & Graphite <https://github.com/briandorsey/metrics_talk>`_
 :Audience: intermediate programmer
 :Language: English
 :Time: Sep 15 16:30-17:15

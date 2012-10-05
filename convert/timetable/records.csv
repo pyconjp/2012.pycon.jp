@@ -129,7 +129,7 @@ Pythonは残業を減らす唯一の方法です（嘘）
 ・Pythonで残業を減らす方法
 ・Pythonをもっと気取らず楽しく扱う方法
 
-・その他、今後の自分の活動についてなど","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, 教育事例 / Education Best Practices, 組み込み / Embedding and Extending",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,よろしくお願いいたします。,,,http://www.youtube.com/watch?v=4D8kBAi4-IQ
+・その他、今後の自分の活動についてなど","ツール / Programming Tools, プロジェクト事例 / Project Best Practices, 教育事例 / Education Best Practices, 組み込み / Embedding and Extending",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,よろしくお願いいたします。,http://www.slideshare.net/yutakitagami/pycon-jp2012,,http://www.youtube.com/watch?v=4D8kBAi4-IQ
 休憩,Break,休憩,Break,,9/15,9/15/2012 14:15:00,9/15/2012 14:30:00,,Japanese; English; Hands on; Django & Pylons; App Engine; Room 230; Room 351a; Room 357; Room 358; Room 433; Room 452,,,,,,,,,,,,,,,,,,,,,
 Djangoを活用したM2Mクラウドプラットフォーム,M2M Cloud Platform using Django,,,併設; Django & Pylons,9/15,9/15/2012 14:30:00,9/15/2012 15:15:00,Room 452,Django & Pylons; Room 452,,松村竜之介 （株式会社コア）,松村 竜之介 / Ryunosuke Matsumura,,,,,,,,Djangoを利用したM2Mサーバの実例について紹介,,Django,,,日本語 / Japanese,,,,,http://www.youtube.com/watch?v=m8xM4n7kGVA
 Beginning Python,Beginning Python,,,日本語,9/15,9/15/2012 14:30:00,9/15/2012 14:55:00,Room 433,Japanese; Room 433,内輪ネタが多すぎる。内輪ネタ部分を削除して、学習した書籍の話を掘り下げられるなら初学者発表として再検討してもよい。寺田コメント待ち -> 採用(7/x) -> outline変更(8/10),佐藤 健,佐藤 健 / Ken Sato,Ken,Sato,ken.sato.2501@gmail.com,,"産業技術大学院大学 産業技術研究科 情報アーキテクチャ専攻 1年。飲み会を中心にPython界隈のイベントに参加。
@@ -408,7 +408,7 @@ I can give this talk in Japanese, English, or once in each language. I'm happy t
 I would love to give the talk in Japanese, but my spoken Japanese is only OK, not at a professional level. Please ask @takanory or @t2y_en for their honest evaluation.
 
 Take care,
--Brian",,,http://www.youtube.com/watch?v=FTGdLnx_ep0
+-Brian",https://github.com/briandorsey/metrics_talk,,http://www.youtube.com/watch?v=FTGdLnx_ep0
 国産 PaaS、NIFTY Cloud C4SA の中身,Inside NIFTY Cloud C4SA,,,日本語,9/15,9/15/2012 16:30:00,9/15/2012 17:15:00,Room 230,Japanese; Room 230,Platinum(予定)スポンサー,大畑貴弘,大畑 貴弘 / Takahiro Oohata,貴弘,大畑,oohata@realglobe.jp,http://realglobe.jp,"1980年8月4日生まれ 山口県出身
 
 - 1996年 - 1年間アメリカに留学、米国での単位が認められず、高校1年生を2回やった。
