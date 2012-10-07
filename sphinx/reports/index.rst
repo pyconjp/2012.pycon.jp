@@ -12,4 +12,4 @@
    archives
    enquete
    photos
-   earnings   
+   earnings
