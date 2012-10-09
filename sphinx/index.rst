@@ -20,6 +20,7 @@ PyCon JP 2012 開催します！
    participants/index
    venue
    media
+   survey/index
    reports/index
    en/index
    en/about
