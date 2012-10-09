@@ -31,6 +31,7 @@ PyCon JP 2012 開催します！
    en/registration/support
    en/participants/index
    en/venue
+   en/reports/index
 
 おしらせ
 ===============
