@@ -7,6 +7,7 @@
    organizers
    blogs
    togetter
+   photos
 
 ..
    archives
