@@ -2,7 +2,10 @@
 Reports
 ==========
 
-Currently, all reports are provided by Japanese lang only.
-Please referer :doc:`/reports/index`
+.. toctree::
 
+   photos
+
+Other reports as organizer reports, blogs, tweets are written by Japanese.
+Please referer :doc:`/reports/index`
 
