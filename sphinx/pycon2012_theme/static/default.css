@@ -427,6 +427,8 @@ div.figure p.caption {
 
 /* sposer のbottom 表示 */
 
+#reports-survey #content #sidebar,
+#en-reports-survey #content #sidebar,
 #about-budget #content #sidebar,
 #en-about-budget #content #sidebar,
 #program-index #content #sidebar,
@@ -438,6 +440,8 @@ div.figure p.caption {
 	clear: both;
 }
 
+#reports-survey #content #sidebar h3,
+#en-reports-survey #content #sidebar h3,
 #about-budget #content #sidebar h3,
 #en-about-budget #content #sidebar h3,
 #program-index #content #sidebar h3,
@@ -447,6 +451,8 @@ div.figure p.caption {
 	margin-left: 0;
 }
 
+#reports-survey #content #sidebar ul,
+#en-reports-survey #content #sidebar ul,
 #about-budget #content #sidebar ul,
 #en-about-budget #content #sidebar ul,
 #program-index #content #sidebar ul,
@@ -456,6 +462,8 @@ div.figure p.caption {
 	margin-left: 0;
 }
 
+#reports-survey #content #sidebar li,
+#en-reports-survey #content #sidebar li,
 #about-budget #content #sidebar li,
 #en-about-budget #content #sidebar li,
 #program-index #content #sidebar li,
@@ -466,6 +474,8 @@ div.figure p.caption {
 	display: inline;
 }
 
+#reports-survey #content #sidebar li a,
+#en-reports-survey #content #sidebar li a,
 #about-budget #content #sidebar li a,
 #en-about-budget #content #sidebar li a,
 #program-index #content #sidebar li a,
@@ -475,6 +485,8 @@ div.figure p.caption {
 	display: inline;
 }
 
+#reports-survey #content #sidebar li a img,
+#en-reports-survey #content #sidebar li a img,
 #about-budget #content #sidebar li a img,
 #en-about-budget #content #sidebar li a img,
 #program-index #content #sidebar li a img,
@@ -484,6 +496,8 @@ div.figure p.caption {
 	vertical-align: middle;
 }
 
+#reports-survey #content .section,
+#en-reports-survey #content .section,
 #about-budget #content .section,
 #en-about-budget #content .section,
 #program-index #content .section,
@@ -492,6 +506,8 @@ div.figure p.caption {
 #en-index #content .section {
 	width: auto;
 }
+
+/* rss and others */
 
 .rss {
        float: right;

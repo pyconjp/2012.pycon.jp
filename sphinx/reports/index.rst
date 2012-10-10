@@ -8,9 +8,7 @@
    blogs
    togetter
    photos
+   survey
 
 ..
-   archives
-   enquete
-   photos
    earnings
