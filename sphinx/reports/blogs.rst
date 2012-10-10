@@ -2,6 +2,11 @@
  ブログ
 ========
 
+メディア記事
+============
+- `DjangoかPyramidか!? 火花散るパネルに注目のPyCon JPレポート － ＠IT <http://www.atmarkit.co.jp/news/201209/24/pycon.html>`_
+- `フレームワークの良さや特徴を知ることでミスマッチを防ぐ――「PyCon JP 2012」併設イベント「Django & Pyramid Con JP 2012」開催レポート - SourceForge.JP Magazine <http://sourceforge.jp/magazine/12/10/02/0940207>`_
+
 参加者によるブログエントリ
 ==========================
 - `PyConJP2012一日目 <http://blog.kzfmix.com/entry/1347711071>`_
@@ -39,9 +44,11 @@
 - `うわべだらけのblog: 「PyCon JP 2012」へ行ってきた <http://ffuyyo.blogspot.jp/2012/09/pycon-jp-2012.html>`_
 - `Django & Pyramid Con JP 2012 参加報告 - Pylons Project JP <http://www.pylonsproject.jp/news/djangopyramidconjp2012canjiabaogao>`_
 - `PyCon Jp 2012 – Try! Sublime Text | ありえるえりあ <http://dev.ariel-networks.com/wp/archives/2522>`_
+- `アリエルの光と闇 | ありえるえりあ <http://dev.ariel-networks.com/wp/archives/2557>`_
 - `PyConJP2012に参加しました - 偏った言語信者の垂れ流し <http://d.hatena.ne.jp/nullpobug/20120917/1347844999>`_
 - `PyConJP2012に参加してきました! (2日目,Sprints) | LGA128のメモ帳 <http://lga128.nekobaka.net/2012/09/pyconjp2012-2/>`_
 - `2012-09-16 - 万年素人からGeekへの道 <http://d.hatena.ne.jp/shinriyo/20120916>`_
+- `Webフレームワークパネルに登壇した | tsuyuki.makoto <http://www.tsuyukimakoto.com/blog/2012/09/18/next_django_ja/>`_
 
 スタッフによるブログエントリ
 ============================
