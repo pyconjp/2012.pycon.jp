@@ -9,6 +9,9 @@
 発表者
 ======
 - Hajime Nakagami - Encouragement of porting Python 3
+
+  `Encouragement of porting Python 3 <http://nakagami.github.com/PyConJP2012LT/#preface>`_
+
 - Michael Curran
 - Takeshi Komiya - Excel 方眼紙撲滅委員会 活動報告2012.09
 
