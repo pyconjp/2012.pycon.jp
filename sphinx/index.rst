@@ -4,9 +4,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-===========================================
-PyCon JP 2012 開催します！
-===========================================
+==================================================
+PyCon JP 2012 は盛況のうちに終了しました
+==================================================
 
 .. toctree::
    :hidden:
@@ -32,6 +32,12 @@ PyCon JP 2012 開催します！
    en/participants/index
    en/venue
    en/reports/index
+
+
+PyCon JP 2012 は参加者,スポンサー,スタッフ等約480名を迎えて盛況のうちに終了しました。
+
+ご来場・ご協力いただいた皆様、ありがとうございました。
+
 
 おしらせ
 ===============

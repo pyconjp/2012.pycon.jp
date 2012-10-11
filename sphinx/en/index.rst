@@ -7,6 +7,10 @@
 PyCon JP 2012
 ===========================================
 
+PyCon JP 2012 has ended in great success with about 480 attendees, sponsors and staffs.
+
+Thank you for your cooperation.
+
 
 Information
 ===========
