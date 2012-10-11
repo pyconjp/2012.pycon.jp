@@ -2,6 +2,8 @@
  開催報告
 ==========
 
+* スライドとビデオは :doc:`../program/index` にあります
+
 .. toctree::
 
    organizers
@@ -9,6 +11,7 @@
    togetter
    photos
    survey
+
 
 ..
    earnings

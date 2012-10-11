@@ -2,6 +2,8 @@
 Reports
 ==========
 
+* Slides and Videos are in :doc:`../program/index`
+
 .. toctree::
 
    photos
