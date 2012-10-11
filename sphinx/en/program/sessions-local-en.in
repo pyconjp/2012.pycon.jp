@@ -330,7 +330,7 @@ Inside NIFTY Cloud C4SA
 国産 PaaS である NIFTY Cloud C4SA は、コア部分が Python で作られています。本講演では、基本的な C4SA の構成の解説から、なんで大人気の rails じゃなくて Python で作ることにしたのかなどの経緯などをお話させていただきます。もちろん、C4SA は Python が動く PaaS です。
 
 :Video: http://www.youtube.com/watch?v=KqYKH05E9Gk
-:Slide: 
+:Slide: `国産 PaaS、NIFTY Cloud C4SA の中身 <http://www.slideshare.net/oohatatakahiro/paas-nifty-cloud-c4sa>`_
 :Audience: beginning programmer / intermediate programmer
 :Language: Japanese
 :Time: Sep 15 16:30-17:15
@@ -542,7 +542,7 @@ Web Programming with Python 3
 Python3でWebアプリケーションを作るために利用可能なライブラリの紹介や注意点など。
 
 :Video: http://www.youtube.com/watch?v=SespFNc5l4E
-:Slide: 
+:Slide: `Python3でここまでできるWebプログラミング <http://www.slideshare.net/aodag/python3web>`_
 :Audience: intermediate programmer
 :Language: Japanese
 :Time: Sep 16 15:15-16:00
@@ -637,7 +637,7 @@ Why A Company Who Had Never Done Independent Development, Chose Python
 仕事でも自分の好きなことがやりたい人に向けて、どうやって仕事を作るかの参考になればと思います。
 
 :Video: http://www.youtube.com/watch?v=sxW5_BH3-A4
-:Slide: 
+:Slide: `自社開発していなかった会社が python を選んだ理由 <http://www.slideshare.net/vkgtaro/reason-of-selectedpython>`_
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 16 16:45-17:10

@@ -92,102 +92,114 @@
    :alt: Document: Gathering and visualizing metrics with ZeroMQ, Redis & Graphite
 
 .. |doc23| image:: /_static/documents.png
+   :target: http://www.slideshare.net/oohatatakahiro/paas-nifty-cloud-c4sa
+   :alt: Document: 国産 PaaS、NIFTY Cloud C4SA の中身
+
+.. |doc24| image:: /_static/documents.png
    :target: https://github.com/knzm/pyconjp2012/wiki
    :alt: Document: Pylons ユーザのための Pyramid 移行ガイド
 
-.. |doc24| image:: /_static/documents.png
+.. |doc25| image:: /_static/documents.png
    :target: http://www.slideshare.net/kishimotosc/pyvortex
    :alt: Document: Tornadoで分散KVSフレームワーク
 
-.. |doc25| image:: /_static/documents.png
+.. |doc26| image:: /_static/documents.png
    :target: https://github.com/atsuoishimoto/pyconjp_2012/blob/master/PyConJP_2012.pdf
    :alt: Document: はじめてのWeb(Flask)アプリケーション(中級者)
 
-.. |doc26| image:: /_static/documents.png
+.. |doc27| image:: /_static/documents.png
    :target: https://github.com/ryotaro/pyconjp2012slide/blob/master/master/Fundamental%20Technologies%20Used%20in%20PyPy%20JIT%20Compiler.pptx
    :alt: Document: Fundamental Technologies Used in PyPy JIT Compiler
 
-.. |doc27| image:: /_static/documents.png
+.. |doc28| image:: /_static/documents.png
    :target: http://www.slideshare.net/naoina/alnair
    :alt: Document: シンプルなシステム構成フレームワーク alnair
 
-.. |doc28| image:: /_static/documents.png
+.. |doc29| image:: /_static/documents.png
    :target: https://speakerdeck.com/u/kawanoshinobu/p/pyconjp-2012-try-sublime-text
    :alt: Document: Sublime Text 2 を使おう
 
-.. |doc29| image:: /_static/documents.png
+.. |doc30| image:: /_static/documents.png
    :target: http://ianlewis.bitbucket.org/django_lessons_learned_pyconjp2012/template/#1
    :alt: Document: Django Lessons Learned @BeProud
 
-.. |doc30| image:: /_static/documents.png
+.. |doc31| image:: /_static/documents.png
    :target: https://docs.google.com/file/d/0B5k3Cg7nkTt1UnRVbTNhYl9PNjA/edit
    :alt: Document: Pythonを取り巻く開発環境
 
-.. |doc31| image:: /_static/documents.png
+.. |doc32| image:: /_static/documents.png
    :target: http://www.dan.co.jp/~dankogai/pyconjp2012/python.html
    :alt: Document: 基調講演
 
-.. |doc32| image:: /_static/documents.png
+.. |doc33| image:: /_static/documents.png
    :target: http://www.slideshare.net/TakeshiKomiya/sphinx-2012-pyconjp-sphinxconjp
    :alt: Document: Sphinx ではじめるドキュメント生活 2012
 
-.. |doc33| image:: /_static/documents.png
+.. |doc34| image:: /_static/documents.png
    :target: http://www.nvda.jp/2012/curran-PyConJP-2012-NVDA-presentation.html
    :alt: Document: NVDA: Open Source Screen Reader Written in Python
 
-.. |doc34| image:: /_static/documents.png
+.. |doc35| image:: /_static/documents.png
+   :target: http://www.slideshare.net/aodag/python3web
+   :alt: Document: Python3でここまでできるWebプログラミング
+
+.. |doc36| image:: /_static/documents.png
    :target: https://github.com/methane/pyconjp2012-gevent-slide
    :alt: Document: gevent
 
-.. |doc35| image:: /_static/documents.png
+.. |doc37| image:: /_static/documents.png
    :target: http://www.slideshare.net/torufurukawa/trying-continuous-delivery-pyconjp-2012
    :alt: Document: Trying Continuous Delivery
 
-.. |doc36| image:: /_static/documents.png
+.. |doc38| image:: /_static/documents.png
    :target: http://tdoc.info/sphinxcon2012/
    :alt: Document: Sphinx拡張 探訪
 
-.. |doc37| image:: /_static/documents.png
+.. |doc39| image:: /_static/documents.png
    :target: http://shkumagai.github.com/slides/sphinxcon.jp.201209/#/title
    :alt: Document: Sphinx HTML theme 事始め
 
-.. |doc38| image:: /_static/documents.png
+.. |doc40| image:: /_static/documents.png
    :target: http://www.slideshare.net/tfmagician/python-on-windows-azure
    :alt: Document: ミニ四駆で Python on Windows Azure
 
-.. |doc39| image:: /_static/documents.png
+.. |doc41| image:: /_static/documents.png
    :target: http://www.nvda.jp/2012/wang-wu-PyCon2012_Taiwan.txt
    :alt: Document: The Development and Promotion of NVDA in Taiwan
 
-.. |doc40| image:: /_static/documents.png
+.. |doc42| image:: /_static/documents.png
+   :target: http://www.slideshare.net/vkgtaro/reason-of-selectedpython
+   :alt: Document: 自社開発していなかった会社が python を選んだ理由
+
+.. |doc43| image:: /_static/documents.png
    :target: http://www.slideshare.net/shimizukawa/sphinx-pyconjp-2012
    :alt: Document: Sphinxを使って本を書こう
 
-.. |doc41| image:: /_static/documents.png
+.. |doc44| image:: /_static/documents.png
    :target: http://www.nvda.jp/2012/nishimoto-NVDA-Japanese-en.txt
    :alt: Document: The Localization of NVDA for Japanese Language Users
 
-.. |doc42| image:: /_static/documents.png
+.. |doc45| image:: /_static/documents.png
    :target: http://www.slideshare.net/TomomiK/python-14305984
    :alt: Document: Pythonコミュニティが私に与えてくれたもの
 
-.. |doc43| image:: /_static/documents.png
+.. |doc46| image:: /_static/documents.png
    :target: http://www.slideshare.net/goyamada92/sphinx-14566291
    :alt: Document: Sphinxの平凡な使い方 ～業務での利用事例～
 
-.. |doc44| image:: /_static/documents.png
+.. |doc47| image:: /_static/documents.png
    :target: http://www.nvda.jp/2012/kawamura-nvda.txt
    :alt: Document: Development of Global Open Standard for Developing Countries
 
-.. |doc45| image:: /_static/documents.png
+.. |doc48| image:: /_static/documents.png
    :target: http://www.slideshare.net/takanory/how-to-spread-rest-and-sphinx
    :alt: Document: 社内でのSphinx、reSTの広め方
 
-.. |doc46| image:: /_static/documents.png
+.. |doc49| image:: /_static/documents.png
    :target: https://gist.github.com/3730720
    :alt: Document: Sphinxにおけるdocutilsの役割
 
-.. |doc47| image:: /_static/documents.png
+.. |doc50| image:: /_static/documents.png
    :target: http://www.slideshare.net/takanory/pycon-jp-2012-closing
    :alt: Document: Closing
 
