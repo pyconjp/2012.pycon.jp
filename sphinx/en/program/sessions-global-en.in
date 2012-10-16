@@ -213,7 +213,7 @@ Implement High-Performance PDE Solvers for First-Principle Simulations by Using 
 Aided by its powerful gluing capability, Python can be used to build simulation software that demands high performance.  As performance hotspots being replaced by C, the software can be organized by using Python for a clear structure.  The resulting software provides high flexibility along with high performance.  In this talk, SOLVCON, a Python-based software framework for solving conservation laws, is used to demonstrate the approach.
 
 :Video: http://www.youtube.com/watch?v=pVUhKcJbv-U
-:Slide: 
+:Slide: `Implement High-Performance PDE Solvers for First-Principle Simulations by Using Python <https://bitbucket.org/yungyuc/talk/src/27e961878ea3a7a2ddfcdfa1c7b65787b2dd4173/pyconjp2012/yyc_solvcon_pyconjp2012.pdf?at=default>`_
 :Audience: intermediate programmer
 :Language: English
 :Time: Sep 16 11:00-11:45
