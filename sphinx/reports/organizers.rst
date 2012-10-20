@@ -16,3 +16,4 @@ PyCon JP 2012 開催レポート：CodeZine
 
 - `第1回 基調講演とプログラム <http://codezine.jp/article/detail/6784>`_
 - `第2回 プログラム以外の要素 <http://codezine.jp/article/detail/6798>`_
+- `第3回 裏方の人々 <http://codezine.jp/article/detail/6808>`_
