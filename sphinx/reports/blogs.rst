@@ -61,5 +61,5 @@
 - `当日スタッフからみた PyCon JP 2012 - 倖せの迷う森 <http://d.hatena.ne.jp/ocs/20120919/1348066167>`_
 - `PyCon JP 2012 終わりました - ま、そんな日もあるさ <http://d.hatena.ne.jp/flag-boy/20120919/1306902308>`_
 - `もふもふ : PyCon JP 2012 で運営スタッフやってきた <http://blog.livedoor.jp/ricoasax/archives/1508972.html>`_
-
-
+- `PyCon JP 2012 でスタッフとかやってました - takanory.net <http://takanory.net/takalog/1290>`_
+- `BPStudy #61 でしゃべってきた - takanory.net <http://takanory.net/takalog/1291>`_
