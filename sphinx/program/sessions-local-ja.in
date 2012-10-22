@@ -238,7 +238,7 @@ unittest嫌いがunittestをtesting
 unittestをまともに書いていないunittest弱者同士で来るべきテスト駆動開発/継続的インテグレーション時代に備えて共に傷を舐め合いましょう
 
 :ビデオ: http://www.youtube.com/watch?v=vHHooxFsviE
-:スライド: 
+:スライド: `unittest嫌いがunittestをtesting <http://www.slideshare.net/ido_ojos_jp/pycon2012-aizu-unittests>`_
 :対象: 初心者
 :言語: 日本語
 :日時: Sep 15 15:30-16:15
