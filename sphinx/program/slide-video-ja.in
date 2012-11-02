@@ -204,18 +204,22 @@
    :alt: Document: Development of Global Open Standard for Developing Countries
 
 .. |doc51| image:: /_static/documents.png
+   :target: http://www.slideshare.net/kwatch/fantastic-dsl-in-python
+   :alt: Document: Fantastic DSL in Python - PythonでつくるDSLのテクニック -
+
+.. |doc52| image:: /_static/documents.png
    :target: http://www.slideshare.net/takanory/how-to-spread-rest-and-sphinx
    :alt: Document: 社内でのSphinx、reSTの広め方
 
-.. |doc52| image:: /_static/documents.png
+.. |doc53| image:: /_static/documents.png
    :target: http://2012.pycon.jp/_static/program/python-gateway-programming.pdf
    :alt: Document: Python Gateway Programming
 
-.. |doc53| image:: /_static/documents.png
+.. |doc54| image:: /_static/documents.png
    :target: https://gist.github.com/3730720
    :alt: Document: Sphinxにおけるdocutilsの役割
 
-.. |doc54| image:: /_static/documents.png
+.. |doc55| image:: /_static/documents.png
    :target: http://www.slideshare.net/takanory/pycon-jp-2012-closing
    :alt: Document: Closing
 

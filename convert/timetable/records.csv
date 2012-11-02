@@ -674,7 +674,7 @@ In this session, I'll show you problems and solutions about DSL design in Python
   - Unary Operator Trick
 * Case Study
   - CSS Generator
-","Programming Tips, DSL",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,事務局のみなさま、いつもお疲れさまです。上記の通り応募させていただきますのでご査収ください。よろしくお願いします。,,,http://www.youtube.com/watch?v=l8ptNmtB0G8
+","Programming Tips, DSL",ふつう / Standard(45 min),中級者 / intermediate programmer,日本語 / Japanese,可 / Video recording OK,事務局のみなさま、いつもお疲れさまです。上記の通り応募させていただきますのでご査収ください。よろしくお願いします。,http://www.slideshare.net/kwatch/fantastic-dsl-in-python,,http://www.youtube.com/watch?v=l8ptNmtB0G8
 Learning Algorithms and Data Structures in Python,Learning Algorithms and Data Structures in Python,,,英語,9/16,9/16/2012 17:45:00,9/16/2012 18:30:00,Room 351a,English; Room 351a,教育,htvu,TienVu Ho,TienVu,Ho,ho0001vu@gmail.com,,"TienVu is a Web Application Engineer at Lucasfilm Singapore where he works on various python frameworks. In his spared time, TienVu enjoys participating in online programming contests.
 ",,,"Programming languages, data structures and algorithms are the fundamentals of computer science. There are a lot of materials that cover these subjects but often do not link well with each other. This talk will explain how to use Python to learn these topics in a fast and efficient manner"," A) Introduction to programming in Python
         - Demonstrate how fast and easy it is to get started to code in Python(types, variables, operation, loop, condition) compared to Java/C++
