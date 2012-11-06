@@ -50,6 +50,7 @@
 - `PyConJP2012に参加してきました! (2日目,Sprints) | LGA128のメモ帳 <http://lga128.nekobaka.net/2012/09/pyconjp2012-2/>`_
 - `2012-09-16 - 万年素人からGeekへの道 <http://d.hatena.ne.jp/shinriyo/20120916>`_
 - `Webフレームワークパネルに登壇した | tsuyuki.makoto <http://www.tsuyukimakoto.com/blog/2012/09/18/next_django_ja/>`_
+- `Juti's Journal: PyCon JP 2012 <http://journal.shiroyuki.com/2012/11/pycon-jp-2012.html>`_
 
 スタッフによるブログエントリ
 ============================
