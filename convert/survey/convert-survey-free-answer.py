@@ -16,7 +16,7 @@ def convert(src_filename, out_filename):
 
 def main():
     src_filename = sys.argv[1]
-    out_filename = os.path.splitext(src_filename)[0] + '.rst.in'
+    out_filename = os.path.splitext(src_filename)[0] + '.in'
     convert(src_filename, out_filename)
 
 

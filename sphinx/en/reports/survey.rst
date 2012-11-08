@@ -14,5 +14,5 @@ Choice answers
 Free Opinions
 ==================
 
-.. include:: survey-free-answer.rst.in
+.. include:: survey-free-answer.in
 

@@ -17,5 +17,5 @@
 自由回答
 ==========
 
-.. include:: survey-free-answer.rst.in
+.. include:: survey-free-answer.in
 
