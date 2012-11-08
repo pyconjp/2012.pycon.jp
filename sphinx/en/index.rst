@@ -29,18 +29,6 @@ PyCon JP 2012 management team has released the report held.
 :doc:`reports/index`
 
 
-.. アンケートご記入お願いします
-.. ----------------------------
-.. 
-.. Page: :doc:`survey/index`
-
-
-Survey
----------
-
-Thank you for your contribution to the survey.
-:doc:`/survey/index`
-
 
 .. 講演内容を動画配信しています
 .. -------------------------------------------
