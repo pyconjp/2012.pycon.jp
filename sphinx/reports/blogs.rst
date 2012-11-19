@@ -7,6 +7,7 @@
 - `DjangoかPyramidか!? 火花散るパネルに注目のPyCon JPレポート － ＠IT <http://www.atmarkit.co.jp/news/201209/24/pycon.html>`_
 - `フレームワークの良さや特徴を知ることでミスマッチを防ぐ――「PyCon JP 2012」併設イベント「Django & Pyramid Con JP 2012」開催レポート - SourceForge.JP Magazine <http://sourceforge.jp/magazine/12/10/02/0940207>`_
 - `Spiffy attends a web development conference in Japan <http://spiffy.sg/random/spiffy-attends-a-web-development-conference-in-japan/>`_
+- `Perlハッカー小飼弾氏が語る、Pythonは傲慢な外国語!?｜【Tech総研】 <http://rikunabi-next.yahoo.co.jp/tech/docs/ct_s03600.jsp?p=002189>`_
 
 参加者によるブログエントリ
 ==========================
