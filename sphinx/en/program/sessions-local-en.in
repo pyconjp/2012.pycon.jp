@@ -398,7 +398,7 @@ A Python old timer's web2py Challenge
 45歳の自称・Pythonおじさんによる、業務用Webシステム開発におけるweb2py挑戦記です。web2pyの特徴および利点と欠点についての説明を行う他、REST APIやSOAPによる外部システム連携についてもその概略を説明します。
 
 :Video: http://www.youtube.com/watch?v=ABBksVChDAA
-:Slide: 
+:Slide: `Pythonおじさんのweb2py挑戦記 <http://www.slideshare.net/nakayoshix/pythonweb2py>`_
 :Audience: beginning programmer
 :Language: Japanese
 :Time: Sep 16 10:00-10:25
